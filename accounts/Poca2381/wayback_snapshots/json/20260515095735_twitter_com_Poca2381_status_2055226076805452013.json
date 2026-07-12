@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055127524129267712"
+      ],
+      "media_source_tweet_id": [
+        "2055127533470028089"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2055226076805452013",
+    "created_at": "2026-05-15T09:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055226076805452013"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 34,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 51,
+          "start": 44,
+          "tag": "vrchat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681490093557813248",
+          "start": 3,
+          "username": "SKrRy0406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vpyDI6CNam",
+          "end": 75,
+          "expanded_url": "https://x.com/SKrRy0406/status/2055127533470028089/photo/1",
+          "media_key": "3_2055127524129267712",
+          "start": 52,
+          "url": "https://t.co/vpyDI6CNam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055226076805452013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055127533470028089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SKrRy0406: 嘿嘿~✨真的好像从vrc里走出来的！\n#kigurumi #vrchat https://t.co/vpyDI6CNam"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2055127524129267712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVHmDvaYAAESnq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055127524129267712"
+          ],
+          "media_source_tweet_id": [
+            "2055127533470028089"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2055226076805452013",
+        "created_at": "2026-05-15T09:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055226076805452013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "vrchat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1681490093557813248",
+              "start": 3,
+              "username": "SKrRy0406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpyDI6CNam",
+              "end": 75,
+              "expanded_url": "https://x.com/SKrRy0406/status/2055127533470028089/photo/1",
+              "media_key": "3_2055127524129267712",
+              "start": 52,
+              "url": "https://t.co/vpyDI6CNam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055226076805452013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055127533470028089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SKrRy0406: 嘿嘿~✨真的好像从vrc里走出来的！\n#kigurumi #vrchat https://t.co/vpyDI6CNam"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055127524129267712"
+          ]
+        },
+        "author_id": "1681490093557813248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2055127533470028089",
+        "created_at": "2026-05-15T03:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055127533470028089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "vrchat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpyDI6CNam",
+              "end": 60,
+              "expanded_url": "https://x.com/SKrRy0406/status/2055127533470028089/photo/1",
+              "media_key": "3_2055127524129267712",
+              "start": 37,
+              "url": "https://t.co/vpyDI6CNam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055127533470028089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 2863,
+          "like_count": 218,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿~✨真的好像从vrc里走出来的！\n#kigurumi #vrchat https://t.co/vpyDI6CNam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20435,
+          "following_count": 7943,
+          "like_count": 150623,
+          "listed_count": 49,
+          "media_count": 4167,
+          "tweet_count": 48422
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T02:24:22.000Z",
+        "description": "你好，我是氪莉，很高兴认识你~",
+        "id": "1681490093557813248",
+        "location": "異次元",
+        "name": "一只小氪莉SKrRy",
+        "pinned_tweet_id": "1707621284677583039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011038087560744960/bSjPZySu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8771,
+          "following_count": 740,
+          "like_count": 5254,
+          "listed_count": 60,
+          "media_count": 106,
+          "tweet_count": 795
+        },
+        "username": "SKrRy0406",
+        "verified": false
+      }
+    ]
+  }
+}

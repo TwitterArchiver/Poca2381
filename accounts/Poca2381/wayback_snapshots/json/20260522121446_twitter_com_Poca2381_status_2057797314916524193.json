@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057177037920698368"
+      ],
+      "media_source_tweet_id": [
+        "2057177048502968747"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057797314916524193",
+    "created_at": "2026-05-22T12:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057797314916524193"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "下江小春"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872814920896790530",
+          "start": 3,
+          "username": "Mika_Nyako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWZpajUA8L",
+          "end": 61,
+          "expanded_url": "https://x.com/Mika_Nyako/status/2057177048502968747/photo/1",
+          "media_key": "3_2057177037920698368",
+          "start": 38,
+          "url": "https://t.co/bWZpajUA8L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057797314916524193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057177048502968747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mika_Nyako: #kigurumi #下江小春 终于变了捏 https://t.co/bWZpajUA8L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057177037920698368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyPndlagAAmqv4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057177037920698368"
+          ],
+          "media_source_tweet_id": [
+            "2057177048502968747"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057797314916524193",
+        "created_at": "2026-05-22T12:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057797314916524193"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "下江小春"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872814920896790530",
+              "start": 3,
+              "username": "Mika_Nyako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWZpajUA8L",
+              "end": 61,
+              "expanded_url": "https://x.com/Mika_Nyako/status/2057177048502968747/photo/1",
+              "media_key": "3_2057177037920698368",
+              "start": 38,
+              "url": "https://t.co/bWZpajUA8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057797314916524193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057177048502968747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mika_Nyako: #kigurumi #下江小春 终于变了捏 https://t.co/bWZpajUA8L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057177037920698368"
+          ]
+        },
+        "author_id": "1872814920896790530",
+        "conversation_id": "2057177048502968747",
+        "created_at": "2026-05-20T19:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T20:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057177048502968747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "下江小春"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWZpajUA8L",
+              "end": 45,
+              "expanded_url": "https://x.com/Mika_Nyako/status/2057177048502968747/photo/1",
+              "media_key": "3_2057177037920698368",
+              "start": 22,
+              "url": "https://t.co/bWZpajUA8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057177048502968747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3664,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#kigurumi #下江小春 终于变了捏 https://t.co/bWZpajUA8L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20772,
+          "following_count": 8279,
+          "like_count": 150963,
+          "listed_count": 50,
+          "media_count": 4292,
+          "tweet_count": 49036
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-28T01:21:01.000Z",
+        "description": "Kigurumi\n🚫Chinese. If you’re biased against Chinese people, please do not interact🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/profiles/76561…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/profiles/76561199021445951/",
+                "start": 0,
+                "url": "https://t.co/wQZXdzbbiy"
+              }
+            ]
+          }
+        },
+        "id": "1872814920896790530",
+        "name": "NekohaRin",
+        "pinned_tweet_id": "2030493171831230620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038806494117085184/ogDSd2in_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 27,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/wQZXdzbbiy",
+        "username": "Mika_Nyako",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074105292238053376"
+      ],
+      "media_source_tweet_id": [
+        "2074105584992088148"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2074156575309394405",
+    "created_at": "2026-07-06T15:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074156575309394405"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944242736640798721",
+          "start": 3,
+          "username": "LearnedToad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vdvI5LcDfl",
+          "end": 56,
+          "expanded_url": "https://x.com/LearnedToad/status/2074105584992088148/video/1",
+          "media_key": "13_2074105292238053376",
+          "start": 33,
+          "url": "https://t.co/vdvI5LcDfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074156575309394405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074105584992088148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LearnedToad: 下集预告\n\n#kigurumi https://t.co/vdvI5LcDfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20573,
+        "height": 1920,
+        "media_key": "13_2074105292238053376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074105292238053376/img/2bVp2Q2HZ7zZb7hv.jpg",
+        "public_metrics": {
+          "view_count": 13005
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074105292238053376/vid/avc1/320x568/6ZsHyzu1dEgrJ2F_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074105292238053376/vid/avc1/720x1280/pMBNyDds8u6sPRRo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074105292238053376/vid/avc1/1080x1920/TA21kRyOOxZtmTM5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074105292238053376/vid/avc1/480x852/kABfAQ_6V8c76tuc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074105292238053376/pl/0pEGEEz8sSsKTRLK.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074105292238053376"
+          ],
+          "media_source_tweet_id": [
+            "2074105584992088148"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2074156575309394405",
+        "created_at": "2026-07-06T15:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074156575309394405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944242736640798721",
+              "start": 3,
+              "username": "LearnedToad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdvI5LcDfl",
+              "end": 56,
+              "expanded_url": "https://x.com/LearnedToad/status/2074105584992088148/video/1",
+              "media_key": "13_2074105292238053376",
+              "start": 33,
+              "url": "https://t.co/vdvI5LcDfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074156575309394405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074105584992088148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LearnedToad: 下集预告\n\n#kigurumi https://t.co/vdvI5LcDfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074105292238053376"
+          ]
+        },
+        "author_id": "1944242736640798721",
+        "conversation_id": "2074105584992088148",
+        "created_at": "2026-07-06T12:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074105584992088148"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdvI5LcDfl",
+              "end": 39,
+              "expanded_url": "https://x.com/LearnedToad/status/2074105584992088148/video/1",
+              "media_key": "13_2074105292238053376",
+              "start": 16,
+              "url": "https://t.co/vdvI5LcDfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074105584992088148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 28361,
+          "like_count": 612,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "下集预告\n\n#kigurumi https://t.co/vdvI5LcDfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22537,
+          "following_count": 9826,
+          "like_count": 152994,
+          "listed_count": 52,
+          "media_count": 5265,
+          "tweet_count": 53210
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T03:49:36.000Z",
+        "description": "新泽西kiger，在做科技头壳，PhD student in Computer Science。所有内容（图片视频和项目）都是学习交流用途的免费分享！只在X发布内容，假如你在其他地方看到卖的那都是盗的和本人无关（特别是妖狐吧！）。All content is free on X. No OF, Fantia etc.",
+        "id": "1944242736640798721",
+        "location": "New Jersey, USA",
+        "name": "机械神教驻神圣泰拉机械神甫0059",
+        "pinned_tweet_id": "1963178499276992645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944243041746714624/CmUlckos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30335,
+          "following_count": 610,
+          "like_count": 2651,
+          "listed_count": 100,
+          "media_count": 165,
+          "tweet_count": 1775
+        },
+        "url": "",
+        "username": "LearnedToad",
+        "verified": true
+      }
+    ]
+  }
+}

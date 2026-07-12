@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071248575921856512"
+      ],
+      "media_source_tweet_id": [
+        "2071248580585644315"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2071303560722342173",
+    "created_at": "2026-06-28T18:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T19:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071303560722342173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4855798989",
+          "start": 3,
+          "username": "ka_tsu_ykbfn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c26ualXcHa",
+          "end": 41,
+          "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2071248580585644315/photo/1",
+          "media_key": "3_2071248575921856512",
+          "start": 18,
+          "url": "https://t.co/c26ualXcHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071303560722342173",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071248580585644315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ka_tsu_ykbfn: https://t.co/c26ualXcHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2071248575921856512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6NmxlbIAAtLoP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071248575921856512"
+          ],
+          "media_source_tweet_id": [
+            "2071248580585644315"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2071303560722342173",
+        "created_at": "2026-06-28T18:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071303560722342173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4855798989",
+              "start": 3,
+              "username": "ka_tsu_ykbfn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c26ualXcHa",
+              "end": 41,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2071248580585644315/photo/1",
+              "media_key": "3_2071248575921856512",
+              "start": 18,
+              "url": "https://t.co/c26ualXcHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071303560722342173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071248580585644315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ka_tsu_ykbfn: https://t.co/c26ualXcHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071248575921856512"
+          ]
+        },
+        "author_id": "4855798989",
+        "conversation_id": "2071248580585644315",
+        "created_at": "2026-06-28T15:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071248580585644315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c26ualXcHa",
+              "end": 23,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2071248580585644315/photo/1",
+              "media_key": "3_2071248575921856512",
+              "start": 0,
+              "url": "https://t.co/c26ualXcHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071248580585644315",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 161,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c26ualXcHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22373,
+          "following_count": 9708,
+          "like_count": 152770,
+          "listed_count": 52,
+          "media_count": 5125,
+          "tweet_count": 52696
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-28T02:46:10.000Z",
+        "description": "着ぐるみやってます。\n綺麗な着ぐるみさんをフォローさせてもらいます。\nどうぞよろしく。\n艦これの大鳳さん2018/09に進水\n親潮が2019/03に進水\ndiscord:d_ka_tsu",
+        "id": "4855798989",
+        "location": "愛知県",
+        "name": "ka-tsu",
+        "pinned_tweet_id": "1105947422855815168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064197710048284672/n8T5lkan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3570,
+          "following_count": 2056,
+          "like_count": 165324,
+          "listed_count": 31,
+          "media_count": 4693,
+          "tweet_count": 37381
+        },
+        "url": "",
+        "username": "ka_tsu_ykbfn",
+        "verified": false
+      }
+    ]
+  }
+}

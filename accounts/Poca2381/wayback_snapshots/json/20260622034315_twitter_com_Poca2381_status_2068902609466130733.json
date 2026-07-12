@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068706920471699920",
+    "created_at": "2026-06-22T03:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068902609466130733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1311910660503146496",
+          "start": 0,
+          "username": "Ousannyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068902609466130733",
+    "in_reply_to_user_id": "1311910660503146496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068761924503015735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ousannyo 哇哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13528,
+        "height": 720,
+        "media_key": "13_2068761841367662592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068761841367662592/img/274pxQBirzJsQkbE.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068761841367662592/vid/avc1/480x270/hr5XXYkpyBHy2iyl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068761841367662592/vid/avc1/640x360/upNr-X19uSWmHK7h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068761841367662592/vid/avc1/1280x720/yYBGFakT5YzHvJXz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068761841367662592/pl/977UVw6kvbAtsk5y.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068706920471699920",
+        "created_at": "2026-06-22T03:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068902609466130733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1311910660503146496",
+              "start": 0,
+              "username": "Ousannyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068902609466130733",
+        "in_reply_to_user_id": "1311910660503146496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068761924503015735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ousannyo 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068761841367662592"
+          ]
+        },
+        "author_id": "1311910660503146496",
+        "conversation_id": "2068706920471699920",
+        "created_at": "2026-06-21T18:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068761924503015735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/El7xKsMP4p",
+              "end": 41,
+              "expanded_url": "https://x.com/Ousannyo/status/2068761924503015735/video/1",
+              "media_key": "13_2068761841367662592",
+              "start": 18,
+              "url": "https://t.co/El7xKsMP4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068761924503015735",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068706920471699920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 藏起来的直通车 https://t.co/El7xKsMP4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22138,
+          "following_count": 9528,
+          "like_count": 152490,
+          "listed_count": 52,
+          "media_count": 4975,
+          "tweet_count": 52077
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-02T06:07:38.000Z",
+        "description": "The nudity is another form of dress. They are condemned to never be naked. With that clothes off, they are as formal as with that clothes on.",
+        "id": "1311910660503146496",
+        "name": "新名字",
+        "pinned_tweet_id": "1536354356609818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761579586012463104/v-oXwJBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 540,
+          "like_count": 12951,
+          "listed_count": 7,
+          "media_count": 195,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "Ousannyo",
+        "verified": false
+      }
+    ]
+  }
+}

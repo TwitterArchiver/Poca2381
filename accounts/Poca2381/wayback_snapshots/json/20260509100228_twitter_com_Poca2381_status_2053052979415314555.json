@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1179432789575290881",
+          "name": "DamwonGaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "1179432789575290881",
+          "name": "DamwonGaming"
+        }
+      }
+    ],
+    "conversation_id": "2053052979415314555",
+    "created_at": "2026-05-09T10:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053052979415314555"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "DWG"
+        },
+        {
+          "end": 127,
+          "start": 118,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031555106982998019",
+          "start": 3,
+          "username": "syamn_kig"
+        },
+        {
+          "end": 110,
+          "id": "1721566077065531396",
+          "start": 101,
+          "username": "Kig_Kuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053052979415314555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052629326173265929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syamn_kig: With Lapu -sama!!! So much fun playing together!  太可爱了！见到你我真的好开心！！我拍了很多照片，稍后会发出来！\n\n💜: @Kig_Kuro \n\n#DWG #kigurumi https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052629320531902464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxnfeHbAAADoWm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179432789575290881",
+              "name": "DamwonGaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1179432789575290881",
+              "name": "DamwonGaming"
+            }
+          }
+        ],
+        "conversation_id": "2053052979415314555",
+        "created_at": "2026-05-09T10:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053052979415314555"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "DWG"
+            },
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031555106982998019",
+              "start": 3,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 110,
+              "id": "1721566077065531396",
+              "start": 101,
+              "username": "Kig_Kuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053052979415314555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052629326173265929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syamn_kig: With Lapu -sama!!! So much fun playing together!  太可爱了！见到你我真的好开心！！我拍了很多照片，稍后会发出来！\n\n💜: @Kig_Kuro \n\n#DWG #kigurumi https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052629320531902464"
+          ]
+        },
+        "author_id": "2031555106982998019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179432789575290881",
+              "name": "DamwonGaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "1179432789575290881",
+              "name": "DamwonGaming"
+            }
+          }
+        ],
+        "conversation_id": "2052629326173265929",
+        "created_at": "2026-05-08T05:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052629326173265929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "DWG"
+            },
+            {
+              "end": 112,
+              "start": 103,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1721566077065531396",
+              "start": 86,
+              "username": "Kig_Kuro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4zCPalZ27",
+              "end": 136,
+              "expanded_url": "https://x.com/syamn_kig/status/2052629326173265929/photo/1",
+              "media_key": "3_2052629320531902464",
+              "start": 113,
+              "url": "https://t.co/B4zCPalZ27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052629326173265929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 599,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "With Lapu -sama!!! So much fun playing together!  太可爱了！见到你我真的好开心！！我拍了很多照片，稍后会发出来！\n\n💜: @Kig_Kuro \n\n#DWG #kigurumi https://t.co/B4zCPalZ27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20228,
+          "following_count": 7651,
+          "like_count": 150343,
+          "listed_count": 49,
+          "media_count": 4055,
+          "tweet_count": 47986
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "A kiger & photographer; newbie 202603- / 🧸 Hatsune Miku / 📷 SONY A1M2 / 📍Tokyo / 🗣️ English & Japanese / Only SFW here\n\n🏠 @syamncat\nNSFW @syamn_cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "syamncat"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "syamn_cat"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "location": "Tokyo, Japan",
+        "name": "syamn_kig | DWG HK 5/2-4",
+        "pinned_tweet_id": "2031569298691608997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 303,
+          "like_count": 414,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 137
+        },
+        "username": "syamn_kig",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T16:32:02.000Z",
+        "description": "身心早已定格，長不大的幼稚鬼",
+        "id": "1721566077065531396",
+        "location": "Hong Kong",
+        "name": "桃子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827177019358228480/dDRa4kbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1899,
+          "like_count": 62118,
+          "listed_count": 22,
+          "media_count": 153,
+          "tweet_count": 12189
+        },
+        "username": "Kig_Kuro",
+        "verified": false
+      }
+    ]
+  }
+}

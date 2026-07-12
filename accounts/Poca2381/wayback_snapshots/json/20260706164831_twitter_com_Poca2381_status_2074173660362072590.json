@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "id": "1290284517027012611",
+          "name": "Historical films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1290284517027012611",
+          "name": "Historical films"
+        }
+      }
+    ],
+    "conversation_id": "2074173660362072590",
+    "created_at": "2026-07-06T16:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074173660362072590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1572881993620135938",
+          "start": 3,
+          "username": "kynkyn73670170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074173660362072590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073833933377302967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kynkyn73670170: 64岁的日本演员平田康之，演完电影《731》里的恶魔头目石井四郎，扭头把全部片酬退给剧组，分文不取，结果刚回日本就在机场被右翼分子围堵唾骂，家门口还被喷了侮辱性标语\n​​​老爷子不仅一分钱没挣，还自己搜集了八千多页解密资料去还原历史，把这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_2073833786954166272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe813KbMAAXpcy.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1290284517027012611",
+              "name": "Historical films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290284517027012611",
+              "name": "Historical films"
+            }
+          }
+        ],
+        "conversation_id": "2074173660362072590",
+        "created_at": "2026-07-06T16:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074173660362072590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1572881993620135938",
+              "start": 3,
+              "username": "kynkyn73670170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074173660362072590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073833933377302967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kynkyn73670170: 64岁的日本演员平田康之，演完电影《731》里的恶魔头目石井四郎，扭头把全部片酬退给剧组，分文不取，结果刚回日本就在机场被右翼分子围堵唾骂，家门口还被喷了侮辱性标语\n​​​老爷子不仅一分钱没挣，还自己搜集了八千多页解密资料去还原历史，把这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073833786954166272"
+          ]
+        },
+        "author_id": "1572881993620135938",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1290284517027012611",
+              "name": "Historical films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290284517027012611",
+              "name": "Historical films"
+            }
+          }
+        ],
+        "conversation_id": "2073833933377302967",
+        "created_at": "2026-07-05T18:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073833933377302967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvOlmfRky8",
+              "end": 159,
+              "expanded_url": "https://x.com/kynkyn73670170/status/2073833933377302967/photo/1",
+              "media_key": "3_2073833786954166272",
+              "start": 136,
+              "url": "https://t.co/tvOlmfRky8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073833933377302967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 71976,
+          "like_count": 907,
+          "quote_count": 8,
+          "reply_count": 69,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "64岁的日本演员平田康之，演完电影《731》里的恶魔头目石井四郎，扭头把全部片酬退给剧组，分文不取，结果刚回日本就在机场被右翼分子围堵唾骂，家门口还被喷了侮辱性标语\n​​​老爷子不仅一分钱没挣，还自己搜集了八千多页解密资料去还原历史，把这趟拍摄当成了替父辈“还债”的救赎 https://t.co/tvOlmfRky8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22535,
+          "following_count": 9833,
+          "like_count": 152997,
+          "listed_count": 52,
+          "media_count": 5268,
+          "tweet_count": 53218
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-22T09:34:40.000Z",
+        "description": "他强由他强，清风拂山岗；\n他横任他横，明月照大江；\n他自狠来他自恶，我自一口真气足。",
+        "id": "1572881993620135938",
+        "name": "黄淮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017144089607884800/10Q491Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 4542,
+          "like_count": 15924,
+          "listed_count": 15,
+          "media_count": 11890,
+          "tweet_count": 14755
+        },
+        "url": "",
+        "username": "kynkyn73670170",
+        "verified": false
+      }
+    ]
+  }
+}

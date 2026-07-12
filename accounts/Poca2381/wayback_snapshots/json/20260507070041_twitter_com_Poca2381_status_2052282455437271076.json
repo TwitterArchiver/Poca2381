@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052267401727881216",
+        "3_2052267401723682816",
+        "13_2052267401736323072"
+      ],
+      "media_source_tweet_id": [
+        "2052267458959122634",
+        "2052267458959122634",
+        "2052267458959122634"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052282455437271076",
+    "created_at": "2026-05-07T07:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052282455437271076"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "DWG"
+        },
+        {
+          "end": 107,
+          "start": 94,
+          "tag": "doll_weekend"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031555106982998019",
+          "start": 3,
+          "username": "syamn_kig"
+        },
+        {
+          "end": 86,
+          "id": "2028397856814764032",
+          "start": 77,
+          "username": "Poca5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OvGSS2pIhS",
+          "end": 131,
+          "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+          "media_key": "3_2052267401727881216",
+          "start": 108,
+          "url": "https://t.co/OvGSS2pIhS"
+        },
+        {
+          "display_url": "pic.x.com/OvGSS2pIhS",
+          "end": 131,
+          "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+          "media_key": "3_2052267401723682816",
+          "start": 108,
+          "url": "https://t.co/OvGSS2pIhS"
+        },
+        {
+          "display_url": "pic.x.com/OvGSS2pIhS",
+          "end": 131,
+          "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+          "media_key": "13_2052267401736323072",
+          "start": 108,
+          "url": "https://t.co/OvGSS2pIhS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052282455437271076",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052267458959122634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syamn_kig: Such a fun moment with Aqua chan!! I already miss u!! qwq\n\n🩷: @Poca5150 \n\n#DWG #doll_weekend https://t.co/OvGSS2pIhS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052267401727881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHseVBgasAAWkHE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2052267401723682816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHseVBfaoAASQg2.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 12211,
+        "height": 1280,
+        "media_key": "13_2052267401736323072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052267401736323072/img/CYD7Vka4mQUSM2hv.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052267401736323072/vid/avc1/320x568/-Hi2vMVHVgClniE8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052267401736323072/vid/avc1/480x852/Yy0KNX3GR5xw4c0D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052267401736323072/vid/avc1/720x1280/gsl61rUWdkZAVzTr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052267401736323072/pl/MWP_M0DUOxpPVsEP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052267401727881216",
+            "3_2052267401723682816",
+            "13_2052267401736323072"
+          ],
+          "media_source_tweet_id": [
+            "2052267458959122634",
+            "2052267458959122634",
+            "2052267458959122634"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052282455437271076",
+        "created_at": "2026-05-07T07:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052282455437271076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "DWG"
+            },
+            {
+              "end": 107,
+              "start": 94,
+              "tag": "doll_weekend"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031555106982998019",
+              "start": 3,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 86,
+              "id": "2028397856814764032",
+              "start": 77,
+              "username": "Poca5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvGSS2pIhS",
+              "end": 131,
+              "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+              "media_key": "3_2052267401727881216",
+              "start": 108,
+              "url": "https://t.co/OvGSS2pIhS"
+            },
+            {
+              "display_url": "pic.x.com/OvGSS2pIhS",
+              "end": 131,
+              "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+              "media_key": "3_2052267401723682816",
+              "start": 108,
+              "url": "https://t.co/OvGSS2pIhS"
+            },
+            {
+              "display_url": "pic.x.com/OvGSS2pIhS",
+              "end": 131,
+              "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+              "media_key": "13_2052267401736323072",
+              "start": 108,
+              "url": "https://t.co/OvGSS2pIhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052282455437271076",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052267458959122634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syamn_kig: Such a fun moment with Aqua chan!! I already miss u!! qwq\n\n🩷: @Poca5150 \n\n#DWG #doll_weekend https://t.co/OvGSS2pIhS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052267401727881216",
+            "3_2052267401723682816",
+            "13_2052267401736323072"
+          ]
+        },
+        "author_id": "2031555106982998019",
+        "conversation_id": "2052267458959122634",
+        "created_at": "2026-05-07T06:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052267458959122634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "DWG"
+            },
+            {
+              "end": 92,
+              "start": 79,
+              "tag": "doll_weekend"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 71,
+              "id": "2028397856814764032",
+              "start": 62,
+              "username": "Poca5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvGSS2pIhS",
+              "end": 116,
+              "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+              "media_key": "3_2052267401727881216",
+              "start": 93,
+              "url": "https://t.co/OvGSS2pIhS"
+            },
+            {
+              "display_url": "pic.x.com/OvGSS2pIhS",
+              "end": 116,
+              "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+              "media_key": "3_2052267401723682816",
+              "start": 93,
+              "url": "https://t.co/OvGSS2pIhS"
+            },
+            {
+              "display_url": "pic.x.com/OvGSS2pIhS",
+              "end": 116,
+              "expanded_url": "https://x.com/syamn_kig/status/2052267458959122634/video/1",
+              "media_key": "13_2052267401736323072",
+              "start": 93,
+              "url": "https://t.co/OvGSS2pIhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052267458959122634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 134,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Such a fun moment with Aqua chan!! I already miss u!! qwq\n\n🩷: @Poca5150 \n\n#DWG #doll_weekend https://t.co/OvGSS2pIhS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20113,
+          "following_count": 7488,
+          "like_count": 150201,
+          "listed_count": 49,
+          "media_count": 4026,
+          "tweet_count": 47812
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "A kiger & photographer; newbie 202603- / 🧸 Hatsune Miku / 📷 SONY A1M2 / 📍 Tokyo / 🗣️ English & Japanese / Only SFW here\n\n🏠 @syamncat\nNSFW @syamn_cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "syamncat"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "syamn_cat"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "location": "Tokyo, Japan",
+        "name": "syamn_kig | DWG HK 5/2-4",
+        "pinned_tweet_id": "2031569298691608997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 291,
+          "like_count": 374,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "syamn_kig",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是 @ddaquaforever @Poca2381 的逃生仓\n娃娃专用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "ddaquaforever"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Poca2381"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "location": "香港上水",
+        "name": "早露夸夸兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 856,
+          "like_count": 653,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "Poca5150",
+        "verified": false
+      }
+    ]
+  }
+}

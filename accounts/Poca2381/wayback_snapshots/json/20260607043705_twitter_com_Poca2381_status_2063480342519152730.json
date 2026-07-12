@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063431883535585508",
+    "created_at": "2026-06-07T04:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063480342519152730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1237924853832810496",
+          "start": 0,
+          "username": "fake_ivansnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063480342519152730",
+    "in_reply_to_user_id": "1237924853832810496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063431883535585508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_ivansnow 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2063431881451053056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLIXRgbIAAKLpl.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063431883535585508",
+        "created_at": "2026-06-07T04:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063480342519152730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1237924853832810496",
+              "start": 0,
+              "username": "fake_ivansnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063480342519152730",
+        "in_reply_to_user_id": "1237924853832810496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063431883535585508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_ivansnow 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063431881451053056"
+          ]
+        },
+        "author_id": "1237924853832810496",
+        "conversation_id": "2063431883535585508",
+        "created_at": "2026-06-07T01:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063431883535585508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGo9JUVs4g",
+              "end": 40,
+              "expanded_url": "https://x.com/fake_ivansnow/status/2063431883535585508/photo/1",
+              "media_key": "3_2063431881451053056",
+              "start": 17,
+              "url": "https://t.co/cGo9JUVs4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063431883535585508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕设答辩也过了，这下真的要毕业了 https://t.co/cGo9JUVs4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21481,
+          "following_count": 8965,
+          "like_count": 151838,
+          "listed_count": 52,
+          "media_count": 4610,
+          "tweet_count": 50561
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-12T02:14:42.000Z",
+        "description": "Learning English and Japanese.\\ CS student\\ Swarm ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.ivansnow02.xyz",
+                "end": 23,
+                "expanded_url": "https://blog.ivansnow02.xyz",
+                "start": 0,
+                "url": "https://t.co/fQQJuI0L9t"
+              }
+            ]
+          }
+        },
+        "id": "1237924853832810496",
+        "location": "ℭ𝔯𝔞𝔷𝔶 𝔲𝔫𝔦𝔳𝔢𝔯𝔰𝔢",
+        "name": "Snow.N3勉強中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054935076144828416/3zX-b2Ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1785,
+          "like_count": 28111,
+          "listed_count": 6,
+          "media_count": 915,
+          "tweet_count": 9593
+        },
+        "url": "https://t.co/fQQJuI0L9t",
+        "username": "fake_ivansnow",
+        "verified": false
+      }
+    ]
+  }
+}

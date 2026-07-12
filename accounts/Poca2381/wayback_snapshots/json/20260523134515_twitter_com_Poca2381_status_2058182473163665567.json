@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057801433047834625"
+      ],
+      "media_source_tweet_id": [
+        "2057801437271515333"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2058182473163665567",
+    "created_at": "2026-05-23T13:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058182473163665567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2008233761763409920",
+          "start": 3,
+          "username": "galaxy1025850"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gYVOLncjta",
+          "end": 47,
+          "expanded_url": "https://x.com/galaxy1025850/status/2057801437271515333/photo/1",
+          "media_key": "3_2057801433047834625",
+          "start": 24,
+          "url": "https://t.co/gYVOLncjta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058182473163665567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057801437271515333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @galaxy1025850: 笑死我了 https://t.co/gYVOLncjta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2057801433047834625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7HgCsbIAEZagw.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057801433047834625"
+          ],
+          "media_source_tweet_id": [
+            "2057801437271515333"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2058182473163665567",
+        "created_at": "2026-05-23T13:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058182473163665567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2008233761763409920",
+              "start": 3,
+              "username": "galaxy1025850"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYVOLncjta",
+              "end": 47,
+              "expanded_url": "https://x.com/galaxy1025850/status/2057801437271515333/photo/1",
+              "media_key": "3_2057801433047834625",
+              "start": 24,
+              "url": "https://t.co/gYVOLncjta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058182473163665567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057801437271515333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @galaxy1025850: 笑死我了 https://t.co/gYVOLncjta"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057801433047834625"
+          ]
+        },
+        "author_id": "2008233761763409920",
+        "conversation_id": "2057801437271515333",
+        "created_at": "2026-05-22T12:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057801437271515333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYVOLncjta",
+              "end": 28,
+              "expanded_url": "https://x.com/galaxy1025850/status/2057801437271515333/photo/1",
+              "media_key": "3_2057801433047834625",
+              "start": 5,
+              "url": "https://t.co/gYVOLncjta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057801437271515333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 87380,
+          "like_count": 883,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/gYVOLncjta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20836,
+          "following_count": 8366,
+          "like_count": 151026,
+          "listed_count": 51,
+          "media_count": 4313,
+          "tweet_count": 49158
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "喜欢到处乱窜的北方网友 。 \nPassion in AI & Cloud computing  Pansexual,友跨\n已被Musk干掉两个号。如果是真人，光速回fo \n脾气超好，啥都能聊，经常在线，欢迎pm~\n（可能会block掉一些营销号，实在不太喜欢，有异议可以私聊。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "不一定在哪（）",
+        "name": "galaxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021479451532591107/PByiQPHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 324,
+          "like_count": 1039,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": false
+      }
+    ]
+  }
+}

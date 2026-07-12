@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2070557459375079592",
+    "created_at": "2026-06-27T12:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070841021269979330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1265564617759227905",
+          "start": 0,
+          "username": "nostalgiacore"
+        },
+        {
+          "end": 27,
+          "id": "2070748220419198976",
+          "start": 15,
+          "username": "wangzhixi_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070841021269979330",
+    "in_reply_to_user_id": "1265564617759227905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070557459375079592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nostalgiacore @wangzhixi_1 童年回忆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2070557457164779520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwZCXlXwAAE1VT.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2070557459375079592",
+        "created_at": "2026-06-27T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070841021269979330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1265564617759227905",
+              "start": 0,
+              "username": "nostalgiacore"
+            },
+            {
+              "end": 27,
+              "id": "2070748220419198976",
+              "start": 15,
+              "username": "wangzhixi_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070841021269979330",
+        "in_reply_to_user_id": "1265564617759227905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070557459375079592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nostalgiacore @wangzhixi_1 童年回忆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070557457164779520"
+          ]
+        },
+        "author_id": "1265564617759227905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070557459375079592",
+        "created_at": "2026-06-26T17:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070557459375079592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxbZlCGEiY",
+              "end": 23,
+              "expanded_url": "https://x.com/nostalgiacore/status/2070557459375079592/photo/1",
+              "media_key": "3_2070557457164779520",
+              "start": 0,
+              "url": "https://t.co/KxbZlCGEiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070557459375079592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 43469,
+          "like_count": 4802,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 648
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KxbZlCGEiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22338,
+          "following_count": 9676,
+          "like_count": 152727,
+          "listed_count": 52,
+          "media_count": 5092,
+          "tweet_count": 52605
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-27T08:45:02.000Z",
+        "description": "nostalgic music, movies, & more",
+        "id": "1265564617759227905",
+        "name": "nostalgia core",
+        "pinned_tweet_id": "2045089379681530194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043564279106834432/gF0wGgQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230997,
+          "following_count": 0,
+          "like_count": 693,
+          "listed_count": 2153,
+          "media_count": 10489,
+          "tweet_count": 12296
+        },
+        "url": "",
+        "username": "nostalgiacore",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-27T05:59:20.000Z",
+        "description": "我才不怕融合阵痛，一听到融合阵痛我就高兴，ccb算什么融合，无非就是洋人和集美的破事，赶苗拓业才叫融合阵痛，有枪有炮，听说还有京观",
+        "id": "2070748220419198976",
+        "name": "怒尼威吃什么",
+        "pinned_tweet_id": "2070801067231879502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070752578611408896/q0QyvpQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 86,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "wangzhixi_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065449701168828416"
+      ],
+      "media_source_tweet_id": [
+        "2065449720160686555"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065772317784051971",
+    "created_at": "2026-06-13T12:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065772317784051971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664970844026867713",
+          "start": 3,
+          "username": "GodBottleXD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ze3IcyzdKR",
+          "end": 40,
+          "expanded_url": "https://x.com/GodBottleXD/status/2065449720160686555/photo/1",
+          "media_key": "3_2065449701168828416",
+          "start": 17,
+          "url": "https://t.co/ze3IcyzdKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065772317784051971",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065449720160686555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GodBottleXD: https://t.co/ze3IcyzdKR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2065449701168828416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnzj1ua0AAISgF.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065449701168828416"
+          ],
+          "media_source_tweet_id": [
+            "2065449720160686555"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2065772317784051971",
+        "created_at": "2026-06-13T12:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065772317784051971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664970844026867713",
+              "start": 3,
+              "username": "GodBottleXD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze3IcyzdKR",
+              "end": 40,
+              "expanded_url": "https://x.com/GodBottleXD/status/2065449720160686555/photo/1",
+              "media_key": "3_2065449701168828416",
+              "start": 17,
+              "url": "https://t.co/ze3IcyzdKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065772317784051971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065449720160686555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GodBottleXD: https://t.co/ze3IcyzdKR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065449701168828416"
+          ]
+        },
+        "author_id": "1664970844026867713",
+        "conversation_id": "2065449720160686555",
+        "created_at": "2026-06-12T15:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065449720160686555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze3IcyzdKR",
+              "end": 23,
+              "expanded_url": "https://x.com/GodBottleXD/status/2065449720160686555/photo/1",
+              "media_key": "3_2065449701168828416",
+              "start": 0,
+              "url": "https://t.co/ze3IcyzdKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065449720160686555",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 754378,
+          "like_count": 2822,
+          "quote_count": 8,
+          "reply_count": 312,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ze3IcyzdKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21805,
+          "following_count": 9301,
+          "like_count": 152161,
+          "listed_count": 52,
+          "media_count": 4782,
+          "tweet_count": 51366
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T12:23:12.000Z",
+        "description": "让银河燃烧吧",
+        "id": "1664970844026867713",
+        "name": "GodBottleXD",
+        "pinned_tweet_id": "1950160542544646570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664972571111202817/5c2-gyNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6156,
+          "following_count": 495,
+          "like_count": 2001,
+          "listed_count": 10,
+          "media_count": 1827,
+          "tweet_count": 4166
+        },
+        "username": "GodBottleXD",
+        "verified": false
+      }
+    ]
+  }
+}

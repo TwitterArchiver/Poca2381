@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069796669982683537",
+    "created_at": "2026-06-26T07:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070407436239097929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1299655675232940032",
+          "start": 0,
+          "username": "YeLanXi0714"
+        },
+        {
+          "end": 22,
+          "id": "2028397856814764032",
+          "start": 13,
+          "username": "Poca5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070407436239097929",
+    "in_reply_to_user_id": "1299655675232940032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069796669982683537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeLanXi0714 @Poca5150 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3466,
+        "height": 1280,
+        "media_key": "13_2069796653650055168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069796653650055168/img/zrzl08nt6i7GksHL.jpg",
+        "public_metrics": {
+          "view_count": 491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069796653650055168/vid/avc1/320x568/i_ci4yiYt2zv4Sdm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069796653650055168/vid/avc1/480x852/q_WOFQqhwcudpOyz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069796653650055168/vid/avc1/720x1280/D3NfExMUvp4WJVLi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069796653650055168/pl/7vheC2kDJp0Bxx_8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069796669982683537",
+        "created_at": "2026-06-26T07:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070407436239097929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1299655675232940032",
+              "start": 0,
+              "username": "YeLanXi0714"
+            },
+            {
+              "end": 22,
+              "id": "2028397856814764032",
+              "start": 13,
+              "username": "Poca5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070407436239097929",
+        "in_reply_to_user_id": "1299655675232940032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069796669982683537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeLanXi0714 @Poca5150 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069796653650055168"
+          ]
+        },
+        "author_id": "1299655675232940032",
+        "conversation_id": "2069796669982683537",
+        "created_at": "2026-06-24T14:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069796669982683537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QS3x2taCFI",
+              "end": 27,
+              "expanded_url": "https://x.com/YeLanXi0714/status/2069796669982683537/video/1",
+              "media_key": "13_2069796653650055168",
+              "start": 4,
+              "url": "https://t.co/QS3x2taCFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069796669982683537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3129,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "小东西 https://t.co/QS3x2taCFI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22313,
+          "following_count": 9656,
+          "like_count": 152739,
+          "listed_count": 52,
+          "media_count": 5071,
+          "tweet_count": 52529
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-29T10:30:39.000Z",
+        "description": "TwT",
+        "id": "1299655675232940032",
+        "location": "Macau",
+        "name": "莹",
+        "pinned_tweet_id": "2052031067624988890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043276239176364034/_FOsX1Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 203,
+          "like_count": 3422,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "YeLanXi0714",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是 @ddaquaforever @Poca2381 的逃生仓\n娃娃专用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "ddaquaforever"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Poca2381"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "location": "香港上水",
+        "name": "早露夸夸兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1068,
+          "like_count": 896,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "Poca5150",
+        "verified": false
+      }
+    ]
+  }
+}

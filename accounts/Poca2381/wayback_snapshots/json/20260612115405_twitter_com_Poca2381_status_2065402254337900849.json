@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064747648788119552"
+      ],
+      "media_source_tweet_id": [
+        "2064750083384484014"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065402254337900849",
+    "created_at": "2026-06-12T11:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065402254337900849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1463432709045293057",
+          "start": 3,
+          "username": "Aile_Strike_105"
+        },
+        {
+          "end": 85,
+          "id": "1267769833958981632",
+          "start": 73,
+          "username": "Tamaki_Ximu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qVb6quo0WT",
+          "end": 109,
+          "expanded_url": "https://x.com/Aile_Strike_105/status/2064750083384484014/video/1",
+          "media_key": "13_2064747648788119552",
+          "start": 86,
+          "url": "https://t.co/qVb6quo0WT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065402254337900849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064750083384484014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aile_Strike_105: 给好友套上硅胶大连体，戴上可爱手套脚套，再塞进真空床，戴好头壳，这样就收获一个塑封的等身娃娃了\n填充物：@Tamaki_Ximu https://t.co/qVb6quo0WT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113666,
+        "height": 1920,
+        "media_key": "13_2064747648788119552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064747648788119552/img/GTx3qK2BiukbSq7b.jpg",
+        "public_metrics": {
+          "view_count": 54641
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064747648788119552/vid/avc1/320x568/BXvsIelVzajhUfWD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064747648788119552/vid/avc1/480x852/FxWWFgBEnv1bUktq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064747648788119552/vid/avc1/720x1280/mmwyu4OQj9ldydlr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064747648788119552/pl/rpp8eTRpsLTG-eCk.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064747648788119552"
+          ],
+          "media_source_tweet_id": [
+            "2064750083384484014"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065402254337900849",
+        "created_at": "2026-06-12T11:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065402254337900849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1463432709045293057",
+              "start": 3,
+              "username": "Aile_Strike_105"
+            },
+            {
+              "end": 85,
+              "id": "1267769833958981632",
+              "start": 73,
+              "username": "Tamaki_Ximu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVb6quo0WT",
+              "end": 109,
+              "expanded_url": "https://x.com/Aile_Strike_105/status/2064750083384484014/video/1",
+              "media_key": "13_2064747648788119552",
+              "start": 86,
+              "url": "https://t.co/qVb6quo0WT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065402254337900849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064750083384484014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aile_Strike_105: 给好友套上硅胶大连体，戴上可爱手套脚套，再塞进真空床，戴好头壳，这样就收获一个塑封的等身娃娃了\n填充物：@Tamaki_Ximu https://t.co/qVb6quo0WT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064747648788119552"
+          ]
+        },
+        "author_id": "1463432709045293057",
+        "conversation_id": "2064750083384484014",
+        "created_at": "2026-06-10T16:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064750083384484014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1267769833958981632",
+              "start": 52,
+              "username": "Tamaki_Ximu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVb6quo0WT",
+              "end": 88,
+              "expanded_url": "https://x.com/Aile_Strike_105/status/2064750083384484014/video/1",
+              "media_key": "13_2064747648788119552",
+              "start": 65,
+              "url": "https://t.co/qVb6quo0WT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064750083384484014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 896,
+          "impression_count": 75126,
+          "like_count": 2483,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "给好友套上硅胶大连体，戴上可爱手套脚套，再塞进真空床，戴好头壳，这样就收获一个塑封的等身娃娃了\n填充物：@Tamaki_Ximu https://t.co/qVb6quo0WT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21766,
+          "following_count": 9266,
+          "like_count": 152117,
+          "listed_count": 52,
+          "media_count": 4749,
+          "tweet_count": 51276
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-24T09:05:50.000Z",
+        "description": "是不想上班，想罢工（strike）的强袭（strike）哦，估计会时不时更新kig图吧，编不出更多字数了，可以私信勾搭，但是只会翻译软件",
+        "id": "1463432709045293057",
+        "location": "BeiJing",
+        "name": "强袭斯特瑞克",
+        "pinned_tweet_id": "1617100408920625155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793203294787260416/qr3LNXW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16268,
+          "following_count": 886,
+          "like_count": 19123,
+          "listed_count": 85,
+          "media_count": 404,
+          "tweet_count": 900
+        },
+        "username": "Aile_Strike_105",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T10:47:45.000Z",
+        "description": "快跟我签订契约，成为魔法少女吧！~|ω・） 坐标:京津冀/目前角色:伊莉雅/鹿目圆/晓美焰/ 请多多关照呀~「よろしくお願いします~」 ❤❤❤",
+        "id": "1267769833958981632",
+        "location": " Beijing ",
+        "name": "夕暮",
+        "pinned_tweet_id": "1947190479298441469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042009066785107968/MrO4Q4u2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10801,
+          "following_count": 584,
+          "like_count": 8957,
+          "listed_count": 58,
+          "media_count": 267,
+          "tweet_count": 2000
+        },
+        "username": "Tamaki_Ximu",
+        "verified": false
+      }
+    ]
+  }
+}

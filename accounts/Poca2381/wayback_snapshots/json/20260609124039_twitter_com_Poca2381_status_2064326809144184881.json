@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064317889927356416",
+        "3_2064317889918955520"
+      ],
+      "media_source_tweet_id": [
+        "2064317897967841506",
+        "2064317897967841506"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064326809144184881",
+    "created_at": "2026-06-09T12:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064326809144184881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2550494587",
+          "start": 3,
+          "username": "vu_yoyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sOPJmUdopM",
+          "end": 63,
+          "expanded_url": "https://x.com/vu_yoyo/status/2064317897967841506/photo/1",
+          "media_key": "3_2064317889927356416",
+          "start": 40,
+          "url": "https://t.co/sOPJmUdopM"
+        },
+        {
+          "display_url": "pic.x.com/sOPJmUdopM",
+          "end": 63,
+          "expanded_url": "https://x.com/vu_yoyo/status/2064317897967841506/photo/1",
+          "media_key": "3_2064317889918955520",
+          "start": 40,
+          "url": "https://t.co/sOPJmUdopM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064326809144184881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064317897967841506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vu_yoyo: 超大型贴贴，分量足，味道好，价格低，不愧是仙庙烧鸡！ https://t.co/sOPJmUdopM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2064317889927356416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXuLwSaoAAUGXX.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064317889918955520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXuLwQacAAHDn3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064317889927356416",
+            "3_2064317889918955520"
+          ],
+          "media_source_tweet_id": [
+            "2064317897967841506",
+            "2064317897967841506"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064326809144184881",
+        "created_at": "2026-06-09T12:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064326809144184881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2550494587",
+              "start": 3,
+              "username": "vu_yoyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOPJmUdopM",
+              "end": 63,
+              "expanded_url": "https://x.com/vu_yoyo/status/2064317897967841506/photo/1",
+              "media_key": "3_2064317889927356416",
+              "start": 40,
+              "url": "https://t.co/sOPJmUdopM"
+            },
+            {
+              "display_url": "pic.x.com/sOPJmUdopM",
+              "end": 63,
+              "expanded_url": "https://x.com/vu_yoyo/status/2064317897967841506/photo/1",
+              "media_key": "3_2064317889918955520",
+              "start": 40,
+              "url": "https://t.co/sOPJmUdopM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326809144184881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064317897967841506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vu_yoyo: 超大型贴贴，分量足，味道好，价格低，不愧是仙庙烧鸡！ https://t.co/sOPJmUdopM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064317889927356416",
+            "3_2064317889918955520"
+          ]
+        },
+        "author_id": "2550494587",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064317897967841506",
+        "created_at": "2026-06-09T12:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064317897967841506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOPJmUdopM",
+              "end": 50,
+              "expanded_url": "https://x.com/vu_yoyo/status/2064317897967841506/photo/1",
+              "media_key": "3_2064317889927356416",
+              "start": 27,
+              "url": "https://t.co/sOPJmUdopM"
+            },
+            {
+              "display_url": "pic.x.com/sOPJmUdopM",
+              "end": 50,
+              "expanded_url": "https://x.com/vu_yoyo/status/2064317897967841506/photo/1",
+              "media_key": "3_2064317889918955520",
+              "start": 27,
+              "url": "https://t.co/sOPJmUdopM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064317897967841506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "超大型贴贴，分量足，味道好，价格低，不愧是仙庙烧鸡！ https://t.co/sOPJmUdopM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21653,
+          "following_count": 9153,
+          "like_count": 151963,
+          "listed_count": 52,
+          "media_count": 4656,
+          "tweet_count": 50921
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-06T16:48:56.000Z",
+        "description": "住在香港的非常孤獨的MTF，很需要人陪…… /人工智能和全棧工程師/Research Assistant of HKUST/很溫順的！打遊戲從不罵人 /仍未srs的大齡MTF /外觀完全不pass/超級喜歡黑暗系的衣服！YOYO最愛的兔兔大傻逼：@DDaquaforever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 123,
+                "username": "DDaquaforever"
+              }
+            ]
+          }
+        },
+        "id": "2550494587",
+        "location": "HongKong",
+        "name": "VU yoyo～🏳️‍⚧️",
+        "pinned_tweet_id": "1884209970608234573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632352012879933443/QEWl4dAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 1092,
+          "like_count": 3499,
+          "listed_count": 6,
+          "media_count": 161,
+          "tweet_count": 1062
+        },
+        "username": "vu_yoyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062169953755877637",
+    "created_at": "2026-06-03T14:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062181418068017245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387569464",
+          "start": 0,
+          "username": "UFP_YujunL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062181418068017245",
+    "in_reply_to_user_id": "3387569464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062169953755877637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UFP_YujunL 哇哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062169932188848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5MoKKbkAA1hDN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2062169953755877637",
+        "created_at": "2026-06-03T14:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062181418068017245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387569464",
+              "start": 0,
+              "username": "UFP_YujunL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062181418068017245",
+        "in_reply_to_user_id": "3387569464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062169953755877637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UFP_YujunL 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062169932188848128"
+          ]
+        },
+        "author_id": "3387569464",
+        "conversation_id": "2062169953755877637",
+        "created_at": "2026-06-03T13:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062169953755877637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrCZ47aQl5",
+              "end": 29,
+              "expanded_url": "https://x.com/UFP_YujunL/status/2062169953755877637/photo/1",
+              "media_key": "3_2062169932188848128",
+              "start": 6,
+              "url": "https://t.co/DrCZ47aQl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062169953755877637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的10年 https://t.co/DrCZ47aQl5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21346,
+          "following_count": 8862,
+          "like_count": 151619,
+          "listed_count": 51,
+          "media_count": 4537,
+          "tweet_count": 50223
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-22T15:56:17.000Z",
+        "description": "如果我牺牲了,请用我的骨灰在火星乌托邦平原种下一棵胡杨树(建制左派)|家用车驾驶王| 前𝗧𝗢𝗬𝗢𝗧𝗔 𝗖𝗔𝗠𝗥𝗬 𝗫𝗦𝗘 𝗔𝗪𝗗(不)省油车主|比亚迪大汉EV准车主 | 老婆@Pinokurimogu | 我真回流了你怎么还没润？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Pinokurimogu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yujunl.com.cn",
+                "end": 23,
+                "expanded_url": "http://yujunl.com.cn",
+                "start": 0,
+                "url": "https://t.co/ImIAme7ZMM"
+              }
+            ]
+          }
+        },
+        "id": "3387569464",
+        "location": "星际联邦地球广州人类抽象史博物馆",
+        "name": "彧君姨姨(🐑上班中)",
+        "pinned_tweet_id": "2022195978129092788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033623058410520576/mW4HfCtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13417,
+          "following_count": 860,
+          "like_count": 150379,
+          "listed_count": 56,
+          "media_count": 3981,
+          "tweet_count": 51949
+        },
+        "url": "https://t.co/ImIAme7ZMM",
+        "username": "UFP_YujunL",
+        "verified": false
+      }
+    ]
+  }
+}

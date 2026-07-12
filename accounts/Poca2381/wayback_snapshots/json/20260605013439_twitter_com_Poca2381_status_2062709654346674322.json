@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062553656113909837",
+    "created_at": "2026-06-05T01:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062709654346674322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3425259623",
+          "start": 0,
+          "username": "9_bishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062709654346674322",
+    "in_reply_to_user_id": "3425259623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062553656113909837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9_bishi 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062553652792016896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-pnozaQAAof5C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2062553656113909837",
+        "created_at": "2026-06-05T01:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062709654346674322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3425259623",
+              "start": 0,
+              "username": "9_bishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062709654346674322",
+        "in_reply_to_user_id": "3425259623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062553656113909837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9_bishi 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062553652792016896"
+          ]
+        },
+        "author_id": "3425259623",
+        "conversation_id": "2062553656113909837",
+        "created_at": "2026-06-04T15:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062553656113909837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9PZroEnd8z",
+              "end": 30,
+              "expanded_url": "https://x.com/9_bishi/status/2062553656113909837/photo/1",
+              "media_key": "3_2062553652792016896",
+              "start": 7,
+              "url": "https://t.co/9PZroEnd8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062553656113909837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 701,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "深夜神秘自拍 https://t.co/9PZroEnd8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21378,
+          "following_count": 8893,
+          "like_count": 151689,
+          "listed_count": 51,
+          "media_count": 4559,
+          "tweet_count": 50350
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-16T04:51:49.000Z",
+        "description": "声優とか音楽とか日常とかいろいろ\nnote: https://t.co/NPUUrK0QjG\n大体ROM専として運用しているので無言フォロー失礼",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/mikan392",
+                "end": 46,
+                "expanded_url": "https://note.com/mikan392",
+                "start": 23,
+                "url": "https://t.co/NPUUrK0QjG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.anontokyo.com",
+                "end": 23,
+                "expanded_url": "http://blog.anontokyo.com",
+                "start": 0,
+                "url": "https://t.co/OQcAIsXauj"
+              }
+            ]
+          }
+        },
+        "id": "3425259623",
+        "location": "海外",
+        "name": "みかん（つぶやきver.）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049876352044777472/MJRGOf1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 4424,
+          "like_count": 82707,
+          "listed_count": 10,
+          "media_count": 3707,
+          "tweet_count": 12077
+        },
+        "url": "https://t.co/OQcAIsXauj",
+        "username": "9_bishi",
+        "verified": true
+      }
+    ]
+  }
+}

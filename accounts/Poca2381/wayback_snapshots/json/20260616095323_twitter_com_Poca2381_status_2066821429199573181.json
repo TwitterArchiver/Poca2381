@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066614724238938112"
+      ],
+      "media_source_tweet_id": [
+        "2066614726847807669"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      }
+    ],
+    "conversation_id": "2066821429199573181",
+    "created_at": "2026-06-16T09:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066821429199573181"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 72,
+          "tag": "よふかしのうた"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "彻夜之歌"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "七草荠"
+        },
+        {
+          "end": 98,
+          "start": 92,
+          "tag": "七草ナズナ"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 114,
+          "start": 105,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1376610439333748736",
+          "start": 3,
+          "username": "Kig_Zsern"
+        },
+        {
+          "end": 55,
+          "id": "3494753113",
+          "start": 48,
+          "username": "zanyo_"
+        },
+        {
+          "end": 69,
+          "id": "1948635223962570752",
+          "start": 58,
+          "username": "snmmp78542"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kqLnanpdSP",
+          "end": 138,
+          "expanded_url": "https://x.com/Kig_Zsern/status/2066614726847807669/photo/1",
+          "media_key": "3_2066614724238938112",
+          "start": 115,
+          "url": "https://t.co/kqLnanpdSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066821429199573181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066614726847807669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kig_Zsern: 呐，光，今晚做什么好呢？\nねぇ、コウ君、今夜は何しよう？\n\n📷： @zanyo_ ， @snmmp78542 \n\n#よふかしのうた #彻夜之歌 #七草荠 #七草ナズナ #着ぐるみ #kigurumi https://t.co/kqLnanpdSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066614724238938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4XJG3akAAuZ6g.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066614724238938112"
+          ],
+          "media_source_tweet_id": [
+            "2066614726847807669"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "2066821429199573181",
+        "created_at": "2026-06-16T09:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066821429199573181"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "よふかしのうた"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "彻夜之歌"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "七草荠"
+            },
+            {
+              "end": 98,
+              "start": 92,
+              "tag": "七草ナズナ"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1376610439333748736",
+              "start": 3,
+              "username": "Kig_Zsern"
+            },
+            {
+              "end": 55,
+              "id": "3494753113",
+              "start": 48,
+              "username": "zanyo_"
+            },
+            {
+              "end": 69,
+              "id": "1948635223962570752",
+              "start": 58,
+              "username": "snmmp78542"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqLnanpdSP",
+              "end": 138,
+              "expanded_url": "https://x.com/Kig_Zsern/status/2066614726847807669/photo/1",
+              "media_key": "3_2066614724238938112",
+              "start": 115,
+              "url": "https://t.co/kqLnanpdSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066821429199573181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066614726847807669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kig_Zsern: 呐，光，今晚做什么好呢？\nねぇ、コウ君、今夜は何しよう？\n\n📷： @zanyo_ ， @snmmp78542 \n\n#よふかしのうた #彻夜之歌 #七草荠 #七草ナズナ #着ぐるみ #kigurumi https://t.co/kqLnanpdSP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066614724238938112"
+          ]
+        },
+        "author_id": "1376610439333748736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "2066614726847807669",
+        "created_at": "2026-06-15T20:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066614726847807669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "よふかしのうた"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "彻夜之歌"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "七草荠"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "七草ナズナ"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 99,
+              "start": 90,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 40,
+              "id": "3494753113",
+              "start": 33,
+              "username": "zanyo_"
+            },
+            {
+              "end": 54,
+              "id": "1948635223962570752",
+              "start": 43,
+              "username": "snmmp78542"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqLnanpdSP",
+              "end": 123,
+              "expanded_url": "https://x.com/Kig_Zsern/status/2066614726847807669/photo/1",
+              "media_key": "3_2066614724238938112",
+              "start": 100,
+              "url": "https://t.co/kqLnanpdSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066614726847807669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2341,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "呐，光，今晚做什么好呢？\nねぇ、コウ君、今夜は何しよう？\n\n📷： @zanyo_ ， @snmmp78542 \n\n#よふかしのうた #彻夜之歌 #七草荠 #七草ナズナ #着ぐるみ #kigurumi https://t.co/kqLnanpdSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21957,
+          "following_count": 9395,
+          "like_count": 152292,
+          "listed_count": 52,
+          "media_count": 4854,
+          "tweet_count": 51638
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-29T19:01:31.000Z",
+        "description": "kig新手，日本东京留学中，希望结交更多的小可爱，请多多指教啦～  /初めまして、 着ぐるみコスプレやって、ちもり(千守)と申します。今は東京に留学中、もっといろんな人と仲良くなりたいです。よろしくお願いします～ / \n言語:中文，日本語，English",
+        "id": "1376610439333748736",
+        "location": "東京都",
+        "name": "千守 ちもり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654212852394385408/pE9DGGKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 893,
+          "like_count": 1373,
+          "listed_count": 10,
+          "media_count": 25,
+          "tweet_count": 158
+        },
+        "username": "Kig_Zsern",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-08T16:16:45.000Z",
+        "description": "着ぐるみ&マスク系娘23人(うちラバー娘13人)と暮しています(気分次第カメラマン😌)。フォローはお気軽に！ エロ活は世界平和を道びってると信じてます。日/中おk。日本語の理解が偶にくるってしまうかもしれません。ファンクラブ （月刊休止中）❤https://t.co/640zEtPhBA❤",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/483475",
+                "end": 144,
+                "expanded_url": "http://fantia.jp/fanclubs/483475",
+                "start": 121,
+                "url": "https://t.co/640zEtPhBA"
+              }
+            ]
+          }
+        },
+        "id": "3494753113",
+        "location": "稚足（ちっそく）市稚足町1丁目キグルラバーマンション",
+        "name": "マルーイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548601100810350593/jr16P9jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21208,
+          "following_count": 1970,
+          "like_count": 27050,
+          "listed_count": 129,
+          "media_count": 481,
+          "tweet_count": 5143
+        },
+        "username": "zanyo_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T06:43:42.000Z",
+        "description": "狗富贵 互相汪",
+        "id": "1948635223962570752",
+        "name": "叽叽叽叽叽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025272696213569537/OD7AXUPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 572,
+          "like_count": 893,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 89
+        },
+        "username": "snmmp78542",
+        "verified": false
+      }
+    ]
+  }
+}

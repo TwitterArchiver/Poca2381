@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063834359774547969",
+        "3_2063834359774547968",
+        "3_2063834359770312704"
+      ],
+      "media_source_tweet_id": [
+        "2063834377491280072",
+        "2063834377491280072",
+        "2063834377491280072"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064722514841141292",
+    "created_at": "2026-06-10T14:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064722514841141292"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 75,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944242736640798721",
+          "start": 3,
+          "username": "LearnedToad"
+        },
+        {
+          "end": 60,
+          "id": "1717514686508548096",
+          "start": 49,
+          "username": "Dr05481651"
+        },
+        {
+          "end": 72,
+          "id": "1710555081530318848",
+          "start": 64,
+          "username": "MoyuKig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1fRbqOvVx",
+          "end": 108,
+          "expanded_url": "https://x.com/LearnedToad/status/2063834377491280072/photo/1",
+          "media_key": "3_2063834359774547969",
+          "start": 85,
+          "url": "https://t.co/G1fRbqOvVx"
+        },
+        {
+          "display_url": "pic.x.com/G1fRbqOvVx",
+          "end": 108,
+          "expanded_url": "https://x.com/LearnedToad/status/2063834377491280072/photo/1",
+          "media_key": "3_2063834359774547968",
+          "start": 85,
+          "url": "https://t.co/G1fRbqOvVx"
+        },
+        {
+          "display_url": "pic.x.com/G1fRbqOvVx",
+          "end": 108,
+          "expanded_url": "https://x.com/LearnedToad/status/2063834377491280072/photo/1",
+          "media_key": "3_2063834359770312704",
+          "start": 85,
+          "url": "https://t.co/G1fRbqOvVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064722514841141292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063834377491280072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LearnedToad: 听说你们喜欢透明黑？🤔\n求求了点个赞吧我什么都会做的😭😭😭\n📷：@Dr05481651 \n🎭：@MoyuKig \n\n#kigurumi https://t.co/G1fRbqOvVx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064722514841141292].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064722514841141292",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064722514841141292"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063834359774547969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQ2amGbkAEAuBM.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063834359774547968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQ2amGbkAAXCTm.jpg",
+        "width": 2730
+      },
+      {
+        "height": 1092,
+        "media_key": "3_2063834359770312704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQ2amFa8AAurod.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063834359774547969",
+            "3_2063834359774547968",
+            "3_2063834359770312704"
+          ]
+        },
+        "author_id": "1944242736640798721",
+        "conversation_id": "2063834377491280072",
+        "created_at": "2026-06-08T04:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063834377491280072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1717514686508548096",
+              "start": 32,
+              "username": "Dr05481651"
+            },
+            {
+              "end": 55,
+              "id": "1710555081530318848",
+              "start": 47,
+              "username": "MoyuKig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1fRbqOvVx",
+              "end": 91,
+              "expanded_url": "https://x.com/LearnedToad/status/2063834377491280072/photo/1",
+              "media_key": "3_2063834359774547969",
+              "start": 68,
+              "url": "https://t.co/G1fRbqOvVx"
+            },
+            {
+              "display_url": "pic.x.com/G1fRbqOvVx",
+              "end": 91,
+              "expanded_url": "https://x.com/LearnedToad/status/2063834377491280072/photo/1",
+              "media_key": "3_2063834359774547968",
+              "start": 68,
+              "url": "https://t.co/G1fRbqOvVx"
+            },
+            {
+              "display_url": "pic.x.com/G1fRbqOvVx",
+              "end": 91,
+              "expanded_url": "https://x.com/LearnedToad/status/2063834377491280072/photo/1",
+              "media_key": "3_2063834359770312704",
+              "start": 68,
+              "url": "https://t.co/G1fRbqOvVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063834377491280072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 9287,
+          "like_count": 506,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "听说你们喜欢透明黑？🤔\n求求了点个赞吧我什么都会做的😭😭😭\n📷：@Dr05481651 \n🎭：@MoyuKig \n\n#kigurumi https://t.co/G1fRbqOvVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21688,
+          "following_count": 9192,
+          "like_count": 152030,
+          "listed_count": 52,
+          "media_count": 4679,
+          "tweet_count": 51055
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T03:49:36.000Z",
+        "description": "新泽西kiger，在做科技头壳，PhD student in Computer Science。所有内容（图片视频和项目）都是学习交流用途的免费分享！只在X发布内容，假如你在其他地方看到卖的那都是盗的和本人无关（特别是妖狐吧！）。All content is free on X. No OF, Fantia etc.",
+        "id": "1944242736640798721",
+        "location": "New Jersey, USA",
+        "name": "机械神教驻神圣泰拉机械神甫0059",
+        "pinned_tweet_id": "1963178499276992645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944243041746714624/CmUlckos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29247,
+          "following_count": 598,
+          "like_count": 2609,
+          "listed_count": 95,
+          "media_count": 154,
+          "tweet_count": 1624
+        },
+        "username": "LearnedToad",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T12:13:13.000Z",
+        "description": "这里零五，你也可以叫我ddr5（是的我变成内存条了）坐标南京的捆工/半吊子摄影，欢迎约约～",
+        "id": "1717514686508548096",
+        "location": "南京",
+        "name": "Dr05",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717515620840050688/Yzdm-KEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 4532,
+          "like_count": 9393,
+          "listed_count": 15,
+          "media_count": 58,
+          "tweet_count": 746
+        },
+        "username": "Dr05481651",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T07:18:31.000Z",
+        "description": "Continuously accepting orders, please send a private message ~这里是摸鱼工坊，一家kigurumi头壳制作工作室，订做请加QQ群173778594~持续接单中~",
+        "id": "1710555081530318848",
+        "name": "摸鱼工坊Pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029926068354961408/zwavO2BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 48,
+          "like_count": 493,
+          "listed_count": 68,
+          "media_count": 362,
+          "tweet_count": 840
+        },
+        "username": "MoyuKig",
+        "verified": false
+      }
+    ]
+  }
+}

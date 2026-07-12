@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064524349173018624"
+      ],
+      "media_source_tweet_id": [
+        "2064524387865465267"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064671608665768097",
+    "created_at": "2026-06-10T11:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064671608665768097"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 48,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176799208453505024",
+          "start": 3,
+          "username": "hotarukig"
+        },
+        {
+          "end": 46,
+          "id": "1460603099488284680",
+          "start": 30,
+          "username": "LQqCYT4uLfFFstL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNOWZdh361",
+          "end": 81,
+          "expanded_url": "https://x.com/hotarukig/status/2064524387865465267/video/1",
+          "media_key": "7_2064524349173018624",
+          "start": 58,
+          "url": "https://t.co/mNOWZdh361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064671608665768097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064524387865465267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hotarukig: 好…好害羞…呜啊………\n📸  @LQqCYT4uLfFFstL \n#kigurumi https://t.co/mNOWZdh361"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15488,
+        "height": 1280,
+        "media_key": "7_2064524349173018624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064524349173018624/pu/img/p0Bf6wvQYNEpItRD.jpg",
+        "public_metrics": {
+          "view_count": 692
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064524349173018624/pu/vid/avc1/320x568/DNdFfoSEnkjJ1yb2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064524349173018624/pu/vid/avc1/480x852/Jzti2-5kurQH9uM9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064524349173018624/pu/vid/avc1/720x1280/vQC5YVN_W4KIhg2c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064524349173018624/pu/pl/6AX1JY4a28ma08Um.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064524349173018624"
+          ],
+          "media_source_tweet_id": [
+            "2064524387865465267"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064671608665768097",
+        "created_at": "2026-06-10T11:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064671608665768097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176799208453505024",
+              "start": 3,
+              "username": "hotarukig"
+            },
+            {
+              "end": 46,
+              "id": "1460603099488284680",
+              "start": 30,
+              "username": "LQqCYT4uLfFFstL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNOWZdh361",
+              "end": 81,
+              "expanded_url": "https://x.com/hotarukig/status/2064524387865465267/video/1",
+              "media_key": "7_2064524349173018624",
+              "start": 58,
+              "url": "https://t.co/mNOWZdh361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064671608665768097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064524387865465267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hotarukig: 好…好害羞…呜啊………\n📸  @LQqCYT4uLfFFstL \n#kigurumi https://t.co/mNOWZdh361"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064524349173018624"
+          ]
+        },
+        "author_id": "1176799208453505024",
+        "conversation_id": "2064524387865465267",
+        "created_at": "2026-06-10T01:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064524387865465267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1460603099488284680",
+              "start": 15,
+              "username": "LQqCYT4uLfFFstL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNOWZdh361",
+              "end": 66,
+              "expanded_url": "https://x.com/hotarukig/status/2064524387865465267/video/1",
+              "media_key": "7_2064524349173018624",
+              "start": 43,
+              "url": "https://t.co/mNOWZdh361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064524387865465267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 2556,
+          "like_count": 258,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "好…好害羞…呜啊………\n📸  @LQqCYT4uLfFFstL \n#kigurumi https://t.co/mNOWZdh361"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21681,
+          "following_count": 9186,
+          "like_count": 152008,
+          "listed_count": 52,
+          "media_count": 4672,
+          "tweet_count": 51019
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-25T10:03:01.000Z",
+        "description": "着ぐるみ，PJSK→东云绘名&原神→荧&BA→古关忧/猫冢响(预定)，绝赞的solo变娃选手",
+        "id": "1176799208453505024",
+        "name": "Hotaru萤",
+        "pinned_tweet_id": "1494730722942218240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000569211433922560/mDrn1Ajm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3320,
+          "following_count": 1499,
+          "like_count": 6565,
+          "listed_count": 25,
+          "media_count": 86,
+          "tweet_count": 247
+        },
+        "username": "hotarukig",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T13:38:27.000Z",
+        "description": "窝叫沅沅｜💼👩‍💻@Pineguugagai1｜佛系记录生活希望能认识更优秀的同好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "Pineguugagai1"
+              }
+            ]
+          }
+        },
+        "id": "1460603099488284680",
+        "name": "yuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020203805728808960/VHGGXxXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 295,
+          "like_count": 1442,
+          "listed_count": 6,
+          "media_count": 37,
+          "tweet_count": 134
+        },
+        "username": "LQqCYT4uLfFFstL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066829071578013696"
+      ],
+      "media_source_tweet_id": [
+        "2066829158844715513"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066893222589485367",
+    "created_at": "2026-06-16T14:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066893222589485367"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 79,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "911874828784648192",
+          "start": 3,
+          "username": "qruukoq"
+        },
+        {
+          "end": 76,
+          "id": "1426465000952975364",
+          "start": 65,
+          "username": "azreal0202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KShVEWg7Ca",
+          "end": 112,
+          "expanded_url": "https://x.com/qruukoq/status/2066829158844715513/video/1",
+          "media_key": "7_2066829071578013696",
+          "start": 89,
+          "url": "https://t.co/KShVEWg7Ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066893222589485367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066829158844715513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qruukoq: 全身覆盖满绳子并拉住、强制保持住姿态~即使外表站的稳稳的、里面也早已累的不行了qaq\n\n🪢&amp;📷:@azreal0202 \n\n#kigurumi https://t.co/KShVEWg7Ca"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066893222589485367].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066893222589485367",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066893222589485367"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23659,
+        "height": 1920,
+        "media_key": "7_2066829071578013696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066829071578013696/pu/img/DfHnCqoDnO1AmCl1.jpg",
+        "public_metrics": {
+          "view_count": 1624
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066829071578013696/pu/vid/avc1/720x1280/gD_xQXn2x9yrLJBD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066829071578013696/pu/pl/P-QpRqvJwJ3I0hcQ.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066829071578013696/pu/vid/avc1/320x568/vdSSvklMVXXNdXZ9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066829071578013696/pu/vid/avc1/1080x1920/WUqH4Kil4YnsVpw-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066829071578013696/pu/vid/avc1/480x852/5Gyy7Q5oMkF95PGZ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066829071578013696"
+          ]
+        },
+        "author_id": "911874828784648192",
+        "conversation_id": "2066829158844715513",
+        "created_at": "2026-06-16T10:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066829158844715513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1426465000952975364",
+              "start": 52,
+              "username": "azreal0202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KShVEWg7Ca",
+              "end": 99,
+              "expanded_url": "https://x.com/qruukoq/status/2066829158844715513/video/1",
+              "media_key": "7_2066829071578013696",
+              "start": 76,
+              "url": "https://t.co/KShVEWg7Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066829158844715513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 3715,
+          "like_count": 406,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "全身覆盖满绳子并拉住、强制保持住姿态~即使外表站的稳稳的、里面也早已累的不行了qaq\n\n🪢&amp;📷:@azreal0202 \n\n#kigurumi https://t.co/KShVEWg7Ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21973,
+          "following_count": 9414,
+          "like_count": 152316,
+          "listed_count": 52,
+          "media_count": 4857,
+          "tweet_count": 51683
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-24T08:47:55.000Z",
+        "description": "kigurumi coser~更新清水日常//角色会融合个人特色☆主拍二创&自搭//扩列qq:892263830//CN/EN/JP OK nya",
+        "id": "911874828784648192",
+        "location": "重庆",
+        "name": "流萤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872392392139231232/O2hQV5xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26487,
+          "following_count": 108,
+          "like_count": 3978,
+          "listed_count": 97,
+          "media_count": 512,
+          "tweet_count": 2188
+        },
+        "username": "qruukoq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-14T08:45:56.000Z",
+        "description": "♂|🪢📷两手抓 | 转帖均为本人作品 | 完美主义者 | 约绳择优互勉，欢迎私信 | 🗑️@0202Azreal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "0202Azreal"
+              }
+            ]
+          }
+        },
+        "id": "1426465000952975364",
+        "location": "广州",
+        "name": "Azreal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604181815136257/M7jhxYbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8249,
+          "following_count": 712,
+          "like_count": 11666,
+          "listed_count": 36,
+          "media_count": 133,
+          "tweet_count": 1257
+        },
+        "username": "azreal0202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050561536633311232"
+      ],
+      "media_source_tweet_id": [
+        "2050561572796539166"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064275018025140227",
+    "created_at": "2026-06-09T09:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064275018025140227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489607783469416448",
+          "start": 3,
+          "username": "J_Sica1"
+        },
+        {
+          "end": 41,
+          "id": "1494308672289521669",
+          "start": 30,
+          "username": "withNagi_7"
+        },
+        {
+          "end": 52,
+          "id": "1150757819886403586",
+          "start": 42,
+          "username": "chukilulu"
+        },
+        {
+          "end": 61,
+          "id": "1489607783469416448",
+          "start": 53,
+          "username": "J_Sica1"
+        },
+        {
+          "end": 71,
+          "id": "1155475384512712709",
+          "start": 62,
+          "username": "GuaEthan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1JJfka4A9j",
+          "end": 95,
+          "expanded_url": "https://x.com/J_Sica1/status/2050561572796539166/video/1",
+          "media_key": "7_2050561536633311232",
+          "start": 72,
+          "url": "https://t.co/1JJfka4A9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064275018025140227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050561572796539166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J_Sica1: 抱歉 世子之争向来如此\n出镜左右:@withNagi_7 @chukilulu @J_Sica1 @GuaEthan https://t.co/1JJfka4A9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7571,
+        "height": 720,
+        "media_key": "7_2050561536633311232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050561536633311232/pu/img/2hlu-aIL2tslBPS1.jpg",
+        "public_metrics": {
+          "view_count": 6263
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050561536633311232/pu/vid/avc1/480x270/g0LeBiGy1ua6SSfE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050561536633311232/pu/vid/avc1/640x360/_K0-jEOufBZRMsl8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050561536633311232/pu/vid/avc1/1280x720/0xxJdzUoIHL0V-uX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050561536633311232/pu/pl/Bb7LRD0N7XXHvPPl.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050561536633311232"
+          ],
+          "media_source_tweet_id": [
+            "2050561572796539166"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2064275018025140227",
+        "created_at": "2026-06-09T09:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064275018025140227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489607783469416448",
+              "start": 3,
+              "username": "J_Sica1"
+            },
+            {
+              "end": 41,
+              "id": "1494308672289521669",
+              "start": 30,
+              "username": "withNagi_7"
+            },
+            {
+              "end": 52,
+              "id": "1150757819886403586",
+              "start": 42,
+              "username": "chukilulu"
+            },
+            {
+              "end": 61,
+              "id": "1489607783469416448",
+              "start": 53,
+              "username": "J_Sica1"
+            },
+            {
+              "end": 71,
+              "id": "1155475384512712709",
+              "start": 62,
+              "username": "GuaEthan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JJfka4A9j",
+              "end": 95,
+              "expanded_url": "https://x.com/J_Sica1/status/2050561572796539166/video/1",
+              "media_key": "7_2050561536633311232",
+              "start": 72,
+              "url": "https://t.co/1JJfka4A9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064275018025140227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050561572796539166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @J_Sica1: 抱歉 世子之争向来如此\n出镜左右:@withNagi_7 @chukilulu @J_Sica1 @GuaEthan https://t.co/1JJfka4A9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050561536633311232"
+          ]
+        },
+        "author_id": "1489607783469416448",
+        "conversation_id": "2050561572796539166",
+        "created_at": "2026-05-02T13:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050561572796539166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1494308672289521669",
+              "start": 17,
+              "username": "withNagi_7"
+            },
+            {
+              "end": 39,
+              "id": "1150757819886403586",
+              "start": 29,
+              "username": "chukilulu"
+            },
+            {
+              "end": 48,
+              "id": "1489607783469416448",
+              "start": 40,
+              "username": "J_Sica1"
+            },
+            {
+              "end": 58,
+              "id": "1155475384512712709",
+              "start": 49,
+              "username": "GuaEthan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JJfka4A9j",
+              "end": 82,
+              "expanded_url": "https://x.com/J_Sica1/status/2050561572796539166/video/1",
+              "media_key": "7_2050561536633311232",
+              "start": 59,
+              "url": "https://t.co/1JJfka4A9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050561572796539166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 22324,
+          "like_count": 678,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉 世子之争向来如此\n出镜左右:@withNagi_7 @chukilulu @J_Sica1 @GuaEthan https://t.co/1JJfka4A9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21639,
+          "following_count": 9136,
+          "like_count": 151944,
+          "listed_count": 52,
+          "media_count": 4651,
+          "tweet_count": 50895
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T14:32:44.000Z",
+        "description": "西卡是我 我是西卡^^\ncp @ArohaTVStation\n目前在出50+个kig角色~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ArohaTVStation"
+              }
+            ]
+          }
+        },
+        "id": "1489607783469416448",
+        "location": "550W",
+        "name": "西卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621944917907099649/AOsoUsV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11609,
+          "following_count": 505,
+          "like_count": 2568,
+          "listed_count": 69,
+          "media_count": 172,
+          "tweet_count": 1324
+        },
+        "username": "J_Sica1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T13:52:19.000Z",
+        "description": "Kiger | INFJ-T | 5w4 💍@GuaEthan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "GuaEthan"
+              }
+            ]
+          }
+        },
+        "id": "1494308672289521669",
+        "name": "凪",
+        "pinned_tweet_id": "1950778072719868029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963789037917085696/GjCVdkXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18617,
+          "following_count": 752,
+          "like_count": 27217,
+          "listed_count": 100,
+          "media_count": 541,
+          "tweet_count": 4458
+        },
+        "username": "withNagi_7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:23:39.000Z",
+        "description": "偷得浮生半日闲",
+        "id": "1150757819886403586",
+        "location": "上海",
+        "name": "初奇岚岚君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647987424684048385/vFIXOct2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 510,
+          "like_count": 3518,
+          "listed_count": 31,
+          "media_count": 67,
+          "tweet_count": 135
+        },
+        "username": "chukilulu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-28T13:49:34.000Z",
+        "description": "💍 @withNagi_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "withNagi_7"
+              }
+            ]
+          }
+        },
+        "id": "1155475384512712709",
+        "location": "凪凪家",
+        "name": "Ethan瓜",
+        "pinned_tweet_id": "1799751012280119639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699424480869666816/wYJJ5Zn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23250,
+          "following_count": 2290,
+          "like_count": 14054,
+          "listed_count": 120,
+          "media_count": 605,
+          "tweet_count": 2082
+        },
+        "username": "GuaEthan",
+        "verified": true
+      }
+    ]
+  }
+}

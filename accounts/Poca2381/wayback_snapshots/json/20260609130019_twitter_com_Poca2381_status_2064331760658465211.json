@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064308190314192896"
+      ],
+      "media_source_tweet_id": [
+        "2064308368769233299"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064331760658465211",
+    "created_at": "2026-06-09T13:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064331760658465211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595957007407730688",
+          "start": 3,
+          "username": "1846Xyc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kpQxVXtXxJ",
+          "end": 36,
+          "expanded_url": "https://x.com/1846Xyc/status/2064308368769233299/video/1",
+          "media_key": "13_2064308190314192896",
+          "start": 13,
+          "url": "https://t.co/kpQxVXtXxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064331760658465211",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064308368769233299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1846Xyc: https://t.co/kpQxVXtXxJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064331760658465211].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064331760658465211",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064331760658465211"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28003,
+        "height": 3840,
+        "media_key": "13_2064308190314192896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064308190314192896/img/Ct28WaCLmq9uhJTU.jpg",
+        "public_metrics": {
+          "view_count": 729
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064308190314192896/vid/avc1/320x568/jftQ95yTEbRIpXN7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064308190314192896/vid/avc1/480x852/aTwIFGcOEiRypWUy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064308190314192896/vid/avc1/720x1280/156v46I1o5Y5FNRv.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064308190314192896/pl/FvsX08Qx9NHgiEfr.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064308190314192896"
+          ]
+        },
+        "author_id": "1595957007407730688",
+        "conversation_id": "2064308368769233299",
+        "created_at": "2026-06-09T11:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064308368769233299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kpQxVXtXxJ",
+              "end": 23,
+              "expanded_url": "https://x.com/1846Xyc/status/2064308368769233299/video/1",
+              "media_key": "13_2064308190314192896",
+              "start": 0,
+              "url": "https://t.co/kpQxVXtXxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064308368769233299",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 1963,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kpQxVXtXxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21656,
+          "following_count": 9156,
+          "like_count": 151970,
+          "listed_count": 52,
+          "media_count": 4657,
+          "tweet_count": 50928
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-25T01:46:25.000Z",
+        "description": "胶片老法师 喜欢kigurumi/latex 是清水! \nENG/中文。\n欢迎大家扩列 QQ 1203931868",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Ame_kigurumi",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Ame_kigurumi",
+                "start": 0,
+                "url": "https://t.co/lLoUlzvwJa"
+              }
+            ]
+          }
+        },
+        "id": "1595957007407730688",
+        "location": "深圳 上海  1203931868",
+        "name": "眠柒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889781924023115777/Ml2Agk0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25771,
+          "following_count": 805,
+          "like_count": 2819,
+          "listed_count": 133,
+          "media_count": 237,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/lLoUlzvwJa",
+        "username": "1846Xyc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2056783883916734774",
+    "created_at": "2026-05-19T17:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056783883916734774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056783883916734774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055913018626818157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @CyberKanjousen: 環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2056783883916734774",
+        "created_at": "2026-05-19T17:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056783883916734774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056783883916734774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055913018626818157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @CyberKanjousen: 環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055913018626818157",
+        "created_at": "2026-05-17T07:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055913018626818157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rkmonochrome_c…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/rkmonochrome_cn/status/2055885931606061250",
+              "start": 172,
+              "url": "https://t.co/WPWtQg2oEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055913018626818157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）\n\n二是对绝大多数正常用户，包括非 Premium 用户，几乎都没有影响。50 条推文、200 条回复已经非 常多了，環状線一天最多也只能发 23 条推文和 77 条回复，平时的发推量和回复量绝大多数在 20 条和 60 条以下。也就是说，即使環状線不是 Premium 用户，对環状線也毫无影响。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3334,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055885931606061250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）\n\n二是对绝大多数正常用户，包括非 Premium 用户，几乎都没有影响。50 条推文、200 条回复已经非 https://t.co/WPWtQg2oEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20624,
+          "following_count": 8153,
+          "like_count": 150827,
+          "listed_count": 50,
+          "media_count": 4250,
+          "tweet_count": 48815
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3741,
+          "following_count": 840,
+          "like_count": 20856,
+          "listed_count": 8,
+          "media_count": 1105,
+          "tweet_count": 6199
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

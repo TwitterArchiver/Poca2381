@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063182779807129600",
+        "3_2063182645933334528",
+        "3_2063182637766967297"
+      ],
+      "media_source_tweet_id": [
+        "2063182828171673699",
+        "2063182828171673699",
+        "2063182828171673699"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Newlyweds",
+          "id": "847546008917520384",
+          "name": "Newlyweds"
+        }
+      }
+    ],
+    "conversation_id": "2063418310692315422",
+    "created_at": "2026-06-07T00:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063418310692315422"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1069414274374688771",
+          "start": 3,
+          "username": "yami04650367"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WyKDycuf4q",
+          "end": 79,
+          "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+          "media_key": "7_2063182779807129600",
+          "start": 56,
+          "url": "https://t.co/WyKDycuf4q"
+        },
+        {
+          "display_url": "pic.x.com/WyKDycuf4q",
+          "end": 79,
+          "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+          "media_key": "3_2063182645933334528",
+          "start": 56,
+          "url": "https://t.co/WyKDycuf4q"
+        },
+        {
+          "display_url": "pic.x.com/WyKDycuf4q",
+          "end": 79,
+          "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+          "media_key": "3_2063182637766967297",
+          "start": 56,
+          "url": "https://t.co/WyKDycuf4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063418310692315422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063182828171673699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yami04650367: 有种寡妇x新婚人妻的感觉（）\n幽幽子是这位\n@晴风雾雨\n#kigurumi https://t.co/WyKDycuf4q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8130,
+        "height": 1280,
+        "media_key": "7_2063182779807129600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063182779807129600/pu/img/oeNVtbYfthjPdmkt.jpg",
+        "public_metrics": {
+          "view_count": 458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063182779807129600/pu/vid/avc1/320x568/fevhw31qy6Nzyp1E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063182779807129600/pu/vid/avc1/480x852/J_9PidUBfCn8jzJH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063182779807129600/pu/vid/avc1/720x1280/kDPIMEkhqOA3GxZC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063182779807129600/pu/pl/vad96u4cas4PwE8l.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2063182645933334528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHlr22bYAA6nbO.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2063182637766967297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHlrYbagAEKDdq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063182779807129600",
+            "3_2063182645933334528",
+            "3_2063182637766967297"
+          ],
+          "media_source_tweet_id": [
+            "2063182828171673699",
+            "2063182828171673699",
+            "2063182828171673699"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2063418310692315422",
+        "created_at": "2026-06-07T00:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063418310692315422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1069414274374688771",
+              "start": 3,
+              "username": "yami04650367"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyKDycuf4q",
+              "end": 79,
+              "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+              "media_key": "7_2063182779807129600",
+              "start": 56,
+              "url": "https://t.co/WyKDycuf4q"
+            },
+            {
+              "display_url": "pic.x.com/WyKDycuf4q",
+              "end": 79,
+              "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+              "media_key": "3_2063182645933334528",
+              "start": 56,
+              "url": "https://t.co/WyKDycuf4q"
+            },
+            {
+              "display_url": "pic.x.com/WyKDycuf4q",
+              "end": 79,
+              "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+              "media_key": "3_2063182637766967297",
+              "start": 56,
+              "url": "https://t.co/WyKDycuf4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063418310692315422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063182828171673699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yami04650367: 有种寡妇x新婚人妻的感觉（）\n幽幽子是这位\n@晴风雾雨\n#kigurumi https://t.co/WyKDycuf4q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063182779807129600",
+            "3_2063182645933334528",
+            "3_2063182637766967297"
+          ]
+        },
+        "author_id": "1069414274374688771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2063182828171673699",
+        "created_at": "2026-06-06T08:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063182828171673699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyKDycuf4q",
+              "end": 61,
+              "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+              "media_key": "7_2063182779807129600",
+              "start": 38,
+              "url": "https://t.co/WyKDycuf4q"
+            },
+            {
+              "display_url": "pic.x.com/WyKDycuf4q",
+              "end": 61,
+              "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+              "media_key": "3_2063182645933334528",
+              "start": 38,
+              "url": "https://t.co/WyKDycuf4q"
+            },
+            {
+              "display_url": "pic.x.com/WyKDycuf4q",
+              "end": 61,
+              "expanded_url": "https://x.com/yami04650367/status/2063182828171673699/video/1",
+              "media_key": "3_2063182637766967297",
+              "start": 38,
+              "url": "https://t.co/WyKDycuf4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063182828171673699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1838,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "有种寡妇x新婚人妻的感觉（）\n幽幽子是这位\n@晴风雾雨\n#kigurumi https://t.co/WyKDycuf4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21465,
+          "following_count": 8953,
+          "like_count": 151810,
+          "listed_count": 52,
+          "media_count": 4603,
+          "tweet_count": 50526
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-03T02:13:26.000Z",
+        "description": "人生自古谁无死？不幸的，该用户已逝世，因此无法继续与您互动。让我们永远缅怀他",
+        "id": "1069414274374688771",
+        "location": "天!",
+        "name": "壓米",
+        "pinned_tweet_id": "2024145077271150841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052078288143790080/su24enZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 465,
+          "like_count": 5506,
+          "listed_count": 15,
+          "media_count": 1413,
+          "tweet_count": 2254
+        },
+        "username": "yami04650367",
+        "verified": false
+      }
+    ]
+  }
+}

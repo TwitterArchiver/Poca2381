@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056938731685457921"
+      ],
+      "media_source_tweet_id": [
+        "2056938739537265036"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057081452932812802",
+    "created_at": "2026-05-20T12:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057081452932812802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ONoR4B2w8H",
+          "end": 65,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2056938739537265036/photo/1",
+          "media_key": "3_2056938731685457921",
+          "start": 42,
+          "url": "https://t.co/ONoR4B2w8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057081452932812802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056938739537265036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @CyberKanjousen: 今天是商朝比干的诞辰，520 你交心了嘛？ https://t.co/ONoR4B2w8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_2056938731685457921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIu24NrasAEoyjK.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056938731685457921"
+          ],
+          "media_source_tweet_id": [
+            "2056938739537265036"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057081452932812802",
+        "created_at": "2026-05-20T12:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057081452932812802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONoR4B2w8H",
+              "end": 65,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2056938739537265036/photo/1",
+              "media_key": "3_2056938731685457921",
+              "start": 42,
+              "url": "https://t.co/ONoR4B2w8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057081452932812802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056938739537265036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @CyberKanjousen: 今天是商朝比干的诞辰，520 你交心了嘛？ https://t.co/ONoR4B2w8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056938731685457921"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2056938739537265036",
+        "created_at": "2026-05-20T03:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056938739537265036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONoR4B2w8H",
+              "end": 45,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2056938739537265036/photo/1",
+              "media_key": "3_2056938731685457921",
+              "start": 22,
+              "url": "https://t.co/ONoR4B2w8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056938739537265036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2332,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "今天是商朝比干的诞辰，520 你交心了嘛？ https://t.co/ONoR4B2w8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20682,
+          "following_count": 8224,
+          "like_count": 150921,
+          "listed_count": 50,
+          "media_count": 4266,
+          "tweet_count": 48942
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3832,
+          "following_count": 842,
+          "like_count": 21016,
+          "listed_count": 9,
+          "media_count": 1113,
+          "tweet_count": 6232
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

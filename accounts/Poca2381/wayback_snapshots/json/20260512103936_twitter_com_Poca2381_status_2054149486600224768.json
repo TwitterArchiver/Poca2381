@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2054046952942121109",
+    "created_at": "2026-05-12T10:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054149486600224768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1100776666194882561",
+          "start": 0,
+          "username": "akiEl3venn"
+        },
+        {
+          "end": 26,
+          "id": "2698159098",
+          "start": 12,
+          "username": "real810senpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054149486600224768",
+    "in_reply_to_user_id": "1100776666194882561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054046952942121109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiEl3venn @real810senpai 玩明日方舟玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2054046952942121109",
+        "created_at": "2026-05-12T10:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054149486600224768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1100776666194882561",
+              "start": 0,
+              "username": "akiEl3venn"
+            },
+            {
+              "end": 26,
+              "id": "2698159098",
+              "start": 12,
+              "username": "real810senpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054149486600224768",
+        "in_reply_to_user_id": "1100776666194882561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054046952942121109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiEl3venn @real810senpai 玩明日方舟玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1100776666194882561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2054046952942121109",
+        "created_at": "2026-05-12T03:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054046952942121109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054046952942121109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 60815,
+          "like_count": 1395,
+          "quote_count": 11,
+          "reply_count": 42,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "其实发现很多男生（尤其是留学生）第一次独居的时候都有点担心自己的安全，所以作为留学老油条给大家分享点男生独居安全小窍门：\n1.门口高台放圣聆初雪\n2.门口地面放怒潮凛冬\n3.怒潮凛冬身后放塞雷娅\n4.塞雷娅身后放煌\n5.门口高台放逻各斯\n6.门口高台放瑶\n7.家里屯点维什戴尔\n8.关闭全舰防御系统"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20347,
+          "following_count": 7804,
+          "like_count": 150470,
+          "listed_count": 49,
+          "media_count": 4119,
+          "tweet_count": 48193
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-27T15:16:23.000Z",
+        "description": "你好，我是十一 || 发现有趣的账号就会关注/回关 || 不是男娘 || ACG weeb || Taking Master’s @uoft || -树洞@ich1nana7-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 65,
+                "username": "uoft"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ich1nana7"
+              }
+            ]
+          }
+        },
+        "id": "1100776666194882561",
+        "location": "Toronto, Ontario",
+        "name": "akiEl3venn_",
+        "pinned_tweet_id": "1978640484584046673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999793852970921986/J4gygtMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 345,
+          "like_count": 7848,
+          "listed_count": 1,
+          "media_count": 612,
+          "tweet_count": 2938
+        },
+        "username": "akiEl3venn",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-01T12:44:28.000Z",
+        "description": "イキスギ",
+        "id": "2698159098",
+        "location": "🇬🇧🇨🇦🇦🇺🇳🇿🇿🇦",
+        "name": "810Senpai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401169825318293514/ZdQhCSPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 244,
+          "like_count": 334706,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 47373
+        },
+        "username": "real810senpai",
+        "verified": false
+      }
+    ]
+  }
+}

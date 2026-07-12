@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062641256019169280"
+      ],
+      "media_source_tweet_id": [
+        "2062641332955250910"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063470334259724497",
+    "created_at": "2026-06-07T03:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063470334259724497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IixB6a7iyn",
+          "end": 40,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2062641332955250910/video/1",
+          "media_key": "13_2062641256019169280",
+          "start": 17,
+          "url": "https://t.co/IixB6a7iyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063470334259724497",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062641332955250910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: https://t.co/IixB6a7iyn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28497,
+        "height": 960,
+        "media_key": "13_2062641256019169280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062641256019169280/img/R5C4YWra1-9Cqmyv.jpg",
+        "public_metrics": {
+          "view_count": 20015
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062641256019169280/vid/avc1/320x568/-kb7W9jB_OHW6MMR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062641256019169280/vid/avc1/480x852/I6765aG89B52tljX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062641256019169280/vid/avc1/540x960/WUbG4RLguYq_Z-dz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062641256019169280/pl/Pjp8ePvZVNGAJ1V2.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062641256019169280"
+          ],
+          "media_source_tweet_id": [
+            "2062641332955250910"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063470334259724497",
+        "created_at": "2026-06-07T03:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063470334259724497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IixB6a7iyn",
+              "end": 40,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2062641332955250910/video/1",
+              "media_key": "13_2062641256019169280",
+              "start": 17,
+              "url": "https://t.co/IixB6a7iyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063470334259724497",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062641332955250910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: https://t.co/IixB6a7iyn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062641256019169280"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "2062641332955250910",
+        "created_at": "2026-06-04T21:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062641332955250910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IixB6a7iyn",
+              "end": 23,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2062641332955250910/video/1",
+              "media_key": "13_2062641256019169280",
+              "start": 0,
+              "url": "https://t.co/IixB6a7iyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062641332955250910",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 39312,
+          "like_count": 2257,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IixB6a7iyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21478,
+          "following_count": 8961,
+          "like_count": 151820,
+          "listed_count": 52,
+          "media_count": 4610,
+          "tweet_count": 50544
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "Daily Miku & Vocaloid Content! \nFan Account (Not Affiliated with Crypton Future Media!)\n(Ran by: @xtc_addict)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "xtc_addict"
+              }
+            ]
+          }
+        },
+        "id": "205565258",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041367547669254144/RQzxdjzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452509,
+          "following_count": 17,
+          "like_count": 3785,
+          "listed_count": 145,
+          "media_count": 1152,
+          "tweet_count": 1194
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

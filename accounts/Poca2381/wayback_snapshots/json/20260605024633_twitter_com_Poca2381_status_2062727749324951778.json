@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062435155206410240"
+      ],
+      "media_source_tweet_id": [
+        "2062435166203805849"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062727749324951778",
+    "created_at": "2026-06-05T02:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062727749324951778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "708159542366875648",
+          "start": 3,
+          "username": "kig_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0V2aanBYdB",
+          "end": 66,
+          "expanded_url": "https://x.com/kig_chan/status/2062435166203805849/photo/1",
+          "media_key": "3_2062435155206410240",
+          "start": 43,
+          "url": "https://t.co/0V2aanBYdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062727749324951778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062435166203805849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kig_chan: 深圳有同好一起玩吗？没有我稍后再来问～#kigurumi https://t.co/0V2aanBYdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062435155206410240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ892K5bEAAeX2H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062435155206410240"
+          ],
+          "media_source_tweet_id": [
+            "2062435166203805849"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2062727749324951778",
+        "created_at": "2026-06-05T02:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062727749324951778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "708159542366875648",
+              "start": 3,
+              "username": "kig_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V2aanBYdB",
+              "end": 66,
+              "expanded_url": "https://x.com/kig_chan/status/2062435166203805849/photo/1",
+              "media_key": "3_2062435155206410240",
+              "start": 43,
+              "url": "https://t.co/0V2aanBYdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062727749324951778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062435166203805849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kig_chan: 深圳有同好一起玩吗？没有我稍后再来问～#kigurumi https://t.co/0V2aanBYdB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062435155206410240"
+          ]
+        },
+        "author_id": "708159542366875648",
+        "conversation_id": "2062435166203805849",
+        "created_at": "2026-06-04T07:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062435166203805849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V2aanBYdB",
+              "end": 52,
+              "expanded_url": "https://x.com/kig_chan/status/2062435166203805849/photo/1",
+              "media_key": "3_2062435155206410240",
+              "start": 29,
+              "url": "https://t.co/0V2aanBYdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062435166203805849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深圳有同好一起玩吗？没有我稍后再来问～#kigurumi https://t.co/0V2aanBYdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21381,
+          "following_count": 8903,
+          "like_count": 151706,
+          "listed_count": 52,
+          "media_count": 4561,
+          "tweet_count": 50371
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-11T05:16:06.000Z",
+        "description": "坐标深圳，kig男娘，欢迎线下一起玩呀～",
+        "id": "708159542366875648",
+        "location": "深圳",
+        "name": "Kig Chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/708160247559360514/mh7RrqXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2719,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "kig_chan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066409027102556160",
+        "3_2066409040947859456"
+      ],
+      "media_source_tweet_id": [
+        "2066409060233277710",
+        "2066409060233277710"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2067302922954985501",
+    "created_at": "2026-06-17T17:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067302922954985501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "702327477440528384",
+          "start": 3,
+          "username": "achoudedisheng"
+        },
+        {
+          "end": 51,
+          "id": "1549013395470311426",
+          "start": 36,
+          "username": "ookamimomo1111"
+        },
+        {
+          "end": 70,
+          "id": "1946567120105750528",
+          "start": 56,
+          "username": "kawaiidollkig"
+        },
+        {
+          "end": 90,
+          "id": "1746469344325021697",
+          "start": 75,
+          "username": "suzumiyasuzume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cs1xmy9A1S",
+          "end": 114,
+          "expanded_url": "https://x.com/achoudedisheng/status/2066409060233277710/photo/1",
+          "media_key": "3_2066409027102556160",
+          "start": 91,
+          "url": "https://t.co/cs1xmy9A1S"
+        },
+        {
+          "display_url": "pic.x.com/cs1xmy9A1S",
+          "end": 114,
+          "expanded_url": "https://x.com/achoudedisheng/status/2066409060233277710/photo/1",
+          "media_key": "3_2066409040947859456",
+          "start": 91,
+          "url": "https://t.co/cs1xmy9A1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067302922954985501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066409060233277710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @achoudedisheng: 小朋友的身材真的太好啦!\n入替：@ookamimomo1111 \n头壳：@kawaiidollkig\n原up：@suzumiyasuzume https://t.co/cs1xmy9A1S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067302922954985501].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067302922954985501",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067302922954985501"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_2066409027102556160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1cD9UbwAAvqIw.jpg",
+        "width": 1057
+      },
+      {
+        "height": 3143,
+        "media_key": "3_2066409040947859456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1cEw5aUAAl62W.jpg",
+        "width": 2095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066409027102556160",
+            "3_2066409040947859456"
+          ]
+        },
+        "author_id": "702327477440528384",
+        "conversation_id": "2066409060233277710",
+        "created_at": "2026-06-15T06:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066409060233277710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1549013395470311426",
+              "start": 16,
+              "username": "ookamimomo1111"
+            },
+            {
+              "end": 50,
+              "id": "1946567120105750528",
+              "start": 36,
+              "username": "kawaiidollkig"
+            },
+            {
+              "end": 70,
+              "id": "1746469344325021697",
+              "start": 55,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cs1xmy9A1S",
+              "end": 94,
+              "expanded_url": "https://x.com/achoudedisheng/status/2066409060233277710/photo/1",
+              "media_key": "3_2066409027102556160",
+              "start": 71,
+              "url": "https://t.co/cs1xmy9A1S"
+            },
+            {
+              "display_url": "pic.x.com/cs1xmy9A1S",
+              "end": 94,
+              "expanded_url": "https://x.com/achoudedisheng/status/2066409060233277710/photo/1",
+              "media_key": "3_2066409040947859456",
+              "start": 71,
+              "url": "https://t.co/cs1xmy9A1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066409060233277710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 4757,
+          "like_count": 388,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "小朋友的身材真的太好啦!\n入替：@ookamimomo1111 \n头壳：@kawaiidollkig\n原up：@suzumiyasuzume https://t.co/cs1xmy9A1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22022,
+          "following_count": 9437,
+          "like_count": 152351,
+          "listed_count": 52,
+          "media_count": 4883,
+          "tweet_count": 51768
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-24T03:01:34.000Z",
+        "description": "路边着ぐるみ/摄影/绳工 \nNot a Good Kigurumi Player / Photographer / Rigger",
+        "id": "702327477440528384",
+        "location": "shanghai",
+        "name": "466",
+        "pinned_tweet_id": "2066409060233277710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414433605837680644/7UNgSuY7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5723,
+          "following_count": 1357,
+          "like_count": 3642,
+          "listed_count": 48,
+          "media_count": 181,
+          "tweet_count": 966
+        },
+        "username": "achoudedisheng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T12:49:17.000Z",
+        "description": "一个爱玩游戏王的底层萌新\n高三党随缘更\n\nb站/🎶 同名",
+        "id": "1549013395470311426",
+        "name": "ookamimomo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565759833025937412/TFu6I0Ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5483,
+          "following_count": 1812,
+          "like_count": 562,
+          "listed_count": 32,
+          "media_count": 15,
+          "tweet_count": 439
+        },
+        "username": "ookamimomo1111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T13:45:52.000Z",
+        "description": "做动漫头套的 老铁们点点关注",
+        "id": "1946567120105750528",
+        "name": "kigurumi着替社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973316598808322048/bUchdDkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 219,
+          "like_count": 109,
+          "listed_count": 15,
+          "media_count": 31,
+          "tweet_count": 93
+        },
+        "username": "kawaiidollkig",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13939,
+          "following_count": 972,
+          "like_count": 2393,
+          "listed_count": 22,
+          "media_count": 139,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      }
+    ]
+  }
+}

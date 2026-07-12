@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058167122849865728"
+      ],
+      "media_source_tweet_id": [
+        "2058167169163329550"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060726195453595715",
+    "created_at": "2026-05-30T14:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060726195453595715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604687020286423040",
+          "start": 3,
+          "username": "shiyueyueshi"
+        },
+        {
+          "end": 64,
+          "id": "815283552807886848",
+          "start": 49,
+          "username": "Yggdrasil_chun"
+        },
+        {
+          "end": 79,
+          "id": "1767062847769677824",
+          "start": 68,
+          "username": "SaikaChyan"
+        },
+        {
+          "end": 98,
+          "id": "1844321532660809729",
+          "start": 86,
+          "username": "HAqimimi520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZrbZ61WXp2",
+          "end": 122,
+          "expanded_url": "https://x.com/shiyueyueshi/status/2058167169163329550/video/1",
+          "media_key": "7_2058167122849865728",
+          "start": 99,
+          "url": "https://t.co/ZrbZ61WXp2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060726195453595715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058167169163329550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyueyueshi: 丝柯克感染深渊之力恶堕了，只好封印起来用魔法棒净化一下\n摄： @Yggdrasil_chun\n协： @SaikaChyan\n头壳来自 ：@HAqimimi520 https://t.co/ZrbZ61WXp2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060726195453595715].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060726195453595715",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060726195453595715"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46625,
+        "height": 1280,
+        "media_key": "7_2058167122849865728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058167122849865728/pu/img/rjbZyEwfF3BOlg4A.jpg",
+        "public_metrics": {
+          "view_count": 6274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058167122849865728/pu/vid/avc1/320x568/lxI_mQ41Dlw1KDx8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058167122849865728/pu/vid/avc1/480x852/tvD8kJTIwQRMbhDp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058167122849865728/pu/vid/avc1/720x1280/-9YLxeMbclzLd3rx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058167122849865728/pu/pl/exVisLNiBvbB3-aW.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058167122849865728"
+          ]
+        },
+        "author_id": "1604687020286423040",
+        "conversation_id": "2058167169163329550",
+        "created_at": "2026-05-23T12:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058167169163329550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "815283552807886848",
+              "start": 31,
+              "username": "Yggdrasil_chun"
+            },
+            {
+              "end": 61,
+              "id": "1767062847769677824",
+              "start": 50,
+              "username": "SaikaChyan"
+            },
+            {
+              "end": 80,
+              "id": "1844321532660809729",
+              "start": 68,
+              "username": "HAqimimi520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrbZ61WXp2",
+              "end": 104,
+              "expanded_url": "https://x.com/shiyueyueshi/status/2058167169163329550/video/1",
+              "media_key": "7_2058167122849865728",
+              "start": 81,
+              "url": "https://t.co/ZrbZ61WXp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058167169163329550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 17201,
+          "like_count": 442,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "丝柯克感染深渊之力恶堕了，只好封印起来用魔法棒净化一下\n摄： @Yggdrasil_chun\n协： @SaikaChyan\n头壳来自 ：@HAqimimi520 https://t.co/ZrbZ61WXp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21126,
+          "following_count": 8683,
+          "like_count": 151420,
+          "listed_count": 51,
+          "media_count": 4455,
+          "tweet_count": 49831
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T03:56:27.000Z",
+        "description": "INTP-T|抖M|看见可爱的会变得S|XP复合体,清水摄摄捆绑拘束全包tk胶衣kig三坑各种小裙子，全都喜欢，拒绝脏、残、伤害性.kig角色：甘雨绫华梦梦符玄刻晴神子今汐千织深渊荧女漂丝柯克知更鸟",
+        "id": "1604687020286423040",
+        "location": "深圳",
+        "name": "时月",
+        "pinned_tweet_id": "2056082478948127084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629386052447395840/HWXPq8-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52987,
+          "following_count": 674,
+          "like_count": 3230,
+          "listed_count": 208,
+          "media_count": 467,
+          "tweet_count": 2178
+        },
+        "username": "shiyueyueshi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-31T19:48:41.000Z",
+        "description": "更接近梦一点",
+        "id": "815283552807886848",
+        "location": "中国·深圳",
+        "name": "木春",
+        "pinned_tweet_id": "1318049186382712833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697306076260311040/uz5qD-6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 4954,
+          "like_count": 7921,
+          "listed_count": 40,
+          "media_count": 46,
+          "tweet_count": 381
+        },
+        "username": "Yggdrasil_chun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T05:40:02.000Z",
+        "description": "看什么看！再看就把你吃掉！ 这里是萌新kiger，头壳🎭兔子洞、长离、洁塔薇，欢迎互关扩列//首次变娃记录：2024.9.7",
+        "id": "1767062847769677824",
+        "name": "海天酱油没有油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897472648713502721/7O9OLOa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 518,
+          "like_count": 207,
+          "listed_count": 11,
+          "media_count": 46,
+          "tweet_count": 137
+        },
+        "username": "SaikaChyan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T10:18:31.000Z",
+        "description": "",
+        "id": "1844321532660809729",
+        "name": "哈气咪",
+        "pinned_tweet_id": "2055997066917408936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983612347966222339/LNt9ws42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 116,
+          "like_count": 46,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 24
+        },
+        "username": "HAqimimi520",
+        "verified": false
+      }
+    ]
+  }
+}

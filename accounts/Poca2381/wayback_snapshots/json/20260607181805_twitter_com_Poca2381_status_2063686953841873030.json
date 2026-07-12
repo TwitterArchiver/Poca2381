@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062842621031243776"
+      ],
+      "media_source_tweet_id": [
+        "2062842675280400487"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063686953841873030",
+    "created_at": "2026-06-07T18:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063686953841873030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2773172660",
+          "start": 3,
+          "username": "KigMiyu"
+        },
+        {
+          "end": 22,
+          "id": "1088970800206495744",
+          "start": 16,
+          "username": "jxbgM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UIG8uiw9no",
+          "end": 46,
+          "expanded_url": "https://x.com/KigMiyu/status/2062842675280400487/video/1",
+          "media_key": "7_2062842621031243776",
+          "start": 23,
+          "url": "https://t.co/UIG8uiw9no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063686953841873030",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062842675280400487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KigMiyu: 🥵🔥 @jxbgM https://t.co/UIG8uiw9no"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063686953841873030].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063686953841873030",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063686953841873030"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11157,
+        "height": 1280,
+        "media_key": "7_2062842621031243776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062842621031243776/pu/img/WxMMGILa0xxb5Y0j.jpg",
+        "public_metrics": {
+          "view_count": 4357
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062842621031243776/pu/vid/avc1/320x568/0G99rE-xeJyJB7-H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062842621031243776/pu/vid/avc1/480x852/NVjXoW93JancxvWM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062842621031243776/pu/vid/avc1/720x1280/__VmABOQ6-I3hW2b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062842621031243776/pu/pl/A8dmYgEX7xNVRZFD.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062842621031243776"
+          ]
+        },
+        "author_id": "2773172660",
+        "conversation_id": "2062842675280400487",
+        "created_at": "2026-06-05T10:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062842675280400487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1088970800206495744",
+              "start": 3,
+              "username": "jxbgM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIG8uiw9no",
+              "end": 33,
+              "expanded_url": "https://x.com/KigMiyu/status/2062842675280400487/video/1",
+              "media_key": "7_2062842621031243776",
+              "start": 10,
+              "url": "https://t.co/UIG8uiw9no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062842675280400487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 9860,
+          "like_count": 853,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "🥵🔥 @jxbgM https://t.co/UIG8uiw9no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21525,
+          "following_count": 8999,
+          "like_count": 151888,
+          "listed_count": 52,
+          "media_count": 4627,
+          "tweet_count": 50648
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-27T12:51:53.000Z",
+        "description": "SFW content, follow my second account @kigmiyu1 \n⚠️🔞 NSFW content 🍆🔥🥵🐔\nQQ🐧: 3881153174 DM \ncommissions & requests for 🔞 videos follow me on fansly 🙏❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "kigmiyu1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/Miyukig",
+                "end": 23,
+                "expanded_url": "https://fansly.com/Miyukig",
+                "start": 0,
+                "url": "https://t.co/34iHbusMLs"
+              }
+            ]
+          }
+        },
+        "id": "2773172660",
+        "location": "Brisbane, Queensland",
+        "name": "MiyuKig 🇦🇺 Kigurumi Next Con: DW14 Doll Weekend",
+        "pinned_tweet_id": "2041869860075139372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016619329916456961/bskt8_Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18344,
+          "following_count": 1072,
+          "like_count": 15733,
+          "listed_count": 109,
+          "media_count": 321,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/34iHbusMLs",
+        "username": "KigMiyu",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-26T01:24:05.000Z",
+        "description": "布村留学中，喜欢二次元，是个好色的小伪娘，kiger萌新，欢迎贴贴捏",
+        "id": "1088970800206495744",
+        "location": "布里斯班，Brisbane",
+        "name": "夹心的巧克力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488692212636741635/-hvKa4Jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3718,
+          "following_count": 726,
+          "like_count": 47309,
+          "listed_count": 15,
+          "media_count": 72,
+          "tweet_count": 1479
+        },
+        "username": "jxbgM",
+        "verified": false
+      }
+    ]
+  }
+}

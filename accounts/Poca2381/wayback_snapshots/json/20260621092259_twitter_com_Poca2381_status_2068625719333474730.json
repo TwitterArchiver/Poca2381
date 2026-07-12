@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068205686178422836",
+    "created_at": "2026-06-21T09:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068625719333474730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1427572752358141956",
+          "start": 0,
+          "username": "RedteaCattleya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068625719333474730",
+    "in_reply_to_user_id": "1427572752358141956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068205686178422836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RedteaCattleya 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068205674379776000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO-Gl_akAAPz3w.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068205686178422836",
+        "created_at": "2026-06-21T09:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068625719333474730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1427572752358141956",
+              "start": 0,
+              "username": "RedteaCattleya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068625719333474730",
+        "in_reply_to_user_id": "1427572752358141956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068205686178422836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RedteaCattleya 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068205674379776000"
+          ]
+        },
+        "author_id": "1427572752358141956",
+        "conversation_id": "2068205686178422836",
+        "created_at": "2026-06-20T05:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068205686178422836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBJx3hj98O",
+              "end": 30,
+              "expanded_url": "https://x.com/RedteaCattleya/status/2068205686178422836/photo/1",
+              "media_key": "3_2068205674379776000",
+              "start": 7,
+              "url": "https://t.co/mBJx3hj98O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068205686178422836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1324,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经是成猫了 https://t.co/mBJx3hj98O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22127,
+          "following_count": 9518,
+          "like_count": 152464,
+          "listed_count": 52,
+          "media_count": 4958,
+          "tweet_count": 52023
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-17T10:07:31.000Z",
+        "description": "Sunlight @Meowneko_Mio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Meowneko_Mio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hongcha.uk",
+                "end": 23,
+                "expanded_url": "http://hongcha.uk",
+                "start": 0,
+                "url": "https://t.co/2jEZ3h9bHm"
+              }
+            ]
+          }
+        },
+        "id": "1427572752358141956",
+        "name": "紅茶🐱",
+        "pinned_tweet_id": "2015564971682508891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000142831231606784/QdF5q6OA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 1631,
+          "like_count": 37387,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 5796
+        },
+        "url": "https://t.co/2jEZ3h9bHm",
+        "username": "RedteaCattleya",
+        "verified": false
+      }
+    ]
+  }
+}

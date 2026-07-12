@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068375782880424159",
+    "created_at": "2026-06-21T13:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068682461396287739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1574354086303911936",
+          "start": 0,
+          "username": "Rakuki56"
+        },
+        {
+          "end": 26,
+          "id": "1573690918598717440",
+          "start": 10,
+          "username": "SkyCloud_Violin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068682461396287739",
+    "in_reply_to_user_id": "1574354086303911936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068375782880424159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakuki56 @SkyCloud_Violin 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_2068375778463825920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRYz9FbwAALRD7.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068375782880424159",
+        "created_at": "2026-06-21T13:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068682461396287739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1574354086303911936",
+              "start": 0,
+              "username": "Rakuki56"
+            },
+            {
+              "end": 26,
+              "id": "1573690918598717440",
+              "start": 10,
+              "username": "SkyCloud_Violin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068682461396287739",
+        "in_reply_to_user_id": "1574354086303911936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068375782880424159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakuki56 @SkyCloud_Violin 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068375778463825920"
+          ]
+        },
+        "author_id": "1574354086303911936",
+        "conversation_id": "2068375782880424159",
+        "created_at": "2026-06-20T16:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068375782880424159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1573690918598717440",
+              "start": 15,
+              "username": "SkyCloud_Violin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7WhpZuRH5",
+              "end": 61,
+              "expanded_url": "https://x.com/Rakuki56/status/2068375782880424159/photo/1",
+              "media_key": "3_2068375778463825920",
+              "start": 38,
+              "url": "https://t.co/U7WhpZuRH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068375782880424159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 332,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶，蓝标终于回来啦～\n另外祝@SkyCloud_Violin 生日快乐🎊 https://t.co/U7WhpZuRH5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22134,
+          "following_count": 9527,
+          "like_count": 152488,
+          "listed_count": 52,
+          "media_count": 4960,
+          "tweet_count": 52053
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T11:04:14.000Z",
+        "description": "地球Online🇯🇵日服休闲玩家 / 出生点🇨🇳中国北京 / ENTJ / 无性恋 / 友🍥🏳️‍⚧️跨性别 / 泛二次元 / 主玩雀魂原神崩铁Steam / 舞萌初心者 / 欢迎扩列 / 是经营着很多群的群主大人～\n扩列或进群请加Q：29980852 / V：gtlzerp56",
+        "id": "1574354086303911936",
+        "location": "Tokyo-to, Japan",
+        "name": "洛曦Rakuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068055133754429440/lraKuO1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 8,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "Rakuki56",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T15:08:59.000Z",
+        "description": "「SkyCloud」企划所属Vtuber 薇乐林 (WeiRarin)/粉丝群：442078757✨ / 梦想是成为超级超级有名的TopStar✨ / 🇯🇵东京常驻的猫娘 / 里推: @Violin_sub\n\n骄傲月快乐,大家都很勇敢,辛苦了🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "Violin_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/34931293…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3493129365752765?from=search",
+                "start": 0,
+                "url": "https://t.co/599bVsBcP9"
+              }
+            ]
+          }
+        },
+        "id": "1573690918598717440",
+        "location": "云梦星",
+        "name": "薇楽林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062908953261150208/GW2QnEPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 513,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/599bVsBcP9",
+        "username": "SkyCloud_Violin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069858195129184256"
+      ],
+      "media_source_tweet_id": [
+        "2069858244319936557"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070069774676291973",
+    "created_at": "2026-06-25T09:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070069774676291973"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1588162395633250304",
+          "start": 3,
+          "username": "CharmionLoya"
+        },
+        {
+          "end": 44,
+          "id": "1906665285203226624",
+          "start": 32,
+          "username": "youtan12155"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/taK2akoBjk",
+          "end": 85,
+          "expanded_url": "https://x.com/CharmionLoya/status/2069858244319936557/video/1",
+          "media_key": "13_2069858195129184256",
+          "start": 62,
+          "url": "https://t.co/taK2akoBjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070069774676291973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069858244319936557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CharmionLoya: 不吃是因为不喜欢吗?\n坏蛋:@youtan12155 \n#kigurumi #着ぐるみ https://t.co/taK2akoBjk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9965,
+        "height": 1920,
+        "media_key": "13_2069858195129184256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069858195129184256/img/2dIo9Ayv5E0xzOgL.jpg",
+        "public_metrics": {
+          "view_count": 516
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069858195129184256/vid/avc1/320x568/aBJ-VjdcFe10Ce4q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069858195129184256/vid/avc1/480x852/mQr9ahDr07NDPziu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069858195129184256/vid/avc1/720x1280/y0NEGD1VMu-MKHcS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069858195129184256/pl/iH44OTOWhR8J1SSx.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069858195129184256"
+          ],
+          "media_source_tweet_id": [
+            "2069858244319936557"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070069774676291973",
+        "created_at": "2026-06-25T09:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070069774676291973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1588162395633250304",
+              "start": 3,
+              "username": "CharmionLoya"
+            },
+            {
+              "end": 44,
+              "id": "1906665285203226624",
+              "start": 32,
+              "username": "youtan12155"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/taK2akoBjk",
+              "end": 85,
+              "expanded_url": "https://x.com/CharmionLoya/status/2069858244319936557/video/1",
+              "media_key": "13_2069858195129184256",
+              "start": 62,
+              "url": "https://t.co/taK2akoBjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070069774676291973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069858244319936557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CharmionLoya: 不吃是因为不喜欢吗?\n坏蛋:@youtan12155 \n#kigurumi #着ぐるみ https://t.co/taK2akoBjk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069858195129184256"
+          ]
+        },
+        "author_id": "1588162395633250304",
+        "conversation_id": "2069858244319936557",
+        "created_at": "2026-06-24T19:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069858244319936557"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1906665285203226624",
+              "start": 14,
+              "username": "youtan12155"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/taK2akoBjk",
+              "end": 67,
+              "expanded_url": "https://x.com/CharmionLoya/status/2069858244319936557/video/1",
+              "media_key": "13_2069858195129184256",
+              "start": 44,
+              "url": "https://t.co/taK2akoBjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069858244319936557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1891,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "不吃是因为不喜欢吗?\n坏蛋:@youtan12155 \n#kigurumi #着ぐるみ https://t.co/taK2akoBjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22290,
+          "following_count": 9629,
+          "like_count": 152674,
+          "listed_count": 52,
+          "media_count": 5042,
+          "tweet_count": 52418
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-03T13:33:29.000Z",
+        "description": "愿你与重要的人再重逢！欢迎私信扩列鸭～",
+        "id": "1588162395633250304",
+        "location": "嘉兴",
+        "name": "冬雨雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903658327655264256/UCMLxqHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 376,
+          "like_count": 206,
+          "listed_count": 20,
+          "media_count": 83,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "CharmionLoya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T11:11:50.000Z",
+        "description": "萌新",
+        "id": "1906665285203226624",
+        "name": "幽昙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007360817185144832/XG2-mqxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 303,
+          "like_count": 965,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "youtan12155",
+        "verified": false
+      }
+    ]
+  }
+}

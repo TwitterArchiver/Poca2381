@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052303069464158208"
+      ],
+      "media_source_tweet_id": [
+        "2052303191535202672"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052369776253837629",
+    "created_at": "2026-05-07T12:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052369776253837629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358061535340290048",
+          "start": 3,
+          "username": "Uni_btt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4t6pFClJuC",
+          "end": 42,
+          "expanded_url": "https://x.com/Uni_btt/status/2052303191535202672/video/1",
+          "media_key": "13_2052303069464158208",
+          "start": 19,
+          "url": "https://t.co/4t6pFClJuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052369776253837629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052303191535202672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni_btt: 天音大学习 https://t.co/4t6pFClJuC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35601,
+        "height": 1280,
+        "media_key": "13_2052303069464158208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052303069464158208/img/gTtrk41jz3lDd_l2.jpg",
+        "public_metrics": {
+          "view_count": 809
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052303069464158208/vid/avc1/320x568/B2zAKBUBPbK7ORMo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052303069464158208/vid/avc1/480x852/B2NqnoFvygCx3Qed.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052303069464158208/vid/avc1/720x1280/1iAX5i0peZ8TNWIm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052303069464158208/pl/cEM35Xk0XSfuirb8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052303069464158208"
+          ],
+          "media_source_tweet_id": [
+            "2052303191535202672"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052369776253837629",
+        "created_at": "2026-05-07T12:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052369776253837629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358061535340290048",
+              "start": 3,
+              "username": "Uni_btt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4t6pFClJuC",
+              "end": 42,
+              "expanded_url": "https://x.com/Uni_btt/status/2052303191535202672/video/1",
+              "media_key": "13_2052303069464158208",
+              "start": 19,
+              "url": "https://t.co/4t6pFClJuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052369776253837629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052303191535202672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uni_btt: 天音大学习 https://t.co/4t6pFClJuC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052303069464158208"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "2052303191535202672",
+        "created_at": "2026-05-07T08:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052303191535202672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4t6pFClJuC",
+              "end": 29,
+              "expanded_url": "https://x.com/Uni_btt/status/2052303191535202672/video/1",
+              "media_key": "13_2052303069464158208",
+              "start": 6,
+              "url": "https://t.co/4t6pFClJuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052303191535202672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2379,
+          "like_count": 175,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "天音大学习 https://t.co/4t6pFClJuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20129,
+          "following_count": 7525,
+          "like_count": 150236,
+          "listed_count": 49,
+          "media_count": 4035,
+          "tweet_count": 47860
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "妈妈 @knk0223ff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "knk0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "2003597089046147143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10934,
+          "following_count": 523,
+          "like_count": 11659,
+          "listed_count": 17,
+          "media_count": 1400,
+          "tweet_count": 11094
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2058086060345999461",
+    "created_at": "2026-05-23T07:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058089169151496200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806993387285057537",
+          "start": 0,
+          "username": "CR_Rabbit_Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058089169151496200",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058089114629734590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CR_Rabbit_Li 已经到目的地了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2058086060345999461",
+        "created_at": "2026-05-23T07:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058089169151496200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806993387285057537",
+              "start": 0,
+              "username": "CR_Rabbit_Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058089169151496200",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058089114629734590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CR_Rabbit_Li 已经到目的地了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2058086060345999461",
+        "created_at": "2026-05-23T07:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058089114629734590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806993387285057537",
+              "start": 0,
+              "username": "CR_Rabbit_Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058089114629734590",
+        "in_reply_to_user_id": "1806993387285057537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058088792695906678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CR_Rabbit_Li 在烈士陵园"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20812,
+          "following_count": 8308,
+          "like_count": 150986,
+          "listed_count": 51,
+          "media_count": 4310,
+          "tweet_count": 49087
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T10:09:50.000Z",
+        "description": "男｜08｜高三在家自学｜168｜算是直男吧｜半马pb 201｜Minecraft｜文明6｜戴森球｜INT?｜欢迎来和我聊天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cr_rabbit_li",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cr_rabbit_li",
+                "start": 0,
+                "url": "https://t.co/FwWBta80u5"
+              }
+            ]
+          }
+        },
+        "id": "1806993387285057537",
+        "location": "白云山的某条土路上",
+        "name": "一只屑兔子🚴🏃",
+        "pinned_tweet_id": "2022495217518297116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056348193538060288/ssPV3M8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 165,
+          "like_count": 28095,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/FwWBta80u5",
+        "username": "CR_Rabbit_Li",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066495165821587456"
+      ],
+      "media_source_tweet_id": [
+        "2066495310759960987"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067302862573752765",
+    "created_at": "2026-06-17T17:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067302862573752765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880308186907045888",
+          "start": 3,
+          "username": "lucheedoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7MdGWK10Z",
+          "end": 89,
+          "expanded_url": "https://x.com/lucheedoll/status/2066495310759960987/video/1",
+          "media_key": "13_2066495165821587456",
+          "start": 66,
+          "url": "https://t.co/j7MdGWK10Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067302862573752765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066495310759960987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lucheedoll: Happy International Latex Day!!!🎉\nこれからもラバーを楽しもう☺️ https://t.co/j7MdGWK10Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11800,
+        "height": 2560,
+        "media_key": "13_2066495165821587456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066495165821587456/img/HL8cej9RmC6SrLVi.jpg",
+        "public_metrics": {
+          "view_count": 2875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066495165821587456/pl/tZRleZ9V_L-tMNnb.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066495165821587456/vid/avc1/320x568/rjnKoHBeI75xWz_w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066495165821587456/vid/avc1/720x1280/b6VCwsjlkV9bbLo7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066495165821587456/vid/avc1/1440x2560/oh2ZgvOyvQqlx5RJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066495165821587456/vid/avc1/480x852/0oZfPcZsAKu8dl7A.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066495165821587456"
+          ],
+          "media_source_tweet_id": [
+            "2066495310759960987"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067302862573752765",
+        "created_at": "2026-06-17T17:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067302862573752765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880308186907045888",
+              "start": 3,
+              "username": "lucheedoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7MdGWK10Z",
+              "end": 89,
+              "expanded_url": "https://x.com/lucheedoll/status/2066495310759960987/video/1",
+              "media_key": "13_2066495165821587456",
+              "start": 66,
+              "url": "https://t.co/j7MdGWK10Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067302862573752765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066495310759960987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lucheedoll: Happy International Latex Day!!!🎉\nこれからもラバーを楽しもう☺️ https://t.co/j7MdGWK10Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066495165821587456"
+          ]
+        },
+        "author_id": "1880308186907045888",
+        "conversation_id": "2066495310759960987",
+        "created_at": "2026-06-15T12:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066495310759960987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7MdGWK10Z",
+              "end": 73,
+              "expanded_url": "https://x.com/lucheedoll/status/2066495310759960987/video/1",
+              "media_key": "13_2066495165821587456",
+              "start": 50,
+              "url": "https://t.co/j7MdGWK10Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066495310759960987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 9625,
+          "like_count": 994,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Happy International Latex Day!!!🎉\nこれからもラバーを楽しもう☺️ https://t.co/j7MdGWK10Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22022,
+          "following_count": 9437,
+          "like_count": 152350,
+          "listed_count": 52,
+          "media_count": 4883,
+          "tweet_count": 51767
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T17:36:43.000Z",
+        "description": "kigurumi / INTP / Non-binary / latex / 2025.5〜リン(ゼンゼロ)/ 2025.11〜フレミネ(原神) /🔑@lucheenoura /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "lucheenoura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lucheedoll?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lucheedoll?igsh=ejNmZzBoNXFjOGdm&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/vMlXLFkthz"
+              }
+            ]
+          }
+        },
+        "id": "1880308186907045888",
+        "location": "Tokyo",
+        "name": "るちぇ",
+        "pinned_tweet_id": "2062909546901954799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060365071524761602/Mc4L3wqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 771,
+          "like_count": 13726,
+          "listed_count": 20,
+          "media_count": 425,
+          "tweet_count": 1587
+        },
+        "url": "https://t.co/vMlXLFkthz",
+        "username": "lucheedoll",
+        "verified": true
+      }
+    ]
+  }
+}

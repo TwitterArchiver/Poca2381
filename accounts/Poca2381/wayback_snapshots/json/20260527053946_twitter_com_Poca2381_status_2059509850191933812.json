@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2059306527304159371",
+    "created_at": "2026-05-27T05:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059509850191933812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794228297649266688",
+          "start": 0,
+          "username": "yingzhuaiaicao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059509850191933812",
+    "in_reply_to_user_id": "1794228297649266688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059306527304159371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingzhuaiaicao 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059306501668483072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQgWkOaMAA4vZI.jpg",
+        "width": 1862
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059306506366210048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQgW1ub0AAXUDk.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2059306527304159371",
+        "created_at": "2026-05-27T05:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059509850191933812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794228297649266688",
+              "start": 0,
+              "username": "yingzhuaiaicao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059509850191933812",
+        "in_reply_to_user_id": "1794228297649266688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059306527304159371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingzhuaiaicao 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059306501668483072",
+            "3_2059306506366210048"
+          ]
+        },
+        "author_id": "1794228297649266688",
+        "conversation_id": "2059306527304159371",
+        "created_at": "2026-05-26T16:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059306527304159371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fg80RgrAkc",
+              "end": 34,
+              "expanded_url": "https://x.com/yingzhuaiaicao/status/2059306527304159371/photo/1",
+              "media_key": "3_2059306501668483072",
+              "start": 11,
+              "url": "https://t.co/Fg80RgrAkc"
+            },
+            {
+              "display_url": "pic.x.com/Fg80RgrAkc",
+              "end": 34,
+              "expanded_url": "https://x.com/yingzhuaiaicao/status/2059306527304159371/photo/1",
+              "media_key": "3_2059306506366210048",
+              "start": 11,
+              "url": "https://t.co/Fg80RgrAkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059306527304159371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1926,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "祝我18岁生日快乐！ https://t.co/Fg80RgrAkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20980,
+          "following_count": 8493,
+          "like_count": 151218,
+          "listed_count": 51,
+          "media_count": 4387,
+          "tweet_count": 49490
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-25T04:45:44.000Z",
+        "description": "Hi，这里是奈布（阿布）maimai重度依赖，手游几乎都玩过（？）端游cs2 瓦 粥\nEnglish🆗  한국어🆗  日本語🆗（机翻）  坐标山东  扩列请私信 \n主人：@Anyang_owo\n  推止于推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Anyang_owo"
+              }
+            ]
+          }
+        },
+        "id": "1794228297649266688",
+        "name": "奈布不是兵王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842600284368891904/ulgnyhhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1070,
+          "like_count": 3503,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 667
+        },
+        "username": "yingzhuaiaicao",
+        "verified": false
+      }
+    ]
+  }
+}

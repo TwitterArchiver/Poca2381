@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073678266385444864"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2073678293174518213",
+    "created_at": "2026-07-05T08:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073678293174518213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Xv5jJQiAK",
+          "end": 28,
+          "expanded_url": "https://x.com/Poca2381/status/2073678293174518213/photo/1",
+          "media_key": "3_2073678266385444864",
+          "start": 5,
+          "url": "https://t.co/4Xv5jJQiAK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073678293174518213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我破绷了 https://t.co/4Xv5jJQiAK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2073678266385444864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcvZX5aMAAcFGQ.png",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073678266385444864"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2073678293174518213",
+        "created_at": "2026-07-05T08:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073678293174518213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Xv5jJQiAK",
+              "end": 28,
+              "expanded_url": "https://x.com/Poca2381/status/2073678293174518213/photo/1",
+              "media_key": "3_2073678266385444864",
+              "start": 5,
+              "url": "https://t.co/4Xv5jJQiAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073678293174518213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我破绷了 https://t.co/4Xv5jJQiAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22510,
+          "following_count": 9808,
+          "like_count": 152936,
+          "listed_count": 52,
+          "media_count": 5228,
+          "tweet_count": 53099
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

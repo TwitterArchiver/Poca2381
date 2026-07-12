@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055517943438757888"
+      ],
+      "media_source_tweet_id": [
+        "2055517958806602225"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2059280291785822669",
+    "created_at": "2026-05-26T14:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059280291785822669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1681902931564703744",
+          "start": 3,
+          "username": "aim20371231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vG9250gq1g",
+          "end": 72,
+          "expanded_url": "https://x.com/aim20371231/status/2055517958806602225/photo/1",
+          "media_key": "3_2055517943438757888",
+          "start": 49,
+          "url": "https://t.co/vG9250gq1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059280291785822669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055517958806602225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aim20371231: 话说今天是无产阶级文化大革命开始六十周年来着。一个甲子过去了啊 https://t.co/vG9250gq1g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2055517943438757888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaqrdAb0AA6g5s.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055517943438757888"
+          ],
+          "media_source_tweet_id": [
+            "2055517958806602225"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2059280291785822669",
+        "created_at": "2026-05-26T14:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059280291785822669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1681902931564703744",
+              "start": 3,
+              "username": "aim20371231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vG9250gq1g",
+              "end": 72,
+              "expanded_url": "https://x.com/aim20371231/status/2055517958806602225/photo/1",
+              "media_key": "3_2055517943438757888",
+              "start": 49,
+              "url": "https://t.co/vG9250gq1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059280291785822669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055517958806602225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aim20371231: 话说今天是无产阶级文化大革命开始六十周年来着。一个甲子过去了啊 https://t.co/vG9250gq1g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055517943438757888"
+          ]
+        },
+        "author_id": "1681902931564703744",
+        "conversation_id": "2055517958806602225",
+        "created_at": "2026-05-16T05:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055517958806602225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vG9250gq1g",
+              "end": 55,
+              "expanded_url": "https://x.com/aim20371231/status/2055517958806602225/photo/1",
+              "media_key": "3_2055517943438757888",
+              "start": 32,
+              "url": "https://t.co/vG9250gq1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055517958806602225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 17377,
+          "like_count": 498,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "话说今天是无产阶级文化大革命开始六十周年来着。一个甲子过去了啊 https://t.co/vG9250gq1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20970,
+          "following_count": 8474,
+          "like_count": 151177,
+          "listed_count": 51,
+          "media_count": 4380,
+          "tweet_count": 49434
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992538557588832256/6UUyCwoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 2466,
+          "like_count": 173859,
+          "listed_count": 20,
+          "media_count": 2666,
+          "tweet_count": 55702
+        },
+        "username": "aim20371231",
+        "verified": false
+      }
+    ]
+  }
+}

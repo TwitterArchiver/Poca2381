@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tops",
+          "id": "849641708258074624",
+          "name": "Tops"
+        }
+      }
+    ],
+    "conversation_id": "2059280231299776607",
+    "created_at": "2026-05-26T14:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059280231299776607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1218028959109210113",
+          "start": 3,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059280231299776607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056388453588406565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RizumuA3: 看了 北京大学 一个讲 “知识锁” 类游戏设计的演讲 PPT。学到一个新概念：“可读性”\n\n知识锁类设计常见于 星际拓荒、见证者、Tunic、Leap Year 等游戏中。可以给人提供一种名为“啊哈 moment”的奇妙体验。\n\nPPT 中提到一个名…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2056388443140431872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInCZNGaoAAWSbF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tops",
+              "id": "849641708258074624",
+              "name": "Tops"
+            }
+          }
+        ],
+        "conversation_id": "2059280231299776607",
+        "created_at": "2026-05-26T14:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059280231299776607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1218028959109210113",
+              "start": 3,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059280231299776607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056388453588406565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RizumuA3: 看了 北京大学 一个讲 “知识锁” 类游戏设计的演讲 PPT。学到一个新概念：“可读性”\n\n知识锁类设计常见于 星际拓荒、见证者、Tunic、Leap Year 等游戏中。可以给人提供一种名为“啊哈 moment”的奇妙体验。\n\nPPT 中提到一个名…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056388443140431872"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tops",
+              "id": "849641708258074624",
+              "name": "Tops"
+            }
+          }
+        ],
+        "conversation_id": "2056388453588406565",
+        "created_at": "2026-05-18T14:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056388453588406565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2yWygIeysg",
+              "end": 189,
+              "expanded_url": "https://x.com/RizumuA3/status/2056388453588406565/photo/1",
+              "media_key": "3_2056388443140431872",
+              "start": 166,
+              "url": "https://t.co/2yWygIeysg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056388453588406565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看了 北京大学 一个讲 “知识锁” 类游戏设计的演讲 PPT。学到一个新概念：“可读性”\n\n知识锁类设计常见于 星际拓荒、见证者、Tunic、Leap Year 等游戏中。可以给人提供一种名为“啊哈 moment”的奇妙体验。\n\nPPT 中提到一个名为“可读性”的概念我觉得很奇妙。 “学到新知识后。原本不可读的东西会变的可读。”\n\n这让我想起去香格里拉旅行时候看雪山的经历。起初我没有去做功课。我看雪山就和其它山差不多。只知道高知道有雪。住在那边几天。期间看了一些科普了解了雪山的知识。角峰、刃脊还有湖什么的结构特征，雪山的形成原理等。再回头去看雪山。之前仿佛不可见细节都冒了出来。每座雪山的细节变的很清晰，区分起来也变容易了。\n\n我在想这是不是知识锁和可读性之间的关系呢？\n\n雪山的构成原本是模糊的不可读的。只能作为一个整体模糊的被我识别。当我了解了相关的知识。雪山的细节也就自动解锁了。变成了可以读的！\n\n星际拓荒中的知识锁用到了时间维度。玩家的注视等要素。作为一个没有技能、道具等成长要素的游戏。它的知识锁设计的很丰富。\n\n不过知识锁也不是只能作是一个知识。它也可以是基于玩家获得的新道具的隐藏或进阶用法。现实世界中我们使用的许多物品和工具也都有着这样的属性。在这方面。动物井中的道具设计很好的做到了这一点。比如弹簧玩具除了直接压住按钮之外。还可以弹跳滚下楼梯来按住按钮。可以用移动时间来延迟按下按钮。可以滚动到玩家不可触及的狭窄区域来触发按钮。\n\n*配图为 PPT 第一页。包括引用的作者的名字等信息。本推文内容为延伸讨论。算是我用我自己的话讲了讲我看了之后的想法和总结"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 35412,
+          "like_count": 413,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "看了 北京大学 一个讲 “知识锁” 类游戏设计的演讲 PPT。学到一个新概念：“可读性”\n\n知识锁类设计常见于 星际拓荒、见证者、Tunic、Leap Year 等游戏中。可以给人提供一种名为“啊哈 moment”的奇妙体验。\n\nPPT 中提到一个名为“可读性”的概念我觉得很奇妙。 “学到新知识后。原本不可读的东西会变的可读。” https://t.co/2yWygIeysg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20970,
+          "following_count": 8473,
+          "like_count": 151176,
+          "listed_count": 51,
+          "media_count": 4380,
+          "tweet_count": 49432
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11870,
+          "following_count": 1550,
+          "like_count": 45227,
+          "listed_count": 57,
+          "media_count": 1905,
+          "tweet_count": 14347
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

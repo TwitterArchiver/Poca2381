@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2033949747145543934",
+    "created_at": "2026-06-23T04:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069283400964616243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1687824049886695424",
+          "start": 0,
+          "username": "177Kana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069283400964616243",
+    "in_reply_to_user_id": "1687824049886695424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033949747145543934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@177Kana 晚安17"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033949736764641280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoKgl7bEAAH0ey.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2033949747145543934",
+        "created_at": "2026-06-23T04:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069283400964616243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1687824049886695424",
+              "start": 0,
+              "username": "177Kana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069283400964616243",
+        "in_reply_to_user_id": "1687824049886695424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033949747145543934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@177Kana 晚安17"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033949736764641280"
+          ]
+        },
+        "author_id": "1687824049886695424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2033949747145543934",
+        "created_at": "2026-03-17T16:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033949747145543934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "Kigurumi"
+            },
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "Cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADfLJJqdo4",
+              "end": 52,
+              "expanded_url": "https://x.com/177Kana/status/2033949747145543934/photo/1",
+              "media_key": "3_2033949736764641280",
+              "start": 29,
+              "url": "https://t.co/ADfLJJqdo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033949747145543934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 10573,
+          "like_count": 267,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "不...不要拍啦！\n#Kigurumi #Cosplay https://t.co/ADfLJJqdo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22195,
+          "following_count": 9560,
+          "like_count": 152537,
+          "listed_count": 52,
+          "media_count": 4998,
+          "tweet_count": 52185
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-05T13:53:20.000Z",
+        "description": "萌新Kiger，多多指教！ 角色：心海/神里绫华/阮梅（待制作）。地点：广西南宁 常常出没在南宁漫展哦，假期会出没萤火虫/BW/CP",
+        "id": "1687824049886695424",
+        "name": "拾柒Kana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895921316718419968/RjNQTn5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 685,
+          "like_count": 2743,
+          "listed_count": 11,
+          "media_count": 79,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "177Kana",
+        "verified": false
+      }
+    ]
+  }
+}

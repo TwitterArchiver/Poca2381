@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057251510636187648"
+      ],
+      "media_source_tweet_id": [
+        "2057251513316311305"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069311238472073462",
+    "created_at": "2026-06-23T06:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069311238472073462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828632343680294916",
+          "start": 3,
+          "username": "jianlvya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9AETlkd8KV",
+          "end": 57,
+          "expanded_url": "https://x.com/jianlvya/status/2057251513316311305/photo/1",
+          "media_key": "3_2057251510636187648",
+          "start": 34,
+          "url": "https://t.co/9AETlkd8KV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069311238472073462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057251513316311305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianlvya: 这么好吃的吗🤔\n发个沙雕消息放松一下😋 https://t.co/9AETlkd8KV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2057251510636187648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzTWWEbEAA5e8D.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057251510636187648"
+          ],
+          "media_source_tweet_id": [
+            "2057251513316311305"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069311238472073462",
+        "created_at": "2026-06-23T06:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069311238472073462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828632343680294916",
+              "start": 3,
+              "username": "jianlvya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AETlkd8KV",
+              "end": 57,
+              "expanded_url": "https://x.com/jianlvya/status/2057251513316311305/photo/1",
+              "media_key": "3_2057251510636187648",
+              "start": 34,
+              "url": "https://t.co/9AETlkd8KV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069311238472073462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057251513316311305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianlvya: 这么好吃的吗🤔\n发个沙雕消息放松一下😋 https://t.co/9AETlkd8KV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057251510636187648"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2057251513316311305",
+        "created_at": "2026-05-21T00:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057251513316311305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AETlkd8KV",
+              "end": 43,
+              "expanded_url": "https://x.com/jianlvya/status/2057251513316311305/photo/1",
+              "media_key": "3_2057251510636187648",
+              "start": 20,
+              "url": "https://t.co/9AETlkd8KV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057251513316311305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 1211066,
+          "like_count": 4498,
+          "quote_count": 5,
+          "reply_count": 432,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "这么好吃的吗🤔\n发个沙雕消息放松一下😋 https://t.co/9AETlkd8KV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22208,
+          "following_count": 9563,
+          "like_count": 152567,
+          "listed_count": 52,
+          "media_count": 5003,
+          "tweet_count": 52217
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互关）",
+        "pinned_tweet_id": "2059532522728632333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061037984837959680/milpZMHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6464,
+          "following_count": 985,
+          "like_count": 28137,
+          "listed_count": 16,
+          "media_count": 1357,
+          "tweet_count": 2404
+        },
+        "url": "",
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

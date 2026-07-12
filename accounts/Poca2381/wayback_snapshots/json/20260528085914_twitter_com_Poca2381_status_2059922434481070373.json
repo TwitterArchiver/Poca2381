@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2059862342746427744",
+    "created_at": "2026-05-28T08:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059922434481070373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771341344520454144",
+          "start": 0,
+          "username": "Karlrela114"
+        },
+        {
+          "end": 25,
+          "id": "1507610784154546178",
+          "start": 13,
+          "username": "Yukikaze564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059922434481070373",
+    "in_reply_to_user_id": "1771341344520454144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059862342746427744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karlrela114 @Yukikaze564 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059862297515114496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYZ2JGbwAAMUPI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2059862342746427744",
+        "created_at": "2026-05-28T08:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059922434481070373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771341344520454144",
+              "start": 0,
+              "username": "Karlrela114"
+            },
+            {
+              "end": 25,
+              "id": "1507610784154546178",
+              "start": 13,
+              "username": "Yukikaze564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059922434481070373",
+        "in_reply_to_user_id": "1771341344520454144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059862342746427744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karlrela114 @Yukikaze564 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059862297515114496"
+          ]
+        },
+        "author_id": "1771341344520454144",
+        "conversation_id": "2059862342746427744",
+        "created_at": "2026-05-28T05:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059862342746427744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "皮モノ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNewvcei1l",
+              "end": 51,
+              "expanded_url": "https://x.com/Karlrela114/status/2059862342746427744/photo/1",
+              "media_key": "3_2059862297515114496",
+              "start": 28,
+              "url": "https://t.co/oNewvcei1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059862342746427744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 2699,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "有一些秘密\n#着ぐるみ #kigurumi  #皮モノ https://t.co/oNewvcei1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21035,
+          "following_count": 8524,
+          "like_count": 151245,
+          "listed_count": 51,
+          "media_count": 4410,
+          "tweet_count": 49565
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-23T01:01:16.000Z",
+        "description": "萌新kiger，170/49，♂，入坑时长两年，违背誓约的恶堕型涩涩选手…当然也会产出正常照片\n喜欢交友，不拒绝正常人任何形式扩列\n头壳研发当中，暂时没什么成果\n宝宝@nionionionio1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "nionionionio1"
+              }
+            ]
+          }
+        },
+        "id": "1771341344520454144",
+        "name": "卡奥列娜/Karlrela",
+        "pinned_tweet_id": "2053343186224054501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771342258560000000/dMdBy0Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4455,
+          "following_count": 303,
+          "like_count": 41,
+          "listed_count": 32,
+          "media_count": 96,
+          "tweet_count": 127
+        },
+        "username": "Karlrela114",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T06:50:02.000Z",
+        "description": "家里的❤️🐱@Lunarwolf_LB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "Lunarwolf_LB"
+              }
+            ]
+          }
+        },
+        "id": "1507610784154546178",
+        "location": "中国",
+        "name": "雪风Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038392072869498880/abBBAZW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 1311,
+          "like_count": 28911,
+          "listed_count": 16,
+          "media_count": 125,
+          "tweet_count": 9923
+        },
+        "username": "Yukikaze564",
+        "verified": false
+      }
+    ]
+  }
+}

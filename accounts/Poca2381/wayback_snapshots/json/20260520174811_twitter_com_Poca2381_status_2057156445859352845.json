@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057147319599182323",
+    "created_at": "2026-05-20T17:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057156445859352845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1327616511435935744",
+          "start": 0,
+          "username": "peter__wcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057156445859352845",
+    "in_reply_to_user_id": "1327616511435935744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057147319599182323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peter__wcy 摸摸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057147319599182323].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057147319599182323",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057147319599182323"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057147319599182323",
+        "created_at": "2026-05-20T17:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057156445859352845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1327616511435935744",
+              "start": 0,
+              "username": "peter__wcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057156445859352845",
+        "in_reply_to_user_id": "1327616511435935744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057147319599182323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peter__wcy 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20693,
+          "following_count": 8240,
+          "like_count": 150934,
+          "listed_count": 50,
+          "media_count": 4269,
+          "tweet_count": 48958
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-14T14:17:09.000Z",
+        "description": "06infp🇭🇰｜卡粉 美食 酒店 旅遊 酒蒙子｜不開心的話 去看海吧 ｜雲邊有個小賣部",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Peter_hzx",
+                "end": 23,
+                "expanded_url": "https://t.me/Peter_hzx",
+                "start": 0,
+                "url": "https://t.co/1xux7hVhie"
+              }
+            ]
+          }
+        },
+        "id": "1327616511435935744",
+        "location": "Hong Kong",
+        "name": "P.H.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867641816121835520/1PtdJs15_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 2133,
+          "like_count": 70270,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/1xux7hVhie",
+        "username": "peter__wcy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064016749247533056"
+      ],
+      "media_source_tweet_id": [
+        "2064016787893883047"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066892966141309072",
+    "created_at": "2026-06-16T14:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066892966141309072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1090424011035619328",
+          "start": 3,
+          "username": "ShuiP_SP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TYjXmPuGl1",
+          "end": 48,
+          "expanded_url": "https://x.com/ShuiP_SP/status/2064016787893883047/video/1",
+          "media_key": "7_2064016749247533056",
+          "start": 25,
+          "url": "https://t.co/TYjXmPuGl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066892966141309072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064016787893883047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShuiP_SP: 其实不太恨单眼啊哈哈 https://t.co/TYjXmPuGl1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066892966141309072].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066892966141309072",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066892966141309072"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18752,
+        "height": 720,
+        "media_key": "7_2064016749247533056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064016749247533056/pu/img/EmXxF5541LPQ5T5P.jpg",
+        "public_metrics": {
+          "view_count": 2100
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064016749247533056/pu/vid/avc1/480x270/p1nDNiZCukIJncOn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064016749247533056/pu/vid/avc1/640x360/klaN-kThg1_U1shg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064016749247533056/pu/vid/avc1/1280x720/WJ-VL3FJKZHWpGTf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064016749247533056/pu/pl/3De1aSTyzYlbTDe7.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064016749247533056"
+          ]
+        },
+        "author_id": "1090424011035619328",
+        "conversation_id": "2064016787893883047",
+        "created_at": "2026-06-08T16:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064016787893883047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYjXmPuGl1",
+              "end": 34,
+              "expanded_url": "https://x.com/ShuiP_SP/status/2064016787893883047/video/1",
+              "media_key": "7_2064016749247533056",
+              "start": 11,
+              "url": "https://t.co/TYjXmPuGl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064016787893883047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 6957,
+          "like_count": 335,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "其实不太恨单眼啊哈哈 https://t.co/TYjXmPuGl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21973,
+          "following_count": 9414,
+          "like_count": 152315,
+          "listed_count": 52,
+          "media_count": 4857,
+          "tweet_count": 51681
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-30T01:38:38.000Z",
+        "description": "我要將你拯救 逃離人類荒謬",
+        "id": "1090424011035619328",
+        "name": "ShuiP水瓶",
+        "pinned_tweet_id": "1966165672448372875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677188313172803585/BgYku_8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 843,
+          "like_count": 5774,
+          "listed_count": 20,
+          "media_count": 105,
+          "tweet_count": 3847
+        },
+        "username": "ShuiP_SP",
+        "verified": false
+      }
+    ]
+  }
+}

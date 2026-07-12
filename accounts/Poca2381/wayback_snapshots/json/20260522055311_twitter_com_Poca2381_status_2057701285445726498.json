@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2057073654161408000"
+      ],
+      "media_source_tweet_id": [
+        "2057073685375385868"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057701285445726498",
+    "created_at": "2026-05-22T05:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057701285445726498"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 44,
+          "start": 35,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482700199391019008",
+          "start": 3,
+          "username": "Raku_QAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jzHj9UGDIU",
+          "end": 68,
+          "expanded_url": "https://x.com/Raku_QAQ/status/2057073685375385868/video/1",
+          "media_key": "7_2057073654161408000",
+          "start": 45,
+          "url": "https://t.co/jzHj9UGDIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057701285445726498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057073685375385868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Raku_QAQ: 哪里傻了哪里傻了哪里傻了！\n\n#着ぐるみ #kigurumi https://t.co/jzHj9UGDIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8032,
+        "height": 1280,
+        "media_key": "7_2057073654161408000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057073654161408000/pu/img/3a_zdye37leL2-LM.jpg",
+        "public_metrics": {
+          "view_count": 1123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057073654161408000/pu/vid/avc1/320x568/kyPNq7K1WR6cR-r1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057073654161408000/pu/vid/avc1/480x852/bKVuNTGcsDbQmciZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057073654161408000/pu/vid/avc1/720x1280/-O0Z_y67jLUNM8xn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057073654161408000/pu/pl/90MREnxZ6M37Fj32.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057073654161408000"
+          ],
+          "media_source_tweet_id": [
+            "2057073685375385868"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057701285445726498",
+        "created_at": "2026-05-22T05:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057701285445726498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482700199391019008",
+              "start": 3,
+              "username": "Raku_QAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzHj9UGDIU",
+              "end": 68,
+              "expanded_url": "https://x.com/Raku_QAQ/status/2057073685375385868/video/1",
+              "media_key": "7_2057073654161408000",
+              "start": 45,
+              "url": "https://t.co/jzHj9UGDIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057701285445726498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057073685375385868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Raku_QAQ: 哪里傻了哪里傻了哪里傻了！\n\n#着ぐるみ #kigurumi https://t.co/jzHj9UGDIU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057073654161408000"
+          ]
+        },
+        "author_id": "1482700199391019008",
+        "conversation_id": "2057073685375385868",
+        "created_at": "2026-05-20T12:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057073685375385868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzHj9UGDIU",
+              "end": 54,
+              "expanded_url": "https://x.com/Raku_QAQ/status/2057073685375385868/video/1",
+              "media_key": "7_2057073654161408000",
+              "start": 31,
+              "url": "https://t.co/jzHj9UGDIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057073685375385868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 4001,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "哪里傻了哪里傻了哪里傻了！\n\n#着ぐるみ #kigurumi https://t.co/jzHj9UGDIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20756,
+          "following_count": 8277,
+          "like_count": 150950,
+          "listed_count": 50,
+          "media_count": 4285,
+          "tweet_count": 49009
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-16T13:04:17.000Z",
+        "description": "男娘版→@Raku_LoveYou\n灵魂缓缓地 飘落到所有生者和死者身上\n|摄影爹们带带我吧我什么都会做的|重度恋绳|INFJ-T|欢迎私聊 扩列 贴贴 约拍 巴拉巴拉w\n|Q 3326078311|提问箱https://t.co/ay8qtKrFUu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Raku_LoveYou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/raku_qaq",
+                "end": 126,
+                "expanded_url": "https://ngl.link/raku_qaq",
+                "start": 103,
+                "url": "https://t.co/ay8qtKrFUu"
+              }
+            ]
+          }
+        },
+        "id": "1482700199391019008",
+        "location": "虚拟与现实的罅隙",
+        "name": "Raku今天也在脸滚键盘",
+        "pinned_tweet_id": "1963481034558751083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845653736578019328/VY-IThdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6531,
+          "following_count": 1002,
+          "like_count": 1289,
+          "listed_count": 38,
+          "media_count": 150,
+          "tweet_count": 965
+        },
+        "username": "Raku_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

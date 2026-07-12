@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061835458603290624"
+      ],
+      "media_source_tweet_id": [
+        "2061835487833403477"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062017964594130945",
+    "created_at": "2026-06-03T03:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062017964594130945"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 15,
+          "tag": "珍しい人からリプがくる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2878135880",
+          "start": 3,
+          "username": "youmu_i19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/psX8A1fpJD",
+          "end": 51,
+          "expanded_url": "https://x.com/youmu_i19/status/2061835487833403477/photo/1",
+          "media_key": "3_2061835458603290624",
+          "start": 28,
+          "url": "https://t.co/psX8A1fpJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062017964594130945",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061835487833403477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmu_i19: #珍しい人からリプがくる https://t.co/psX8A1fpJD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2061835458603290624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0cbO9akAAr07u.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061835458603290624"
+          ],
+          "media_source_tweet_id": [
+            "2061835487833403477"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2062017964594130945",
+        "created_at": "2026-06-03T03:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062017964594130945"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "珍しい人からリプがくる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2878135880",
+              "start": 3,
+              "username": "youmu_i19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psX8A1fpJD",
+              "end": 51,
+              "expanded_url": "https://x.com/youmu_i19/status/2061835487833403477/photo/1",
+              "media_key": "3_2061835458603290624",
+              "start": 28,
+              "url": "https://t.co/psX8A1fpJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062017964594130945",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061835487833403477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmu_i19: #珍しい人からリプがくる https://t.co/psX8A1fpJD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061835458603290624"
+          ]
+        },
+        "author_id": "2878135880",
+        "conversation_id": "2061835487833403477",
+        "created_at": "2026-06-02T15:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061835487833403477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "珍しい人からリプがくる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psX8A1fpJD",
+              "end": 36,
+              "expanded_url": "https://x.com/youmu_i19/status/2061835487833403477/photo/1",
+              "media_key": "3_2061835458603290624",
+              "start": 13,
+              "url": "https://t.co/psX8A1fpJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061835487833403477",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 329,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#珍しい人からリプがくる https://t.co/psX8A1fpJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21334,
+          "following_count": 8856,
+          "like_count": 151595,
+          "listed_count": 51,
+          "media_count": 4527,
+          "tweet_count": 50178
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-26T10:41:57.000Z",
+        "description": "香港kigurumi\n撮影,ピアノ弾く\nホロライブ、ラブライブ、ひなビタ、プリキュア 推し\nhttps://t.co/FzfxfQz2br\nhttps://t.co/q9aQB6UxM0\n\nproducer垢: @youmu_i19p\n製作垢: @19workshop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "youmu_i19p"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "19workshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/youmu_i19_kig/",
+                "end": 69,
+                "expanded_url": "http://instagram.com/youmu_i19_kig/",
+                "start": 46,
+                "url": "https://t.co/FzfxfQz2br"
+              },
+              {
+                "display_url": "youtube.com/@youmu_i19kig",
+                "end": 93,
+                "expanded_url": "https://www.youtube.com/@youmu_i19kig",
+                "start": 70,
+                "url": "https://t.co/q9aQB6UxM0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youmu-i19.xyz",
+                "end": 23,
+                "expanded_url": "http://youmu-i19.xyz",
+                "start": 0,
+                "url": "https://t.co/QXoqduNiat"
+              }
+            ]
+          }
+        },
+        "id": "2878135880",
+        "location": "香港",
+        "name": "妖夢_伊19",
+        "pinned_tweet_id": "1927802455003115610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893471731379249152/x9sVSFnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 939,
+          "like_count": 16420,
+          "listed_count": 21,
+          "media_count": 1096,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/QXoqduNiat",
+        "username": "youmu_i19",
+        "verified": true
+      }
+    ]
+  }
+}

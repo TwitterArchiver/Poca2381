@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064027363214844045",
+    "created_at": "2026-06-09T05:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064216880173461675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1467139446608842753",
+          "start": 0,
+          "username": "Kura_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064216880173461675",
+    "in_reply_to_user_id": "1467139446608842753",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064027363214844045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kura_QwQ 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17283,
+        "height": 1920,
+        "media_key": "13_2064026775840317443",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064026775840317443/img/MO0gN7a-lfH_UxBL.jpg",
+        "public_metrics": {
+          "view_count": 889
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064026775840317443/vid/avc1/320x568/s9Z3exnAAcukWhgG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064026775840317443/vid/avc1/480x852/47wMTgsPCrK-DSwN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064026775840317443/vid/avc1/720x1280/ARAtdWSvmLJ22fSu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064026775840317443/pl/1txktCkLHCoeRznI.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2064027363214844045",
+        "created_at": "2026-06-09T05:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064216880173461675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1467139446608842753",
+              "start": 0,
+              "username": "Kura_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064216880173461675",
+        "in_reply_to_user_id": "1467139446608842753",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064027363214844045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kura_QwQ 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064026775840317443"
+          ]
+        },
+        "author_id": "1467139446608842753",
+        "conversation_id": "2064027363214844045",
+        "created_at": "2026-06-08T16:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064027363214844045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAZt6reJg3",
+              "end": 28,
+              "expanded_url": "https://x.com/Kura_QwQ/status/2064027363214844045/video/1",
+              "media_key": "13_2064026775840317443",
+              "start": 5,
+              "url": "https://t.co/OAZt6reJg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064027363214844045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 2454,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "兔女郎~ https://t.co/OAZt6reJg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21618,
+          "following_count": 9090,
+          "like_count": 151894,
+          "listed_count": 52,
+          "media_count": 4651,
+          "tweet_count": 50834
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-04T14:31:33.000Z",
+        "description": "既然你发现了，那……那也没办法的啦\n这里发点涩涩的东西，随缘？",
+        "id": "1467139446608842753",
+        "name": "Kura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954859181544267776/_tpniDz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3056,
+          "following_count": 126,
+          "like_count": 288,
+          "listed_count": 12,
+          "media_count": 63,
+          "tweet_count": 91
+        },
+        "username": "Kura_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

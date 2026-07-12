@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063291080611966976",
+        "3_2063291554572423168",
+        "3_2063291554551463936",
+        "3_2063291554580807680"
+      ],
+      "media_source_tweet_id": [
+        "2063291583110553610",
+        "2063291583110553610",
+        "2063291583110553610",
+        "2063291583110553610"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063529614534918343",
+    "created_at": "2026-06-07T07:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063529614534918343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1660069196108279808",
+          "start": 3,
+          "username": "qindongauthor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oAkcVv6XiM",
+          "end": 82,
+          "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+          "media_key": "13_2063291080611966976",
+          "start": 59,
+          "url": "https://t.co/oAkcVv6XiM"
+        },
+        {
+          "display_url": "pic.x.com/oAkcVv6XiM",
+          "end": 82,
+          "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+          "media_key": "3_2063291554572423168",
+          "start": 59,
+          "url": "https://t.co/oAkcVv6XiM"
+        },
+        {
+          "display_url": "pic.x.com/oAkcVv6XiM",
+          "end": 82,
+          "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+          "media_key": "3_2063291554551463936",
+          "start": 59,
+          "url": "https://t.co/oAkcVv6XiM"
+        },
+        {
+          "display_url": "pic.x.com/oAkcVv6XiM",
+          "end": 82,
+          "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+          "media_key": "3_2063291554580807680",
+          "start": 59,
+          "url": "https://t.co/oAkcVv6XiM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063529614534918343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063291583110553610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qindongauthor: 现在说自己是清水，还有人信嘛……（坏人不太想透露个人信息，嘛，他自己知道就好） https://t.co/oAkcVv6XiM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36434,
+        "height": 3840,
+        "media_key": "13_2063291080611966976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063291080611966976/img/WYMKteKMAxUn1NMK.jpg",
+        "public_metrics": {
+          "view_count": 84026
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063291080611966976/vid/avc1/320x568/Bfibna2fQNIiGQ-u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063291080611966976/vid/avc1/480x852/FtLHj1d5qcyEeIgg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063291080611966976/vid/avc1/720x1280/dncgfblKHZUIr_yB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063291080611966976/pl/lAeR6aw9ygTh9muY.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2063291554572423168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIvLJaUAAsIDB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063291554551463936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIvLEagAAHOHl.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063291554580807680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJIvLLaQAAtX_O.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063291080611966976",
+            "3_2063291554572423168",
+            "3_2063291554551463936",
+            "3_2063291554580807680"
+          ],
+          "media_source_tweet_id": [
+            "2063291583110553610",
+            "2063291583110553610",
+            "2063291583110553610",
+            "2063291583110553610"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063529614534918343",
+        "created_at": "2026-06-07T07:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063529614534918343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1660069196108279808",
+              "start": 3,
+              "username": "qindongauthor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 82,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "13_2063291080611966976",
+              "start": 59,
+              "url": "https://t.co/oAkcVv6XiM"
+            },
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 82,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "3_2063291554572423168",
+              "start": 59,
+              "url": "https://t.co/oAkcVv6XiM"
+            },
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 82,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "3_2063291554551463936",
+              "start": 59,
+              "url": "https://t.co/oAkcVv6XiM"
+            },
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 82,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "3_2063291554580807680",
+              "start": 59,
+              "url": "https://t.co/oAkcVv6XiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063529614534918343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063291583110553610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qindongauthor: 现在说自己是清水，还有人信嘛……（坏人不太想透露个人信息，嘛，他自己知道就好） https://t.co/oAkcVv6XiM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063291080611966976",
+            "3_2063291554572423168",
+            "3_2063291554551463936",
+            "3_2063291554580807680"
+          ]
+        },
+        "author_id": "1660069196108279808",
+        "conversation_id": "2063291583110553610",
+        "created_at": "2026-06-06T16:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063291583110553610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 63,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "13_2063291080611966976",
+              "start": 40,
+              "url": "https://t.co/oAkcVv6XiM"
+            },
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 63,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "3_2063291554572423168",
+              "start": 40,
+              "url": "https://t.co/oAkcVv6XiM"
+            },
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 63,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "3_2063291554551463936",
+              "start": 40,
+              "url": "https://t.co/oAkcVv6XiM"
+            },
+            {
+              "display_url": "pic.x.com/oAkcVv6XiM",
+              "end": 63,
+              "expanded_url": "https://x.com/qindongauthor/status/2063291583110553610/video/1",
+              "media_key": "3_2063291554580807680",
+              "start": 40,
+              "url": "https://t.co/oAkcVv6XiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063291583110553610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 756,
+          "impression_count": 158193,
+          "like_count": 1601,
+          "quote_count": 0,
+          "reply_count": 73,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "现在说自己是清水，还有人信嘛……（坏人不太想透露个人信息，嘛，他自己知道就好） https://t.co/oAkcVv6XiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21499,
+          "following_count": 8977,
+          "like_count": 151872,
+          "listed_count": 52,
+          "media_count": 4614,
+          "tweet_count": 50609
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T23:45:28.000Z",
+        "description": "",
+        "id": "1660069196108279808",
+        "name": "寝冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660973024936624128/tiLNemia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 210,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "qindongauthor",
+        "verified": false
+      }
+    ]
+  }
+}

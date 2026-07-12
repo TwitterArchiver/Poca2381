@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060263189946978304",
+        "13_2060263192941809664"
+      ],
+      "media_source_tweet_id": [
+        "2060264452407390687",
+        "2060264452407390687"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2067302995793178885",
+    "created_at": "2026-06-17T17:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067302995793178885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779861442373824512",
+          "start": 3,
+          "username": "x_flinx"
+        },
+        {
+          "end": 36,
+          "id": "1519950067947421696",
+          "start": 27,
+          "username": "po_xiao_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yfcKSxpnh9",
+          "end": 60,
+          "expanded_url": "https://x.com/x_flinx/status/2060264452407390687/video/1",
+          "media_key": "3_2060263189946978304",
+          "start": 37,
+          "url": "https://t.co/yfcKSxpnh9"
+        },
+        {
+          "display_url": "pic.x.com/yfcKSxpnh9",
+          "end": 60,
+          "expanded_url": "https://x.com/x_flinx/status/2060264452407390687/video/1",
+          "media_key": "13_2060263192941809664",
+          "start": 37,
+          "url": "https://t.co/yfcKSxpnh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067302995793178885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060264452407390687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_flinx: 闻着臭袜子睡着了..\n\n包：@po_xiao_ https://t.co/yfcKSxpnh9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067302995793178885].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067302995793178885",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067302995793178885"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2060263189946978304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeGdJyaUAAIkFl.jpg",
+        "width": 3024
+      },
+      {
+        "duration_ms": 79033,
+        "height": 1920,
+        "media_key": "13_2060263192941809664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060263192941809664/img/JwK8Pk31OLdfClHP.jpg",
+        "public_metrics": {
+          "view_count": 42776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/vid/avc1/320x568/pnVbVWuMw9GcGTPD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/vid/avc1/480x852/wTdiP1608WfFrpp1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/vid/avc1/720x1280/RGfI8iklniFft6rc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/pl/5EQXEQb2_9dQGvfM.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 79033,
+        "height": 1920,
+        "media_key": "13_2060263192941809664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060263192941809664/img/JwK8Pk31OLdfClHP.jpg",
+        "public_metrics": {
+          "view_count": 42786
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/vid/avc1/320x568/pnVbVWuMw9GcGTPD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/vid/avc1/480x852/wTdiP1608WfFrpp1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/vid/avc1/720x1280/RGfI8iklniFft6rc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060263192941809664/pl/5EQXEQb2_9dQGvfM.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060263189946978304",
+            "13_2060263192941809664"
+          ]
+        },
+        "author_id": "1779861442373824512",
+        "conversation_id": "2060264452407390687",
+        "created_at": "2026-05-29T07:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060264452407390687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1519950067947421696",
+              "start": 14,
+              "username": "po_xiao_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfcKSxpnh9",
+              "end": 47,
+              "expanded_url": "https://x.com/x_flinx/status/2060264452407390687/video/1",
+              "media_key": "3_2060263189946978304",
+              "start": 24,
+              "url": "https://t.co/yfcKSxpnh9"
+            },
+            {
+              "display_url": "pic.x.com/yfcKSxpnh9",
+              "end": 47,
+              "expanded_url": "https://x.com/x_flinx/status/2060264452407390687/video/1",
+              "media_key": "13_2060263192941809664",
+              "start": 24,
+              "url": "https://t.co/yfcKSxpnh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060264452407390687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1100,
+          "impression_count": 111415,
+          "like_count": 2482,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "闻着臭袜子睡着了..\n\n包：@po_xiao_ https://t.co/yfcKSxpnh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22022,
+          "following_count": 9439,
+          "like_count": 152353,
+          "listed_count": 52,
+          "media_count": 4883,
+          "tweet_count": 51770
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-15T13:16:56.000Z",
+        "description": "我的思念将随你进入梦乡。\n画师推：@basiI91",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "basiI91"
+              }
+            ]
+          }
+        },
+        "id": "1779861442373824512",
+        "location": "广州",
+        "name": "风凛凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779909582061707264/rxahJDoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9859,
+          "following_count": 264,
+          "like_count": 2376,
+          "listed_count": 30,
+          "media_count": 74,
+          "tweet_count": 332
+        },
+        "username": "x_flinx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T08:02:13.000Z",
+        "description": "坐标美国波屯，爱好大捆特捆～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3898756",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/3898756",
+                "start": 0,
+                "url": "https://t.co/7GruUkCfb7"
+              }
+            ]
+          }
+        },
+        "id": "1519950067947421696",
+        "name": "破晓",
+        "pinned_tweet_id": "2048076645698056365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992654554207309824/l2P2-ueg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58618,
+          "following_count": 918,
+          "like_count": 22380,
+          "listed_count": 147,
+          "media_count": 162,
+          "tweet_count": 3464
+        },
+        "url": "https://t.co/7GruUkCfb7",
+        "username": "po_xiao_",
+        "verified": false
+      }
+    ]
+  }
+}

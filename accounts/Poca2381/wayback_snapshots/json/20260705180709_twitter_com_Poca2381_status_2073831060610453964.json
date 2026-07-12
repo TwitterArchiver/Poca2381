@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073789235191287808"
+      ],
+      "media_source_tweet_id": [
+        "2073789237607137509"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      }
+    ],
+    "conversation_id": "2073831060610453964",
+    "created_at": "2026-07-05T18:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073831060610453964"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "よふかしのうた"
+        },
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "七草ナズナ"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "徹夜之歌"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "七草薺"
+        },
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "838390984207585281",
+          "start": 3,
+          "username": "kitioio0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCF3dWJ4np",
+          "end": 76,
+          "expanded_url": "https://x.com/kitioio0/status/2073789237607137509/photo/1",
+          "media_key": "3_2073789235191287808",
+          "start": 53,
+          "url": "https://t.co/TCF3dWJ4np"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073831060610453964",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073789237607137509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitioio0: 🍺\n#よふかしのうた #七草ナズナ #徹夜之歌 #七草薺 #kigurumi https://t.co/TCF3dWJ4np"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073789235191287808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeUUm6bEAAZTjv.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073789235191287808"
+          ],
+          "media_source_tweet_id": [
+            "2073789237607137509"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "2073831060610453964",
+        "created_at": "2026-07-05T18:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073831060610453964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "よふかしのうた"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "七草ナズナ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "徹夜之歌"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "七草薺"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "838390984207585281",
+              "start": 3,
+              "username": "kitioio0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCF3dWJ4np",
+              "end": 76,
+              "expanded_url": "https://x.com/kitioio0/status/2073789237607137509/photo/1",
+              "media_key": "3_2073789235191287808",
+              "start": 53,
+              "url": "https://t.co/TCF3dWJ4np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073831060610453964",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073789237607137509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitioio0: 🍺\n#よふかしのうた #七草ナズナ #徹夜之歌 #七草薺 #kigurumi https://t.co/TCF3dWJ4np"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073789235191287808"
+          ]
+        },
+        "author_id": "838390984207585281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "2073789237607137509",
+        "created_at": "2026-07-05T15:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073789237607137509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 2,
+              "tag": "よふかしのうた"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "七草ナズナ"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "徹夜之歌"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "七草薺"
+            },
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCF3dWJ4np",
+              "end": 62,
+              "expanded_url": "https://x.com/kitioio0/status/2073789237607137509/photo/1",
+              "media_key": "3_2073789235191287808",
+              "start": 39,
+              "url": "https://t.co/TCF3dWJ4np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073789237607137509",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 689,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🍺\n#よふかしのうた #七草ナズナ #徹夜之歌 #七草薺 #kigurumi https://t.co/TCF3dWJ4np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22517,
+          "following_count": 9816,
+          "like_count": 152979,
+          "listed_count": 52,
+          "media_count": 5243,
+          "tweet_count": 53163
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-05T14:09:22.000Z",
+        "description": "住在香港 ~請多多指教~ Hong Kong Kigurumi Player / mask maker / VRChat player\n\nNSFW: @kitioio01\nVRChat ID:kitioio0\n\n製作関連 Enquiries for commission: @Kaiser_Factory",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "kitioio01"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Kaiser_Factory"
+              }
+            ]
+          }
+        },
+        "id": "838390984207585281",
+        "location": "Hong Kong",
+        "name": "Kit君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952274391800102912/xLP05Xig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8321,
+          "following_count": 1601,
+          "like_count": 15270,
+          "listed_count": 67,
+          "media_count": 431,
+          "tweet_count": 2320
+        },
+        "url": "",
+        "username": "kitioio0",
+        "verified": false
+      }
+    ]
+  }
+}

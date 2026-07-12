@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065397968040345859",
+    "created_at": "2026-06-12T14:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065435939929993513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "17774077",
+          "start": 0,
+          "username": "tuotoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065435939929993513",
+    "in_reply_to_user_id": "17774077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065421306019840445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuotoo 不是的\n咱以前用的时候显示的就是繁体中文的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2065397968040345859",
+        "created_at": "2026-06-12T14:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065435939929993513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "17774077",
+              "start": 0,
+              "username": "tuotoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065435939929993513",
+        "in_reply_to_user_id": "17774077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065421306019840445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuotoo 不是的\n咱以前用的时候显示的就是繁体中文的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17774077",
+        "conversation_id": "2065397968040345859",
+        "created_at": "2026-06-12T13:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065421306019840445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065421306019840445",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065397968040345859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 當地的習慣名稱是英文。中文只是你的 app 語言界面。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21776,
+          "following_count": 9271,
+          "like_count": 152141,
+          "listed_count": 52,
+          "media_count": 4766,
+          "tweet_count": 51316
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2008-12-01T07:31:12.000Z",
+        "description": "La double vie: on internet no1 knows u r a cat",
+        "id": "17774077",
+        "location": "nowhere land",
+        "name": "tuotoo 🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258119621518831622/gf40wpp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 268,
+          "like_count": 1338,
+          "listed_count": 24,
+          "media_count": 722,
+          "tweet_count": 23299
+        },
+        "username": "tuotoo",
+        "verified": false
+      }
+    ]
+  }
+}

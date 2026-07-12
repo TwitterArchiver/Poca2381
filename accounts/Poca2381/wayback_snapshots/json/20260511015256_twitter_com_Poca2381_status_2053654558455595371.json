@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053455187629707264",
+        "3_2053455187625521152"
+      ],
+      "media_source_tweet_id": [
+        "2053455199570981040",
+        "2053455199570981040"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2053654558455595371",
+    "created_at": "2026-05-11T01:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053654558455595371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648870486481453056",
+          "start": 3,
+          "username": "Egodesu2333"
+        },
+        {
+          "end": 36,
+          "id": "1405782421853786119",
+          "start": 26,
+          "username": "a49693854"
+        },
+        {
+          "end": 55,
+          "id": "1346394546867826688",
+          "start": 40,
+          "username": "YakisobaSan001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bp5Jx2OjJI",
+          "end": 79,
+          "expanded_url": "https://x.com/Egodesu2333/status/2053455199570981040/photo/1",
+          "media_key": "3_2053455187629707264",
+          "start": 56,
+          "url": "https://t.co/bp5Jx2OjJI"
+        },
+        {
+          "display_url": "pic.x.com/bp5Jx2OjJI",
+          "end": 79,
+          "expanded_url": "https://x.com/Egodesu2333/status/2053455199570981040/photo/1",
+          "media_key": "3_2053455187625521152",
+          "start": 56,
+          "url": "https://t.co/bp5Jx2OjJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053654558455595371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053455199570981040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Egodesu2333: 找到野生的笨蛋了！@a49693854 \n🎭：@YakisobaSan001 https://t.co/bp5Jx2OjJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053455187629707264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9WnQzaEAAK0xo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053455187625521152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9WnQyaMAA8i1a.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053455187629707264",
+            "3_2053455187625521152"
+          ],
+          "media_source_tweet_id": [
+            "2053455199570981040",
+            "2053455199570981040"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2053654558455595371",
+        "created_at": "2026-05-11T01:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053654558455595371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648870486481453056",
+              "start": 3,
+              "username": "Egodesu2333"
+            },
+            {
+              "end": 36,
+              "id": "1405782421853786119",
+              "start": 26,
+              "username": "a49693854"
+            },
+            {
+              "end": 55,
+              "id": "1346394546867826688",
+              "start": 40,
+              "username": "YakisobaSan001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bp5Jx2OjJI",
+              "end": 79,
+              "expanded_url": "https://x.com/Egodesu2333/status/2053455199570981040/photo/1",
+              "media_key": "3_2053455187629707264",
+              "start": 56,
+              "url": "https://t.co/bp5Jx2OjJI"
+            },
+            {
+              "display_url": "pic.x.com/bp5Jx2OjJI",
+              "end": 79,
+              "expanded_url": "https://x.com/Egodesu2333/status/2053455199570981040/photo/1",
+              "media_key": "3_2053455187625521152",
+              "start": 56,
+              "url": "https://t.co/bp5Jx2OjJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053654558455595371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053455199570981040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Egodesu2333: 找到野生的笨蛋了！@a49693854 \n🎭：@YakisobaSan001 https://t.co/bp5Jx2OjJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053455187629707264",
+            "3_2053455187625521152"
+          ]
+        },
+        "author_id": "1648870486481453056",
+        "conversation_id": "2053455199570981040",
+        "created_at": "2026-05-10T12:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053455199570981040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1405782421853786119",
+              "start": 9,
+              "username": "a49693854"
+            },
+            {
+              "end": 38,
+              "id": "1346394546867826688",
+              "start": 23,
+              "username": "YakisobaSan001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bp5Jx2OjJI",
+              "end": 62,
+              "expanded_url": "https://x.com/Egodesu2333/status/2053455199570981040/photo/1",
+              "media_key": "3_2053455187629707264",
+              "start": 39,
+              "url": "https://t.co/bp5Jx2OjJI"
+            },
+            {
+              "display_url": "pic.x.com/bp5Jx2OjJI",
+              "end": 62,
+              "expanded_url": "https://x.com/Egodesu2333/status/2053455199570981040/photo/1",
+              "media_key": "3_2053455187625521152",
+              "start": 39,
+              "url": "https://t.co/bp5Jx2OjJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053455199570981040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1112,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "找到野生的笨蛋了！@a49693854 \n🎭：@YakisobaSan001 https://t.co/bp5Jx2OjJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20300,
+          "following_count": 7745,
+          "like_count": 150405,
+          "listed_count": 49,
+          "media_count": 4085,
+          "tweet_count": 48090
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T02:05:46.000Z",
+        "description": "21🐈🐾|| Dj🎧|| 絶賛留学中✨^ - ^||中国语○/日本語△/English△/Deutsch ein bisschen||Nice to meet you(^з^)||日常@egodesu23333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "egodesu23333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@egodesu233?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@egodesu233?si=1k9COnPg9FZM5bQL",
+                "start": 0,
+                "url": "https://t.co/VDc02UeoY9"
+              }
+            ]
+          }
+        },
+        "id": "1648870486481453056",
+        "location": "東京 東村山市/四川 成都市",
+        "name": "Ego",
+        "pinned_tweet_id": "2050293366039212153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006641852821417988/o9LPpz6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 541,
+          "like_count": 2741,
+          "listed_count": 6,
+          "media_count": 280,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/VDc02UeoY9",
+        "username": "Egodesu2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-18T07:00:35.000Z",
+        "description": "22。|百合廚。|\n着ぐるみ  好き！始2024/12 夢想當個好棉花。持有：🪵🥒/☄️/(戌神/？)|\n封面上我是戴藍帽子的。|中文⭕日本語/English(google)|台灣南部|maimai🤏🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/afour",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/afour",
+                "start": 0,
+                "url": "https://t.co/jnuGAteR6V"
+              }
+            ]
+          }
+        },
+        "id": "1405782421853786119",
+        "name": "A four paper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891777900866830339/Iv6v9B7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 735,
+          "like_count": 16697,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/jnuGAteR6V",
+        "username": "a49693854",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-05T09:54:31.000Z",
+        "description": "這是台灣來的玩家，請多多指教 。角色:艦隊收藏：重巡高雄、戰艦科羅拉多；原神:旅行者、水神芙寧娜 ；Vocaloid :兔子洞初音；Vtuber:Sakura Miko",
+        "id": "1346394546867826688",
+        "name": "天津風炒麵",
+        "pinned_tweet_id": "2028005175710126324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750827886964310016/1xoVcucy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3570,
+          "following_count": 1113,
+          "like_count": 42243,
+          "listed_count": 27,
+          "media_count": 252,
+          "tweet_count": 3072
+        },
+        "username": "YakisobaSan001",
+        "verified": false
+      }
+    ]
+  }
+}

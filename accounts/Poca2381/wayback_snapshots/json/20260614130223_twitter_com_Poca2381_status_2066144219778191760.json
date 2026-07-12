@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066040851764293632"
+      ],
+      "media_source_tweet_id": [
+        "2066040861713117674"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066144219778191760",
+    "created_at": "2026-06-14T13:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066144219778191760"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759202811538178048",
+          "start": 3,
+          "username": "yukishirataco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qkNcR73IVt",
+          "end": 64,
+          "expanded_url": "https://x.com/yukishirataco/status/2066040861713117674/photo/1",
+          "media_key": "3_2066040851764293632",
+          "start": 41,
+          "url": "https://t.co/qkNcR73IVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066144219778191760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066040861713117674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukishirataco: 半年许久未变的小护士~\n#kigurumi https://t.co/qkNcR73IVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066040851764293632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwNNVTbMAA_Cq6.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066040851764293632"
+          ],
+          "media_source_tweet_id": [
+            "2066040861713117674"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066144219778191760",
+        "created_at": "2026-06-14T13:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066144219778191760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759202811538178048",
+              "start": 3,
+              "username": "yukishirataco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkNcR73IVt",
+              "end": 64,
+              "expanded_url": "https://x.com/yukishirataco/status/2066040861713117674/photo/1",
+              "media_key": "3_2066040851764293632",
+              "start": 41,
+              "url": "https://t.co/qkNcR73IVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066144219778191760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066040861713117674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukishirataco: 半年许久未变的小护士~\n#kigurumi https://t.co/qkNcR73IVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066040851764293632"
+          ]
+        },
+        "author_id": "1759202811538178048",
+        "conversation_id": "2066040861713117674",
+        "created_at": "2026-06-14T06:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066040861713117674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkNcR73IVt",
+              "end": 45,
+              "expanded_url": "https://x.com/yukishirataco/status/2066040861713117674/photo/1",
+              "media_key": "3_2066040851764293632",
+              "start": 22,
+              "url": "https://t.co/qkNcR73IVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066040861713117674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 822,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "半年许久未变的小护士~\n#kigurumi https://t.co/qkNcR73IVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21857,
+          "following_count": 9322,
+          "like_count": 152205,
+          "listed_count": 52,
+          "media_count": 4808,
+          "tweet_count": 51462
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-18T13:06:59.000Z",
+        "description": "上海在住 | 码农 | Kiger | 大阪Lover | 爱好裤袜萝莉，欢迎互关扩列，互关勿单取，单取必拉黑 | 转发号 @yukin_shiratama | 日常号 @YukinokoDaily | 🎭：雪野子、鹫见芹奈、凯伊、合欢垣吹雪、苏苏洛、娜娜莉（待）| 📸EOS RP、R10、DJI Action 4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "yukin_shiratama"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "YukinokoDaily"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukishirataco",
+                "end": 23,
+                "expanded_url": "http://t.me/yukishirataco",
+                "start": 0,
+                "url": "https://t.co/DdYNAc8AP2"
+              }
+            ]
+          }
+        },
+        "id": "1759202811538178048",
+        "location": "基沃托斯",
+        "name": "雪野子@着ぐるみ",
+        "pinned_tweet_id": "1904077725922627628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867619394911973380/GxzRJY_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 1454,
+          "like_count": 33167,
+          "listed_count": 19,
+          "media_count": 511,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/DdYNAc8AP2",
+        "username": "yukishirataco",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064168923201929216"
+      ],
+      "media_source_tweet_id": [
+        "2064168929833189716"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2064216438886568383",
+    "created_at": "2026-06-09T05:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064216438886568383"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "Furina"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "芙宁娜"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 76,
+          "start": 62,
+          "tag": "genshinimpact"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "220036474",
+          "start": 3,
+          "username": "TriJet_MD11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Flsl9TU4p1",
+          "end": 100,
+          "expanded_url": "https://x.com/TriJet_MD11/status/2064168929833189716/photo/1",
+          "media_key": "3_2064168923201929216",
+          "start": 77,
+          "url": "https://t.co/Flsl9TU4p1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064216438886568383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064168929833189716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TriJet_MD11: 要一起出门啦👝\n好开心！\n#kigurumi \n#Furina \n#芙宁娜\n#着ぐるみ \n#genshinimpact https://t.co/Flsl9TU4p1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2064168923201929216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVmsv_aAAAgP4-.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064168923201929216"
+          ],
+          "media_source_tweet_id": [
+            "2064168929833189716"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2064216438886568383",
+        "created_at": "2026-06-09T05:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064216438886568383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "Furina"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "芙宁娜"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 76,
+              "start": 62,
+              "tag": "genshinimpact"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "220036474",
+              "start": 3,
+              "username": "TriJet_MD11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Flsl9TU4p1",
+              "end": 100,
+              "expanded_url": "https://x.com/TriJet_MD11/status/2064168929833189716/photo/1",
+              "media_key": "3_2064168923201929216",
+              "start": 77,
+              "url": "https://t.co/Flsl9TU4p1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064216438886568383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064168929833189716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TriJet_MD11: 要一起出门啦👝\n好开心！\n#kigurumi \n#Furina \n#芙宁娜\n#着ぐるみ \n#genshinimpact https://t.co/Flsl9TU4p1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064168923201929216"
+          ]
+        },
+        "author_id": "220036474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2064168929833189716",
+        "created_at": "2026-06-09T02:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064168929833189716"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "Furina"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "芙宁娜"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 59,
+              "start": 45,
+              "tag": "genshinimpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Flsl9TU4p1",
+              "end": 83,
+              "expanded_url": "https://x.com/TriJet_MD11/status/2064168929833189716/photo/1",
+              "media_key": "3_2064168923201929216",
+              "start": 60,
+              "url": "https://t.co/Flsl9TU4p1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064168929833189716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 425,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "要一起出门啦👝\n好开心！\n#kigurumi \n#Furina \n#芙宁娜\n#着ぐるみ \n#genshinimpact https://t.co/Flsl9TU4p1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21618,
+          "following_count": 9086,
+          "like_count": 151885,
+          "listed_count": 52,
+          "media_count": 4651,
+          "tweet_count": 50820
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-26T16:04:57.000Z",
+        "description": "萌新kiger一枚\n目前角色：芙宁娜/若叶睦（制作ing）\n欢迎扩列(●'◡'●)\n请多多指教捏！",
+        "id": "220036474",
+        "location": "ζ Ret",
+        "name": "三发小火箭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026227186798415872/FPd--AQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 20,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 17
+        },
+        "username": "TriJet_MD11",
+        "verified": false
+      }
+    ]
+  }
+}

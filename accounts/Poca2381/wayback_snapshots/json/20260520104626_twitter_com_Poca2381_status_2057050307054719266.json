@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2056961191424270336"
+      ],
+      "media_source_tweet_id": [
+        "2056961255102091727"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057050307054719266",
+    "created_at": "2026-05-20T10:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057050307054719266"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 43,
+          "tag": "latex"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "911874828784648192",
+          "start": 3,
+          "username": "qruukoq"
+        },
+        {
+          "end": 40,
+          "id": "1112015027593048064",
+          "start": 28,
+          "username": "Ling1507LTY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BitbtjoSea",
+          "end": 73,
+          "expanded_url": "https://x.com/qruukoq/status/2056961255102091727/video/1",
+          "media_key": "7_2056961191424270336",
+          "start": 50,
+          "url": "https://t.co/BitbtjoSea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057050307054719266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056961255102091727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qruukoq: 520会做些什么呢❤️\n\nW:@Ling1507LTY \n\n#latex https://t.co/BitbtjoSea"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18135,
+        "height": 1920,
+        "media_key": "7_2056961191424270336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056961191424270336/pu/img/lBVsDTv_qCE-xIkW.jpg",
+        "public_metrics": {
+          "view_count": 5015
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056961191424270336/pu/vid/avc1/320x568/AsstDBmu9TZkAmNh.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056961191424270336/pu/vid/avc1/1080x1920/BnqWVkr46Ke1EzmN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056961191424270336/pu/vid/avc1/720x1280/tv58jZ1QsuhdESwV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056961191424270336/pu/pl/O5Bzv3PEVVACVIQU.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056961191424270336/pu/vid/avc1/480x852/JrXveiUmm0mRjBHw.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056961191424270336"
+          ],
+          "media_source_tweet_id": [
+            "2056961255102091727"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057050307054719266",
+        "created_at": "2026-05-20T10:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057050307054719266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "911874828784648192",
+              "start": 3,
+              "username": "qruukoq"
+            },
+            {
+              "end": 40,
+              "id": "1112015027593048064",
+              "start": 28,
+              "username": "Ling1507LTY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BitbtjoSea",
+              "end": 73,
+              "expanded_url": "https://x.com/qruukoq/status/2056961255102091727/video/1",
+              "media_key": "7_2056961191424270336",
+              "start": 50,
+              "url": "https://t.co/BitbtjoSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057050307054719266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056961255102091727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qruukoq: 520会做些什么呢❤️\n\nW:@Ling1507LTY \n\n#latex https://t.co/BitbtjoSea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056961191424270336"
+          ]
+        },
+        "author_id": "911874828784648192",
+        "conversation_id": "2056961255102091727",
+        "created_at": "2026-05-20T04:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056961255102091727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1112015027593048064",
+              "start": 15,
+              "username": "Ling1507LTY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BitbtjoSea",
+              "end": 60,
+              "expanded_url": "https://x.com/qruukoq/status/2056961255102091727/video/1",
+              "media_key": "7_2056961191424270336",
+              "start": 37,
+              "url": "https://t.co/BitbtjoSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056961255102091727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 11616,
+          "like_count": 767,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "520会做些什么呢❤️\n\nW:@Ling1507LTY \n\n#latex https://t.co/BitbtjoSea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20676,
+          "following_count": 8205,
+          "like_count": 150887,
+          "listed_count": 50,
+          "media_count": 4263,
+          "tweet_count": 48897
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-24T08:47:55.000Z",
+        "description": "kigurumi coser~更新清水日常//角色会融合个人特色☆主拍二创&自搭//扩列qq:892263830//CN/EN/JP OK nya",
+        "id": "911874828784648192",
+        "location": "重庆",
+        "name": "流萤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872392392139231232/O2hQV5xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25768,
+          "following_count": 115,
+          "like_count": 3884,
+          "listed_count": 93,
+          "media_count": 489,
+          "tweet_count": 2136
+        },
+        "username": "qruukoq",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-30T15:33:37.000Z",
+        "description": "呐钠纳衲納妠豽靹，这里是啊十巴里号，产出地牢相关的涩涩内容😋，也欢迎来群（958599283）里交换涩图，讨论姿势，超超群友（bushi） \nCP：@qruukoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "qruukoq"
+              }
+            ]
+          }
+        },
+        "id": "1112015027593048064",
+        "location": "重庆",
+        "name": "雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794624897064505344/mjS6P0Yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7337,
+          "following_count": 801,
+          "like_count": 1976,
+          "listed_count": 34,
+          "media_count": 100,
+          "tweet_count": 220
+        },
+        "username": "Ling1507LTY",
+        "verified": false
+      }
+    ]
+  }
+}

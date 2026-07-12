@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2061023438920458240"
+      ],
+      "media_source_tweet_id": [
+        "2061023486659961192"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2061258719984542162",
+    "created_at": "2026-06-01T01:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061258719984542162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1133660809274376194",
+          "start": 3,
+          "username": "Mcc35503135"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y4aRShkl3N",
+          "end": 49,
+          "expanded_url": "https://x.com/Mcc35503135/status/2061023486659961192/video/1",
+          "media_key": "7_2061023438920458240",
+          "start": 26,
+          "url": "https://t.co/y4aRShkl3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061258719984542162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061023486659961192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mcc35503135: 告诫下曾经的自己 https://t.co/y4aRShkl3N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36200,
+        "height": 1280,
+        "media_key": "7_2061023438920458240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061023438920458240/pu/img/i8wvTPGSeAyw-cYK.jpg",
+        "public_metrics": {
+          "view_count": 1055
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061023438920458240/pu/vid/avc1/320x568/UeDa4xbVJrVRRqKl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061023438920458240/pu/vid/avc1/480x852/rgi5wzO9QhViV1mz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061023438920458240/pu/vid/avc1/720x1280/SYP_1jQuCTegBSAg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061023438920458240/pu/pl/jXbEri7NkxLFr1lI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061023438920458240"
+          ],
+          "media_source_tweet_id": [
+            "2061023486659961192"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2061258719984542162",
+        "created_at": "2026-06-01T01:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061258719984542162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1133660809274376194",
+              "start": 3,
+              "username": "Mcc35503135"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4aRShkl3N",
+              "end": 49,
+              "expanded_url": "https://x.com/Mcc35503135/status/2061023486659961192/video/1",
+              "media_key": "7_2061023438920458240",
+              "start": 26,
+              "url": "https://t.co/y4aRShkl3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061258719984542162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061023486659961192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mcc35503135: 告诫下曾经的自己 https://t.co/y4aRShkl3N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061023438920458240"
+          ]
+        },
+        "author_id": "1133660809274376194",
+        "conversation_id": "2061023486659961192",
+        "created_at": "2026-05-31T09:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061023486659961192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4aRShkl3N",
+              "end": 32,
+              "expanded_url": "https://x.com/Mcc35503135/status/2061023486659961192/video/1",
+              "media_key": "7_2061023438920458240",
+              "start": 9,
+              "url": "https://t.co/y4aRShkl3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061023486659961192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2799,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "告诫下曾经的自己 https://t.co/y4aRShkl3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21199,
+          "following_count": 8768,
+          "like_count": 151545,
+          "listed_count": 51,
+          "media_count": 4484,
+          "tweet_count": 50042
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-29T09:06:14.000Z",
+        "description": "摄影&kig｜🍥神楽mea的财布｜目前玩NIKKE、鸣潮、碧蓝航线。社恐😨，清水😸现在是芙兰朵露",
+        "id": "1133660809274376194",
+        "name": "被寄寄子干碎",
+        "pinned_tweet_id": "2015980241693622674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055350554046672896/w2suOXs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 320,
+          "like_count": 1008,
+          "listed_count": 18,
+          "media_count": 55,
+          "tweet_count": 157
+        },
+        "username": "Mcc35503135",
+        "verified": false
+      }
+    ]
+  }
+}

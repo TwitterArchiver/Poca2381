@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062697333582860497",
+    "created_at": "2026-06-05T01:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062706796532556048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1230100637922123777",
+          "start": 0,
+          "username": "azama_juice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062706796532556048",
+    "in_reply_to_user_id": "1230100637922123777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062697333582860497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azama_juice 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062697330755997696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAsSy7bkAAoMX2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2062697333582860497",
+        "created_at": "2026-06-05T01:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062706796532556048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1230100637922123777",
+              "start": 0,
+              "username": "azama_juice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062706796532556048",
+        "in_reply_to_user_id": "1230100637922123777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062697333582860497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azama_juice 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062697330755997696"
+          ]
+        },
+        "author_id": "1230100637922123777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062697333582860497",
+        "created_at": "2026-06-05T00:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062697333582860497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "汐汐今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7I7xu6SNKT",
+              "end": 38,
+              "expanded_url": "https://x.com/azama_juice/status/2062697333582860497/photo/1",
+              "media_key": "3_2062697330755997696",
+              "start": 15,
+              "url": "https://t.co/7I7xu6SNKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062697333582860497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#汐汐今天吃什么\n其实是前天 https://t.co/7I7xu6SNKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21378,
+          "following_count": 8882,
+          "like_count": 151679,
+          "listed_count": 51,
+          "media_count": 4558,
+          "tweet_count": 50334
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-19T12:04:06.000Z",
+        "description": "汐汐今天吃什么https://t.co/KMqf1WJtmA\n是薊麻不是芝麻\nhrt22/3/20\n🇹🇭25/1/14\n把自己找回来\nsrs日记：https://t.co/njGhvvJMh9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+PY4Y1zwnOpxkZ…",
+                "end": 30,
+                "expanded_url": "https://t.me/+PY4Y1zwnOpxkZjE1",
+                "start": 7,
+                "url": "https://t.co/KMqf1WJtmA"
+              },
+              {
+                "display_url": "t.me/+PWfKohgfwN4xZ…",
+                "end": 96,
+                "expanded_url": "https://t.me/+PWfKohgfwN4xZjM1",
+                "start": 73,
+                "url": "https://t.co/njGhvvJMh9"
+              }
+            ]
+          }
+        },
+        "id": "1230100637922123777",
+        "name": "薊麻果汁",
+        "pinned_tweet_id": "1888427358287442024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815431850124288000/daGkXuYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 715,
+          "like_count": 30876,
+          "listed_count": 6,
+          "media_count": 318,
+          "tweet_count": 3673
+        },
+        "username": "azama_juice",
+        "verified": false
+      }
+    ]
+  }
+}

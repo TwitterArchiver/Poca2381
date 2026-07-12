@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068236669837598863",
+    "created_at": "2026-06-21T08:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068619035944931532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1489607783469416448",
+          "start": 0,
+          "username": "J_Sica1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068619035944931532",
+    "in_reply_to_user_id": "1489607783469416448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068236669837598863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J_Sica1 †昇天†"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18065,
+        "height": 1280,
+        "media_key": "7_2068236629492551680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068236629492551680/pu/img/wkLvDkjZtYe62uEc.jpg",
+        "public_metrics": {
+          "view_count": 2244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068236629492551680/pu/vid/avc1/320x568/iOAGU_hqaKnNVJ6g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068236629492551680/pu/vid/avc1/480x852/AfNMFoJ4374j08FS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068236629492551680/pu/vid/avc1/720x1280/pyBLeRFGHnZ3zK4U.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068236629492551680/pu/pl/djkklQ9m7i603iEg.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068236669837598863",
+        "created_at": "2026-06-21T08:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068619035944931532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1489607783469416448",
+              "start": 0,
+              "username": "J_Sica1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068619035944931532",
+        "in_reply_to_user_id": "1489607783469416448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068236669837598863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J_Sica1 †昇天†"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068236629492551680"
+          ]
+        },
+        "author_id": "1489607783469416448",
+        "conversation_id": "2068236669837598863",
+        "created_at": "2026-06-20T07:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068236669837598863"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "超天酱"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "糖糖"
+            },
+            {
+              "end": 104,
+              "start": 95,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvgy6n2UHM",
+              "end": 128,
+              "expanded_url": "https://x.com/J_Sica1/status/2068236669837598863/video/1",
+              "media_key": "7_2068236629492551680",
+              "start": 105,
+              "url": "https://t.co/nvgy6n2UHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068236669837598863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 8681,
+          "like_count": 380,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#超天酱 米娜桑†昇天†～就是那种过度燃烧、带着一点点滚烫热忱的感觉嘛，希望大家看的时候不会觉得违和捏✨\n\n#糖糖 不懂这种感觉…随时揣着满溢的热情硬撑着 累得要死。谁会喜欢这种样子啊。\n\n#kigurumi https://t.co/nvgy6n2UHM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22126,
+          "following_count": 9515,
+          "like_count": 152450,
+          "listed_count": 52,
+          "media_count": 4956,
+          "tweet_count": 52002
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T14:32:44.000Z",
+        "description": "西卡是我 我是西卡^^\ncp @ArohaTVStation\n目前在出50+个kig角色~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ArohaTVStation"
+              }
+            ]
+          }
+        },
+        "id": "1489607783469416448",
+        "location": "550W",
+        "name": "西卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621944917907099649/AOsoUsV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11662,
+          "following_count": 514,
+          "like_count": 2654,
+          "listed_count": 69,
+          "media_count": 177,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "J_Sica1",
+        "verified": false
+      }
+    ]
+  }
+}

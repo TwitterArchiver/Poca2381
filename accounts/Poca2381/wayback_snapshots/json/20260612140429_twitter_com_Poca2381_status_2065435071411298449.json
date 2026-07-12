@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065387755333709824"
+      ],
+      "media_source_tweet_id": [
+        "2065387780948320712"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065435071411298449",
+    "created_at": "2026-06-12T14:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065435071411298449"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1522044421486768128",
+          "start": 3,
+          "username": "Xiaonai0398"
+        },
+        {
+          "end": 34,
+          "id": "4702160492",
+          "start": 26,
+          "username": "1cycok3"
+        },
+        {
+          "end": 48,
+          "id": "2049669294300987392",
+          "start": 38,
+          "username": "KiguMoe67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FEZRxIJOXw",
+          "end": 83,
+          "expanded_url": "https://x.com/Xiaonai0398/status/2065387780948320712/photo/1",
+          "media_key": "3_2065387755333709824",
+          "start": 60,
+          "url": "https://t.co/FEZRxIJOXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065435071411298449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065387780948320712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaonai0398: 该出彩了！！\n📷：@1cycok3 \n🏠：@KiguMoe67 \n#kigurumi https://t.co/FEZRxIJOXw"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [1cycok3].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "1cycok3",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1cycok3"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065387755333709824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm7OHgbcAAo1SP.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065387755333709824"
+          ],
+          "media_source_tweet_id": [
+            "2065387780948320712"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2065435071411298449",
+        "created_at": "2026-06-12T14:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065435071411298449"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522044421486768128",
+              "start": 3,
+              "username": "Xiaonai0398"
+            },
+            {
+              "end": 34,
+              "id": "4702160492",
+              "start": 26,
+              "username": "1cycok3"
+            },
+            {
+              "end": 48,
+              "id": "2049669294300987392",
+              "start": 38,
+              "username": "KiguMoe67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEZRxIJOXw",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaonai0398/status/2065387780948320712/photo/1",
+              "media_key": "3_2065387755333709824",
+              "start": 60,
+              "url": "https://t.co/FEZRxIJOXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065435071411298449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065387780948320712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaonai0398: 该出彩了！！\n📷：@1cycok3 \n🏠：@KiguMoe67 \n#kigurumi https://t.co/FEZRxIJOXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065387755333709824"
+          ]
+        },
+        "author_id": "1522044421486768128",
+        "conversation_id": "2065387780948320712",
+        "created_at": "2026-06-12T10:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065387780948320712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4702160492",
+              "start": 9,
+              "username": "1cycok3"
+            },
+            {
+              "end": 31,
+              "id": "2049669294300987392",
+              "start": 21,
+              "username": "KiguMoe67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEZRxIJOXw",
+              "end": 66,
+              "expanded_url": "https://x.com/Xiaonai0398/status/2065387780948320712/photo/1",
+              "media_key": "3_2065387755333709824",
+              "start": 43,
+              "url": "https://t.co/FEZRxIJOXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065387780948320712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1525,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "该出彩了！！\n📷：@1cycok3 \n🏠：@KiguMoe67 \n#kigurumi https://t.co/FEZRxIJOXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21775,
+          "following_count": 9268,
+          "like_count": 152139,
+          "listed_count": 52,
+          "media_count": 4766,
+          "tweet_count": 51313
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-05T02:44:21.000Z",
+        "description": "一名武汉萌新kiger！| 想认识跟多娃娃，欢迎私信扩列|目前已有角色是空银子、小鸟游星野 、 荧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xiaona…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xiaonai0398.bsky.social",
+                "start": 0,
+                "url": "https://t.co/mErgT3FYiw"
+              }
+            ]
+          }
+        },
+        "id": "1522044421486768128",
+        "location": "武汉",
+        "name": "小奈",
+        "pinned_tweet_id": "1935277114196144469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757817278341746688/37s4893Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8364,
+          "following_count": 802,
+          "like_count": 4256,
+          "listed_count": 51,
+          "media_count": 235,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/mErgT3FYiw",
+        "username": "Xiaonai0398",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T01:58:41.000Z",
+        "description": "More fun at Here!",
+        "id": "2049669294300987392",
+        "name": "Kigumoe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053358171100778496/F0w1b87B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "KiguMoe67",
+        "verified": false
+      }
+    ]
+  }
+}

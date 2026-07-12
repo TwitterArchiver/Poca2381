@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061115989056761856"
+      ],
+      "media_source_tweet_id": [
+        "2061115991720075526"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2061389383039885497",
+    "created_at": "2026-06-01T10:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061389383039885497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4778172925",
+          "start": 3,
+          "username": "Barry_Kigger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9aD1sxguej",
+          "end": 47,
+          "expanded_url": "https://x.com/Barry_Kigger/status/2061115991720075526/photo/1",
+          "media_key": "3_2061115989056761856",
+          "start": 24,
+          "url": "https://t.co/9aD1sxguej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061389383039885497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061115991720075526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Barry_Kigger: 又大一歲了 https://t.co/9aD1sxguej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061115989056761856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqOEmCbMAAdX7y.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061115989056761856"
+          ],
+          "media_source_tweet_id": [
+            "2061115991720075526"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2061389383039885497",
+        "created_at": "2026-06-01T10:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061389383039885497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4778172925",
+              "start": 3,
+              "username": "Barry_Kigger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aD1sxguej",
+              "end": 47,
+              "expanded_url": "https://x.com/Barry_Kigger/status/2061115991720075526/photo/1",
+              "media_key": "3_2061115989056761856",
+              "start": 24,
+              "url": "https://t.co/9aD1sxguej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061389383039885497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061115991720075526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Barry_Kigger: 又大一歲了 https://t.co/9aD1sxguej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061115989056761856"
+          ]
+        },
+        "author_id": "4778172925",
+        "conversation_id": "2061115991720075526",
+        "created_at": "2026-05-31T16:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061115991720075526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aD1sxguej",
+              "end": 29,
+              "expanded_url": "https://x.com/Barry_Kigger/status/2061115991720075526/photo/1",
+              "media_key": "3_2061115989056761856",
+              "start": 6,
+              "url": "https://t.co/9aD1sxguej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061115991720075526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5260,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "又大一歲了 https://t.co/9aD1sxguej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21233,
+          "following_count": 8786,
+          "like_count": 151552,
+          "listed_count": 51,
+          "media_count": 4489,
+          "tweet_count": 50063
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-18T11:26:00.000Z",
+        "description": "來自🇭🇰的鹹魚級Kiger兼無情轉推機器人。\n想色色但恥力太强加身材問題所以只能當清水kig……\n角色：《魔女兵器》小燐（已退役）、《崩壞：星穹鐵道》流螢、Hololive Gamers大神澪\n語言： 廣◎,普○,EN○,日△\n無言フォロー失礼します。歡迎同好們過來集郵擴列，但只回跟kiger。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/barrykigger",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/barrykigger",
+                "start": 0,
+                "url": "https://t.co/YxHTMEHLJe"
+              }
+            ]
+          }
+        },
+        "id": "4778172925",
+        "location": "Hong Kong",
+        "name": "Barry Kigger",
+        "pinned_tweet_id": "2008390806923866262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002300097791733762/mjlR4jPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 6477,
+          "like_count": 43182,
+          "listed_count": 24,
+          "media_count": 395,
+          "tweet_count": 44535
+        },
+        "url": "https://t.co/YxHTMEHLJe",
+        "username": "Barry_Kigger",
+        "verified": false
+      }
+    ]
+  }
+}

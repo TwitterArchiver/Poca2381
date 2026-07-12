@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2067908427515654170",
+    "created_at": "2026-06-19T10:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067923240010567697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        },
+        {
+          "end": 26,
+          "id": "863290811252785152",
+          "start": 10,
+          "username": "Chocolat_Kotori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067923240010567697",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067908427515654170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A @Chocolat_Kotori 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067908418791477248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKvwCobEAAC7MU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2067908427515654170",
+        "created_at": "2026-06-19T10:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067923240010567697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            },
+            {
+              "end": 26,
+              "id": "863290811252785152",
+              "start": 10,
+              "username": "Chocolat_Kotori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067923240010567697",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067908427515654170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A @Chocolat_Kotori 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067908418791477248"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067908427515654170",
+        "created_at": "2026-06-19T09:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067908427515654170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1JJmtB4VC",
+              "end": 30,
+              "expanded_url": "https://x.com/mingji_A/status/2067908427515654170/photo/1",
+              "media_key": "3_2067908418791477248",
+              "start": 7,
+              "url": "https://t.co/h1JJmtB4VC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067908427515654170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢你来🥰🥰 https://t.co/h1JJmtB4VC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22085,
+          "following_count": 9472,
+          "like_count": 152382,
+          "listed_count": 52,
+          "media_count": 4918,
+          "tweet_count": 51869
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4594,
+          "following_count": 2654,
+          "like_count": 96151,
+          "listed_count": 24,
+          "media_count": 233,
+          "tweet_count": 22517
+        },
+        "url": "",
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-13T07:12:23.000Z",
+        "description": "Привет! 重庆，偶尔女装的xnn，莫斯科中，喜欢挨捆，绿色推，不接受xsr。Русский язык Я умею говорить по русски, очень приятно познакомиться. 有主人@xbbbabalababa （4i）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "xbbbabalababa"
+              }
+            ]
+          }
+        },
+        "id": "863290811252785152",
+        "location": "重庆/广州 Москва",
+        "name": "Шоколад",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056912896236437504/pQVwn332_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 615,
+          "like_count": 1198,
+          "listed_count": 9,
+          "media_count": 57,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "Chocolat_Kotori",
+        "verified": false
+      }
+    ]
+  }
+}

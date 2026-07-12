@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2067525174229102797",
+    "created_at": "2026-06-18T11:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067567145643647463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1830969136232759297",
+          "start": 0,
+          "username": "xieerfan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067567145643647463",
+    "in_reply_to_user_id": "1830969136232759297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067525174229102797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xieerfan 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2067525159427387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFTLaPaMAA6US0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2067525174229102797",
+        "created_at": "2026-06-18T11:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067567145643647463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1830969136232759297",
+              "start": 0,
+              "username": "xieerfan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067567145643647463",
+        "in_reply_to_user_id": "1830969136232759297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067525174229102797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xieerfan 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067525159427387392"
+          ]
+        },
+        "author_id": "1830969136232759297",
+        "conversation_id": "2067525174229102797",
+        "created_at": "2026-06-18T08:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067525174229102797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTbEBkdEZz",
+              "end": 35,
+              "expanded_url": "https://x.com/xieerfan/status/2067525174229102797/photo/1",
+              "media_key": "3_2067525159427387392",
+              "start": 12,
+              "url": "https://t.co/dTbEBkdEZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067525174229102797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜我毕业～\n赞美北理 https://t.co/dTbEBkdEZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22046,
+          "following_count": 9451,
+          "like_count": 152363,
+          "listed_count": 52,
+          "media_count": 4901,
+          "tweet_count": 51815
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T14:00:42.000Z",
+        "description": "写代码的mtf喵🏳️‍⚧️ | 有证含糖  | hrt 25.9.3 |BD DID ADHD | 家庭党 | CH / EN",
+        "id": "1830969136232759297",
+        "location": "中国",
+        "name": "屑二凡喵🏳️‍⚧️🍥💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052372574156541952/BiS2f8KC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 14,
+          "like_count": 40,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 53
+        },
+        "username": "xieerfan",
+        "verified": true
+      }
+    ]
+  }
+}

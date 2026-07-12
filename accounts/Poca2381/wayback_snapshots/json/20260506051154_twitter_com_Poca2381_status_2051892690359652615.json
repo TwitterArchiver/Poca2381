@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051653211396907008"
+      ],
+      "media_source_tweet_id": [
+        "2051653332532621687"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051892690359652615",
+    "created_at": "2026-05-06T05:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051892690359652615"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 47,
+          "tag": "dollweekend"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681661969995104260",
+          "start": 3,
+          "username": "SeaRabbit1024"
+        },
+        {
+          "end": 46,
+          "id": "1465236821701382152",
+          "start": 33,
+          "username": "doll_weekend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxRGepEsbc",
+          "end": 83,
+          "expanded_url": "https://x.com/SeaRabbit1024/status/2051653332532621687/video/1",
+          "media_key": "13_2051653211396907008",
+          "start": 60,
+          "url": "https://t.co/fxRGepEsbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051892690359652615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051653332532621687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeaRabbit1024: 娃娃们一起玩123木头人！\n@doll_weekend ＃dollweekend https://t.co/fxRGepEsbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26981,
+        "height": 1920,
+        "media_key": "13_2051653211396907008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051653211396907008/img/2Mf68X25PimgMFpu.jpg",
+        "public_metrics": {
+          "view_count": 3877
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051653211396907008/vid/avc1/320x568/BEcpuJHV6P99vEKA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051653211396907008/vid/avc1/480x852/OrYhsJ-JC6Pf2SyE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051653211396907008/vid/avc1/720x1280/EK9cHoxPEygN23ix.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051653211396907008/pl/Yj8VW0u-KP8aLZj0.m3u8?tag=14&v=1dc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051653211396907008"
+          ],
+          "media_source_tweet_id": [
+            "2051653332532621687"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051892690359652615",
+        "created_at": "2026-05-06T05:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051892690359652615"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 47,
+              "tag": "dollweekend"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681661969995104260",
+              "start": 3,
+              "username": "SeaRabbit1024"
+            },
+            {
+              "end": 46,
+              "id": "1465236821701382152",
+              "start": 33,
+              "username": "doll_weekend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxRGepEsbc",
+              "end": 83,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2051653332532621687/video/1",
+              "media_key": "13_2051653211396907008",
+              "start": 60,
+              "url": "https://t.co/fxRGepEsbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051892690359652615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051653332532621687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeaRabbit1024: 娃娃们一起玩123木头人！\n@doll_weekend ＃dollweekend https://t.co/fxRGepEsbc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051653211396907008"
+          ]
+        },
+        "author_id": "1681661969995104260",
+        "conversation_id": "2051653332532621687",
+        "created_at": "2026-05-05T13:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051653332532621687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 28,
+              "tag": "dollweekend"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1465236821701382152",
+              "start": 14,
+              "username": "doll_weekend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxRGepEsbc",
+              "end": 64,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2051653332532621687/video/1",
+              "media_key": "13_2051653211396907008",
+              "start": 41,
+              "url": "https://t.co/fxRGepEsbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051653332532621687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 9773,
+          "like_count": 323,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "娃娃们一起玩123木头人！\n@doll_weekend ＃dollweekend https://t.co/fxRGepEsbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20061,
+          "following_count": 7404,
+          "like_count": 150141,
+          "listed_count": 46,
+          "media_count": 4023,
+          "tweet_count": 47749
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T13:47:23.000Z",
+        "description": "新人kiger一枚，请多指教。\n中文/日本語/English\nよろしくお願いいたします (●'◡'●)",
+        "id": "1681661969995104260",
+        "name": "海兔SeaRabbit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957521553366872070/RsQ_LvYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 339,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 129,
+          "tweet_count": 217
+        },
+        "username": "SeaRabbit1024",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T08:31:32.000Z",
+        "description": "https://t.co/BSevFGZ6y6, the world's largest Kigurumi doll convention~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dollweekend.com",
+                "end": 23,
+                "expanded_url": "http://www.dollweekend.com",
+                "start": 0,
+                "url": "https://t.co/BSevFGZ6y6"
+              }
+            ]
+          }
+        },
+        "id": "1465236821701382152",
+        "location": "China",
+        "name": "Doll Weekend",
+        "pinned_tweet_id": "2051725134931910846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697247121915977728/VJNXsd8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13963,
+          "following_count": 358,
+          "like_count": 3204,
+          "listed_count": 79,
+          "media_count": 205,
+          "tweet_count": 3521
+        },
+        "username": "doll_weekend",
+        "verified": false
+      }
+    ]
+  }
+}

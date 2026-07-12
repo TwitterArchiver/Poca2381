@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069301052290334720"
+      ],
+      "media_source_tweet_id": [
+        "2069301375922749825"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069613594761887914",
+    "created_at": "2026-06-24T02:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069613594761887914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "915789286091350016",
+          "start": 3,
+          "username": "Nyatisss"
+        },
+        {
+          "end": 33,
+          "id": "1670098723899346944",
+          "start": 17,
+          "username": "Spearmint_Candy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WsqI0ihc9B",
+          "end": 57,
+          "expanded_url": "https://x.com/Nyatisss/status/2069301375922749825/photo/1",
+          "media_key": "3_2069301052290334720",
+          "start": 34,
+          "url": "https://t.co/WsqI0ihc9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069613594761887914",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069301375922749825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nyatisss: 📷： @Spearmint_Candy https://t.co/WsqI0ihc9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069301052290334720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeiV-sbgAA2CBP.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069301052290334720"
+          ],
+          "media_source_tweet_id": [
+            "2069301375922749825"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069613594761887914",
+        "created_at": "2026-06-24T02:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069613594761887914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "915789286091350016",
+              "start": 3,
+              "username": "Nyatisss"
+            },
+            {
+              "end": 33,
+              "id": "1670098723899346944",
+              "start": 17,
+              "username": "Spearmint_Candy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsqI0ihc9B",
+              "end": 57,
+              "expanded_url": "https://x.com/Nyatisss/status/2069301375922749825/photo/1",
+              "media_key": "3_2069301052290334720",
+              "start": 34,
+              "url": "https://t.co/WsqI0ihc9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069613594761887914",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069301375922749825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nyatisss: 📷： @Spearmint_Candy https://t.co/WsqI0ihc9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069301052290334720"
+          ]
+        },
+        "author_id": "915789286091350016",
+        "conversation_id": "2069301375922749825",
+        "created_at": "2026-06-23T06:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069301375922749825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1670098723899346944",
+              "start": 3,
+              "username": "Spearmint_Candy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsqI0ihc9B",
+              "end": 43,
+              "expanded_url": "https://x.com/Nyatisss/status/2069301375922749825/photo/1",
+              "media_key": "3_2069301052290334720",
+              "start": 20,
+              "url": "https://t.co/WsqI0ihc9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069301375922749825",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3283,
+          "like_count": 265,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "📷： @Spearmint_Candy https://t.co/WsqI0ihc9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22255,
+          "following_count": 9601,
+          "like_count": 152623,
+          "listed_count": 52,
+          "media_count": 5022,
+          "tweet_count": 52318
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-05T04:02:35.000Z",
+        "description": "kig/胶/按快门/管理员&宜家鲨鱼爱好者  | \n发想发的东西  | \n社畜 常驻深圳  | \n你们有看到我的@moyumememe 吗？\n她很好，也没有丢，只是她太可爱了，想让你们都看看❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "moyumememe"
+              }
+            ]
+          }
+        },
+        "id": "915789286091350016",
+        "location": "墨鱼窝",
+        "name": "Nyatis",
+        "pinned_tweet_id": "1971897144526471581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744215049579982848/o9-o_qKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9297,
+          "following_count": 2589,
+          "like_count": 69276,
+          "listed_count": 50,
+          "media_count": 273,
+          "tweet_count": 14479
+        },
+        "url": "",
+        "username": "Nyatisss",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T15:59:54.000Z",
+        "description": "kigurumi 萌新 | 正在学着按快门 | 欢迎扩列~ ✨\n（可能有一点点社恐w  还请多多指教啦~",
+        "id": "1670098723899346944",
+        "name": "空心薄荷糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032512704699854848/4Sy5QYyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 754,
+          "like_count": 3995,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Spearmint_Candy",
+        "verified": false
+      }
+    ]
+  }
+}

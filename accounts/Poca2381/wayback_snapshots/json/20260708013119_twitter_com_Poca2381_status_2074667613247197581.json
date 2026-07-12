@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073419061678198784"
+      ],
+      "media_source_tweet_id": [
+        "2073700914515636736"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2074667613247197581",
+    "created_at": "2026-07-08T01:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074667613247197581"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 83,
+          "start": 74,
+          "tag": "vocaloid"
+        },
+        {
+          "end": 90,
+          "start": 84,
+          "tag": "ビキニの日"
+        },
+        {
+          "end": 98,
+          "start": 91,
+          "tag": "Bikini"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "ビキニ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712792106572644352",
+          "start": 3,
+          "username": "yukine_hkkig"
+        },
+        {
+          "end": 60,
+          "id": "2874725406",
+          "start": 53,
+          "username": "vfomax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yV8zfzbRu6",
+          "end": 127,
+          "expanded_url": "https://x.com/yukine_hkkig/status/2073700914515636736/photo/1",
+          "media_key": "3_2073419061678198784",
+          "start": 104,
+          "url": "https://t.co/yV8zfzbRu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074667613247197581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073700914515636736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukine_hkkig: 還不快快下來，跟我一起玩水( ﾉシ&gt;_&lt;)ﾉｼ 💦\n\n📷:@vfomax \n#着ぐるみ #初音ミク #vocaloid #ビキニの日 #Bikini #ビキニ https://t.co/yV8zfzbRu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2073419061678198784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZDprHaUAATy-r.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073419061678198784"
+          ],
+          "media_source_tweet_id": [
+            "2073700914515636736"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2074667613247197581",
+        "created_at": "2026-07-08T01:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074667613247197581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "vocaloid"
+            },
+            {
+              "end": 90,
+              "start": 84,
+              "tag": "ビキニの日"
+            },
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "Bikini"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "ビキニ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712792106572644352",
+              "start": 3,
+              "username": "yukine_hkkig"
+            },
+            {
+              "end": 60,
+              "id": "2874725406",
+              "start": 53,
+              "username": "vfomax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yV8zfzbRu6",
+              "end": 127,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2073700914515636736/photo/1",
+              "media_key": "3_2073419061678198784",
+              "start": 104,
+              "url": "https://t.co/yV8zfzbRu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074667613247197581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073700914515636736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukine_hkkig: 還不快快下來，跟我一起玩水( ﾉシ&gt;_&lt;)ﾉｼ 💦\n\n📷:@vfomax \n#着ぐるみ #初音ミク #vocaloid #ビキニの日 #Bikini #ビキニ https://t.co/yV8zfzbRu6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073419061678198784"
+          ]
+        },
+        "author_id": "1712792106572644352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2073700914515636736",
+        "created_at": "2026-07-05T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073700914515636736"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "vocaloid"
+            },
+            {
+              "end": 72,
+              "start": 66,
+              "tag": "ビキニの日"
+            },
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "Bikini"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "ビキニ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "2874725406",
+              "start": 35,
+              "username": "vfomax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yV8zfzbRu6",
+              "end": 109,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2073700914515636736/photo/1",
+              "media_key": "3_2073419061678198784",
+              "start": 86,
+              "url": "https://t.co/yV8zfzbRu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073700914515636736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2452,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "還不快快下來，跟我一起玩水( ﾉシ&gt;_&lt;)ﾉｼ 💦\n\n📷:@vfomax \n#着ぐるみ #初音ミク #vocaloid #ビキニの日 #Bikini #ビキニ https://t.co/yV8zfzbRu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22558,
+          "following_count": 9845,
+          "like_count": 153006,
+          "listed_count": 51,
+          "media_count": 5297,
+          "tweet_count": 53308
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "location": "香港",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5337,
+          "following_count": 703,
+          "like_count": 11950,
+          "listed_count": 27,
+          "media_count": 1276,
+          "tweet_count": 8662
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-24T07:37:35.000Z",
+        "description": "香港在住のカメラマン",
+        "id": "2874725406",
+        "location": "Hong Kong",
+        "name": "エロ絵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710470206618025984/hLWQQjAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7246,
+          "following_count": 3999,
+          "like_count": 13969,
+          "listed_count": 64,
+          "media_count": 672,
+          "tweet_count": 13452
+        },
+        "url": "",
+        "username": "vfomax",
+        "verified": false
+      }
+    ]
+  }
+}

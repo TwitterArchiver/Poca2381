@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064682334608117760"
+      ],
+      "media_source_tweet_id": [
+        "2064682385653039198"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064724194932539617",
+    "created_at": "2026-06-10T14:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064724194932539617"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "Castorice"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "遐蝶"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "911874828784648192",
+          "start": 3,
+          "username": "qruukoq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oc1K8z3y3o",
+          "end": 69,
+          "expanded_url": "https://x.com/qruukoq/status/2064682385653039198/video/1",
+          "media_key": "7_2064682334608117760",
+          "start": 46,
+          "url": "https://t.co/oc1K8z3y3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064724194932539617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064682385653039198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qruukoq: 摸摸蝶糕糕~\n\n#kigurumi #Castorice #遐蝶 https://t.co/oc1K8z3y3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6975,
+        "height": 1920,
+        "media_key": "7_2064682334608117760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064682334608117760/pu/img/gPVyZJPhcgPRvlCP.jpg",
+        "public_metrics": {
+          "view_count": 560
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064682334608117760/pu/vid/avc1/1080x1920/g2sn1FPUCmjJAkmf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064682334608117760/pu/vid/avc1/720x1280/GzxqAJEI-buy1D-Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064682334608117760/pu/vid/avc1/480x852/re_427-jI4triq0V.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064682334608117760/pu/vid/avc1/320x568/uwCWIURIBYcGulvp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064682334608117760/pu/pl/ieZZokXsN93kaK_3.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064682334608117760"
+          ],
+          "media_source_tweet_id": [
+            "2064682385653039198"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064724194932539617",
+        "created_at": "2026-06-10T14:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064724194932539617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "Castorice"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "遐蝶"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "911874828784648192",
+              "start": 3,
+              "username": "qruukoq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oc1K8z3y3o",
+              "end": 69,
+              "expanded_url": "https://x.com/qruukoq/status/2064682385653039198/video/1",
+              "media_key": "7_2064682334608117760",
+              "start": 46,
+              "url": "https://t.co/oc1K8z3y3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064724194932539617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064682385653039198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qruukoq: 摸摸蝶糕糕~\n\n#kigurumi #Castorice #遐蝶 https://t.co/oc1K8z3y3o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064682334608117760"
+          ]
+        },
+        "author_id": "911874828784648192",
+        "conversation_id": "2064682385653039198",
+        "created_at": "2026-06-10T12:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064682385653039198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "Castorice"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "遐蝶"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oc1K8z3y3o",
+              "end": 56,
+              "expanded_url": "https://x.com/qruukoq/status/2064682385653039198/video/1",
+              "media_key": "7_2064682334608117760",
+              "start": 33,
+              "url": "https://t.co/oc1K8z3y3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064682385653039198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 1802,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "摸摸蝶糕糕~\n\n#kigurumi #Castorice #遐蝶 https://t.co/oc1K8z3y3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21692,
+          "following_count": 9195,
+          "like_count": 152035,
+          "listed_count": 52,
+          "media_count": 4680,
+          "tweet_count": 51061
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-24T08:47:55.000Z",
+        "description": "kigurumi coser~更新清水日常//角色会融合个人特色☆主拍二创&自搭//扩列qq:892263830//CN/EN/JP OK nya",
+        "id": "911874828784648192",
+        "location": "重庆",
+        "name": "流萤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872392392139231232/O2hQV5xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26299,
+          "following_count": 109,
+          "like_count": 3956,
+          "listed_count": 97,
+          "media_count": 506,
+          "tweet_count": 2176
+        },
+        "username": "qruukoq",
+        "verified": true
+      }
+    ]
+  }
+}

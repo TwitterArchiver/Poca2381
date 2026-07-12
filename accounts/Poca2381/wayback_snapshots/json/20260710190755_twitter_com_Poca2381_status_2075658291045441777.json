@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075650191450066944"
+      ],
+      "media_source_tweet_id": [
+        "2075650221863063732"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075658291045441777",
+    "created_at": "2026-07-10T19:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075658291045441777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2075643909171228672",
+          "start": 3,
+          "username": "LinranSuzukaze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHY3YALfux",
+          "end": 50,
+          "expanded_url": "https://x.com/LinranSuzukaze/status/2075650221863063732/video/1",
+          "media_key": "7_2075650191450066944",
+          "start": 27,
+          "url": "https://t.co/SHY3YALfux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075658291045441777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075650221863063732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinranSuzukaze: 请黍入文本： https://t.co/SHY3YALfux"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22976,
+        "height": 582,
+        "media_key": "7_2075650191450066944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075650191450066944/pu/img/4wrkxuQi_hrGAqC8.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075650191450066944/pu/vid/avc1/592x270/zaLWuGMrYV9G9iz_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075650191450066944/pu/vid/avc1/790x360/9BpcQmpYklWyZGFf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075650191450066944/pu/vid/avc1/1278x582/gTdCv-THj5CTk2We.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075650191450066944/pu/pl/5ldYZ1FDC9iZ3bsS.m3u8?tag=12"
+          }
+        ],
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075650191450066944"
+          ],
+          "media_source_tweet_id": [
+            "2075650221863063732"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075658291045441777",
+        "created_at": "2026-07-10T19:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075658291045441777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2075643909171228672",
+              "start": 3,
+              "username": "LinranSuzukaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHY3YALfux",
+              "end": 50,
+              "expanded_url": "https://x.com/LinranSuzukaze/status/2075650221863063732/video/1",
+              "media_key": "7_2075650191450066944",
+              "start": 27,
+              "url": "https://t.co/SHY3YALfux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075658291045441777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075650221863063732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinranSuzukaze: 请黍入文本： https://t.co/SHY3YALfux"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075650191450066944"
+          ]
+        },
+        "author_id": "2075643909171228672",
+        "conversation_id": "2075650221863063732",
+        "created_at": "2026-07-10T18:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075650221863063732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHY3YALfux",
+              "end": 30,
+              "expanded_url": "https://x.com/LinranSuzukaze/status/2075650221863063732/video/1",
+              "media_key": "7_2075650191450066944",
+              "start": 7,
+              "url": "https://t.co/SHY3YALfux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075650221863063732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请黍入文本： https://t.co/SHY3YALfux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22599,
+          "following_count": 9879,
+          "like_count": 153134,
+          "listed_count": 51,
+          "media_count": 5363,
+          "tweet_count": 53549
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-10T18:11:36.000Z",
+        "description": "🇨🇳   中文/English/日本語   Music | Rhythm Games | Minecraft | Delta Force | Arknights",
+        "id": "2075643909171228672",
+        "location": "广东省 深圳市",
+        "name": "涼风铃岚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075644638627758080/oMQt8YiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "LinranSuzukaze",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063035501196836864"
+      ],
+      "media_source_tweet_id": [
+        "2063035507299463452"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063480985300464021",
+    "created_at": "2026-06-07T04:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063480985300464021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DnMfToGsrM",
+          "end": 57,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2063035507299463452/photo/1",
+          "media_key": "3_2063035501196836864",
+          "start": 34,
+          "url": "https://t.co/DnMfToGsrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063480985300464021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063035507299463452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @LingJiaXin233: 发工资了，额这期太少了吧…… https://t.co/DnMfToGsrM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2063035501196836864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFf25_bgAAfl9S.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063035501196836864"
+          ],
+          "media_source_tweet_id": [
+            "2063035507299463452"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063480985300464021",
+        "created_at": "2026-06-07T04:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063480985300464021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnMfToGsrM",
+              "end": 57,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2063035507299463452/photo/1",
+              "media_key": "3_2063035501196836864",
+              "start": 34,
+              "url": "https://t.co/DnMfToGsrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063480985300464021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063035507299463452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @LingJiaXin233: 发工资了，额这期太少了吧…… https://t.co/DnMfToGsrM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063035501196836864"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2063035507299463452",
+        "created_at": "2026-06-05T23:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063035507299463452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnMfToGsrM",
+              "end": 38,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2063035507299463452/photo/1",
+              "media_key": "3_2063035501196836864",
+              "start": 15,
+              "url": "https://t.co/DnMfToGsrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063035507299463452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 48842,
+          "like_count": 297,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "发工资了，额这期太少了吧…… https://t.co/DnMfToGsrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21481,
+          "following_count": 8970,
+          "like_count": 151848,
+          "listed_count": 52,
+          "media_count": 4610,
+          "tweet_count": 50576
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6783,
+          "following_count": 539,
+          "like_count": 19253,
+          "listed_count": 14,
+          "media_count": 2238,
+          "tweet_count": 5697
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

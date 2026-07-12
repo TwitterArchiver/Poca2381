@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054446006356619265",
+        "3_2054446017966460929",
+        "3_2054446012262146048"
+      ],
+      "media_source_tweet_id": [
+        "2054446037759295934",
+        "2054446037759295934",
+        "2054446037759295934"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2054571611676987785",
+    "created_at": "2026-05-13T14:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054571611676987785"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "arknight"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681490093557813248",
+          "start": 3,
+          "username": "SKrRy0406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iwGIdsAVw2",
+          "end": 74,
+          "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+          "media_key": "3_2054446006356619265",
+          "start": 51,
+          "url": "https://t.co/iwGIdsAVw2"
+        },
+        {
+          "display_url": "pic.x.com/iwGIdsAVw2",
+          "end": 74,
+          "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+          "media_key": "3_2054446017966460929",
+          "start": 51,
+          "url": "https://t.co/iwGIdsAVw2"
+        },
+        {
+          "display_url": "pic.x.com/iwGIdsAVw2",
+          "end": 74,
+          "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+          "media_key": "3_2054446012262146048",
+          "start": 51,
+          "url": "https://t.co/iwGIdsAVw2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054571611676987785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054446037759295934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SKrRy0406: 喜欢凑凑的...满足博士您哦💕\n#kigurumi #arknight https://t.co/iwGIdsAVw2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054446006356619265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILbwgMbMAE1mdj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054446017966460929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILbxLcbUAEiNAS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054446012262146048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILbw2MaYAAfIKN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054446006356619265",
+            "3_2054446017966460929",
+            "3_2054446012262146048"
+          ],
+          "media_source_tweet_id": [
+            "2054446037759295934",
+            "2054446037759295934",
+            "2054446037759295934"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2054571611676987785",
+        "created_at": "2026-05-13T14:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054571611676987785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "arknight"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1681490093557813248",
+              "start": 3,
+              "username": "SKrRy0406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwGIdsAVw2",
+              "end": 74,
+              "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+              "media_key": "3_2054446006356619265",
+              "start": 51,
+              "url": "https://t.co/iwGIdsAVw2"
+            },
+            {
+              "display_url": "pic.x.com/iwGIdsAVw2",
+              "end": 74,
+              "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+              "media_key": "3_2054446017966460929",
+              "start": 51,
+              "url": "https://t.co/iwGIdsAVw2"
+            },
+            {
+              "display_url": "pic.x.com/iwGIdsAVw2",
+              "end": 74,
+              "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+              "media_key": "3_2054446012262146048",
+              "start": 51,
+              "url": "https://t.co/iwGIdsAVw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054571611676987785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054446037759295934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SKrRy0406: 喜欢凑凑的...满足博士您哦💕\n#kigurumi #arknight https://t.co/iwGIdsAVw2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054446006356619265",
+            "3_2054446017966460929",
+            "3_2054446012262146048"
+          ]
+        },
+        "author_id": "1681490093557813248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2054446037759295934",
+        "created_at": "2026-05-13T06:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054446037759295934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "arknight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwGIdsAVw2",
+              "end": 59,
+              "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+              "media_key": "3_2054446006356619265",
+              "start": 36,
+              "url": "https://t.co/iwGIdsAVw2"
+            },
+            {
+              "display_url": "pic.x.com/iwGIdsAVw2",
+              "end": 59,
+              "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+              "media_key": "3_2054446017966460929",
+              "start": 36,
+              "url": "https://t.co/iwGIdsAVw2"
+            },
+            {
+              "display_url": "pic.x.com/iwGIdsAVw2",
+              "end": 59,
+              "expanded_url": "https://x.com/SKrRy0406/status/2054446037759295934/photo/1",
+              "media_key": "3_2054446012262146048",
+              "start": 36,
+              "url": "https://t.co/iwGIdsAVw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054446037759295934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 4147,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢凑凑的...满足博士您哦💕\n#kigurumi #arknight https://t.co/iwGIdsAVw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20372,
+          "following_count": 7857,
+          "like_count": 150540,
+          "listed_count": 49,
+          "media_count": 4137,
+          "tweet_count": 48307
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T02:24:22.000Z",
+        "description": "你好，我是氪莉，很高兴认识你~",
+        "id": "1681490093557813248",
+        "location": "異次元",
+        "name": "一只小氪莉SKrRy",
+        "pinned_tweet_id": "1707621284677583039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011038087560744960/bSjPZySu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8704,
+          "following_count": 737,
+          "like_count": 5239,
+          "listed_count": 59,
+          "media_count": 105,
+          "tweet_count": 791
+        },
+        "username": "SKrRy0406",
+        "verified": false
+      }
+    ]
+  }
+}

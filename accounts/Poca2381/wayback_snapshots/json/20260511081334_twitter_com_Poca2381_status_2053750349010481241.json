@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053384277031874560"
+      ],
+      "media_source_tweet_id": [
+        "2053414743847600539"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2053750349010481241",
+    "created_at": "2026-05-11T08:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053750349010481241"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1805878318618787840",
+          "start": 3,
+          "username": "Natsuki076810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u7KrjzoNzp",
+          "end": 82,
+          "expanded_url": "https://x.com/Natsuki076810/status/2053414743847600539/video/1",
+          "media_key": "13_2053384277031874560",
+          "start": 59,
+          "url": "https://t.co/u7KrjzoNzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053750349010481241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053414743847600539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Natsuki076810: 貓貓自己在家！沒有拆家搞破壞！\n(^з^)-☆\n#kigurumi #着ぐるみ https://t.co/u7KrjzoNzp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 3840,
+        "media_key": "13_2053384277031874560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053384277031874560/img/xyq4NkgSu3yJAFNJ.jpg",
+        "public_metrics": {
+          "view_count": 934
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053384277031874560/vid/avc1/2160x3840/ej8r77VrFUUK6Vej.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053384277031874560/vid/avc1/720x1280/dirUppV-a4zAa1J3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053384277031874560/vid/avc1/480x852/P4HH3YZRbiOKUtBH.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053384277031874560/vid/avc1/320x568/k6zwB26UzvmNZnbT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053384277031874560/pl/gajkKTbeUamIqQLU.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053384277031874560/vid/avc1/1080x1920/BC8V-1m8vSi-4h-F.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053384277031874560"
+          ],
+          "media_source_tweet_id": [
+            "2053414743847600539"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2053750349010481241",
+        "created_at": "2026-05-11T08:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053750349010481241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1805878318618787840",
+              "start": 3,
+              "username": "Natsuki076810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7KrjzoNzp",
+              "end": 82,
+              "expanded_url": "https://x.com/Natsuki076810/status/2053414743847600539/video/1",
+              "media_key": "13_2053384277031874560",
+              "start": 59,
+              "url": "https://t.co/u7KrjzoNzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053750349010481241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053414743847600539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Natsuki076810: 貓貓自己在家！沒有拆家搞破壞！\n(^з^)-☆\n#kigurumi #着ぐるみ https://t.co/u7KrjzoNzp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053384277031874560"
+          ]
+        },
+        "author_id": "1805878318618787840",
+        "conversation_id": "2053414743847600539",
+        "created_at": "2026-05-10T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053414743847600539"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7KrjzoNzp",
+              "end": 63,
+              "expanded_url": "https://x.com/Natsuki076810/status/2053414743847600539/video/1",
+              "media_key": "13_2053384277031874560",
+              "start": 40,
+              "url": "https://t.co/u7KrjzoNzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053414743847600539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3245,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "貓貓自己在家！沒有拆家搞破壞！\n(^з^)-☆\n#kigurumi #着ぐるみ https://t.co/u7KrjzoNzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20313,
+          "following_count": 7768,
+          "like_count": 150417,
+          "listed_count": 49,
+          "media_count": 4102,
+          "tweet_count": 48120
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T08:18:53.000Z",
+        "description": "一只香港喵🐱",
+        "id": "1805878318618787840",
+        "location": "Hong Kong McDonald's",
+        "name": "夏樹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051199855578763265/a3uwX7hD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 56,
+          "like_count": 1303,
+          "listed_count": 9,
+          "media_count": 100,
+          "tweet_count": 439
+        },
+        "username": "Natsuki076810",
+        "verified": true
+      }
+    ]
+  }
+}

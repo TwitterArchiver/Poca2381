@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060022522972909568"
+      ],
+      "media_source_tweet_id": [
+        "2060022568120459653"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062522480389239086",
+    "created_at": "2026-06-04T13:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062522480389239086"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 68,
+          "tag": "Cartethyia"
+        },
+        {
+          "end": 95,
+          "start": 80,
+          "tag": "WutheringWaves"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "緊縛"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "り縛り"
+        },
+        {
+          "end": 114,
+          "start": 105,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519759134245023744",
+          "start": 3,
+          "username": "momotyQAQ"
+        },
+        {
+          "end": 50,
+          "id": "310095396",
+          "start": 37,
+          "username": "francis_zhai"
+        },
+        {
+          "end": 66,
+          "id": "1528652116608241664",
+          "start": 54,
+          "username": "ruoxia_mmao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7oabaaUzuf",
+          "end": 138,
+          "expanded_url": "https://x.com/momotyQAQ/status/2060022568120459653/video/1",
+          "media_key": "7_2060022522972909568",
+          "start": 115,
+          "url": "https://t.co/7oabaaUzuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062522480389239086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060022568120459653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momotyQAQ: 小肚小肚～（这肚子一鼓一鼓的有点好笑）\n🪢：@francis_zhai \n📸：@ruoxia_mmao \n#Cartethyia #WutheringWaves #緊縛 #り縛り #kigurumi https://t.co/7oabaaUzuf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062522480389239086].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062522480389239086",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062522480389239086"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16533,
+        "height": 1280,
+        "media_key": "7_2060022522972909568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060022522972909568/pu/img/zgbASqzvnZENKOnA.jpg",
+        "public_metrics": {
+          "view_count": 3518
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060022522972909568/pu/vid/avc1/320x568/H7RQxZuwOryMxScM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060022522972909568/pu/vid/avc1/480x852/m4Wv2KslTJAxdgfa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060022522972909568/pu/vid/avc1/720x1280/relkMavpx2d9SHfZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060022522972909568/pu/pl/O3mIM4NDp_GLY9hJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060022522972909568"
+          ]
+        },
+        "author_id": "1519759134245023744",
+        "conversation_id": "2060022568120459653",
+        "created_at": "2026-05-28T15:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060022568120459653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "Cartethyia"
+            },
+            {
+              "end": 80,
+              "start": 65,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "緊縛"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "り縛り"
+            },
+            {
+              "end": 99,
+              "start": 90,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "310095396",
+              "start": 22,
+              "username": "francis_zhai"
+            },
+            {
+              "end": 51,
+              "id": "1528652116608241664",
+              "start": 39,
+              "username": "ruoxia_mmao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oabaaUzuf",
+              "end": 123,
+              "expanded_url": "https://x.com/momotyQAQ/status/2060022568120459653/video/1",
+              "media_key": "7_2060022522972909568",
+              "start": 100,
+              "url": "https://t.co/7oabaaUzuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060022568120459653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 9677,
+          "like_count": 519,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "小肚小肚～（这肚子一鼓一鼓的有点好笑）\n🪢：@francis_zhai \n📸：@ruoxia_mmao \n#Cartethyia #WutheringWaves #緊縛 #り縛り #kigurumi https://t.co/7oabaaUzuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21367,
+          "following_count": 8874,
+          "like_count": 151620,
+          "listed_count": 51,
+          "media_count": 4550,
+          "tweet_count": 50265
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T19:23:17.000Z",
+        "description": "喵喵喵？…喵喵喵！现在是雪衣/终灾/卡提希娅/深圳➕广州的娃娃ing｜最爱的妹妹@lanbing617 ｜最笨的笨蛋@HibikiDuO❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "lanbing617"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "HibikiDuO"
+              }
+            ]
+          }
+        },
+        "id": "1519759134245023744",
+        "location": "在天边",
+        "name": "墨鱼汤圆",
+        "pinned_tweet_id": "1814431992668401839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009420877851709443/c7-neSbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8837,
+          "following_count": 1562,
+          "like_count": 2423,
+          "listed_count": 48,
+          "media_count": 270,
+          "tweet_count": 845
+        },
+        "username": "momotyQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-03T05:43:17.000Z",
+        "description": "",
+        "id": "310095396",
+        "location": "shenzhen",
+        "name": "宅宅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932296179175567360/FMcH9Bdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5077,
+          "following_count": 549,
+          "like_count": 326,
+          "listed_count": 27,
+          "media_count": 154,
+          "tweet_count": 1917
+        },
+        "username": "francis_zhai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T08:20:47.000Z",
+        "description": "娃/摄，随机刷新在各个地方",
+        "id": "1528652116608241664",
+        "name": "若霞_mmao",
+        "pinned_tweet_id": "2018240471781282028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043018635577561089/o9AA_4EX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11848,
+          "following_count": 580,
+          "like_count": 7658,
+          "listed_count": 52,
+          "media_count": 138,
+          "tweet_count": 1603
+        },
+        "username": "ruoxia_mmao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064183288403534067",
+    "created_at": "2026-06-09T07:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064249923621806359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021982520729112576",
+          "start": 0,
+          "username": "HatsuZuki_kig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064249923621806359",
+    "in_reply_to_user_id": "2021982520729112576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064183288403534067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HatsuZuki_kig 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2064182299705344000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVy3XWWAAAGC3j.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2064183113010262016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVzmtJWMAA_a23.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2064183288403534067",
+        "created_at": "2026-06-09T07:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064249923621806359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021982520729112576",
+              "start": 0,
+              "username": "HatsuZuki_kig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064249923621806359",
+        "in_reply_to_user_id": "2021982520729112576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064183288403534067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HatsuZuki_kig 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064182299705344000",
+            "3_2064183113010262016"
+          ]
+        },
+        "author_id": "2021982520729112576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "966344390351364097",
+              "name": "Kantai Collection"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "966344390351364097",
+              "name": "Kantai Collection"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2064183288403534067",
+        "created_at": "2026-06-09T03:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064183288403534067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 76,
+              "start": 67,
+              "tag": "艦隊これくしょん"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "艦これ"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "時雨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P3Ggsfecp",
+              "end": 109,
+              "expanded_url": "https://x.com/HatsuZuki_kig/status/2064183288403534067/photo/1",
+              "media_key": "3_2064182299705344000",
+              "start": 86,
+              "url": "https://t.co/7P3Ggsfecp"
+            },
+            {
+              "display_url": "pic.x.com/7P3Ggsfecp",
+              "end": 109,
+              "expanded_url": "https://x.com/HatsuZuki_kig/status/2064183288403534067/photo/1",
+              "media_key": "3_2064183113010262016",
+              "start": 86,
+              "url": "https://t.co/7P3Ggsfecp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064183288403534067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "希望明年的春天也能和提督一起度过这美好的时光~\nps：终于把春天拍樱花的照片全修完了，呼~（我是懒狗\n#kigurumi #着ぐるみ #艦隊これくしょん #艦これ #時雨 https://t.co/7P3Ggsfecp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21629,
+          "following_count": 9117,
+          "like_count": 151920,
+          "listed_count": 52,
+          "media_count": 4651,
+          "tweet_count": 50858
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-12T16:19:48.000Z",
+        "description": "某位污水男娘的娃娃分身，角色是舰队collection的时雨呢，还有一个米浴正在绝赞制作中，希望大家喜欢ww\n该帐号主要是发清水哦(⁠≧⁠▽⁠≦⁠)",
+        "id": "2021982520729112576",
+        "name": "武佐条野（新人kig求互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021988834242945025/aPXVsl2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 153,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 87
+        },
+        "username": "HatsuZuki_kig",
+        "verified": false
+      }
+    ]
+  }
+}

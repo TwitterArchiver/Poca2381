@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065845871661740032"
+      ],
+      "media_source_tweet_id": [
+        "2065845895862915272"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065853762892439771",
+    "created_at": "2026-06-13T17:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065853762892439771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1268933857727791104",
+          "start": 3,
+          "username": "xizi1840"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i1ONCApPOg",
+          "end": 55,
+          "expanded_url": "https://x.com/xizi1840/status/2065845895862915272/photo/1",
+          "media_key": "3_2065845871661740032",
+          "start": 32,
+          "url": "https://t.co/i1ONCApPOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065853762892439771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065845895862915272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xizi1840: 充斥咛嘤\n\n摄影：北约\n出镜：希子 https://t.co/i1ONCApPOg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065853762892439771].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065853762892439771",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065853762892439771"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065845871661740032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtb3_0a8AAiG3w.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065845871661740032"
+          ]
+        },
+        "author_id": "1268933857727791104",
+        "conversation_id": "2065845895862915272",
+        "created_at": "2026-06-13T17:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065845895862915272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1ONCApPOg",
+              "end": 41,
+              "expanded_url": "https://x.com/xizi1840/status/2065845895862915272/photo/1",
+              "media_key": "3_2065845871661740032",
+              "start": 18,
+              "url": "https://t.co/i1ONCApPOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065845895862915272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 774,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "充斥咛嘤\n\n摄影：北约\n出镜：希子 https://t.co/i1ONCApPOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21828,
+          "following_count": 9309,
+          "like_count": 152167,
+          "listed_count": 52,
+          "media_count": 4789,
+          "tweet_count": 51382
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-05T15:53:12.000Z",
+        "description": "不试图读懂任何人。门槛520加微信，不加微信不闲聊，拍摄520加v详聊可做定金。微博：@茂木希子1840 。人体模特只接拍摄，不触碰模特，不商务，不陪睡。面基门槛2000，最多可握手。",
+        "id": "1268933857727791104",
+        "name": "茂木希子",
+        "pinned_tweet_id": "2056978779856322736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944801939574702080/aQ2eiDLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170836,
+          "following_count": 1948,
+          "like_count": 12843,
+          "listed_count": 835,
+          "media_count": 3134,
+          "tweet_count": 7936
+        },
+        "username": "xizi1840",
+        "verified": false
+      }
+    ]
+  }
+}

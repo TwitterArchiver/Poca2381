@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2052111172695187930",
+    "created_at": "2026-05-07T06:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052282171763896630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036459029237833728",
+          "start": 0,
+          "username": "HMiku2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052282171763896630",
+    "in_reply_to_user_id": "2036459029237833728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052111172695187930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HMiku2333 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2052111163882897408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqQOyLagAAa3oK.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2052111172695187930",
+        "created_at": "2026-05-07T06:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052282171763896630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036459029237833728",
+              "start": 0,
+              "username": "HMiku2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052282171763896630",
+        "in_reply_to_user_id": "2036459029237833728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052111172695187930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HMiku2333 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052111163882897408"
+          ]
+        },
+        "author_id": "2036459029237833728",
+        "conversation_id": "2052111172695187930",
+        "created_at": "2026-05-06T19:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052111172695187930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccQk29LLsj",
+              "end": 40,
+              "expanded_url": "https://x.com/HMiku2333/status/2052111172695187930/photo/1",
+              "media_key": "3_2052111163882897408",
+              "start": 17,
+              "url": "https://t.co/ccQk29LLsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052111172695187930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6067,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是我梦寐以求的卡，如今我已拿下 https://t.co/ccQk29LLsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20113,
+          "following_count": 7485,
+          "like_count": 150198,
+          "listed_count": 49,
+          "media_count": 4026,
+          "tweet_count": 47810
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T15:04:15.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/15|药娘小资历 | 170 厘米 | 60公斤| 没fo的私信 | 不抽烟  |双相情感障碍|成分复杂|飞友|日本语|English|中文",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmiku2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmiku2333",
+                "start": 0,
+                "url": "https://t.co/hD487V0nKB"
+              }
+            ]
+          }
+        },
+        "id": "2036459029237833728",
+        "location": "Tokyo Japan",
+        "name": "Yuri🍥🏳️‍⚧",
+        "pinned_tweet_id": "2051322154977731050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040544704404836352/A-REkNUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 280,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/hD487V0nKB",
+        "username": "HMiku2333",
+        "verified": false
+      }
+    ]
+  }
+}

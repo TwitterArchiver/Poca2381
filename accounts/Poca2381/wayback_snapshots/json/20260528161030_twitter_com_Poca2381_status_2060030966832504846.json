@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2059688458826973336",
+    "created_at": "2026-05-28T16:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060030966832504846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1861589336564895744",
+          "start": 0,
+          "username": "f636902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060030966832504846",
+    "in_reply_to_user_id": "1861589336564895744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059987651206545555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f636902 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2059688458826973336",
+        "created_at": "2026-05-28T16:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060030966832504846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1861589336564895744",
+              "start": 0,
+              "username": "f636902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060030966832504846",
+        "in_reply_to_user_id": "1861589336564895744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059987651206545555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f636902 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861589336564895744",
+        "conversation_id": "2059688458826973336",
+        "created_at": "2026-05-28T13:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059987651206545555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059987651206545555",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059688458826973336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 那不就是共产主义吗 太乌托邦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21050,
+          "following_count": 8545,
+          "like_count": 151277,
+          "listed_count": 51,
+          "media_count": 4420,
+          "tweet_count": 49616
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T01:54:37.000Z",
+        "description": "cn 鸿鸩鸯/女神异闻录/毛派/反纳粹/托派份子/波萨达斯主义/太空公社/外星红军/工科//网左/核弹/",
+        "id": "1861589336564895744",
+        "location": "苏联",
+        "name": "J·波萨达斯",
+        "pinned_tweet_id": "1877357370743063026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986820488421838848/M_R20evi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 180,
+          "like_count": 6711,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 656
+        },
+        "username": "f636902",
+        "verified": false
+      }
+    ]
+  }
+}

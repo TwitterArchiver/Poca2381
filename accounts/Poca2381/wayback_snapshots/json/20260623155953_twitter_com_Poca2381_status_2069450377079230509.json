@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2069279662711439360"
+      ],
+      "media_source_tweet_id": [
+        "2069280037980016716"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069450377079230509",
+    "created_at": "2026-06-23T15:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069450377079230509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961764432633368576",
+          "start": 3,
+          "username": "zdbsbrq666"
+        },
+        {
+          "end": 41,
+          "id": "1650795761691443202",
+          "start": 30,
+          "username": "kelefeimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PECzgFhwpx",
+          "end": 65,
+          "expanded_url": "https://x.com/zdbsbrq666/status/2069280037980016716/video/1",
+          "media_key": "7_2069279662711439360",
+          "start": 42,
+          "url": "https://t.co/PECzgFhwpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069450377079230509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069280037980016716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zdbsbrq666: 疑似阿能战败cg流出\n阿福：@kelefeimao https://t.co/PECzgFhwpx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 131756,
+        "height": 720,
+        "media_key": "7_2069279662711439360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069279662711439360/pu/img/tNj1ifHL3AxphoA6.jpg",
+        "public_metrics": {
+          "view_count": 963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069279662711439360/pu/vid/avc1/480x270/GclS55tFYaxVxD_3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069279662711439360/pu/vid/avc1/640x360/eMktJAK0ZBmlM7Hq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069279662711439360/pu/vid/avc1/1280x720/5y5nMIHcx5UY21yd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069279662711439360/pu/pl/slwJ1YTEnd5VL97d.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069279662711439360"
+          ],
+          "media_source_tweet_id": [
+            "2069280037980016716"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069450377079230509",
+        "created_at": "2026-06-23T15:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069450377079230509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961764432633368576",
+              "start": 3,
+              "username": "zdbsbrq666"
+            },
+            {
+              "end": 41,
+              "id": "1650795761691443202",
+              "start": 30,
+              "username": "kelefeimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PECzgFhwpx",
+              "end": 65,
+              "expanded_url": "https://x.com/zdbsbrq666/status/2069280037980016716/video/1",
+              "media_key": "7_2069279662711439360",
+              "start": 42,
+              "url": "https://t.co/PECzgFhwpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069450377079230509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069280037980016716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zdbsbrq666: 疑似阿能战败cg流出\n阿福：@kelefeimao https://t.co/PECzgFhwpx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069279662711439360"
+          ]
+        },
+        "author_id": "1961764432633368576",
+        "conversation_id": "2069280037980016716",
+        "created_at": "2026-06-23T04:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069280037980016716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1650795761691443202",
+              "start": 14,
+              "username": "kelefeimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PECzgFhwpx",
+              "end": 49,
+              "expanded_url": "https://x.com/zdbsbrq666/status/2069280037980016716/video/1",
+              "media_key": "7_2069279662711439360",
+              "start": 26,
+              "url": "https://t.co/PECzgFhwpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069280037980016716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 1802,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "疑似阿能战败cg流出\n阿福：@kelefeimao https://t.co/PECzgFhwpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22234,
+          "following_count": 9575,
+          "like_count": 152599,
+          "listed_count": 52,
+          "media_count": 5016,
+          "tweet_count": 52273
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-30T12:14:30.000Z",
+        "description": "178/57，萌新kiger，角色是阿能～兔子洞待产。xp广泛，欢迎可爱娃娃和xnn和咱扩列一起玩～\n\n主人：@baiqianyuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "baiqianyuu"
+              }
+            ]
+          }
+        },
+        "id": "1961764432633368576",
+        "name": "青秋秋嚏！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063696626498314240/1Q9ilKXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 422,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "zdbsbrq666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T09:36:03.000Z",
+        "description": "你好啊，欢迎扩列哦",
+        "id": "1650795761691443202",
+        "name": "可乐废猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650796080328581120/VfFc-MRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 627,
+          "like_count": 11867,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "kelefeimao",
+        "verified": false
+      }
+    ]
+  }
+}

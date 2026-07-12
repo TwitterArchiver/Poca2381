@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2067911799035617280"
+      ],
+      "media_source_tweet_id": [
+        "2067911827078734216"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068625334904500728",
+    "created_at": "2026-06-21T09:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068625334904500728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1425295957013536769",
+          "start": 3,
+          "username": "Pink_shuimu"
+        },
+        {
+          "end": 49,
+          "id": "1964328134737862656",
+          "start": 38,
+          "username": "ZongZi_Kig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S9VWq1g5FN",
+          "end": 73,
+          "expanded_url": "https://x.com/Pink_shuimu/status/2067911827078734216/video/1",
+          "media_key": "7_2067911799035617280",
+          "start": 50,
+          "url": "https://t.co/S9VWq1g5FN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068625334904500728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067911827078734216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pink_shuimu: 想闻妈妈的脚底吗˶&gt;ᗜ&lt;˶\n🎭@ZongZi_Kig https://t.co/S9VWq1g5FN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3625,
+        "height": 1280,
+        "media_key": "7_2067911799035617280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067911799035617280/pu/img/EUiUfJq1GHvbowRR.jpg",
+        "public_metrics": {
+          "view_count": 3112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067911799035617280/pu/vid/avc1/320x568/5quDRAgpS-JUvOXO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067911799035617280/pu/vid/avc1/480x852/89bsHfJp0DM6oRE-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067911799035617280/pu/vid/avc1/720x1280/2DEFbXqRYFTiVjLT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067911799035617280/pu/pl/ZzhRcPJYZrtNCP2i.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067911799035617280"
+          ],
+          "media_source_tweet_id": [
+            "2067911827078734216"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068625334904500728",
+        "created_at": "2026-06-21T09:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068625334904500728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1425295957013536769",
+              "start": 3,
+              "username": "Pink_shuimu"
+            },
+            {
+              "end": 49,
+              "id": "1964328134737862656",
+              "start": 38,
+              "username": "ZongZi_Kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9VWq1g5FN",
+              "end": 73,
+              "expanded_url": "https://x.com/Pink_shuimu/status/2067911827078734216/video/1",
+              "media_key": "7_2067911799035617280",
+              "start": 50,
+              "url": "https://t.co/S9VWq1g5FN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068625334904500728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067911827078734216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pink_shuimu: 想闻妈妈的脚底吗˶&gt;ᗜ&lt;˶\n🎭@ZongZi_Kig https://t.co/S9VWq1g5FN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067911799035617280"
+          ]
+        },
+        "author_id": "1425295957013536769",
+        "conversation_id": "2067911827078734216",
+        "created_at": "2026-06-19T10:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067911827078734216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1964328134737862656",
+              "start": 21,
+              "username": "ZongZi_Kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9VWq1g5FN",
+              "end": 56,
+              "expanded_url": "https://x.com/Pink_shuimu/status/2067911827078734216/video/1",
+              "media_key": "7_2067911799035617280",
+              "start": 33,
+              "url": "https://t.co/S9VWq1g5FN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067911827078734216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 11541,
+          "like_count": 688,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "想闻妈妈的脚底吗˶&gt;ᗜ&lt;˶\n🎭@ZongZi_Kig https://t.co/S9VWq1g5FN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22126,
+          "following_count": 9515,
+          "like_count": 152458,
+          "listed_count": 52,
+          "media_count": 4958,
+          "tweet_count": 52017
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-11T03:20:39.000Z",
+        "description": "宝石成了赝品，你的眼眸才是真迹",
+        "id": "1425295957013536769",
+        "location": "上海 —China Shanghai",
+        "name": "粉色可爱水母",
+        "pinned_tweet_id": "2046880545892872192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050864889640767488/c70THqDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9504,
+          "following_count": 437,
+          "like_count": 177,
+          "listed_count": 37,
+          "media_count": 101,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "Pink_shuimu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:01:46.000Z",
+        "description": "ciallo (∠·ω )⌒★，这里是粽子工坊，提供kigurumi头壳定制相关服务，欢迎加入店铺QQ群375376196。For international inquiry, please send a DM",
+        "id": "1964328134737862656",
+        "name": "粽子工坊Kigurumi",
+        "pinned_tweet_id": "2058126621027275045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001279679828033536/zVCB4DcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 10,
+          "like_count": 66,
+          "listed_count": 19,
+          "media_count": 36,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "ZongZi_Kig",
+        "verified": false
+      }
+    ]
+  }
+}

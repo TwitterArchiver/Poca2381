@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066824500189204480"
+      ],
+      "media_source_tweet_id": [
+        "2066824507021787474"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2067302605286789494",
+    "created_at": "2026-06-17T17:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067302605286789494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "632055237",
+          "start": 3,
+          "username": "RUN_CKP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFs2DbKj6i",
+          "end": 39,
+          "expanded_url": "https://x.com/RUN_CKP/status/2066824507021787474/photo/1",
+          "media_key": "3_2066824500189204480",
+          "start": 16,
+          "url": "https://t.co/AFs2DbKj6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067302605286789494",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066824507021787474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RUN_CKP: ✌✌ https://t.co/AFs2DbKj6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2066824500189204480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7V7rLaEAASNx4.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066824500189204480"
+          ],
+          "media_source_tweet_id": [
+            "2066824507021787474"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2067302605286789494",
+        "created_at": "2026-06-17T17:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067302605286789494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "632055237",
+              "start": 3,
+              "username": "RUN_CKP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFs2DbKj6i",
+              "end": 39,
+              "expanded_url": "https://x.com/RUN_CKP/status/2066824507021787474/photo/1",
+              "media_key": "3_2066824500189204480",
+              "start": 16,
+              "url": "https://t.co/AFs2DbKj6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067302605286789494",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066824507021787474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RUN_CKP: ✌✌ https://t.co/AFs2DbKj6i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066824500189204480"
+          ]
+        },
+        "author_id": "632055237",
+        "conversation_id": "2066824507021787474",
+        "created_at": "2026-06-16T10:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066824507021787474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFs2DbKj6i",
+              "end": 26,
+              "expanded_url": "https://x.com/RUN_CKP/status/2066824507021787474/photo/1",
+              "media_key": "3_2066824500189204480",
+              "start": 3,
+              "url": "https://t.co/AFs2DbKj6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824507021787474",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3903,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "✌✌ https://t.co/AFs2DbKj6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22022,
+          "following_count": 9435,
+          "like_count": 152348,
+          "listed_count": 52,
+          "media_count": 4883,
+          "tweet_count": 51763
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-10T13:20:45.000Z",
+        "description": "#着ぐるみ #kigurumi \nU6ω6U\nｻﾌﾞ→@RUN_NEXTCKP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "着ぐるみ"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "kigurumi"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "RUN_NEXTCKP"
+              }
+            ]
+          }
+        },
+        "id": "632055237",
+        "location": "茨城",
+        "name": "なばるん",
+        "pinned_tweet_id": "1949409440903622674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949412931013328897/YK2R4T4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3474,
+          "following_count": 810,
+          "like_count": 53939,
+          "listed_count": 43,
+          "media_count": 4816,
+          "tweet_count": 120237
+        },
+        "username": "RUN_CKP",
+        "verified": false
+      }
+    ]
+  }
+}

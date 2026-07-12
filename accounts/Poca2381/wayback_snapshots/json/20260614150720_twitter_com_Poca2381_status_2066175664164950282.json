@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066086070505385984"
+      ],
+      "media_source_tweet_id": [
+        "2066086090579275824"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066175664164950282",
+    "created_at": "2026-06-14T15:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066175664164950282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7pn99WJJd",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/2066086090579275824/photo/1",
+          "media_key": "3_2066086070505385984",
+          "start": 13,
+          "url": "https://t.co/m7pn99WJJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066175664164950282",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066086090579275824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: https://t.co/m7pn99WJJd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066086070505385984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw2VaPbMAAjWw7.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066086070505385984"
+          ],
+          "media_source_tweet_id": [
+            "2066086090579275824"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066175664164950282",
+        "created_at": "2026-06-14T15:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066175664164950282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7pn99WJJd",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/2066086090579275824/photo/1",
+              "media_key": "3_2066086070505385984",
+              "start": 13,
+              "url": "https://t.co/m7pn99WJJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066175664164950282",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066086090579275824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: https://t.co/m7pn99WJJd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066086070505385984"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2066086090579275824",
+        "created_at": "2026-06-14T09:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066086090579275824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7pn99WJJd",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2066086090579275824/photo/1",
+              "media_key": "3_2066086070505385984",
+              "start": 0,
+              "url": "https://t.co/m7pn99WJJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066086090579275824",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 39593,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m7pn99WJJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21864,
+          "following_count": 9341,
+          "like_count": 152253,
+          "listed_count": 52,
+          "media_count": 4814,
+          "tweet_count": 51521
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120853,
+          "following_count": 1119,
+          "like_count": 52169,
+          "listed_count": 295,
+          "media_count": 22128,
+          "tweet_count": 32609
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

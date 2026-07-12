@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062786103091024340",
+    "created_at": "2026-06-11T04:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064925722792370491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887556713429266432",
+          "start": 0,
+          "username": "linlitsuing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064925722792370491",
+    "in_reply_to_user_id": "1887556713429266432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062786103091024340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlitsuing 好奇咱算啥()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2062786103091024340",
+        "created_at": "2026-06-11T04:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064925722792370491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887556713429266432",
+              "start": 0,
+              "username": "linlitsuing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064925722792370491",
+        "in_reply_to_user_id": "1887556713429266432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062786103091024340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlitsuing 好奇咱算啥()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887556713429266432",
+        "conversation_id": "2062786103091024340",
+        "created_at": "2026-06-05T06:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062786103091024340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062786103091024340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2307,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别拿那些打着“日常推”旗号天天发自己身体擦边和发抽象文案发家的推友跟我作涨粉效率对比谢谢🤝\n我就是个日常推，保持日更的习惯是想到啥就发啥🫪我是来这个平台养老的，不是来和你们军备竞赛的，我1没颜2没身材3我不缺钱4不缺爱5不滥情6家庭美满7没有精神疾病，来这个平台单纯交友互动的好不小哥哥们？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21710,
+          "following_count": 9210,
+          "like_count": 152046,
+          "listed_count": 52,
+          "media_count": 4693,
+          "tweet_count": 51093
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T17:39:39.000Z",
+        "description": "2007年/180/side/4.0版本/深圳🌈中文｜我是猫猫😼｜编导在读｜最好的老公🥺@YMColinMessi｜ 永远的哥哥👬@chen_perservera｜高考加油！@Haru_Located ｜魔女妈 🪄@ne_ROOT_mo ｜ 至交好友@KzCynic @XiaomaWOW777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "YMColinMessi"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "chen_perservera"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Haru_Located"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "ne_ROOT_mo"
+              },
+              {
+                "end": 133,
+                "start": 125,
+                "username": "KzCynic"
+              },
+              {
+                "end": 147,
+                "start": 134,
+                "username": "XiaomaWOW777"
+              }
+            ]
+          }
+        },
+        "id": "1887556713429266432",
+        "location": "深圳",
+        "name": "奕晴📷",
+        "pinned_tweet_id": "2058205834077942193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219055147466752/kGhig8W2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8067,
+          "following_count": 1776,
+          "like_count": 21893,
+          "listed_count": 10,
+          "media_count": 1895,
+          "tweet_count": 24805
+        },
+        "username": "linlitsuing",
+        "verified": true
+      }
+    ]
+  }
+}

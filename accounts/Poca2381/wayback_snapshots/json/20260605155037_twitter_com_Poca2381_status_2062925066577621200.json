@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054472182647128064"
+      ],
+      "media_source_tweet_id": [
+        "2054472209717240106"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2062925066577621200",
+    "created_at": "2026-06-05T15:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062925066577621200"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 55,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 83,
+          "start": 71,
+          "tag": "BlueArchive"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "蔚蓝档案"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1326174018823614464",
+          "start": 3,
+          "username": "momo_FreshP0325"
+        },
+        {
+          "end": 38,
+          "id": "1323465355948224513",
+          "start": 27,
+          "username": "nemuzuki99"
+        },
+        {
+          "end": 53,
+          "id": "1774873243847155713",
+          "start": 42,
+          "username": "haagaau_GF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3xu3BS0vT",
+          "end": 128,
+          "expanded_url": "https://x.com/momo_FreshP0325/status/2054472209717240106/photo/1",
+          "media_key": "3_2054472182647128064",
+          "start": 105,
+          "url": "https://t.co/r3xu3BS0vT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062925066577621200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054472209717240106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momo_FreshP0325: ぞるる\n📷 @nemuzuki99 \n🎭 @haagaau_GF \n#kigurumi #着ぐるみ #BlueArchive #蔚蓝档案 \n\n（触手快要伸到喉咙里了） https://t.co/r3xu3BS0vT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062925066577621200].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062925066577621200",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062925066577621200"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054472182647128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILzkKeagAAxjdU.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054472182647128064"
+          ]
+        },
+        "author_id": "1326174018823614464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2054472209717240106",
+        "created_at": "2026-05-13T08:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054472209717240106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "蔚蓝档案"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1323465355948224513",
+              "start": 6,
+              "username": "nemuzuki99"
+            },
+            {
+              "end": 32,
+              "id": "1774873243847155713",
+              "start": 21,
+              "username": "haagaau_GF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3xu3BS0vT",
+              "end": 107,
+              "expanded_url": "https://x.com/momo_FreshP0325/status/2054472209717240106/photo/1",
+              "media_key": "3_2054472182647128064",
+              "start": 84,
+              "url": "https://t.co/r3xu3BS0vT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054472209717240106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 16935,
+          "like_count": 690,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "ぞるる\n📷 @nemuzuki99 \n🎭 @haagaau_GF \n#kigurumi #着ぐるみ #BlueArchive #蔚蓝档案 \n\n（触手快要伸到喉咙里了） https://t.co/r3xu3BS0vT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21405,
+          "following_count": 8927,
+          "like_count": 151752,
+          "listed_count": 52,
+          "media_count": 4574,
+          "tweet_count": 50432
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-10T14:45:15.000Z",
+        "description": "kigurumi新人！现在的角色是千代田桃、虚拟主播沙月、正义实现委员会杂鱼酱、十字神明的艾茵！",
+        "id": "1326174018823614464",
+        "location": "北京",
+        "name": "芳文社副社长",
+        "pinned_tweet_id": "2049692782986703077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900760765700915200/kKgOX5vX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 507,
+          "like_count": 1892,
+          "listed_count": 17,
+          "media_count": 78,
+          "tweet_count": 499
+        },
+        "username": "momo_FreshP0325",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-03T03:21:52.000Z",
+        "description": "虚无中寻找真实",
+        "id": "1323465355948224513",
+        "location": "Beijing",
+        "name": "眠月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049304611979431936/4gmyY9bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6506,
+          "following_count": 1234,
+          "like_count": 15034,
+          "listed_count": 49,
+          "media_count": 135,
+          "tweet_count": 1097
+        },
+        "username": "nemuzuki99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T18:55:39.000Z",
+        "description": "闲鱼＆淘宝:kigurumi虾饺工房 QQ:3792059014 QQ群：195721304 kigurumi头壳 全平台同名 International Customers: @Haagaau_GF_EN  新分店虾饺糖水铺：@haagaau_TSP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Haagaau_GF_EN"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "haagaau_TSP"
+              }
+            ]
+          }
+        },
+        "id": "1774873243847155713",
+        "name": "Kigurumi虾饺工房",
+        "pinned_tweet_id": "2021045025044578355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774873972611670016/7hf0p60d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 125,
+          "like_count": 374,
+          "listed_count": 40,
+          "media_count": 430,
+          "tweet_count": 633
+        },
+        "username": "haagaau_GF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069438202352631876",
+    "created_at": "2026-06-24T05:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069657237631672526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        },
+        {
+          "end": 24,
+          "id": "2042108098203033600",
+          "start": 8,
+          "username": "HSoLqDvjCk70578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069657237631672526",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069438202352631876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 @HSoLqDvjCk70578 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069436177917288448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgdPU4aIAAEucm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 350,
+        "media_key": "16_2069438184732393472",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLgfEI2agAAM2x4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLgfEI2agAAM2x4.mp4"
+          }
+        ],
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069438202352631876",
+        "created_at": "2026-06-24T05:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069657237631672526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            },
+            {
+              "end": 24,
+              "id": "2042108098203033600",
+              "start": 8,
+              "username": "HSoLqDvjCk70578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069657237631672526",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069438202352631876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 @HSoLqDvjCk70578 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069436177917288448",
+            "16_2069438184732393472"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2069438202352631876",
+        "created_at": "2026-06-23T15:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069438202352631876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2042108098203033600",
+              "start": 8,
+              "username": "HSoLqDvjCk70578"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZnaFx7384",
+              "end": 166,
+              "expanded_url": "https://x.com/NL8526/status/2069438202352631876/photo/1",
+              "media_key": "3_2069436177917288448",
+              "start": 143,
+              "url": "https://t.co/jZnaFx7384"
+            },
+            {
+              "display_url": "pic.x.com/jZnaFx7384",
+              "end": 166,
+              "expanded_url": "https://x.com/NL8526/status/2069438202352631876/photo/1",
+              "media_key": "16_2069438184732393472",
+              "start": 143,
+              "url": "https://t.co/jZnaFx7384"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069438202352631876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1455,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "谢天谢地！云栀 @HSoLqDvjCk70578\n终于平安归来了！🙏\n失联47天里，她被强制在精卫住院了43天。今天终于成功再次和我们取得联系。真的太好了！🎉🍎\n周末就启程前往广州与云栀面面ww\n衷心感谢所有伸出援手的危机干预朋友们、公安民警和急救人员，谢谢你们！\n（附图：云栀 书） https://t.co/jZnaFx7384"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22258,
+          "following_count": 9602,
+          "like_count": 152624,
+          "listed_count": 52,
+          "media_count": 5024,
+          "tweet_count": 52323
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3317,
+          "following_count": 863,
+          "like_count": 18097,
+          "listed_count": 5,
+          "media_count": 207,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T05:11:44.000Z",
+        "description": "05年小证含糖中|坐标：佛山|广州|深圳\n欢迎同类互关 贴贴~😉\n温柔体贴 热爱二次元\n172 59kg 正在减肥😖\n不🚬不🍺不0\nhrt：2026-3-13",
+        "id": "2042108098203033600",
+        "name": "云栀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047000987341365248/Zj2e-ukS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 37,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "HSoLqDvjCk70578",
+        "verified": false
+      }
+    ]
+  }
+}

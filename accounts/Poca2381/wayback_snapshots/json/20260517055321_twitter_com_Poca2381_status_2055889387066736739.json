@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055620777261613056",
+        "3_2055620777718829056",
+        "3_2055620777743896576"
+      ],
+      "media_source_tweet_id": [
+        "2055620930240495735",
+        "2055620930240495735",
+        "2055620930240495735"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2055889387066736739",
+    "created_at": "2026-05-17T05:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055889387066736739"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 42,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 68,
+          "start": 58,
+          "tag": "gquuuuuux"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720406434955849728",
+          "start": 3,
+          "username": "Karly_Lilia"
+        },
+        {
+          "end": 41,
+          "id": "1259816502225563652",
+          "start": 28,
+          "username": "Lily96084420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hoWSLSKtK6",
+          "end": 92,
+          "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+          "media_key": "3_2055620777261613056",
+          "start": 69,
+          "url": "https://t.co/hoWSLSKtK6"
+        },
+        {
+          "display_url": "pic.x.com/hoWSLSKtK6",
+          "end": 92,
+          "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+          "media_key": "3_2055620777718829056",
+          "start": 69,
+          "url": "https://t.co/hoWSLSKtK6"
+        },
+        {
+          "display_url": "pic.x.com/hoWSLSKtK6",
+          "end": 92,
+          "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+          "media_key": "3_2055620777743896576",
+          "start": 69,
+          "url": "https://t.co/hoWSLSKtK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055889387066736739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055620930240495735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Karly_Lilia: 小番茄呀小番茄\n摄影：@Lily96084420\n#kigurumi #着ぐるみ #gquuuuuux https://t.co/hoWSLSKtK6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055620777261613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcINK2XQAAA0d7.jpg",
+        "width": 2732
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2055620777718829056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcINMjX0AAqTeh.jpg",
+        "width": 2732
+      },
+      {
+        "height": 2732,
+        "media_key": "3_2055620777743896576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcINMpWUAA0o9w.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055620777261613056",
+            "3_2055620777718829056",
+            "3_2055620777743896576"
+          ],
+          "media_source_tweet_id": [
+            "2055620930240495735",
+            "2055620930240495735",
+            "2055620930240495735"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2055889387066736739",
+        "created_at": "2026-05-17T05:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055889387066736739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "gquuuuuux"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720406434955849728",
+              "start": 3,
+              "username": "Karly_Lilia"
+            },
+            {
+              "end": 41,
+              "id": "1259816502225563652",
+              "start": 28,
+              "username": "Lily96084420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoWSLSKtK6",
+              "end": 92,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+              "media_key": "3_2055620777261613056",
+              "start": 69,
+              "url": "https://t.co/hoWSLSKtK6"
+            },
+            {
+              "display_url": "pic.x.com/hoWSLSKtK6",
+              "end": 92,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+              "media_key": "3_2055620777718829056",
+              "start": 69,
+              "url": "https://t.co/hoWSLSKtK6"
+            },
+            {
+              "display_url": "pic.x.com/hoWSLSKtK6",
+              "end": 92,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+              "media_key": "3_2055620777743896576",
+              "start": 69,
+              "url": "https://t.co/hoWSLSKtK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055889387066736739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055620930240495735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Karly_Lilia: 小番茄呀小番茄\n摄影：@Lily96084420\n#kigurumi #着ぐるみ #gquuuuuux https://t.co/hoWSLSKtK6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055620777261613056",
+            "3_2055620777718829056",
+            "3_2055620777743896576"
+          ]
+        },
+        "author_id": "1720406434955849728",
+        "conversation_id": "2055620930240495735",
+        "created_at": "2026-05-16T12:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055620930240495735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "gquuuuuux"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1259816502225563652",
+              "start": 11,
+              "username": "Lily96084420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoWSLSKtK6",
+              "end": 75,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+              "media_key": "3_2055620777261613056",
+              "start": 52,
+              "url": "https://t.co/hoWSLSKtK6"
+            },
+            {
+              "display_url": "pic.x.com/hoWSLSKtK6",
+              "end": 75,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+              "media_key": "3_2055620777718829056",
+              "start": 52,
+              "url": "https://t.co/hoWSLSKtK6"
+            },
+            {
+              "display_url": "pic.x.com/hoWSLSKtK6",
+              "end": 75,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2055620930240495735/photo/1",
+              "media_key": "3_2055620777743896576",
+              "start": 52,
+              "url": "https://t.co/hoWSLSKtK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055620930240495735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2887,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "小番茄呀小番茄\n摄影：@Lily96084420\n#kigurumi #着ぐるみ #gquuuuuux https://t.co/hoWSLSKtK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20567,
+          "following_count": 8081,
+          "like_count": 150751,
+          "listed_count": 50,
+          "media_count": 4207,
+          "tweet_count": 48651
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T11:44:01.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️✨\nA kigger, a cosplayer~\n\nFor my coding account: @Lilia_Chen_exe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Lilia_Chen_exe"
+              }
+            ]
+          }
+        },
+        "id": "1720406434955849728",
+        "location": "London, England",
+        "name": "咔帕噗狸狸亚",
+        "pinned_tweet_id": "1907136205759668322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006020627237576705/NYgQbSM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5276,
+          "following_count": 841,
+          "like_count": 11848,
+          "listed_count": 30,
+          "media_count": 776,
+          "tweet_count": 1836
+        },
+        "username": "Karly_Lilia",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-11T12:04:00.000Z",
+        "description": "璃璃璃璃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudlandcreation.club/member/lily",
+                "end": 23,
+                "expanded_url": "http://www.cloudlandcreation.club/member/lily",
+                "start": 0,
+                "url": "https://t.co/Zy3eBUpY2F"
+              }
+            ]
+          }
+        },
+        "id": "1259816502225563652",
+        "location": "Wuhan·China",
+        "name": "璃梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039014253164986368/EaRV-hQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 441,
+          "like_count": 196,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/Zy3eBUpY2F",
+        "username": "Lily96084420",
+        "verified": false
+      }
+    ]
+  }
+}

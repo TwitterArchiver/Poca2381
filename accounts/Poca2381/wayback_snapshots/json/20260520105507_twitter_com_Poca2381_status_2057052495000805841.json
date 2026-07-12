@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2056972706835538382",
+    "created_at": "2026-05-20T10:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057052495000805841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666425403890868224",
+          "start": 0,
+          "username": "Liberi_tki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057052495000805841",
+    "in_reply_to_user_id": "1666425403890868224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056983000844513771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liberi_tki 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2056972706835538382",
+        "created_at": "2026-05-20T10:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057052495000805841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666425403890868224",
+              "start": 0,
+              "username": "Liberi_tki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057052495000805841",
+        "in_reply_to_user_id": "1666425403890868224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056983000844513771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liberi_tki 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666425403890868224",
+        "conversation_id": "2056972706835538382",
+        "created_at": "2026-05-20T06:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056983000844513771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056983000844513771",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056972706835538382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 很难绷得住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20676,
+          "following_count": 8212,
+          "like_count": 150897,
+          "listed_count": 50,
+          "media_count": 4264,
+          "tweet_count": 48910
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T12:43:12.000Z",
+        "description": "VividArmy-3903 Arknight-CN FF14-CN\n想要回关互关之类的可以私信( ˘ω˘)\n碎碎念 | 日常 | 会忍不住鉴证\n债务厌恶 | 烟酒厌恶 | 嘴笨\n\nlapluma fbk alice enjoyer\n\n头像 pixiv@飞天卷饼猫",
+        "id": "1666425403890868224",
+        "location": "Sargon",
+        "name": "黎博利🐦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042867285615087622/PbQKOHUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 268,
+          "like_count": 27024,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 2767
+        },
+        "username": "Liberi_tki",
+        "verified": true
+      }
+    ]
+  }
+}

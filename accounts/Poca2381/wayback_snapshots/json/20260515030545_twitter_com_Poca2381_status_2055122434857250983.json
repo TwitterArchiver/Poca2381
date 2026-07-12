@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2055122434857250983",
+    "created_at": "2026-05-15T03:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055122434857250983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        },
+        {
+          "end": 35,
+          "id": "995848285",
+          "start": 29,
+          "username": "nginx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055122434857250983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054764711380730049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: 全球互联网关键基础设施 @NGINX 出现高危安全漏洞，攻击者只需要向暴露的 NGINX 服务器发送特制 HTTP 请求即可拿下服务器。该漏洞还是在 2008 年引入的，从 NGINX 0.6.27~1.30.0 版均受漏洞影响，使用 NGIN…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2054764703189250048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIP9nGabMAA-FCE.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2055122434857250983",
+        "created_at": "2026-05-15T03:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055122434857250983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            },
+            {
+              "end": 35,
+              "id": "995848285",
+              "start": 29,
+              "username": "nginx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055122434857250983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054764711380730049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: 全球互联网关键基础设施 @NGINX 出现高危安全漏洞，攻击者只需要向暴露的 NGINX 服务器发送特制 HTTP 请求即可拿下服务器。该漏洞还是在 2008 年引入的，从 NGINX 0.6.27~1.30.0 版均受漏洞影响，使用 NGIN…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054764703189250048"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2054764711380730049",
+        "created_at": "2026-05-14T03:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054764711380730049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "995848285",
+              "start": 12,
+              "username": "nginx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ourl.co/112924",
+              "end": 181,
+              "expanded_url": "https://ourl.co/112924",
+              "start": 158,
+              "unwound_url": "https://www.landian.news/archives/112924.html?utm_source=ourl.co&utm_medium=default&utm_campaign=%E5%85%A8%E7%90%83%E4%BA%92%E8%81%94%E7%BD%91%E5%85%B3%E9%94%AE%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BDNGINX%E5%87%BA%E7%8E%B0%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E+%E4%BB%85%E9%9C%80%E5%8F%91%E9%80%81%E7%89%B9%E5%88%B6HTTP%E8%AF%B7%E6%B1%82%E5%8D%B3%E5%8F%AF%E6%8B%BF%E4%B8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8",
+              "url": "https://t.co/okJgevk41f"
+            },
+            {
+              "display_url": "pic.x.com/tuwcclCo7Q",
+              "end": 205,
+              "expanded_url": "https://x.com/landiantech/status/2054764711380730049/photo/1",
+              "media_key": "3_2054764703189250048",
+              "start": 182,
+              "url": "https://t.co/tuwcclCo7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054764711380730049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 80181,
+          "like_count": 388,
+          "quote_count": 13,
+          "reply_count": 28,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "全球互联网关键基础设施 @NGINX 出现高危安全漏洞，攻击者只需要向暴露的 NGINX 服务器发送特制 HTTP 请求即可拿下服务器。该漏洞还是在 2008 年引入的，从 NGINX 0.6.27~1.30.0 版均受漏洞影响，使用 NGINX 的用户需尽快升级到 1.30.1 版或 1.31.0 版。查看详情：https://t.co/okJgevk41f https://t.co/tuwcclCo7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20419,
+          "following_count": 7916,
+          "like_count": 150583,
+          "listed_count": 49,
+          "media_count": 4159,
+          "tweet_count": 48361
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35214,
+          "following_count": 723,
+          "like_count": 4813,
+          "listed_count": 275,
+          "media_count": 5493,
+          "tweet_count": 15289
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      },
+      {
+        "created_at": "2012-12-07T20:50:31.000Z",
+        "description": "We're moving! Follow us on @F5 for all the latest news.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 27,
+                "username": "F5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nginx.com",
+                "end": 23,
+                "expanded_url": "http://nginx.com",
+                "start": 0,
+                "url": "https://t.co/CJ75IwCCIk"
+              }
+            ]
+          }
+        },
+        "id": "995848285",
+        "location": "San Francisco",
+        "name": "NGINX",
+        "pinned_tweet_id": "1953882264216961521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1293252199653371904/NUBlg7jw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81012,
+          "following_count": 216,
+          "like_count": 3448,
+          "listed_count": 1181,
+          "media_count": 2788,
+          "tweet_count": 9403
+        },
+        "url": "https://t.co/CJ75IwCCIk",
+        "username": "nginx",
+        "verified": false
+      }
+    ]
+  }
+}

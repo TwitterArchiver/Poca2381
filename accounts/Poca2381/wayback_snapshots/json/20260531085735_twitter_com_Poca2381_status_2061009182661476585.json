@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060970495940718592"
+      ],
+      "media_source_tweet_id": [
+        "2060970871666475511"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2061009182661476585",
+    "created_at": "2026-05-31T08:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061009182661476585"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "捆绑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2003557874409349120",
+          "start": 3,
+          "username": "qingyuyuyuyuy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mum3H90k5Q",
+          "end": 66,
+          "expanded_url": "https://x.com/qingyuyuyuyuy/status/2060970871666475511/video/1",
+          "media_key": "7_2060970495940718592",
+          "start": 43,
+          "url": "https://t.co/Mum3H90k5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061009182661476585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060970871666475511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qingyuyuyuyuy: 完全挣脱不了呜呜～\n#kigurumi #捆绑 https://t.co/Mum3H90k5Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27183,
+        "height": 1280,
+        "media_key": "7_2060970495940718592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060970495940718592/pu/img/qpEiIxEMEOD7BRJZ.jpg",
+        "public_metrics": {
+          "view_count": 1969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060970495940718592/pu/vid/avc1/320x568/HLeRUMyINDUdwTKE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060970495940718592/pu/vid/avc1/480x852/6zhli_8y_LEatBFZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060970495940718592/pu/vid/avc1/720x1280/-ZIKztKsUI5ZlpyA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060970495940718592/pu/pl/wuyAGaaCL-KslUIq.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060970495940718592"
+          ],
+          "media_source_tweet_id": [
+            "2060970871666475511"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2061009182661476585",
+        "created_at": "2026-05-31T08:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061009182661476585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "捆绑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2003557874409349120",
+              "start": 3,
+              "username": "qingyuyuyuyuy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mum3H90k5Q",
+              "end": 66,
+              "expanded_url": "https://x.com/qingyuyuyuyuy/status/2060970871666475511/video/1",
+              "media_key": "7_2060970495940718592",
+              "start": 43,
+              "url": "https://t.co/Mum3H90k5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061009182661476585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060970871666475511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qingyuyuyuyuy: 完全挣脱不了呜呜～\n#kigurumi #捆绑 https://t.co/Mum3H90k5Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060970495940718592"
+          ]
+        },
+        "author_id": "2003557874409349120",
+        "conversation_id": "2060970871666475511",
+        "created_at": "2026-05-31T06:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060970871666475511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "捆绑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mum3H90k5Q",
+              "end": 47,
+              "expanded_url": "https://x.com/qingyuyuyuyuy/status/2060970871666475511/video/1",
+              "media_key": "7_2060970495940718592",
+              "start": 24,
+              "url": "https://t.co/Mum3H90k5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060970871666475511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 4113,
+          "like_count": 347,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "完全挣脱不了呜呜～\n#kigurumi #捆绑 https://t.co/Mum3H90k5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21157,
+          "following_count": 8719,
+          "like_count": 151474,
+          "listed_count": 51,
+          "media_count": 4464,
+          "tweet_count": 49903
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-23T20:07:19.000Z",
+        "description": "一只新人kiger，请多指教～想和大佬扩列贴贴～",
+        "id": "2003557874409349120",
+        "name": "晴鱼鱼",
+        "pinned_tweet_id": "2053042330123547064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003559062915678214/_Yz3vi0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 343,
+          "like_count": 739,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 65
+        },
+        "username": "qingyuyuyuyuy",
+        "verified": false
+      }
+    ]
+  }
+}

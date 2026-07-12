@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063832738663424000"
+      ],
+      "media_source_tweet_id": [
+        "2063832855005032594"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063917939070562539",
+    "created_at": "2026-06-08T09:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063917939070562539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696191944941318144",
+          "start": 3,
+          "username": "AYyy_0123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fb8sju4IdI",
+          "end": 38,
+          "expanded_url": "https://x.com/AYyy_0123/status/2063832855005032594/video/1",
+          "media_key": "7_2063832738663424000",
+          "start": 15,
+          "url": "https://t.co/Fb8sju4IdI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063917939070562539",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063832855005032594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AYyy_0123: https://t.co/Fb8sju4IdI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19050,
+        "height": 1280,
+        "media_key": "7_2063832738663424000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063832738663424000/pu/img/t2AKqcIsxnf_WWnV.jpg",
+        "public_metrics": {
+          "view_count": 2857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063832738663424000/pu/vid/avc1/320x568/_gEw-NYrsebwaa3u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063832738663424000/pu/vid/avc1/480x852/Blbbe4UISOpPm3RU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063832738663424000/pu/vid/avc1/720x1280/62D8VUHfT6ymE7lZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063832738663424000/pu/pl/CKcA2FheSpjbL8MM.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063832738663424000"
+          ],
+          "media_source_tweet_id": [
+            "2063832855005032594"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063917939070562539",
+        "created_at": "2026-06-08T09:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063917939070562539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696191944941318144",
+              "start": 3,
+              "username": "AYyy_0123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fb8sju4IdI",
+              "end": 38,
+              "expanded_url": "https://x.com/AYyy_0123/status/2063832855005032594/video/1",
+              "media_key": "7_2063832738663424000",
+              "start": 15,
+              "url": "https://t.co/Fb8sju4IdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063917939070562539",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063832855005032594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AYyy_0123: https://t.co/Fb8sju4IdI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063832738663424000"
+          ]
+        },
+        "author_id": "1696191944941318144",
+        "conversation_id": "2063832855005032594",
+        "created_at": "2026-06-08T03:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063832855005032594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fb8sju4IdI",
+              "end": 23,
+              "expanded_url": "https://x.com/AYyy_0123/status/2063832855005032594/video/1",
+              "media_key": "7_2063832738663424000",
+              "start": 0,
+              "url": "https://t.co/Fb8sju4IdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063832855005032594",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 7136,
+          "like_count": 262,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fb8sju4IdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21556,
+          "following_count": 9034,
+          "like_count": 151936,
+          "listed_count": 52,
+          "media_count": 4635,
+          "tweet_count": 50720
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-28T16:04:17.000Z",
+        "description": "kig/fetish/latex/绳｜胶中毒｜角色:丽塔&爱莉希雅｜不常上推｜私信回复慢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/WgUvuHP5",
+                "end": 23,
+                "expanded_url": "https://discord.gg/WgUvuHP5",
+                "start": 0,
+                "url": "https://t.co/Ai7UcP6ZmD"
+              }
+            ]
+          }
+        },
+        "id": "1696191944941318144",
+        "location": "Beijing",
+        "name": "芝芝流心蛋黄酱☁️",
+        "pinned_tweet_id": "1967286484312231946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859270538692329472/Dv1lHx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7474,
+          "following_count": 1298,
+          "like_count": 35881,
+          "listed_count": 50,
+          "media_count": 143,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/Ai7UcP6ZmD",
+        "username": "AYyy_0123",
+        "verified": false
+      }
+    ]
+  }
+}

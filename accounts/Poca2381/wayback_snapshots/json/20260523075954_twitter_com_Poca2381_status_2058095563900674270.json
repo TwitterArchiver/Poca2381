@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1401913794872299528",
+        "3_1401913794872299529",
+        "3_1401913795102973963",
+        "3_1401913795367215108"
+      ],
+      "media_source_tweet_id": [
+        "1401913799616069633",
+        "1401913799616069633",
+        "1401913799616069633",
+        "1401913799616069633"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058095563900674270",
+    "created_at": "2026-05-23T07:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058095563900674270"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "伪娘"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "偽娘"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "男の娘"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "伪娘"
+        },
+        {
+          "end": 99,
+          "start": 92,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 106,
+          "start": 100,
+          "tag": "UMP45"
+        },
+        {
+          "end": 112,
+          "start": 107,
+          "tag": "UMP9"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1239740112151310336",
+          "start": 3,
+          "username": "NozomiYing0912"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IRXko9kNhr",
+          "end": 136,
+          "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+          "media_key": "3_1401913794872299528",
+          "start": 113,
+          "url": "https://t.co/IRXko9kNhr"
+        },
+        {
+          "display_url": "pic.x.com/IRXko9kNhr",
+          "end": 136,
+          "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+          "media_key": "3_1401913794872299529",
+          "start": 113,
+          "url": "https://t.co/IRXko9kNhr"
+        },
+        {
+          "display_url": "pic.x.com/IRXko9kNhr",
+          "end": 136,
+          "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+          "media_key": "3_1401913795102973963",
+          "start": 113,
+          "url": "https://t.co/IRXko9kNhr"
+        },
+        {
+          "display_url": "pic.x.com/IRXko9kNhr",
+          "end": 136,
+          "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+          "media_key": "3_1401913795367215108",
+          "start": 113,
+          "url": "https://t.co/IRXko9kNhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058095563900674270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1401913799616069633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NozomiYing0912: 轻微R18 WARNING!\nUMP45 Alpha\nPart 1\n按照色图形式拍的，所以没有追求完全复刻（\n#伪娘 #偽娘 #男の娘 #伪娘 #可爱的男孩子 #UMP45 #UMP9 https://t.co/IRXko9kNhr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058095563900674270].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058095563900674270",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058095563900674270"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1401913794872299528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/E3SZKzUVUAgYrKl.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1401913794872299529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/E3SZKzUVUAkzBGP.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1401913795102973963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/E3SZK0LVIAs-T30.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1401913795367215108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/E3SZK1KVIAQ7-Jd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1401913794872299528",
+            "3_1401913794872299529",
+            "3_1401913795102973963",
+            "3_1401913795367215108"
+          ]
+        },
+        "author_id": "1239740112151310336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395478491030638594",
+              "name": "Popular Images"
+            }
+          }
+        ],
+        "conversation_id": "1401913799616069633",
+        "created_at": "2021-06-07T14:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2021-06-07T15:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1401913799616069633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "伪娘"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "偽娘"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "男の娘"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "伪娘"
+            },
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "UMP45"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "UMP9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRXko9kNhr",
+              "end": 116,
+              "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+              "media_key": "3_1401913794872299528",
+              "start": 93,
+              "url": "https://t.co/IRXko9kNhr"
+            },
+            {
+              "display_url": "pic.x.com/IRXko9kNhr",
+              "end": 116,
+              "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+              "media_key": "3_1401913794872299529",
+              "start": 93,
+              "url": "https://t.co/IRXko9kNhr"
+            },
+            {
+              "display_url": "pic.x.com/IRXko9kNhr",
+              "end": 116,
+              "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+              "media_key": "3_1401913795102973963",
+              "start": 93,
+              "url": "https://t.co/IRXko9kNhr"
+            },
+            {
+              "display_url": "pic.x.com/IRXko9kNhr",
+              "end": 116,
+              "expanded_url": "https://x.com/NozomiYing0912/status/1401913799616069633/photo/1",
+              "media_key": "3_1401913795367215108",
+              "start": 93,
+              "url": "https://t.co/IRXko9kNhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1401913799616069633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 0,
+          "like_count": 574,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "轻微R18 WARNING!\nUMP45 Alpha\nPart 1\n按照色图形式拍的，所以没有追求完全复刻（\n#伪娘 #偽娘 #男の娘 #伪娘 #可爱的男孩子 #UMP45 #UMP9 https://t.co/IRXko9kNhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20813,
+          "following_count": 8315,
+          "like_count": 151002,
+          "listed_count": 51,
+          "media_count": 4309,
+          "tweet_count": 49103
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-17T02:27:38.000Z",
+        "description": "不知道发什么捏/中文&日本語&English OK/请多多指教捏～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NozomiYing0912",
+                "end": 23,
+                "expanded_url": "http://t.me/NozomiYing0912",
+                "start": 0,
+                "url": "https://t.co/jaZRu0lkWg"
+              }
+            ]
+          }
+        },
+        "id": "1239740112151310336",
+        "location": "Göteborg, Konungariket Sverige",
+        "name": "霜村英",
+        "pinned_tweet_id": "1401913799616069633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711748983432065024/v0kwT0in_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14736,
+          "following_count": 1574,
+          "like_count": 25952,
+          "listed_count": 53,
+          "media_count": 997,
+          "tweet_count": 10181
+        },
+        "url": "https://t.co/jaZRu0lkWg",
+        "username": "NozomiYing0912",
+        "verified": false
+      }
+    ]
+  }
+}

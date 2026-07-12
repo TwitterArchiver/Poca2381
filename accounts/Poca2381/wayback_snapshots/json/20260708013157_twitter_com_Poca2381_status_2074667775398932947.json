@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074395373523918848"
+      ],
+      "media_source_tweet_id": [
+        "2074395394629566715"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2074667775398932947",
+    "created_at": "2026-07-08T01:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074667775398932947"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 26,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "三月七"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "910116411673939968",
+          "start": 3,
+          "username": "C_lanFA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HenJvgWRJe",
+          "end": 64,
+          "expanded_url": "https://x.com/C_lanFA/status/2074395394629566715/video/1",
+          "media_key": "7_2074395373523918848",
+          "start": 41,
+          "url": "https://t.co/HenJvgWRJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074667775398932947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074395394629566715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C_lanFA: 你是不是觉得我傻不拉几的\n#kigurumi #三月七 https://t.co/HenJvgWRJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3925,
+        "height": 1280,
+        "media_key": "7_2074395373523918848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074395373523918848/pu/img/ab6cEbIQXrCc7bsP.jpg",
+        "public_metrics": {
+          "view_count": 773
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074395373523918848/pu/vid/avc1/320x568/hJ_Dc_XEC_hE76UD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074395373523918848/pu/vid/avc1/480x852/d_6rz_qXQa7FvNjx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074395373523918848/pu/vid/avc1/720x1280/VlJGJYPBg0ksUS8_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074395373523918848/pu/pl/Zasnj0EaoP58YYvA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074395373523918848"
+          ],
+          "media_source_tweet_id": [
+            "2074395394629566715"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2074667775398932947",
+        "created_at": "2026-07-08T01:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074667775398932947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "三月七"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "910116411673939968",
+              "start": 3,
+              "username": "C_lanFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HenJvgWRJe",
+              "end": 64,
+              "expanded_url": "https://x.com/C_lanFA/status/2074395394629566715/video/1",
+              "media_key": "7_2074395373523918848",
+              "start": 41,
+              "url": "https://t.co/HenJvgWRJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074667775398932947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074395394629566715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C_lanFA: 你是不是觉得我傻不拉几的\n#kigurumi #三月七 https://t.co/HenJvgWRJe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074395373523918848"
+          ]
+        },
+        "author_id": "910116411673939968",
+        "conversation_id": "2074395394629566715",
+        "created_at": "2026-07-07T07:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074395394629566715"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "三月七"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HenJvgWRJe",
+              "end": 51,
+              "expanded_url": "https://x.com/C_lanFA/status/2074395394629566715/video/1",
+              "media_key": "7_2074395373523918848",
+              "start": 28,
+              "url": "https://t.co/HenJvgWRJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074395394629566715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3265,
+          "like_count": 209,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你是不是觉得我傻不拉几的\n#kigurumi #三月七 https://t.co/HenJvgWRJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22558,
+          "following_count": 9845,
+          "like_count": 153016,
+          "listed_count": 51,
+          "media_count": 5297,
+          "tweet_count": 53316
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-19T12:20:36.000Z",
+        "description": "萌新Kiger，什么都发不止kigurumi",
+        "id": "910116411673939968",
+        "location": "厦门",
+        "name": "过期西蓝花",
+        "pinned_tweet_id": "1980167436436648155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536312246770339840/kb6i-MyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 662,
+          "like_count": 5966,
+          "listed_count": 6,
+          "media_count": 133,
+          "tweet_count": 576
+        },
+        "url": "",
+        "username": "C_lanFA",
+        "verified": false
+      }
+    ]
+  }
+}

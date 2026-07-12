@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059608639502204929"
+      ],
+      "media_source_tweet_id": [
+        "2059610566520685001"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      }
+    ],
+    "conversation_id": "2060001792516292732",
+    "created_at": "2026-05-28T14:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060001792516292732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577306730647945216",
+          "start": 3,
+          "username": "pre_kura"
+        },
+        {
+          "end": 77,
+          "id": "1440915286635397124",
+          "start": 65,
+          "username": "tukihana49A"
+        },
+        {
+          "end": 91,
+          "id": "1414558661880340486",
+          "start": 79,
+          "username": "Yumekig1127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaPqM9ygh6",
+          "end": 115,
+          "expanded_url": "https://x.com/pre_kura/status/2059610566520685001/photo/1",
+          "media_key": "3_2059608639502204929",
+          "start": 92,
+          "url": "https://t.co/xaPqM9ygh6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060001792516292732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059610566520685001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pre_kura: 部屋の前で歌うなって言うから楽器を用意してみたよ。え...これもだめなの？サンドローネは気難しいね\n⚙@tukihana49A\n📸@Yumekig1127 https://t.co/xaPqM9ygh6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2059608639502204929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUzJTXawAE2DPn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059608639502204929"
+          ],
+          "media_source_tweet_id": [
+            "2059610566520685001"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "2060001792516292732",
+        "created_at": "2026-05-28T14:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060001792516292732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577306730647945216",
+              "start": 3,
+              "username": "pre_kura"
+            },
+            {
+              "end": 77,
+              "id": "1440915286635397124",
+              "start": 65,
+              "username": "tukihana49A"
+            },
+            {
+              "end": 91,
+              "id": "1414558661880340486",
+              "start": 79,
+              "username": "Yumekig1127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaPqM9ygh6",
+              "end": 115,
+              "expanded_url": "https://x.com/pre_kura/status/2059610566520685001/photo/1",
+              "media_key": "3_2059608639502204929",
+              "start": 92,
+              "url": "https://t.co/xaPqM9ygh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060001792516292732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059610566520685001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pre_kura: 部屋の前で歌うなって言うから楽器を用意してみたよ。え...これもだめなの？サンドローネは気難しいね\n⚙@tukihana49A\n📸@Yumekig1127 https://t.co/xaPqM9ygh6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059608639502204929"
+          ]
+        },
+        "author_id": "1577306730647945216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "2059610566520685001",
+        "created_at": "2026-05-27T12:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059610566520685001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1440915286635397124",
+              "start": 51,
+              "username": "tukihana49A"
+            },
+            {
+              "end": 77,
+              "id": "1414558661880340486",
+              "start": 65,
+              "username": "Yumekig1127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaPqM9ygh6",
+              "end": 101,
+              "expanded_url": "https://x.com/pre_kura/status/2059610566520685001/photo/1",
+              "media_key": "3_2059608639502204929",
+              "start": 78,
+              "url": "https://t.co/xaPqM9ygh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059610566520685001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1843,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "部屋の前で歌うなって言うから楽器を用意してみたよ。え...これもだめなの？サンドローネは気難しいね\n⚙@tukihana49A\n📸@Yumekig1127 https://t.co/xaPqM9ygh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21046,
+          "following_count": 8540,
+          "like_count": 151269,
+          "listed_count": 51,
+          "media_count": 4414,
+          "tweet_count": 49600
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-04T14:36:57.000Z",
+        "description": "甘雨だいすき🐏\n被写体が自分であれ、他人であれ、自分の思う良い絵作りをモチベーションに活動しています。硬いハズのお面が柔らかく見えるような、なんだか生きてる感じの絵！格好つけつけ可愛子ぶりぶりですが、シンプルに遊ぶこともだいすきです🍩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portal.circle.ms/Circle/Index/1…",
+                "end": 23,
+                "expanded_url": "https://portal.circle.ms/Circle/Index/10488423",
+                "start": 0,
+                "url": "https://t.co/mzKoR3osiV"
+              }
+            ]
+          }
+        },
+        "id": "1577306730647945216",
+        "location": "蚕室(잠실)",
+        "name": "ぷり倉",
+        "pinned_tweet_id": "2053807332048695328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598973133699964928/0oO_j39L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 515,
+          "like_count": 3164,
+          "listed_count": 10,
+          "media_count": 283,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/mzKoR3osiV",
+        "username": "pre_kura",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-23T05:46:25.000Z",
+        "description": "どこにでもいそうな自分で作っている着ぐるみさん 雑多垢→@tukihana49A_H 💍: @Rin612579511",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "tukihana49A_H"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Rin612579511"
+              }
+            ]
+          }
+        },
+        "id": "1440915286635397124",
+        "location": "広島→神奈川→東京",
+        "name": "つきは",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780160140400001025/CYg1Q9Ag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 512,
+          "like_count": 8792,
+          "listed_count": 16,
+          "media_count": 415,
+          "tweet_count": 4006
+        },
+        "username": "tukihana49A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T12:14:19.000Z",
+        "description": "✨️cosplay kigurumi✨️ member→雪咲 夢(11.27)/穂波 夕(8.27)/フィッシュル (5.27)/江風（11.1）/猫汰つな🍒✨️（11.27）/つぶやきアカウント（@Yume_nitjyo）/ヘッダーデザイン＆🐾ケモ耳同盟🐾໊@Pastel_blanche",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "Yume_nitjyo"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "Pastel_blanche"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yumekig1127?ig…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/yumekig1127?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/jZfumsusT1"
+              }
+            ]
+          }
+        },
+        "id": "1414558661880340486",
+        "location": "夢の中",
+        "name": "🐾雪咲　夢🍒✨️",
+        "pinned_tweet_id": "1896840797389234308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865716861217935360/rqFaGL4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3361,
+          "following_count": 1101,
+          "like_count": 9953,
+          "listed_count": 28,
+          "media_count": 565,
+          "tweet_count": 4807
+        },
+        "url": "https://t.co/jZfumsusT1",
+        "username": "Yumekig1127",
+        "verified": true
+      }
+    ]
+  }
+}

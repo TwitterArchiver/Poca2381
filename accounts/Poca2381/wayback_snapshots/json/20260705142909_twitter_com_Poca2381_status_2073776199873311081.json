@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072733283880935424"
+      ],
+      "media_source_tweet_id": [
+        "2072733290893844718"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2073776199873311081",
+    "created_at": "2026-07-05T14:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073776199873311081"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "cosplay"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "kig"
+        },
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "Acid"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "アシッド"
+        },
+        {
+          "end": 75,
+          "start": 68,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1991253472830976001",
+          "start": 3,
+          "username": "TIFFANY14956391"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CR2WApjoWT",
+          "end": 99,
+          "expanded_url": "https://x.com/TIFFANY14956391/status/2072733290893844718/photo/1",
+          "media_key": "3_2072733283880935424",
+          "start": 76,
+          "url": "https://t.co/CR2WApjoWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073776199873311081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072733290893844718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TIFFANY14956391: 小A小A你怎么不开心\n#cosplay #kig #kigurumi #Acid #アシッド #maimai https://t.co/CR2WApjoWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072733283880935424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPT8JvaIAAK8K1.jpg",
+        "width": 1386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072733283880935424"
+          ],
+          "media_source_tweet_id": [
+            "2072733290893844718"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2073776199873311081",
+        "created_at": "2026-07-05T14:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073776199873311081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "cosplay"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "kig"
+            },
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "Acid"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "アシッド"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1991253472830976001",
+              "start": 3,
+              "username": "TIFFANY14956391"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CR2WApjoWT",
+              "end": 99,
+              "expanded_url": "https://x.com/TIFFANY14956391/status/2072733290893844718/photo/1",
+              "media_key": "3_2072733283880935424",
+              "start": 76,
+              "url": "https://t.co/CR2WApjoWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073776199873311081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072733290893844718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TIFFANY14956391: 小A小A你怎么不开心\n#cosplay #kig #kigurumi #Acid #アシッド #maimai https://t.co/CR2WApjoWT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072733283880935424"
+          ]
+        },
+        "author_id": "1991253472830976001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2072733290893844718",
+        "created_at": "2026-07-02T17:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072733290893844718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "cosplay"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "kig"
+            },
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "Acid"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "アシッド"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CR2WApjoWT",
+              "end": 78,
+              "expanded_url": "https://x.com/TIFFANY14956391/status/2072733290893844718/photo/1",
+              "media_key": "3_2072733283880935424",
+              "start": 55,
+              "url": "https://t.co/CR2WApjoWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072733290893844718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3469,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "小A小A你怎么不开心\n#cosplay #kig #kigurumi #Acid #アシッド #maimai https://t.co/CR2WApjoWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22512,
+          "following_count": 9806,
+          "like_count": 152956,
+          "listed_count": 52,
+          "media_count": 5235,
+          "tweet_count": 53125
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T21:13:25.000Z",
+        "description": "新人kig，角色是maimai dx的阿茜德",
+        "id": "1991253472830976001",
+        "name": "Aika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068406060353028096/wkuinM_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 130,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "TIFFANY14956391",
+        "verified": false
+      }
+    ]
+  }
+}

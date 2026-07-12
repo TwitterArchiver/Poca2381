@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069665987650343056",
+    "created_at": "2026-06-24T08:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069694757018935438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676634704878129152",
+          "start": 0,
+          "username": "AotraWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069694757018935438",
+    "in_reply_to_user_id": "1676634704878129152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069665987650343056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AotraWong 挺好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2069665937117290496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjuNEmaIAA8FMA.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2069665949133987841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjuNxXaYAE6e7y.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2069665965974106112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjuOwGaMAAgzMR.jpg",
+        "width": 1644
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2069665976207953920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjuPWOWUAAwqEI.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069665987650343056",
+        "created_at": "2026-06-24T08:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069694757018935438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676634704878129152",
+              "start": 0,
+              "username": "AotraWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069694757018935438",
+        "in_reply_to_user_id": "1676634704878129152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069665987650343056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AotraWong 挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069665937117290496",
+            "3_2069665949133987841",
+            "3_2069665965974106112",
+            "3_2069665976207953920"
+          ]
+        },
+        "author_id": "1676634704878129152",
+        "conversation_id": "2069665987650343056",
+        "created_at": "2026-06-24T06:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069665987650343056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xH1Pn6FEI",
+              "end": 72,
+              "expanded_url": "https://x.com/AotraWong/status/2069665987650343056/photo/1",
+              "media_key": "3_2069665937117290496",
+              "start": 49,
+              "url": "https://t.co/2xH1Pn6FEI"
+            },
+            {
+              "display_url": "pic.x.com/2xH1Pn6FEI",
+              "end": 72,
+              "expanded_url": "https://x.com/AotraWong/status/2069665987650343056/photo/1",
+              "media_key": "3_2069665949133987841",
+              "start": 49,
+              "url": "https://t.co/2xH1Pn6FEI"
+            },
+            {
+              "display_url": "pic.x.com/2xH1Pn6FEI",
+              "end": 72,
+              "expanded_url": "https://x.com/AotraWong/status/2069665987650343056/photo/1",
+              "media_key": "3_2069665965974106112",
+              "start": 49,
+              "url": "https://t.co/2xH1Pn6FEI"
+            },
+            {
+              "display_url": "pic.x.com/2xH1Pn6FEI",
+              "end": 72,
+              "expanded_url": "https://x.com/AotraWong/status/2069665987650343056/photo/1",
+              "media_key": "3_2069665976207953920",
+              "start": 49,
+              "url": "https://t.co/2xH1Pn6FEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069665987650343056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了6支凝胶，单价71块多，比国内便宜不少\n另外可能是骄傲月，对面的商场也很Pride🏳️‍🌈！ https://t.co/2xH1Pn6FEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22259,
+          "following_count": 9608,
+          "like_count": 152632,
+          "listed_count": 52,
+          "media_count": 5026,
+          "tweet_count": 52336
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 物化政 |\n头像：迎恩门 / 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra Wong 芷姗",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 1099,
+          "like_count": 23896,
+          "listed_count": 5,
+          "media_count": 476,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      }
+    ]
+  }
+}

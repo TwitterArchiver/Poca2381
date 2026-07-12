@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066751532230688769"
+      ],
+      "media_source_tweet_id": [
+        "2066751536588628305"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066821625128136912",
+    "created_at": "2026-06-16T09:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066821625128136912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2763130212",
+          "start": 3,
+          "username": "kigpotato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H91LKsWEMQ",
+          "end": 68,
+          "expanded_url": "https://x.com/kigpotato/status/2066751536588628305/photo/1",
+          "media_key": "3_2066751532230688769",
+          "start": 45,
+          "url": "https://t.co/H91LKsWEMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066821625128136912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066751536588628305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kigpotato: Oh wow would you look at that https://t.co/H91LKsWEMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2140,
+        "media_key": "3_2066751532230688769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6TkYWawAE-szO.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066751532230688769"
+          ],
+          "media_source_tweet_id": [
+            "2066751536588628305"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066821625128136912",
+        "created_at": "2026-06-16T09:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066821625128136912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2763130212",
+              "start": 3,
+              "username": "kigpotato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H91LKsWEMQ",
+              "end": 68,
+              "expanded_url": "https://x.com/kigpotato/status/2066751536588628305/photo/1",
+              "media_key": "3_2066751532230688769",
+              "start": 45,
+              "url": "https://t.co/H91LKsWEMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066821625128136912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066751536588628305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kigpotato: Oh wow would you look at that https://t.co/H91LKsWEMQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066751532230688769"
+          ]
+        },
+        "author_id": "2763130212",
+        "conversation_id": "2066751536588628305",
+        "created_at": "2026-06-16T05:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066751536588628305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H91LKsWEMQ",
+              "end": 53,
+              "expanded_url": "https://x.com/kigpotato/status/2066751536588628305/photo/1",
+              "media_key": "3_2066751532230688769",
+              "start": 30,
+              "url": "https://t.co/H91LKsWEMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066751536588628305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1575,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Oh wow would you look at that https://t.co/H91LKsWEMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21957,
+          "following_count": 9396,
+          "like_count": 152297,
+          "listed_count": 52,
+          "media_count": 4854,
+          "tweet_count": 51644
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-24T16:57:08.000Z",
+        "description": "🔜 Otakon / just a simple kigu spud / 💭🌿🌲👁️‍🗨️🍵👧 / @yap_potato priv / constantly in the UK\n\n/ QQ / Discord / Wechat / available",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yap_potato"
+              }
+            ]
+          }
+        },
+        "id": "2763130212",
+        "location": "EU ",
+        "name": "🌈potato💭👁️‍🗨️",
+        "pinned_tweet_id": "2030332718438043985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026814449647017984/liI8L2Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 997,
+          "like_count": 13790,
+          "listed_count": 8,
+          "media_count": 130,
+          "tweet_count": 3848
+        },
+        "username": "kigpotato",
+        "verified": false
+      }
+    ]
+  }
+}

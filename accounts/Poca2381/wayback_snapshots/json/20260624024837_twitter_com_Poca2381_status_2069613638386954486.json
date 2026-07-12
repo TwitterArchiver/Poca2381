@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069375716547076096"
+      ],
+      "media_source_tweet_id": [
+        "2069375719915032958"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2069613638386954486",
+    "created_at": "2026-06-24T02:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069613638386954486"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 50,
+          "start": 42,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1735636260000309249",
+          "start": 3,
+          "username": "yunjiujiu1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QQqCVy0qC",
+          "end": 74,
+          "expanded_url": "https://x.com/yunjiujiu1314/status/2069375719915032958/photo/1",
+          "media_key": "3_2069375716547076096",
+          "start": 51,
+          "url": "https://t.co/8QQqCVy0qC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069613638386954486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069375719915032958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunjiujiu1314: 很🔥的开档袜\n#着ぐるみ #kigurumi #cosplay https://t.co/8QQqCVy0qC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069375716547076096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfmQAuboAAehKA.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069375716547076096"
+          ],
+          "media_source_tweet_id": [
+            "2069375719915032958"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2069613638386954486",
+        "created_at": "2026-06-24T02:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069613638386954486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1735636260000309249",
+              "start": 3,
+              "username": "yunjiujiu1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QQqCVy0qC",
+              "end": 74,
+              "expanded_url": "https://x.com/yunjiujiu1314/status/2069375719915032958/photo/1",
+              "media_key": "3_2069375716547076096",
+              "start": 51,
+              "url": "https://t.co/8QQqCVy0qC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069613638386954486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069375719915032958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunjiujiu1314: 很🔥的开档袜\n#着ぐるみ #kigurumi #cosplay https://t.co/8QQqCVy0qC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069375716547076096"
+          ]
+        },
+        "author_id": "1735636260000309249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2069375719915032958",
+        "created_at": "2026-06-23T11:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069375719915032958"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QQqCVy0qC",
+              "end": 55,
+              "expanded_url": "https://x.com/yunjiujiu1314/status/2069375719915032958/photo/1",
+              "media_key": "3_2069375716547076096",
+              "start": 32,
+              "url": "https://t.co/8QQqCVy0qC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069375719915032958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 2997,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "很🔥的开档袜\n#着ぐるみ #kigurumi #cosplay https://t.co/8QQqCVy0qC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22255,
+          "following_count": 9601,
+          "like_count": 152625,
+          "listed_count": 52,
+          "media_count": 5022,
+          "tweet_count": 52320
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T12:22:09.000Z",
+        "description": "新人kiger",
+        "id": "1735636260000309249",
+        "location": "11.45km",
+        "name": "雲玖九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959976531989807104/0itZDECV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7307,
+          "following_count": 103,
+          "like_count": 355,
+          "listed_count": 33,
+          "media_count": 217,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "yunjiujiu1314",
+        "verified": false
+      }
+    ]
+  }
+}

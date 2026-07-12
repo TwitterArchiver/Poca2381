@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050814584836292608"
+      ],
+      "media_source_tweet_id": [
+        "2050814643388760289"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2052794296215187836",
+    "created_at": "2026-05-08T16:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052794296215187836"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "DWG"
+        },
+        {
+          "end": 57,
+          "start": 44,
+          "tag": "doll_weekend"
+        },
+        {
+          "end": 67,
+          "start": 58,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2878135880",
+          "start": 3,
+          "username": "youmu_i19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rmeRQPAvp",
+          "end": 97,
+          "expanded_url": "https://x.com/youmu_i19/status/2050814643388760289/video/1",
+          "media_key": "7_2050814584836292608",
+          "start": 74,
+          "url": "https://t.co/6rmeRQPAvp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052794296215187836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 395
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050814643388760289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmu_i19: 私だけがハードコアモードのバスライド\n😵‍💫 \n#DWG #doll_weekend\n#kigurumi #着ぐるみ https://t.co/6rmeRQPAvp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20232,
+        "height": 1280,
+        "media_key": "7_2050814584836292608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050814584836292608/pu/img/L4_9GJo4wnbhqtNd.jpg",
+        "public_metrics": {
+          "view_count": 130640
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050814584836292608/pu/vid/avc1/320x568/i1bA_D0iwZqvGhO0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050814584836292608/pu/vid/avc1/480x852/Qg2_QKr_Snvy3xp1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050814584836292608/pu/vid/avc1/720x1280/dHMS1E1qGwNgkOlO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050814584836292608/pu/pl/C8Ji-zbuBHHCxP1F.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050814584836292608"
+          ],
+          "media_source_tweet_id": [
+            "2050814643388760289"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2052794296215187836",
+        "created_at": "2026-05-08T16:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052794296215187836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "DWG"
+            },
+            {
+              "end": 57,
+              "start": 44,
+              "tag": "doll_weekend"
+            },
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2878135880",
+              "start": 3,
+              "username": "youmu_i19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rmeRQPAvp",
+              "end": 97,
+              "expanded_url": "https://x.com/youmu_i19/status/2050814643388760289/video/1",
+              "media_key": "7_2050814584836292608",
+              "start": 74,
+              "url": "https://t.co/6rmeRQPAvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052794296215187836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 395
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050814643388760289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmu_i19: 私だけがハードコアモードのバスライド\n😵‍💫 \n#DWG #doll_weekend\n#kigurumi #着ぐるみ https://t.co/6rmeRQPAvp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050814584836292608"
+          ]
+        },
+        "author_id": "2878135880",
+        "conversation_id": "2050814643388760289",
+        "created_at": "2026-05-03T05:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050814643388760289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "DWG"
+            },
+            {
+              "end": 42,
+              "start": 29,
+              "tag": "doll_weekend"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rmeRQPAvp",
+              "end": 82,
+              "expanded_url": "https://x.com/youmu_i19/status/2050814643388760289/video/1",
+              "media_key": "7_2050814584836292608",
+              "start": 59,
+              "url": "https://t.co/6rmeRQPAvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050814643388760289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1148,
+          "impression_count": 256747,
+          "like_count": 6179,
+          "quote_count": 38,
+          "reply_count": 34,
+          "retweet_count": 395
+        },
+        "reply_settings": "everyone",
+        "text": "私だけがハードコアモードのバスライド\n😵‍💫 \n#DWG #doll_weekend\n#kigurumi #着ぐるみ https://t.co/6rmeRQPAvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20196,
+          "following_count": 7617,
+          "like_count": 150296,
+          "listed_count": 49,
+          "media_count": 4046,
+          "tweet_count": 47931
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-26T10:41:57.000Z",
+        "description": "香港kigurumi\n撮影,ピアノ弾く\nホロライブ、ラブライブ、ひなビタ、プリキュア 推し\nhttps://t.co/FzfxfQz2br\nhttps://t.co/q9aQB6UxM0\n\nproducer垢: @youmu_i19p\n製作垢: @19workshop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "youmu_i19p"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "19workshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/youmu_i19_kig/",
+                "end": 69,
+                "expanded_url": "http://instagram.com/youmu_i19_kig/",
+                "start": 46,
+                "url": "https://t.co/FzfxfQz2br"
+              },
+              {
+                "display_url": "youtube.com/@youmu_i19kig",
+                "end": 93,
+                "expanded_url": "https://www.youtube.com/@youmu_i19kig",
+                "start": 70,
+                "url": "https://t.co/q9aQB6UxM0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youmu-i19.xyz",
+                "end": 23,
+                "expanded_url": "http://youmu-i19.xyz",
+                "start": 0,
+                "url": "https://t.co/QXoqduNiat"
+              }
+            ]
+          }
+        },
+        "id": "2878135880",
+        "location": "香港",
+        "name": "妖夢_伊19",
+        "pinned_tweet_id": "1927802455003115610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893471731379249152/x9sVSFnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 931,
+          "like_count": 16240,
+          "listed_count": 21,
+          "media_count": 1083,
+          "tweet_count": 2602
+        },
+        "url": "https://t.co/QXoqduNiat",
+        "username": "youmu_i19",
+        "verified": true
+      }
+    ]
+  }
+}

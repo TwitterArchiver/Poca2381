@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2055698255196086359",
+    "created_at": "2026-05-16T17:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055698255196086359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1133106591299825664",
+          "start": 3,
+          "username": "shizut0y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055698255196086359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045837373880369298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shizut0y0: 在这所娃娃专属的学校，所有学生都必须这样穿着变娃上学。校服下绑绳子作为贴身衣物不只带来安全感还有艺术性，让学生更自信并提升学习效率。因此从第一天娃娃们就要学如何自缚，然后每天完善绳路，练习绑得更紧更美。熟练后，学生很快学会绑其他娃，在拘束中也能维持…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055698255196086359].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055698255196086359",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055698255196086359"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045837371288301568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRGP_fbsAAiwpc.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045837371288301568"
+          ]
+        },
+        "author_id": "1133106591299825664",
+        "conversation_id": "2045837373880369298",
+        "created_at": "2026-04-19T12:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045837373880369298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7CtDnaBOO",
+              "end": 164,
+              "expanded_url": "https://x.com/shizut0y0/status/2045837373880369298/photo/1",
+              "media_key": "3_2045837371288301568",
+              "start": 141,
+              "url": "https://t.co/s7CtDnaBOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045837373880369298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 19790,
+          "like_count": 320,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "在这所娃娃专属的学校，所有学生都必须这样穿着变娃上学。校服下绑绳子作为贴身衣物不只带来安全感还有艺术性，让学生更自信并提升学习效率。因此从第一天娃娃们就要学如何自缚，然后每天完善绳路，练习绑得更紧更美。熟练后，学生很快学会绑其他娃，在拘束中也能维持良好的表现，从此发奋成为优秀娃娃 https://t.co/s7CtDnaBOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20542,
+          "following_count": 8047,
+          "like_count": 150713,
+          "listed_count": 50,
+          "media_count": 4200,
+          "tweet_count": 48588
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-27T20:23:58.000Z",
+        "description": "kiger+写作家。更多作品全文链接： https://t.co/cxNA5dUsyc |  更多特别内容： https://t.co/JmMvHEc3Rz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43489008",
+                "end": 43,
+                "expanded_url": "https://pixiv.net/users/43489008",
+                "start": 20,
+                "url": "https://t.co/cxNA5dUsyc"
+              },
+              {
+                "display_url": "fantia.jp/shizutoyo",
+                "end": 78,
+                "expanded_url": "https://fantia.jp/shizutoyo",
+                "start": 55,
+                "url": "https://t.co/JmMvHEc3Rz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/498761",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/498761",
+                "start": 0,
+                "url": "https://t.co/MyZbJZ94DW"
+              }
+            ]
+          }
+        },
+        "id": "1133106591299825664",
+        "name": "静丰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958906743205036032/r0FLoF75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42502,
+          "following_count": 1502,
+          "like_count": 28038,
+          "listed_count": 190,
+          "media_count": 492,
+          "tweet_count": 3853
+        },
+        "url": "https://t.co/MyZbJZ94DW",
+        "username": "shizut0y0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062017978997285102",
+    "created_at": "2026-06-03T03:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062017978997285102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1637732516026269696",
+          "start": 3,
+          "username": "HoshikawaInori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062017978997285102",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061810104819991013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoshikawaInori: [OOC (or not?) Warning] \nShout out to our little gremlin songbird\nEnna, please don't hate me for this \n＿＿＿＿＿＿＿＿＿＿\n雖然是各位…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2061807629803114497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0DHYma0AE8iAm.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2061807630197338112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0DHaEaMAAWOcZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2062017978997285102",
+        "created_at": "2026-06-03T03:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062017978997285102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1637732516026269696",
+              "start": 3,
+              "username": "HoshikawaInori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062017978997285102",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061810104819991013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoshikawaInori: [OOC (or not?) Warning] \nShout out to our little gremlin songbird\nEnna, please don't hate me for this \n＿＿＿＿＿＿＿＿＿＿\n雖然是各位…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061807629803114497",
+            "3_2061807630197338112"
+          ]
+        },
+        "author_id": "1637732516026269696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2061810104819991013",
+        "created_at": "2026-06-02T14:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061810104819991013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 225,
+              "start": 216,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 231,
+              "start": 226,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 213,
+              "id": "1556099848813756416",
+              "start": 199,
+              "username": "HyperNekkoChi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/akRKjyv7xV",
+              "end": 255,
+              "expanded_url": "https://x.com/HoshikawaInori/status/2061810104819991013/photo/1",
+              "media_key": "3_2061807629803114497",
+              "start": 232,
+              "url": "https://t.co/akRKjyv7xV"
+            },
+            {
+              "display_url": "pic.x.com/akRKjyv7xV",
+              "end": 255,
+              "expanded_url": "https://x.com/HoshikawaInori/status/2061810104819991013/photo/1",
+              "media_key": "3_2061807630197338112",
+              "start": 232,
+              "url": "https://t.co/akRKjyv7xV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061810104819991013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 225,
+                "start": 216,
+                "tag": "kigurumi"
+              },
+              {
+                "end": 231,
+                "start": 226,
+                "tag": "着ぐるみ"
+              },
+              {
+                "end": 241,
+                "start": 232,
+                "tag": "Alouwear"
+              },
+              {
+                "end": 252,
+                "start": 242,
+                "tag": "Aloupeeps"
+              },
+              {
+                "end": 266,
+                "start": 253,
+                "tag": "EnnaAlouette"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 213,
+                "id": "1556099848813756416",
+                "start": 199,
+                "username": "HyperNekkoChi"
+              }
+            ]
+          },
+          "text": "[OOC (or not?) Warning] \nShout out to our little gremlin songbird\nEnna, please don't hate me for this \n＿＿＿＿＿＿＿＿＿＿\n雖然是各位cos Enna的必備技能\n可是很掙扎要不要放的兩張\n＿＿＿＿＿＿＿＿＿＿ \n🌈Nijisanji EN Ethyria\n🕊️Enna Alouette\n📷: @HyperNekkoChi \n #kigurumi #着ぐるみ #Alouwear #Aloupeeps #EnnaAlouette"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1465,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "[OOC (or not?) Warning] \nShout out to our little gremlin songbird\nEnna, please don't hate me for this \n＿＿＿＿＿＿＿＿＿＿\n雖然是各位cos Enna的必備技能\n可是很掙扎要不要放的兩張\n＿＿＿＿＿＿＿＿＿＿ \n🌈Nijisanji EN Ethyria\n🕊️Enna Alouette\n📷: @HyperNekkoChi \n #kigurumi #着ぐるみ https://t.co/akRKjyv7xV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21334,
+          "following_count": 8856,
+          "like_count": 151596,
+          "listed_count": 51,
+          "media_count": 4527,
+          "tweet_count": 50179
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-20T08:27:23.000Z",
+        "description": "定位香港的萌新清水kig SFW ONLY!\n歡迎拍打聊天\n中文/English👌 日本語下手です\n想做的事很多 能用的時間卻很少\n💚🎶出自 @heyaoheyao\n💜🕊出自 @NewfacedolL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "heyaoheyao"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "NewfacedolL"
+              }
+            ]
+          }
+        },
+        "id": "1637732516026269696",
+        "name": "星川祈",
+        "pinned_tweet_id": "1998060088658157672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806858338677952512/TT9bnFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 355,
+          "like_count": 8075,
+          "listed_count": 25,
+          "media_count": 367,
+          "tweet_count": 6312
+        },
+        "username": "HoshikawaInori",
+        "verified": true
+      }
+    ]
+  }
+}

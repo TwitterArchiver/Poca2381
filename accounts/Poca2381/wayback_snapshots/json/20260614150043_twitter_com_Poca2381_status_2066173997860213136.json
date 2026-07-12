@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066141051858157791",
+    "created_at": "2026-06-14T15:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066173997860213136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1142760464",
+          "start": 0,
+          "username": "yazawa_cp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066173997860213136",
+    "in_reply_to_user_id": "1142760464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066141051858157791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yazawa_cp 可爱～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066141044836880384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxoVVlbUAA30vM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066141051858157791",
+        "created_at": "2026-06-14T15:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066173997860213136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1142760464",
+              "start": 0,
+              "username": "yazawa_cp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066173997860213136",
+        "in_reply_to_user_id": "1142760464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066141051858157791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yazawa_cp 可爱～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066141044836880384"
+          ]
+        },
+        "author_id": "1142760464",
+        "conversation_id": "2066141051858157791",
+        "created_at": "2026-06-14T12:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066141051858157791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlq5O8eedc",
+              "end": 39,
+              "expanded_url": "https://x.com/yazawa_cp/status/2066141051858157791/photo/1",
+              "media_key": "3_2066141044836880384",
+              "start": 16,
+              "url": "https://t.co/tlq5O8eedc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066141051858157791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 541,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "流萤喵～\n\n#kigurumi https://t.co/tlq5O8eedc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21863,
+          "following_count": 9331,
+          "like_count": 152232,
+          "listed_count": 52,
+          "media_count": 4813,
+          "tweet_count": 51505
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-02T15:51:59.000Z",
+        "description": "kiger｜西木野真姬/島風/櫻澤墨/刻晴/托帕/銀狼/流螢/安柏/橘望/優木雪菜",
+        "id": "1142760464",
+        "location": "Malaysia",
+        "name": "モモ / MOMO",
+        "pinned_tweet_id": "2045789522399826278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051355783032696832/08YStHG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14109,
+          "following_count": 1817,
+          "like_count": 40700,
+          "listed_count": 68,
+          "media_count": 606,
+          "tweet_count": 3662
+        },
+        "username": "yazawa_cp",
+        "verified": false
+      }
+    ]
+  }
+}

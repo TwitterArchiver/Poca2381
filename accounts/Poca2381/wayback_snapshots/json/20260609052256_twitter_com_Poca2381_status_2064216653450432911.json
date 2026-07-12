@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063592032279613673",
+    "created_at": "2026-06-09T05:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064216653450432911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4285034474",
+          "start": 0,
+          "username": "TKG_MiyA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064216653450432911",
+    "in_reply_to_user_id": "4285034474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063592032279613673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKG_MiyA 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17885,
+        "height": 1280,
+        "media_key": "13_2063591940801904640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063591940801904640/img/JKgFb_NW7fAh1nL8.jpg",
+        "public_metrics": {
+          "view_count": 2166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063591940801904640/vid/avc1/320x568/144tMahKu0gl7d_I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063591940801904640/vid/avc1/480x852/V2rISWrlE7VydeAc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063591940801904640/vid/avc1/720x1280/wOznxxpB_KJOPbVV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063591940801904640/pl/ZmWvY_24vyqe-wRn.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063592032279613673",
+        "created_at": "2026-06-09T05:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064216653450432911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4285034474",
+              "start": 0,
+              "username": "TKG_MiyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064216653450432911",
+        "in_reply_to_user_id": "4285034474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063592032279613673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKG_MiyA 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063591940801904640"
+          ]
+        },
+        "author_id": "4285034474",
+        "conversation_id": "2063592032279613673",
+        "created_at": "2026-06-07T12:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063592032279613673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 73,
+              "start": 63,
+              "tag": "Marycia3D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTtj7irZnx",
+              "end": 97,
+              "expanded_url": "https://x.com/TKG_MiyA/status/2063592032279613673/video/1",
+              "media_key": "13_2063591940801904640",
+              "start": 74,
+              "url": "https://t.co/wTtj7irZnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063592032279613673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 6088,
+          "like_count": 296,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "祝我32岁生日快乐。\n不知不觉已经到了我有记忆的时候我爸爸的年纪，爸爸32岁在养我，我32岁在扮マリシア\n#kigurumi #Marycia3D https://t.co/wTtj7irZnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21618,
+          "following_count": 9088,
+          "like_count": 151889,
+          "listed_count": 52,
+          "media_count": 4651,
+          "tweet_count": 50827
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-19T02:14:32.000Z",
+        "description": "偶々着ぐるみ写真をポストします。我在中国廣東、寺ＳＰ中传ＤＰ七段、★5、kigurumi: マリシア、VRCID: TKG_MiyA",
+        "id": "4285034474",
+        "location": "Guangdong",
+        "name": "TKG_MiyA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062481836450918400/gAoUvo6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 418,
+          "like_count": 28520,
+          "listed_count": 18,
+          "media_count": 2982,
+          "tweet_count": 8764
+        },
+        "username": "TKG_MiyA",
+        "verified": false
+      }
+    ]
+  }
+}

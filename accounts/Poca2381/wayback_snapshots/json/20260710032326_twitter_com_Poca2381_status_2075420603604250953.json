@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074731591981735936",
+        "13_2074731591981821952"
+      ],
+      "media_source_tweet_id": [
+        "2074731657219953003",
+        "2074731657219953003"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075420603604250953",
+    "created_at": "2026-07-10T03:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075420603604250953"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1196633399999389696",
+          "start": 3,
+          "username": "kirisame_nana23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CU2zJN6pNG",
+          "end": 59,
+          "expanded_url": "https://x.com/kirisame_nana23/status/2074731657219953003/video/1",
+          "media_key": "3_2074731591981735936",
+          "start": 36,
+          "url": "https://t.co/CU2zJN6pNG"
+        },
+        {
+          "display_url": "pic.x.com/CU2zJN6pNG",
+          "end": 59,
+          "expanded_url": "https://x.com/kirisame_nana23/status/2074731657219953003/video/1",
+          "media_key": "13_2074731591981821952",
+          "start": 36,
+          "url": "https://t.co/CU2zJN6pNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075420603604250953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074731657219953003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirisame_nana23: 喝完蜜雪冰城尿给你喝 #男娘 https://t.co/CU2zJN6pNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074731591981735936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrtY_haIAA7JaB.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 7101,
+        "height": 960,
+        "media_key": "13_2074731591981821952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074731591981821952/img/L9TLUmvEcyU2o8RQ.jpg",
+        "public_metrics": {
+          "view_count": 6273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074731591981821952/vid/avc1/320x426/gimI-Pb42kkizkPq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074731591981821952/vid/avc1/480x640/3gMPKwA5IJ_g4otH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074731591981821952/vid/avc1/720x960/CI35ZxFMq3Klxokt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074731591981821952/pl/6Lbpsh3h2qXSXOAt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074731591981735936",
+            "13_2074731591981821952"
+          ],
+          "media_source_tweet_id": [
+            "2074731657219953003",
+            "2074731657219953003"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075420603604250953",
+        "created_at": "2026-07-10T03:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075420603604250953"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1196633399999389696",
+              "start": 3,
+              "username": "kirisame_nana23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CU2zJN6pNG",
+              "end": 59,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2074731657219953003/video/1",
+              "media_key": "3_2074731591981735936",
+              "start": 36,
+              "url": "https://t.co/CU2zJN6pNG"
+            },
+            {
+              "display_url": "pic.x.com/CU2zJN6pNG",
+              "end": 59,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2074731657219953003/video/1",
+              "media_key": "13_2074731591981821952",
+              "start": 36,
+              "url": "https://t.co/CU2zJN6pNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075420603604250953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074731657219953003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirisame_nana23: 喝完蜜雪冰城尿给你喝 #男娘 https://t.co/CU2zJN6pNG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074731591981735936",
+            "13_2074731591981821952"
+          ]
+        },
+        "author_id": "1196633399999389696",
+        "conversation_id": "2074731657219953003",
+        "created_at": "2026-07-08T05:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074731657219953003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CU2zJN6pNG",
+              "end": 38,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2074731657219953003/video/1",
+              "media_key": "3_2074731591981735936",
+              "start": 15,
+              "url": "https://t.co/CU2zJN6pNG"
+            },
+            {
+              "display_url": "pic.x.com/CU2zJN6pNG",
+              "end": 38,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2074731657219953003/video/1",
+              "media_key": "13_2074731591981821952",
+              "start": 15,
+              "url": "https://t.co/CU2zJN6pNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074731657219953003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 23240,
+          "like_count": 351,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "喝完蜜雪冰城尿给你喝 #男娘 https://t.co/CU2zJN6pNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22587,
+          "following_count": 9874,
+          "like_count": 153106,
+          "listed_count": 51,
+          "media_count": 5342,
+          "tweet_count": 53490
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-19T03:36:57.000Z",
+        "description": "✨男♂ | 同类扩列请私信✨\n✨恋人💖@tkns_kanatsu✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "tkns_kanatsu"
+              }
+            ]
+          }
+        },
+        "id": "1196633399999389696",
+        "location": "東京 渋谷区",
+        "name": "雾雨菜菜✨",
+        "pinned_tweet_id": "1994656588553224446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028417234180419584/OAze5cp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52422,
+          "following_count": 1655,
+          "like_count": 14736,
+          "listed_count": 197,
+          "media_count": 334,
+          "tweet_count": 4565
+        },
+        "url": "",
+        "username": "kirisame_nana23",
+        "verified": false
+      }
+    ]
+  }
+}

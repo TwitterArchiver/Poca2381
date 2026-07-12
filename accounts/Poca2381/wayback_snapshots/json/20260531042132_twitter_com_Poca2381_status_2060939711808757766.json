@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418325812932014086",
+          "name": "Fantia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418325812932014086",
+          "name": "Fantia"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2060939711808757766",
+    "created_at": "2026-05-31T04:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060939711808757766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "819858501530894337",
+          "start": 3,
+          "username": "teyi0214"
+        }
+      ],
+      "urls": [
+        {
+          "description": "♥︎ゆきごや♥︎の投稿詳細",
+          "display_url": "fantia.jp/posts/4078387",
+          "end": 73,
+          "expanded_url": "https://fantia.jp/posts/4078387",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2060836167302688768/974kiBpI?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060836167302688768/974kiBpI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 50,
+          "status": 200,
+          "title": "🩷チャイナlolita🖤 - ♥︎ゆきごや♥︎ (Yuki亭🎀)の投稿｜ファンティア[Fantia]",
+          "unwound_url": "https://fantia.jp/posts/4078387",
+          "url": "https://t.co/o4ws1E0xAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060939711808757766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060836165977297234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teyi0214: 【合計16枚💖】\nファンティアに投稿しました！「🩷チャイナロリータ🖤」 https://t.co/o4ws1E0xAw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418325812932014086",
+              "name": "Fantia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418325812932014086",
+              "name": "Fantia"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2060939711808757766",
+        "created_at": "2026-05-31T04:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060939711808757766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "819858501530894337",
+              "start": 3,
+              "username": "teyi0214"
+            }
+          ],
+          "urls": [
+            {
+              "description": "♥︎ゆきごや♥︎の投稿詳細",
+              "display_url": "fantia.jp/posts/4078387",
+              "end": 73,
+              "expanded_url": "https://fantia.jp/posts/4078387",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2060836167302688768/974kiBpI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060836167302688768/974kiBpI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "🩷チャイナlolita🖤 - ♥︎ゆきごや♥︎ (Yuki亭🎀)の投稿｜ファンティア[Fantia]",
+              "unwound_url": "https://fantia.jp/posts/4078387",
+              "url": "https://t.co/o4ws1E0xAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060939711808757766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060836165977297234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teyi0214: 【合計16枚💖】\nファンティアに投稿しました！「🩷チャイナロリータ🖤」 https://t.co/o4ws1E0xAw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "819858501530894337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418325812932014086",
+              "name": "Fantia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418325812932014086",
+              "name": "Fantia"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2060836165977297234",
+        "created_at": "2026-05-30T21:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060836165977297234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "♥︎ゆきごや♥︎の投稿詳細",
+              "display_url": "fantia.jp/posts/4078387",
+              "end": 59,
+              "expanded_url": "https://fantia.jp/posts/4078387",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2060836167302688768/974kiBpI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060836167302688768/974kiBpI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "🩷チャイナlolita🖤 - ♥︎ゆきごや♥︎ (Yuki亭🎀)の投稿｜ファンティア[Fantia]",
+              "unwound_url": "https://fantia.jp/posts/4078387",
+              "url": "https://t.co/o4ws1E0xAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060836165977297234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1709,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【合計16枚💖】\nファンティアに投稿しました！「🩷チャイナロリータ🖤」 https://t.co/o4ws1E0xAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21149,
+          "following_count": 8698,
+          "like_count": 151452,
+          "listed_count": 51,
+          "media_count": 4459,
+          "tweet_count": 49876
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-13T10:47:53.000Z",
+        "description": "コスプレイヤーユキテイです❄️日本在住（日常：@yukiyukiroom）（Instagram ➤tingting214_new ）（bilibili➤亭子ww ）（爱发电➤亭子ww)（weibo➤Yuki_亭亭子）お仕事はDMで✨推しマーク：❄️🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "yukiyukiroom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/43476",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/43476",
+                "start": 0,
+                "url": "https://t.co/00n7AYn4kV"
+              }
+            ]
+          }
+        },
+        "id": "819858501530894337",
+        "location": "https://yukiteyi.booth.pm/",
+        "name": "Yuki亭❄️🎀",
+        "pinned_tweet_id": "1990408250517278842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438389446953426945/evGGzgX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321875,
+          "following_count": 510,
+          "like_count": 13635,
+          "listed_count": 1208,
+          "media_count": 1652,
+          "tweet_count": 6845
+        },
+        "url": "https://t.co/00n7AYn4kV",
+        "username": "teyi0214",
+        "verified": true
+      }
+    ]
+  }
+}

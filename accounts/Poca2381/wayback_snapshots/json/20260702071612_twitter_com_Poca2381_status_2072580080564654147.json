@@ -1,0 +1,686 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072353286884401152",
+        "3_2072353287123390464"
+      ],
+      "media_source_tweet_id": [
+        "2072353293578502265",
+        "2072353293578502265"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2072580080564654147",
+    "created_at": "2026-07-02T07:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072580080564654147"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 44,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 60,
+          "start": 54,
+          "tag": "天童アリス"
+        },
+        {
+          "end": 73,
+          "start": 61,
+          "tag": "BlueArchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1139736389816221697",
+          "start": 3,
+          "username": "min_crescent"
+        },
+        {
+          "end": 41,
+          "id": "1733035049052987392",
+          "start": 28,
+          "username": "0_xiao_chi_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CcKGT405la",
+          "end": 97,
+          "expanded_url": "https://x.com/min_crescent/status/2072353293578502265/photo/1",
+          "media_key": "3_2072353286884401152",
+          "start": 74,
+          "url": "https://t.co/CcKGT405la"
+        },
+        {
+          "display_url": "pic.x.com/CcKGT405la",
+          "end": 97,
+          "expanded_url": "https://x.com/min_crescent/status/2072353293578502265/photo/1",
+          "media_key": "3_2072353287123390464",
+          "start": 74,
+          "url": "https://t.co/CcKGT405la"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072580080564654147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072353293578502265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @min_crescent: 休息一下吧～\n\n📷：@0_xiao_chi_0 \n\n#kigurumi #天童アリス #BlueArchive https://t.co/CcKGT405la"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072353286884401152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ6VanboAAIDqx.jpg",
+        "width": 1367
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072353287123390464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ6VbgaUAAzAeQ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072353286884401152",
+            "3_2072353287123390464"
+          ],
+          "media_source_tweet_id": [
+            "2072353293578502265",
+            "2072353293578502265"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2072580080564654147",
+        "created_at": "2026-07-02T07:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072580080564654147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "天童アリス"
+            },
+            {
+              "end": 73,
+              "start": 61,
+              "tag": "BlueArchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1139736389816221697",
+              "start": 3,
+              "username": "min_crescent"
+            },
+            {
+              "end": 41,
+              "id": "1733035049052987392",
+              "start": 28,
+              "username": "0_xiao_chi_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcKGT405la",
+              "end": 97,
+              "expanded_url": "https://x.com/min_crescent/status/2072353293578502265/photo/1",
+              "media_key": "3_2072353286884401152",
+              "start": 74,
+              "url": "https://t.co/CcKGT405la"
+            },
+            {
+              "display_url": "pic.x.com/CcKGT405la",
+              "end": 97,
+              "expanded_url": "https://x.com/min_crescent/status/2072353293578502265/photo/1",
+              "media_key": "3_2072353287123390464",
+              "start": 74,
+              "url": "https://t.co/CcKGT405la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072580080564654147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072353293578502265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @min_crescent: 休息一下吧～\n\n📷：@0_xiao_chi_0 \n\n#kigurumi #天童アリス #BlueArchive https://t.co/CcKGT405la"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072353286884401152",
+            "3_2072353287123390464"
+          ]
+        },
+        "author_id": "1139736389816221697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2072353293578502265",
+        "created_at": "2026-07-01T16:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072353293578502265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "天童アリス"
+            },
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "BlueArchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1733035049052987392",
+              "start": 10,
+              "username": "0_xiao_chi_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcKGT405la",
+              "end": 79,
+              "expanded_url": "https://x.com/min_crescent/status/2072353293578502265/photo/1",
+              "media_key": "3_2072353286884401152",
+              "start": 56,
+              "url": "https://t.co/CcKGT405la"
+            },
+            {
+              "display_url": "pic.x.com/CcKGT405la",
+              "end": 79,
+              "expanded_url": "https://x.com/min_crescent/status/2072353293578502265/photo/1",
+              "media_key": "3_2072353287123390464",
+              "start": 56,
+              "url": "https://t.co/CcKGT405la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072353293578502265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2656,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "休息一下吧～\n\n📷：@0_xiao_chi_0 \n\n#kigurumi #天童アリス #BlueArchive https://t.co/CcKGT405la"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22439,
+          "following_count": 9757,
+          "like_count": 152849,
+          "listed_count": 52,
+          "media_count": 5186,
+          "tweet_count": 52883
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-15T03:28:25.000Z",
+        "description": "叫我阿红就好啦丨总想变得更受欢迎！丨kigurumi初心者丨小鸟游星野丨天童爱丽丝/凯伊丨空崎日奈丨才羽桃井丨Saber Alter（停止活动）",
+        "id": "1139736389816221697",
+        "location": "长沙",
+        "name": "目代紅葉@阿红",
+        "pinned_tweet_id": "2041348574890594465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911771910045679616/Tx9m6R4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7361,
+          "following_count": 802,
+          "like_count": 1518,
+          "listed_count": 48,
+          "media_count": 530,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "min_crescent",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T08:05:40.000Z",
+        "description": "直接叫我小持就行/目前持有角色:碧蓝档案真纪  VRchat karin gbf 碧卡拉/会一点画画/野路子意识流摄影/重度fps爱好者/3d软件及视频剪辑软件学习中/软fufu宝宝@Se1raNNN/中文/English/Thanks for your follow!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Se1raNNN"
+              }
+            ]
+          }
+        },
+        "id": "1733035049052987392",
+        "location": "McDonald's",
+        "name": "小持今天不想动",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928369623122276352/NaKVKICT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4314,
+          "following_count": 1230,
+          "like_count": 2850,
+          "listed_count": 27,
+          "media_count": 153,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "0_xiao_chi_0",
+        "verified": false
+      }
+    ]
+  }
+}

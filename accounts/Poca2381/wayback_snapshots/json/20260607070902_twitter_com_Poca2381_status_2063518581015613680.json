@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063104206035353853",
+    "created_at": "2026-06-07T07:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063518581015613680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001663395247091712",
+          "start": 0,
+          "username": "QingChi93056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518581015613680",
+    "in_reply_to_user_id": "2001663395247091712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063207922549854627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingChi93056 加油哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063104206035353853",
+        "created_at": "2026-06-07T07:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063518581015613680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001663395247091712",
+              "start": 0,
+              "username": "QingChi93056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518581015613680",
+        "in_reply_to_user_id": "2001663395247091712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063207922549854627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingChi93056 加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001663395247091712",
+        "conversation_id": "2063104206035353853",
+        "created_at": "2026-06-06T10:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063207922549854627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063207922549854627",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5159,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063104206035353853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 给明天要高考的我 反而增添了一些安慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21495,
+          "following_count": 8973,
+          "like_count": 151856,
+          "listed_count": 52,
+          "media_count": 4613,
+          "tweet_count": 50592
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T14:38:58.000Z",
+        "description": "推特里都是碎碎念 不要在意我…ᐡ•͈ ·̭ •͈ᐡ",
+        "id": "2001663395247091712",
+        "name": "戴眼镜装呆萌的小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060838000301580288/RKbw_Wfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 13,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 145
+        },
+        "username": "QingChi93056",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053038834737401856"
+      ],
+      "media_source_tweet_id": [
+        "2053044785221619796"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2053206964851896707",
+    "created_at": "2026-05-09T20:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T21:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053206964851896707"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "地雷系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712792106572644352",
+          "start": 3,
+          "username": "yukine_hkkig"
+        },
+        {
+          "end": 78,
+          "id": "1733963032160854016",
+          "start": 65,
+          "username": "DARKSTUDIOHK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Vu0SFzZxA",
+          "end": 120,
+          "expanded_url": "https://x.com/yukine_hkkig/status/2053044785221619796/photo/1",
+          "media_key": "3_2053038834737401856",
+          "start": 97,
+          "url": "https://t.co/4Vu0SFzZxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053206964851896707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053044785221619796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukine_hkkig: 打字機真的很好玩\n是我第一次接觸這部機器並且打自己的名字出來⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾\n\n📷:@DARKSTUDIOHK \n#着ぐるみ #初音ミク #地雷系 https://t.co/4Vu0SFzZxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2053038834737401856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3b8Vaa0AARMlM.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053038834737401856"
+          ],
+          "media_source_tweet_id": [
+            "2053044785221619796"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2053206964851896707",
+        "created_at": "2026-05-09T20:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T21:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053206964851896707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "地雷系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712792106572644352",
+              "start": 3,
+              "username": "yukine_hkkig"
+            },
+            {
+              "end": 78,
+              "id": "1733963032160854016",
+              "start": 65,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vu0SFzZxA",
+              "end": 120,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2053044785221619796/photo/1",
+              "media_key": "3_2053038834737401856",
+              "start": 97,
+              "url": "https://t.co/4Vu0SFzZxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053206964851896707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053044785221619796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukine_hkkig: 打字機真的很好玩\n是我第一次接觸這部機器並且打自己的名字出來⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾\n\n📷:@DARKSTUDIOHK \n#着ぐるみ #初音ミク #地雷系 https://t.co/4Vu0SFzZxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053038834737401856"
+          ]
+        },
+        "author_id": "1712792106572644352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2053044785221619796",
+        "created_at": "2026-05-09T09:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053044785221619796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "地雷系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1733963032160854016",
+              "start": 47,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vu0SFzZxA",
+              "end": 102,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2053044785221619796/photo/1",
+              "media_key": "3_2053038834737401856",
+              "start": 79,
+              "url": "https://t.co/4Vu0SFzZxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053044785221619796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 759,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "打字機真的很好玩\n是我第一次接觸這部機器並且打自己的名字出來⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾\n\n📷:@DARKSTUDIOHK \n#着ぐるみ #初音ミク #地雷系 https://t.co/4Vu0SFzZxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20251,
+          "following_count": 7678,
+          "like_count": 150362,
+          "listed_count": 49,
+          "media_count": 4067,
+          "tweet_count": 48019
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "location": "香港",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5201,
+          "following_count": 687,
+          "like_count": 11049,
+          "listed_count": 25,
+          "media_count": 1159,
+          "tweet_count": 7974
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T21:33:14.000Z",
+        "description": "新手kiger，可以叫我KS ｜目前什麼都不會，但我會繼續努力的💪🏻",
+        "id": "1733963032160854016",
+        "location": "Hong Kong",
+        "name": "K.S.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958195972586287104/AdXuN5K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 313,
+          "like_count": 1236,
+          "listed_count": 16,
+          "media_count": 120,
+          "tweet_count": 1088
+        },
+        "username": "DARKSTUDIOHK",
+        "verified": true
+      }
+    ]
+  }
+}

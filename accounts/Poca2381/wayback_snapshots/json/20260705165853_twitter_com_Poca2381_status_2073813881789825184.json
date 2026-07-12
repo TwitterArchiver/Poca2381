@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945390520131575809"
+      ],
+      "media_source_tweet_id": [
+        "1947506891426275703"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2073813881789825184",
+    "created_at": "2026-07-05T16:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073813881789825184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1702925354132992000",
+          "start": 3,
+          "username": "remilia_servant"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ow8IEhK6Fk",
+          "end": 44,
+          "expanded_url": "https://x.com/remilia_servant/status/1947506891426275703/photo/1",
+          "media_key": "3_1945390520131575809",
+          "start": 21,
+          "url": "https://t.co/ow8IEhK6Fk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073813881789825184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947506891426275703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @remilia_servant: https://t.co/ow8IEhK6Fk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 352,
+        "media_key": "3_1945390520131575809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9qXvXa4AELpMm.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945390520131575809"
+          ],
+          "media_source_tweet_id": [
+            "1947506891426275703"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2073813881789825184",
+        "created_at": "2026-07-05T16:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073813881789825184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1702925354132992000",
+              "start": 3,
+              "username": "remilia_servant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ow8IEhK6Fk",
+              "end": 44,
+              "expanded_url": "https://x.com/remilia_servant/status/1947506891426275703/photo/1",
+              "media_key": "3_1945390520131575809",
+              "start": 21,
+              "url": "https://t.co/ow8IEhK6Fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073813881789825184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947506891426275703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @remilia_servant: https://t.co/ow8IEhK6Fk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945390520131575809"
+          ]
+        },
+        "author_id": "1702925354132992000",
+        "conversation_id": "1947506891426275703",
+        "created_at": "2025-07-22T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947506891426275703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ow8IEhK6Fk",
+              "end": 23,
+              "expanded_url": "https://x.com/remilia_servant/status/1947506891426275703/photo/1",
+              "media_key": "3_1945390520131575809",
+              "start": 0,
+              "url": "https://t.co/ow8IEhK6Fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947506891426275703",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 85294,
+          "like_count": 1029,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ow8IEhK6Fk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22517,
+          "following_count": 9807,
+          "like_count": 152973,
+          "listed_count": 52,
+          "media_count": 5240,
+          "tweet_count": 53149
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "日常翻譯/碎碎念賬號，可能不會很活躍",
+        "id": "1702925354132992000",
+        "location": "天上",
+        "name": "蕾米",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068684524138237952/b9eBPTgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14025,
+          "following_count": 1629,
+          "like_count": 97096,
+          "listed_count": 57,
+          "media_count": 587,
+          "tweet_count": 3252
+        },
+        "url": "",
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

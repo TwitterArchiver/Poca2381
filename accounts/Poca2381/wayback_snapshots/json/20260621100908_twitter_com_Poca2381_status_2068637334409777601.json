@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068432837108469760",
+        "3_2068432837515374592"
+      ],
+      "media_source_tweet_id": [
+        "2068432842590450062",
+        "2068432842590450062"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068637334409777601",
+    "created_at": "2026-06-21T10:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068637334409777601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3792469754",
+          "start": 3,
+          "username": "honwing27"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uj7CJCjHho",
+          "end": 56,
+          "expanded_url": "https://x.com/honwing27/status/2068432842590450062/photo/1",
+          "media_key": "3_2068432837108469760",
+          "start": 33,
+          "url": "https://t.co/uj7CJCjHho"
+        },
+        {
+          "display_url": "pic.x.com/uj7CJCjHho",
+          "end": 56,
+          "expanded_url": "https://x.com/honwing27/status/2068432842590450062/photo/1",
+          "media_key": "3_2068432837515374592",
+          "start": 33,
+          "url": "https://t.co/uj7CJCjHho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068637334409777601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068432842590450062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honwing27: 今天又到跟大家開心飯局的開心時刻🤤 https://t.co/uj7CJCjHho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2068432837108469760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSMtNGakAA12mV.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2068432837515374592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSMtOnbcAAEzM9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068432837108469760",
+            "3_2068432837515374592"
+          ],
+          "media_source_tweet_id": [
+            "2068432842590450062",
+            "2068432842590450062"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068637334409777601",
+        "created_at": "2026-06-21T10:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068637334409777601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3792469754",
+              "start": 3,
+              "username": "honwing27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uj7CJCjHho",
+              "end": 56,
+              "expanded_url": "https://x.com/honwing27/status/2068432842590450062/photo/1",
+              "media_key": "3_2068432837108469760",
+              "start": 33,
+              "url": "https://t.co/uj7CJCjHho"
+            },
+            {
+              "display_url": "pic.x.com/uj7CJCjHho",
+              "end": 56,
+              "expanded_url": "https://x.com/honwing27/status/2068432842590450062/photo/1",
+              "media_key": "3_2068432837515374592",
+              "start": 33,
+              "url": "https://t.co/uj7CJCjHho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068637334409777601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068432842590450062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honwing27: 今天又到跟大家開心飯局的開心時刻🤤 https://t.co/uj7CJCjHho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068432837108469760",
+            "3_2068432837515374592"
+          ]
+        },
+        "author_id": "3792469754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068432842590450062",
+        "created_at": "2026-06-20T20:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068432842590450062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uj7CJCjHho",
+              "end": 41,
+              "expanded_url": "https://x.com/honwing27/status/2068432842590450062/photo/1",
+              "media_key": "3_2068432837108469760",
+              "start": 18,
+              "url": "https://t.co/uj7CJCjHho"
+            },
+            {
+              "display_url": "pic.x.com/uj7CJCjHho",
+              "end": 41,
+              "expanded_url": "https://x.com/honwing27/status/2068432842590450062/photo/1",
+              "media_key": "3_2068432837515374592",
+              "start": 18,
+              "url": "https://t.co/uj7CJCjHho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068432842590450062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 958,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天又到跟大家開心飯局的開心時刻🤤 https://t.co/uj7CJCjHho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22129,
+          "following_count": 9525,
+          "like_count": 152482,
+          "listed_count": 52,
+          "media_count": 4959,
+          "tweet_count": 52047
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-05T13:20:18.000Z",
+        "description": "來自香港🇭🇰 。vrc玩家，kig萌新。角色：Sameko Saba🐟、白上フブキ🦊🌽、 結城さくな🎀🐾、Arona🩵、Plana🤍、？。偶爾會發點日常",
+        "id": "3792469754",
+        "name": "honwing",
+        "pinned_tweet_id": "2009136747616330032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451649336421482496/1a2gL892_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 4920,
+          "like_count": 3879,
+          "listed_count": 13,
+          "media_count": 248,
+          "tweet_count": 20767
+        },
+        "url": "",
+        "username": "honwing27",
+        "verified": true
+      }
+    ]
+  }
+}

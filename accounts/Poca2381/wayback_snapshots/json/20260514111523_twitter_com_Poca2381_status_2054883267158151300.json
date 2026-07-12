@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052970718858743808"
+      ],
+      "media_source_tweet_id": [
+        "2052971827094560845"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054883267158151300",
+    "created_at": "2026-05-14T11:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054883267158151300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WFOvLci9MU",
+          "end": 121,
+          "expanded_url": "https://x.com/igeekbb/status/2052971827094560845/video/1",
+          "media_key": "13_2052970718858743808",
+          "start": 98,
+          "url": "https://t.co/WFOvLci9MU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054883267158151300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 258
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052971827094560845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 这视频刷新了我今年的愤怒值，一名盲人女孩走在盲道上，一辆骑上人行道的电动踏板车看到小姑娘后，不仅没有减速，反而直接迎面撞上。撞人之后还停下来指责：干啥呢，不看路啊。。。 https://t.co/WFOvLci9MU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47300,
+        "height": 1024,
+        "media_key": "13_2052970718858743808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052970718858743808/img/4puZTRa3g4uKq7n4.jpg",
+        "public_metrics": {
+          "view_count": 675657
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052970718858743808/vid/avc1/320x568/lPmxlEepCXyY0K5Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052970718858743808/vid/avc1/480x852/Pk2O4Bfos6cmZ47Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052970718858743808/vid/avc1/576x1024/RsZhdfl4ZGZk4bd4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052970718858743808/pl/gMdmXOG0Kp2L_037.m3u8?v=12e"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052970718858743808"
+          ],
+          "media_source_tweet_id": [
+            "2052971827094560845"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054883267158151300",
+        "created_at": "2026-05-14T11:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054883267158151300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WFOvLci9MU",
+              "end": 121,
+              "expanded_url": "https://x.com/igeekbb/status/2052971827094560845/video/1",
+              "media_key": "13_2052970718858743808",
+              "start": 98,
+              "url": "https://t.co/WFOvLci9MU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054883267158151300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052971827094560845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 这视频刷新了我今年的愤怒值，一名盲人女孩走在盲道上，一辆骑上人行道的电动踏板车看到小姑娘后，不仅没有减速，反而直接迎面撞上。撞人之后还停下来指责：干啥呢，不看路啊。。。 https://t.co/WFOvLci9MU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052970718858743808"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2052971827094560845",
+        "created_at": "2026-05-09T04:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052971827094560845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WFOvLci9MU",
+              "end": 108,
+              "expanded_url": "https://x.com/igeekbb/status/2052971827094560845/video/1",
+              "media_key": "13_2052970718858743808",
+              "start": 85,
+              "url": "https://t.co/WFOvLci9MU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052971827094560845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 1233588,
+          "like_count": 6111,
+          "quote_count": 82,
+          "reply_count": 2323,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "这视频刷新了我今年的愤怒值，一名盲人女孩走在盲道上，一辆骑上人行道的电动踏板车看到小姑娘后，不仅没有减速，反而直接迎面撞上。撞人之后还停下来指责：干啥呢，不看路啊。。。 https://t.co/WFOvLci9MU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20388,
+          "following_count": 7885,
+          "like_count": 150562,
+          "listed_count": 49,
+          "media_count": 4154,
+          "tweet_count": 48351
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77190,
+          "following_count": 1,
+          "like_count": 14973,
+          "listed_count": 328,
+          "media_count": 7792,
+          "tweet_count": 12243
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

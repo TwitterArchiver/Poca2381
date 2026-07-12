@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068006181231292417"
+      ],
+      "media_source_tweet_id": [
+        "2068006295685460252"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068266020138360998",
+    "created_at": "2026-06-20T09:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068266020138360998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497602089136328704",
+          "start": 3,
+          "username": "Miyako_2133"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ntJFSZL5Mv",
+          "end": 64,
+          "expanded_url": "https://x.com/Miyako_2133/status/2068006295685460252/photo/1",
+          "media_key": "3_2068006181231292417",
+          "start": 41,
+          "url": "https://t.co/ntJFSZL5Mv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068266020138360998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068006295685460252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miyako_2133: 名字带了七年amiya我总算穿一次驴子的衣服了 https://t.co/ntJFSZL5Mv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2068006181231292417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMIqkGacAE-I69.jpg",
+        "width": 557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068006181231292417"
+          ],
+          "media_source_tweet_id": [
+            "2068006295685460252"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068266020138360998",
+        "created_at": "2026-06-20T09:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068266020138360998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497602089136328704",
+              "start": 3,
+              "username": "Miyako_2133"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntJFSZL5Mv",
+              "end": 64,
+              "expanded_url": "https://x.com/Miyako_2133/status/2068006295685460252/photo/1",
+              "media_key": "3_2068006181231292417",
+              "start": 41,
+              "url": "https://t.co/ntJFSZL5Mv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068266020138360998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068006295685460252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miyako_2133: 名字带了七年amiya我总算穿一次驴子的衣服了 https://t.co/ntJFSZL5Mv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068006181231292417"
+          ]
+        },
+        "author_id": "1497602089136328704",
+        "conversation_id": "2068006295685460252",
+        "created_at": "2026-06-19T16:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068006295685460252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntJFSZL5Mv",
+              "end": 47,
+              "expanded_url": "https://x.com/Miyako_2133/status/2068006295685460252/photo/1",
+              "media_key": "3_2068006181231292417",
+              "start": 24,
+              "url": "https://t.co/ntJFSZL5Mv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068006295685460252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1616,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "名字带了七年amiya我总算穿一次驴子的衣服了 https://t.co/ntJFSZL5Mv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22106,
+          "following_count": 9493,
+          "like_count": 152420,
+          "listed_count": 52,
+          "media_count": 4930,
+          "tweet_count": 51937
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-26T15:59:12.000Z",
+        "description": "软工在读，讨厌Java\n可以叫我耶子，也可以叫我素食",
+        "id": "1497602089136328704",
+        "location": "千年科技大专",
+        "name": "MayeMiayko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862077333609271296/MEjWZQ2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 3445,
+          "like_count": 152041,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1228
+        },
+        "url": "",
+        "username": "Miyako_2133",
+        "verified": false
+      }
+    ]
+  }
+}

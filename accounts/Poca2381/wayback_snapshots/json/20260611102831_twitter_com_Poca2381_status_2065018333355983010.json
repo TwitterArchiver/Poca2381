@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065010151925706856",
+    "created_at": "2026-06-11T10:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065018333355983010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056747368683642880",
+          "start": 0,
+          "username": "NatsumeAnn72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065018333355983010",
+    "in_reply_to_user_id": "2056747368683642880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065012432922452419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NatsumeAnn72 早露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2065010151925706856",
+        "created_at": "2026-06-11T10:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065018333355983010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056747368683642880",
+              "start": 0,
+              "username": "NatsumeAnn72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065018333355983010",
+        "in_reply_to_user_id": "2056747368683642880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065012432922452419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NatsumeAnn72 早露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056747368683642880",
+        "conversation_id": "2065010151925706856",
+        "created_at": "2026-06-11T10:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065012432922452419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065012432922452419",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065010151925706856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 这是什么角色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21724,
+          "following_count": 9219,
+          "like_count": 152069,
+          "listed_count": 52,
+          "media_count": 4700,
+          "tweet_count": 51132
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T14:42:48.000Z",
+        "description": "滞纳朱拼图者@puzzlerlee野爹多，邪恶迪迦、内格夫、识之律者、王梦圆、于兆力、小麦子、尼沙皇、孔主席、maybe、薯条、樱桃可乐、王自如、汉武帝刘彻都是窝拼儿素未谋面的抚琴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "puzzlerlee"
+              }
+            ]
+          }
+        },
+        "id": "2056747368683642880",
+        "name": "纳西妲🍥🏳️‍⚧️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056748830587228161/cb_SGoUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 46,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "NatsumeAnn72",
+        "verified": false
+      }
+    ]
+  }
+}

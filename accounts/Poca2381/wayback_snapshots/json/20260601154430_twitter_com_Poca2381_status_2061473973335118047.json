@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2061277869725339671",
+    "created_at": "2026-06-01T15:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061473973335118047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1353520629266456576",
+          "start": 0,
+          "username": "DestrOyer_YuTea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061473973335118047",
+    "in_reply_to_user_id": "1353520629266456576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061277869725339671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DestrOyer_YuTea 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061277858149154816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJshSnZbwAAGnVb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2061277869725339671",
+        "created_at": "2026-06-01T15:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061473973335118047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1353520629266456576",
+              "start": 0,
+              "username": "DestrOyer_YuTea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061473973335118047",
+        "in_reply_to_user_id": "1353520629266456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061277869725339671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DestrOyer_YuTea 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061277858149154816"
+          ]
+        },
+        "author_id": "1353520629266456576",
+        "conversation_id": "2061277869725339671",
+        "created_at": "2026-06-01T02:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061277869725339671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCbCA9535d",
+              "end": 43,
+              "expanded_url": "https://x.com/DestrOyer_YuTea/status/2061277869725339671/photo/1",
+              "media_key": "3_2061277858149154816",
+              "start": 20,
+              "url": "https://t.co/gCbCA9535d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061277869725339671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 362,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "儿童节快乐~\n（白葱新衣服的先行预告） https://t.co/gCbCA9535d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21245,
+          "following_count": 8806,
+          "like_count": 151553,
+          "listed_count": 51,
+          "media_count": 4495,
+          "tweet_count": 50084
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-25T01:50:55.000Z",
+        "description": "音游重度依赖的小孩，，喜欢音游和赛车街机，微18+注意🚫，清水友友还请麻烦回避哦",
+        "id": "1353520629266456576",
+        "location": "Guangdong",
+        "name": "幽茶",
+        "pinned_tweet_id": "1736033376421748806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960138080746373120/39F1rGos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 2940,
+          "like_count": 1266,
+          "listed_count": 10,
+          "media_count": 53,
+          "tweet_count": 168
+        },
+        "username": "DestrOyer_YuTea",
+        "verified": false
+      }
+    ]
+  }
+}

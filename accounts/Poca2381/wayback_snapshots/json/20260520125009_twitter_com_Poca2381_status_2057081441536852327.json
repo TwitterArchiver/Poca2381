@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056366355428057088"
+      ],
+      "media_source_tweet_id": [
+        "2056366378773553282"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057081441536852327",
+    "created_at": "2026-05-20T12:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057081441536852327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713837122585604096",
+          "start": 3,
+          "username": "BestBuns233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uowmueIG7j",
+          "end": 47,
+          "expanded_url": "https://x.com/BestBuns233/status/2056366378773553282/photo/1",
+          "media_key": "3_2056366355428057088",
+          "start": 24,
+          "url": "https://t.co/uowmueIG7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057081441536852327",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056366378773553282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BestBuns233: 偷穿老冯校服 https://t.co/uowmueIG7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4049,
+        "media_key": "3_2056366355428057088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImuTh9aoAA8HpB.jpg",
+        "width": 2278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056366355428057088"
+          ],
+          "media_source_tweet_id": [
+            "2056366378773553282"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057081441536852327",
+        "created_at": "2026-05-20T12:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057081441536852327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713837122585604096",
+              "start": 3,
+              "username": "BestBuns233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uowmueIG7j",
+              "end": 47,
+              "expanded_url": "https://x.com/BestBuns233/status/2056366378773553282/photo/1",
+              "media_key": "3_2056366355428057088",
+              "start": 24,
+              "url": "https://t.co/uowmueIG7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057081441536852327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056366378773553282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BestBuns233: 偷穿老冯校服 https://t.co/uowmueIG7j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056366355428057088"
+          ]
+        },
+        "author_id": "1713837122585604096",
+        "conversation_id": "2056366378773553282",
+        "created_at": "2026-05-18T13:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056366378773553282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uowmueIG7j",
+              "end": 30,
+              "expanded_url": "https://x.com/BestBuns233/status/2056366378773553282/photo/1",
+              "media_key": "3_2056366355428057088",
+              "start": 7,
+              "url": "https://t.co/uowmueIG7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056366378773553282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3839,
+          "like_count": 305,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "偷穿老冯校服 https://t.co/uowmueIG7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20682,
+          "following_count": 8224,
+          "like_count": 150921,
+          "listed_count": 50,
+          "media_count": 4266,
+          "tweet_count": 48942
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-16T08:39:56.000Z",
+        "description": "有点烫",
+        "id": "1713837122585604096",
+        "name": "发面小笼包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029942399129280512/cVlUkVcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 112,
+          "like_count": 1205,
+          "listed_count": 34,
+          "media_count": 57,
+          "tweet_count": 253
+        },
+        "username": "BestBuns233",
+        "verified": false
+      }
+    ]
+  }
+}

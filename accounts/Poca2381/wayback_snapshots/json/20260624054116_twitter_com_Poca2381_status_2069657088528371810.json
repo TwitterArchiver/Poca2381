@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069332148545298873",
+    "created_at": "2026-06-24T05:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069657088528371810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862765396111368192",
+          "start": 0,
+          "username": "LithusEric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069657088528371810",
+    "in_reply_to_user_id": "1862765396111368192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069332148545298873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LithusEric 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1809,
+        "media_key": "3_2069331563997790208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe-F_qXgAAb6_7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069331965287727104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe-dWlWAAApMQj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069332148545298873",
+        "created_at": "2026-06-24T05:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069657088528371810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862765396111368192",
+              "start": 0,
+              "username": "LithusEric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069657088528371810",
+        "in_reply_to_user_id": "1862765396111368192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069332148545298873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LithusEric 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069331563997790208",
+            "3_2069331965287727104"
+          ]
+        },
+        "author_id": "1862765396111368192",
+        "conversation_id": "2069332148545298873",
+        "created_at": "2026-06-23T08:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069332148545298873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 47,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331563997790208",
+              "start": 24,
+              "url": "https://t.co/tNTWNA5iZq"
+            },
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 47,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331965287727104",
+              "start": 24,
+              "url": "https://t.co/tNTWNA5iZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069332148545298873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 21010,
+          "like_count": 165,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每月任务：徐汇上精卫😇\n偶遇一只可爱的水色系喵 https://t.co/tNTWNA5iZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22258,
+          "following_count": 9601,
+          "like_count": 152623,
+          "listed_count": 52,
+          "media_count": 5024,
+          "tweet_count": 52321
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2023 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "location": "Shanghai",
+        "name": "Ericka Lithi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 33,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "LithusEric",
+        "verified": false
+      }
+    ]
+  }
+}

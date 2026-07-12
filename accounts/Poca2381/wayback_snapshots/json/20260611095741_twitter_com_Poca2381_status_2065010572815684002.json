@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2065010572815684002",
+    "created_at": "2026-06-11T09:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065010572815684002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065010572815684002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052379465473519923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 中国的改证就是比加拿大的改证爽很多（\n\n加拿大的改了和没改一样\n\n而中国的生活处处和性别有关\n\n当法定性别和心理性别符合时\n\n平时会带来性别焦虑的一切都会变成享受的来源_(:з」∠)_\n\n从滴滴上我从不会用的小红花\n到Alipay上的小粉标…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_2052379452089511936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNobMAAUFmb.jpg",
+        "width": 558
+      },
+      {
+        "height": 873,
+        "media_key": "3_2052379452047499264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNeaIAAvqy6.jpg",
+        "width": 1206
+      },
+      {
+        "height": 719,
+        "media_key": "3_2052379452060090368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNhaQAAdSMP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2214,
+        "media_key": "3_2052379452064342016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNibIAAxDsG.jpg",
+        "width": 4031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2065010572815684002",
+        "created_at": "2026-06-11T09:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065010572815684002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065010572815684002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052379465473519923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 中国的改证就是比加拿大的改证爽很多（\n\n加拿大的改了和没改一样\n\n而中国的生活处处和性别有关\n\n当法定性别和心理性别符合时\n\n平时会带来性别焦虑的一切都会变成享受的来源_(:з」∠)_\n\n从滴滴上我从不会用的小红花\n到Alipay上的小粉标…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052379452089511936",
+            "3_2052379452047499264",
+            "3_2052379452060090368",
+            "3_2052379452064342016"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2052379465473519923",
+        "created_at": "2026-05-07T13:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052379465473519923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452089511936",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            },
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452047499264",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            },
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452060090368",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            },
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452064342016",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052379465473519923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 50249,
+          "like_count": 126,
+          "quote_count": 9,
+          "reply_count": 52,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "中国的改证就是比加拿大的改证爽很多（\n\n加拿大的改了和没改一样\n\n而中国的生活处处和性别有关\n\n当法定性别和心理性别符合时\n\n平时会带来性别焦虑的一切都会变成享受的来源_(:з」∠)_\n\n从滴滴上我从不会用的小红花\n到Alipay上的小粉标\n\n性别焦虑被满足的瞬间，世间变成了奶与蜜的土地，只剩欢愉存在（ https://t.co/yfmZHpDk9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21723,
+          "following_count": 9219,
+          "like_count": 152067,
+          "listed_count": 52,
+          "media_count": 4699,
+          "tweet_count": 51128
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "BPD胡亂發言警告⚠️\n頭像是自拍 / 身分證性別女\n封鎖必回\n癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063373902387281920/oihXfGP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33940,
+          "following_count": 425,
+          "like_count": 237178,
+          "listed_count": 106,
+          "media_count": 9263,
+          "tweet_count": 60248
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

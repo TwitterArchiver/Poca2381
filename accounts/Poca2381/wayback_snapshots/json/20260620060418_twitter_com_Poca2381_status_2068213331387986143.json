@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068210262369583203",
+    "created_at": "2026-06-20T06:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068213331387986143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3792469754",
+          "start": 0,
+          "username": "honwing27"
+        },
+        {
+          "end": 22,
+          "id": "1878042789537275904",
+          "start": 11,
+          "username": "samekosaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068213331387986143",
+    "in_reply_to_user_id": "3792469754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068210262369583203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honwing27 @samekosaba 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35387,
+        "height": 1920,
+        "media_key": "7_2068205413330493440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068205413330493440/pu/img/wfGG-Yl_E3luk_ZP.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068205413330493440/pu/pl/Knb5qMA5C74e4-ez.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068205413330493440/pu/vid/avc1/1080x1920/sVLQSQxXA9JmOMQ-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068205413330493440/pu/vid/avc1/720x1280/Ni0xTxyd5lLVMRyZ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068205413330493440/pu/vid/avc1/320x568/3yBuXzhSVb0LqFhy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068205413330493440/pu/vid/avc1/480x852/m-tTptnIOuwxUGVN.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068210262369583203",
+        "created_at": "2026-06-20T06:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068213331387986143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3792469754",
+              "start": 0,
+              "username": "honwing27"
+            },
+            {
+              "end": 22,
+              "id": "1878042789537275904",
+              "start": 11,
+              "username": "samekosaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068213331387986143",
+        "in_reply_to_user_id": "3792469754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068210262369583203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honwing27 @samekosaba 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068205413330493440"
+          ]
+        },
+        "author_id": "3792469754",
+        "conversation_id": "2068210262369583203",
+        "created_at": "2026-06-20T05:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068210262369583203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 67,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 96,
+              "start": 85,
+              "tag": "SamekoSaba"
+            },
+            {
+              "end": 115,
+              "start": 98,
+              "tag": "sababirthday2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1878042789537275904",
+              "start": 18,
+              "username": "samekosaba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2ZJKicEMR",
+              "end": 139,
+              "expanded_url": "https://x.com/honwing27/status/2068210262369583203/video/1",
+              "media_key": "7_2068205413330493440",
+              "start": 116,
+              "url": "https://t.co/M2ZJKicEMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068210262369583203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 74,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday to @samekosaba🎊！\nSabaちゃんお誕生日おめでとう🎉！\n生日快樂🎂！\n(摸摸🐟尾巴)\n\n#kigurumi \n#着ぐるみ \n#SamekoSaba \n#sababirthday2026 https://t.co/M2ZJKicEMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22104,
+          "following_count": 9486,
+          "like_count": 152398,
+          "listed_count": 52,
+          "media_count": 4924,
+          "tweet_count": 51899
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-05T13:20:18.000Z",
+        "description": "來自香港🇭🇰 。vrc玩家，kig萌新。角色：Sameko Saba🐟、白上フブキ🦊🌽、 結城さくな🎀🐾、Arona🩵、Plana🤍、？。偶爾會發點日常",
+        "id": "3792469754",
+        "name": "honwing",
+        "pinned_tweet_id": "2009136747616330032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451649336421482496/1a2gL892_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 4921,
+          "like_count": 3875,
+          "listed_count": 13,
+          "media_count": 246,
+          "tweet_count": 20759
+        },
+        "url": "",
+        "username": "honwing27",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-11T11:35:42.000Z",
+        "description": "yoho! i'm saba the fish! 🐟\n \nart: @shouu_kyun @shiina_2256 ・ live2d: @cillia\n#sabart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 77,
+                "tag": "sabart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shouu_kyun"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "shiina_2256"
+              },
+              {
+                "end": 76,
+                "start": 69,
+                "username": "cillia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SamekoSaba",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@SamekoSaba",
+                "start": 0,
+                "url": "https://t.co/ebEWFAXqg4"
+              }
+            ]
+          }
+        },
+        "id": "1878042789537275904",
+        "name": "saba 🐟",
+        "pinned_tweet_id": "1942731125039706400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939105308497854464/luA8qu03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624417,
+          "following_count": 44,
+          "like_count": 645,
+          "listed_count": 814,
+          "media_count": 60,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/ebEWFAXqg4",
+        "username": "samekosaba",
+        "verified": true
+      }
+    ]
+  }
+}

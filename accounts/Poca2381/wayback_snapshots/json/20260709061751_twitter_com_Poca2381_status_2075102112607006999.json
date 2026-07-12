@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2074711680760820008",
+    "created_at": "2026-07-09T06:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075102112607006999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075102112607006999",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074711680760820008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2074711680760820008",
+        "created_at": "2026-07-09T06:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075102112607006999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075102112607006999",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074711680760820008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993886755878191104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "2074711680760820008",
+        "created_at": "2026-07-08T04:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074711680760820008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Hi, my name is Shizheng Li. I’m a student photographer based in Sou… Shizheng Li needs your support for Help a Student Photographer Recover Stolen Camera Gear",
+              "display_url": "gofund.me/04b05bcf8",
+              "end": 93,
+              "expanded_url": "https://gofund.me/04b05bcf8",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074710851664371712/BzGf7boR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074710851664371712/BzGf7boR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 70,
+              "status": 200,
+              "title": "Donate to Help a Student Photographer Recover Stolen Camera Gear, organized by Shizheng Li",
+              "unwound_url": "https://www.gofundme.com/f/help-a-student-photographer-recover-stolen-camera-gear/cl/o?attribution_id=sl:89dae22e-222e-41c3-9855-3a645ff78bc1&lang=en_GB&ts=1783484145&utm_campaign=man_sharesheet_dash&utm_content=amp20_t1&utm_medium=customer&utm_source=copy_link",
+              "url": "https://t.co/VRhxUt41vV"
+            },
+            {
+              "display_url": "x.com/tokiseki_kurum…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/tokiseki_kurumi/status/2073666673308238181",
+              "start": 97,
+              "url": "https://t.co/xl4K3TLiM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074711680760820008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15639,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073666673308238181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开了一个众筹喵······\n咱的10万块钱直接没了\n约等于走路上被雷劈了\n孩子直接再也爬不起来了（\n不强求大伙捐赠 但是谢谢任何帮助···\nhttps://t.co/VRhxUt41vV\n哭了 https://t.co/xl4K3TLiM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22572,
+          "following_count": 9863,
+          "like_count": 153065,
+          "listed_count": 51,
+          "media_count": 5323,
+          "tweet_count": 53413
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g1990033159623422010/i28K3XoY5L",
+                "start": 0,
+                "url": "https://t.co/Jtngzd0IB3"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27159,
+          "following_count": 14869,
+          "like_count": 2741,
+          "listed_count": 78,
+          "media_count": 3055,
+          "tweet_count": 10037
+        },
+        "url": "https://t.co/Jtngzd0IB3",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      }
+    ]
+  }
+}

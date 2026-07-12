@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062594976266256384"
+      ],
+      "media_source_tweet_id": [
+        "2062595003390812239"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062709362741969032",
+    "created_at": "2026-06-05T01:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062709362741969032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "978964471304552448",
+          "start": 3,
+          "username": "Tendsal1"
+        },
+        {
+          "end": 40,
+          "id": "2036118061049409536",
+          "start": 31,
+          "username": "1cycok3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEMi23Rc4M",
+          "end": 64,
+          "expanded_url": "https://x.com/Tendsal1/status/2062595003390812239/video/1",
+          "media_key": "7_2062594976266256384",
+          "start": 41,
+          "url": "https://t.co/PEMi23Rc4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062709362741969032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062595003390812239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tendsal1: 胶+连体肉丝\n\n✋🏻&amp;📷：@1cycok3_ https://t.co/PEMi23Rc4M"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062709362741969032].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062709362741969032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062709362741969032"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8301,
+        "height": 1280,
+        "media_key": "7_2062594976266256384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062594976266256384/pu/img/uJoygTb1QqKTRKyo.jpg",
+        "public_metrics": {
+          "view_count": 415
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062594976266256384/pu/vid/avc1/320x568/iImt_S5ES_2G7Qqj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062594976266256384/pu/vid/avc1/480x852/V0nlGPIXFKFWpqt_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062594976266256384/pu/vid/avc1/720x1280/FnctugenUwtUrm8h.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062594976266256384/pu/pl/gWfs1Yg5jcwC_lZl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062594976266256384"
+          ]
+        },
+        "author_id": "978964471304552448",
+        "conversation_id": "2062595003390812239",
+        "created_at": "2026-06-04T17:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062595003390812239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2036118061049409536",
+              "start": 17,
+              "username": "1cycok3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEMi23Rc4M",
+              "end": 50,
+              "expanded_url": "https://x.com/Tendsal1/status/2062595003390812239/video/1",
+              "media_key": "7_2062594976266256384",
+              "start": 27,
+              "url": "https://t.co/PEMi23Rc4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062595003390812239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1059,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "胶+连体肉丝\n\n✋🏻&amp;📷：@1cycok3_ https://t.co/PEMi23Rc4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21378,
+          "following_count": 8890,
+          "like_count": 151686,
+          "listed_count": 51,
+          "media_count": 4559,
+          "tweet_count": 50344
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-28T11:58:13.000Z",
+        "description": "海鸥饲养员，常在广州出没",
+        "id": "978964471304552448",
+        "location": "Guangzhou",
+        "name": "小一",
+        "pinned_tweet_id": "2038934448620843109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059593718542544896/a7031QgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13195,
+          "following_count": 1246,
+          "like_count": 5458,
+          "listed_count": 79,
+          "media_count": 253,
+          "tweet_count": 2179
+        },
+        "username": "Tendsal1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T16:29:19.000Z",
+        "description": "我是可乐",
+        "id": "2036118061049409536",
+        "location": "肠粉国",
+        "name": "可乐_Add1ction",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036118539908894720/Brfy6buT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 142,
+          "like_count": 177,
+          "listed_count": 17,
+          "media_count": 52,
+          "tweet_count": 89
+        },
+        "username": "1cycok3_",
+        "verified": false
+      }
+    ]
+  }
+}

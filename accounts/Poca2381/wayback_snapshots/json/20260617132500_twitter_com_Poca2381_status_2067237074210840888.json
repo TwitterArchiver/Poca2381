@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067105421039640577"
+      ],
+      "media_source_tweet_id": [
+        "2067105434616672718"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2067237074210840888",
+    "created_at": "2026-06-17T13:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067237074210840888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kaZbN7jj3",
+          "end": 55,
+          "expanded_url": "https://x.com/RainEngine2024/status/2067105434616672718/photo/1",
+          "media_key": "3_2067105421039640577",
+          "start": 32,
+          "url": "https://t.co/1kaZbN7jj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067237074210840888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067105434616672718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024: 这段时间的一些个人感想 https://t.co/1kaZbN7jj3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1331,
+        "media_key": "3_2067105421039640577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_Vba5aIAEfs3K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067105421039640577"
+          ],
+          "media_source_tweet_id": [
+            "2067105434616672718"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2067237074210840888",
+        "created_at": "2026-06-17T13:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067237074210840888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kaZbN7jj3",
+              "end": 55,
+              "expanded_url": "https://x.com/RainEngine2024/status/2067105434616672718/photo/1",
+              "media_key": "3_2067105421039640577",
+              "start": 32,
+              "url": "https://t.co/1kaZbN7jj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067237074210840888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067105434616672718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024: 这段时间的一些个人感想 https://t.co/1kaZbN7jj3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067105421039640577"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2067105434616672718",
+        "created_at": "2026-06-17T04:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067105434616672718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kaZbN7jj3",
+              "end": 35,
+              "expanded_url": "https://x.com/RainEngine2024/status/2067105434616672718/photo/1",
+              "media_key": "3_2067105421039640577",
+              "start": 12,
+              "url": "https://t.co/1kaZbN7jj3"
+            },
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/2064877655737176123",
+              "start": 36,
+              "url": "https://t.co/UWnVR5YtLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067105434616672718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3722,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064877655737176123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这段时间的一些个人感想 https://t.co/1kaZbN7jj3 https://t.co/UWnVR5YtLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22021,
+          "following_count": 9435,
+          "like_count": 152331,
+          "listed_count": 52,
+          "media_count": 4871,
+          "tweet_count": 51732
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10527,
+          "following_count": 980,
+          "like_count": 95074,
+          "listed_count": 25,
+          "media_count": 1934,
+          "tweet_count": 13307
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

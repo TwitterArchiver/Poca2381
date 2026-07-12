@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064637103229779968"
+      ],
+      "media_source_tweet_id": [
+        "2064637125837144398"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064721749569347599",
+    "created_at": "2026-06-10T14:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064721749569347599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "991341169660510208",
+          "start": 3,
+          "username": "Suannaiyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A92du96DyH",
+          "end": 38,
+          "expanded_url": "https://x.com/Suannaiyg/status/2064637125837144398/video/1",
+          "media_key": "7_2064637103229779968",
+          "start": 15,
+          "url": "https://t.co/A92du96DyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064721749569347599",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064637125837144398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suannaiyg: https://t.co/A92du96DyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12492,
+        "height": 1280,
+        "media_key": "7_2064637103229779968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064637103229779968/pu/img/BKuVyVSglPg_zGtM.jpg",
+        "public_metrics": {
+          "view_count": 358
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064637103229779968/pu/vid/avc1/320x568/CQAcS7HZWtyPZe8d.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064637103229779968/pu/vid/avc1/480x852/Mnmi_B8ezQ3dk9dY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064637103229779968/pu/vid/avc1/720x1280/1u6N5UcdfDrAfm0p.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064637103229779968/pu/pl/kfy6KZVt5Svsd_vm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064637103229779968"
+          ],
+          "media_source_tweet_id": [
+            "2064637125837144398"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2064721749569347599",
+        "created_at": "2026-06-10T14:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064721749569347599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "991341169660510208",
+              "start": 3,
+              "username": "Suannaiyg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A92du96DyH",
+              "end": 38,
+              "expanded_url": "https://x.com/Suannaiyg/status/2064637125837144398/video/1",
+              "media_key": "7_2064637103229779968",
+              "start": 15,
+              "url": "https://t.co/A92du96DyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064721749569347599",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064637125837144398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suannaiyg: https://t.co/A92du96DyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064637103229779968"
+          ]
+        },
+        "author_id": "991341169660510208",
+        "conversation_id": "2064637125837144398",
+        "created_at": "2026-06-10T09:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064637125837144398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A92du96DyH",
+              "end": 23,
+              "expanded_url": "https://x.com/Suannaiyg/status/2064637125837144398/video/1",
+              "media_key": "7_2064637103229779968",
+              "start": 0,
+              "url": "https://t.co/A92du96DyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064637125837144398",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1741,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A92du96DyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21687,
+          "following_count": 9190,
+          "like_count": 152019,
+          "listed_count": 52,
+          "media_count": 4678,
+          "tweet_count": 51043
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-01T15:38:48.000Z",
+        "description": "杭州娃摄｜绿色账号",
+        "id": "991341169660510208",
+        "location": "杭州",
+        "name": "酸奶",
+        "pinned_tweet_id": "2002632261263634754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826405338226327556/W95uS1DY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10964,
+          "following_count": 481,
+          "like_count": 4503,
+          "listed_count": 67,
+          "media_count": 223,
+          "tweet_count": 1165
+        },
+        "username": "Suannaiyg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066765152855474176"
+      ],
+      "media_source_tweet_id": [
+        "2066770775781363998"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      }
+    ],
+    "conversation_id": "2066891771972555049",
+    "created_at": "2026-06-16T14:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066891771972555049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1356507026096943107",
+          "start": 3,
+          "username": "am040305"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vdRLAG1eV4",
+          "end": 67,
+          "expanded_url": "https://x.com/am040305/status/2066770775781363998/video/1",
+          "media_key": "13_2066765152855474176",
+          "start": 44,
+          "url": "https://t.co/vdRLAG1eV4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066891771972555049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066770775781363998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @am040305: 被黑色皮膚緊緊包裹的Mortis(磁小軌cos\nooc致歉 https://t.co/vdRLAG1eV4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17685,
+        "height": 3840,
+        "media_key": "13_2066765152855474176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066765152855474176/img/AG7NHPRi3XY3Z5AG.jpg",
+        "public_metrics": {
+          "view_count": 498
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066765152855474176/vid/avc1/2160x3840/lYHGHVikrovA8ILh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066765152855474176/vid/avc1/480x852/u6uHnXb2pYDmetQF.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066765152855474176/vid/avc1/320x568/BYPcp01Die_XcsGQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066765152855474176/vid/avc1/1080x1920/nvWRI1bCthVe7G-x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066765152855474176/vid/avc1/720x1280/MzgA4A5yCqmq7VQ4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066765152855474176/pl/vJi4dbnNuvF8yXnW.m3u8?v=cfc"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066765152855474176"
+          ],
+          "media_source_tweet_id": [
+            "2066770775781363998"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          }
+        ],
+        "conversation_id": "2066891771972555049",
+        "created_at": "2026-06-16T14:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066891771972555049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1356507026096943107",
+              "start": 3,
+              "username": "am040305"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdRLAG1eV4",
+              "end": 67,
+              "expanded_url": "https://x.com/am040305/status/2066770775781363998/video/1",
+              "media_key": "13_2066765152855474176",
+              "start": 44,
+              "url": "https://t.co/vdRLAG1eV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066891771972555049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066770775781363998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @am040305: 被黑色皮膚緊緊包裹的Mortis(磁小軌cos\nooc致歉 https://t.co/vdRLAG1eV4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066765152855474176"
+          ]
+        },
+        "author_id": "1356507026096943107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          }
+        ],
+        "conversation_id": "2066770775781363998",
+        "created_at": "2026-06-16T06:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:10:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066765383294648482",
+          "2066770775781363998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdRLAG1eV4",
+              "end": 53,
+              "expanded_url": "https://x.com/am040305/status/2066770775781363998/video/1",
+              "media_key": "13_2066765152855474176",
+              "start": 30,
+              "url": "https://t.co/vdRLAG1eV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066770775781363998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 1723,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "被黑色皮膚緊緊包裹的Mortis(磁小軌cos\nooc致歉 https://t.co/vdRLAG1eV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21971,
+          "following_count": 9405,
+          "like_count": 152303,
+          "listed_count": 52,
+          "media_count": 4857,
+          "tweet_count": 51674
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-02T07:37:38.000Z",
+        "description": "对了，我叫阿卡，我也经常来这里玩，他们都叫我卡子哥。 你愿意和我玩一辈子赛马娘吗？",
+        "id": "1356507026096943107",
+        "location": "shanghai",
+        "name": "ななeureka77➡️ウマ娘7th双日",
+        "pinned_tweet_id": "2042981058346651832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056041648128471041/cR5Iba4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13555,
+          "following_count": 2997,
+          "like_count": 26125,
+          "listed_count": 52,
+          "media_count": 360,
+          "tweet_count": 4898
+        },
+        "username": "am040305",
+        "verified": true
+      }
+    ]
+  }
+}

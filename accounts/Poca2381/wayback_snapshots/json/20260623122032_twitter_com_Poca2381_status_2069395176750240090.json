@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069362960104124416",
+        "13_2069363470571847680",
+        "13_2069363540356718592"
+      ],
+      "media_source_tweet_id": [
+        "2069363833299403126",
+        "2069363833299403126",
+        "2069363833299403126"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069395176750240090",
+    "created_at": "2026-06-23T12:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069395176750240090"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "有鸟知更"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604687020286423040",
+          "start": 3,
+          "username": "shiyueyueshi"
+        },
+        {
+          "end": 61,
+          "id": "1724424691182366720",
+          "start": 49,
+          "username": "Asperatus99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/26mD0UOahr",
+          "end": 92,
+          "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+          "media_key": "3_2069362960104124416",
+          "start": 69,
+          "url": "https://t.co/26mD0UOahr"
+        },
+        {
+          "display_url": "pic.x.com/26mD0UOahr",
+          "end": 92,
+          "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+          "media_key": "13_2069363470571847680",
+          "start": 69,
+          "url": "https://t.co/26mD0UOahr"
+        },
+        {
+          "display_url": "pic.x.com/26mD0UOahr",
+          "end": 92,
+          "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+          "media_key": "13_2069363540356718592",
+          "start": 69,
+          "url": "https://t.co/26mD0UOahr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069395176750240090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069363833299403126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyueyueshi: 老板说要360°展示产品细节\n我：🤔🤔🤔，💡✨\n胯部拘束带： @Asperatus99 \n#有鸟知更 https://t.co/26mD0UOahr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069362960104124416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfapfRbcAARt0i.jpg",
+        "width": 2730
+      },
+      {
+        "duration_ms": 10754,
+        "height": 1280,
+        "media_key": "13_2069363470571847680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069363470571847680/img/-mNa3c5rxCvVdHWM.jpg",
+        "public_metrics": {
+          "view_count": 1322
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069363470571847680/vid/avc1/320x568/29LbPYKc4v2dGPnW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069363470571847680/vid/avc1/480x852/YXxekzgsq_F-23SL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069363470571847680/vid/avc1/720x1280/QkPZ9GtYSaB0yowq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069363470571847680/pl/hr-fECU_9RVaskvA.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 71854,
+        "height": 1280,
+        "media_key": "13_2069363540356718592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069363540356718592/img/P3e-f_Jjh9g4Bu7V.jpg",
+        "public_metrics": {
+          "view_count": 338
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069363540356718592/vid/avc1/320x568/QUhVnBGTT199Dp3_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069363540356718592/vid/avc1/480x852/hbs3BpVYKFyp8vTB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069363540356718592/vid/avc1/720x1280/oV-eHXd8Y_mq8tm0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069363540356718592/pl/kYMTcUo0ytzOXkC1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069362960104124416",
+            "13_2069363470571847680",
+            "13_2069363540356718592"
+          ],
+          "media_source_tweet_id": [
+            "2069363833299403126",
+            "2069363833299403126",
+            "2069363833299403126"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069395176750240090",
+        "created_at": "2026-06-23T12:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069395176750240090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "有鸟知更"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604687020286423040",
+              "start": 3,
+              "username": "shiyueyueshi"
+            },
+            {
+              "end": 61,
+              "id": "1724424691182366720",
+              "start": 49,
+              "username": "Asperatus99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/26mD0UOahr",
+              "end": 92,
+              "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+              "media_key": "3_2069362960104124416",
+              "start": 69,
+              "url": "https://t.co/26mD0UOahr"
+            },
+            {
+              "display_url": "pic.x.com/26mD0UOahr",
+              "end": 92,
+              "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+              "media_key": "13_2069363470571847680",
+              "start": 69,
+              "url": "https://t.co/26mD0UOahr"
+            },
+            {
+              "display_url": "pic.x.com/26mD0UOahr",
+              "end": 92,
+              "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+              "media_key": "13_2069363540356718592",
+              "start": 69,
+              "url": "https://t.co/26mD0UOahr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069395176750240090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069363833299403126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiyueyueshi: 老板说要360°展示产品细节\n我：🤔🤔🤔，💡✨\n胯部拘束带： @Asperatus99 \n#有鸟知更 https://t.co/26mD0UOahr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069362960104124416",
+            "13_2069363470571847680",
+            "13_2069363540356718592"
+          ]
+        },
+        "author_id": "1604687020286423040",
+        "conversation_id": "2069363833299403126",
+        "created_at": "2026-06-23T10:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069363833299403126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "有鸟知更"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1724424691182366720",
+              "start": 31,
+              "username": "Asperatus99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/26mD0UOahr",
+              "end": 74,
+              "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+              "media_key": "3_2069362960104124416",
+              "start": 51,
+              "url": "https://t.co/26mD0UOahr"
+            },
+            {
+              "display_url": "pic.x.com/26mD0UOahr",
+              "end": 74,
+              "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+              "media_key": "13_2069363470571847680",
+              "start": 51,
+              "url": "https://t.co/26mD0UOahr"
+            },
+            {
+              "display_url": "pic.x.com/26mD0UOahr",
+              "end": 74,
+              "expanded_url": "https://x.com/shiyueyueshi/status/2069363833299403126/video/1",
+              "media_key": "13_2069363540356718592",
+              "start": 51,
+              "url": "https://t.co/26mD0UOahr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069363833299403126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 3920,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "老板说要360°展示产品细节\n我：🤔🤔🤔，💡✨\n胯部拘束带： @Asperatus99 \n#有鸟知更 https://t.co/26mD0UOahr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22225,
+          "following_count": 9568,
+          "like_count": 152584,
+          "listed_count": 52,
+          "media_count": 5013,
+          "tweet_count": 52251
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T03:56:27.000Z",
+        "description": "INTP-T|抖M|看见可爱的会变得S|XP复合体,清水摄摄捆绑拘束全包tk胶衣kig三坑各种小裙子，全都喜欢，拒绝脏、残、伤害性.kig角色：甘雨绫华梦梦符玄刻晴神子今汐千织深渊荧女漂丝柯克知更鸟",
+        "id": "1604687020286423040",
+        "location": "深圳",
+        "name": "时月",
+        "pinned_tweet_id": "2069363833299403126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629386052447395840/HWXPq8-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54331,
+          "following_count": 677,
+          "like_count": 3237,
+          "listed_count": 209,
+          "media_count": 471,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "shiyueyueshi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T13:51:17.000Z",
+        "description": "原创成人情趣品牌，业务涵盖顶级/普通皮具、CB锁、辅助带及SM相关道具的设计和制造\nTB搜索：有鸟知更\n欢迎推广自荐、欢迎商务合作（握手~\n因爱相生，有鸟知更",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/FZRobin",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/FZRobin",
+                "start": 0,
+                "url": "https://t.co/xo1bQqrLW4"
+              }
+            ]
+          }
+        },
+        "id": "1724424691182366720",
+        "location": "山东/青岛",
+        "name": "有鸟知更官推",
+        "pinned_tweet_id": "2067132657704772039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764839183611498496/BCSFig4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17329,
+          "following_count": 338,
+          "like_count": 670,
+          "listed_count": 41,
+          "media_count": 79,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/xo1bQqrLW4",
+        "username": "Asperatus99",
+        "verified": true
+      }
+    ]
+  }
+}

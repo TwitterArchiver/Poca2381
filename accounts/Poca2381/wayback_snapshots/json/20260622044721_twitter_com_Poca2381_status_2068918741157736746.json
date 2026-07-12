@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2068918077182673031",
+    "created_at": "2026-06-22T04:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068918741157736746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1148070145564086273",
+          "start": 0,
+          "username": "__Linsen__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068918741157736746",
+    "in_reply_to_user_id": "1148070145564086273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068918607535591891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Linsen__ 也许算是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068918077182673031",
+        "created_at": "2026-06-22T04:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068918741157736746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1148070145564086273",
+              "start": 0,
+              "username": "__Linsen__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068918741157736746",
+        "in_reply_to_user_id": "1148070145564086273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068918607535591891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Linsen__ 也许算是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1148070145564086273",
+        "conversation_id": "2068918077182673031",
+        "created_at": "2026-06-22T04:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068918607535591891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068918607535591891",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068918077182673031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 原来您是环境人呐(惊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22138,
+          "following_count": 9528,
+          "like_count": 152490,
+          "listed_count": 52,
+          "media_count": 4978,
+          "tweet_count": 52080
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-08T03:23:47.000Z",
+        "description": "ESTP丨点赞不代表个人意见丨深渊巨兽的喃喃自语丨国家级花式退堂鼓表演家丨显而易见我是很笨的AI丨选择性互关 Mutual Follow丨高数，难难捏丨my 挚友 @ASeriesOfCloud丨请允许我像蟒蛇一样食用您吧 @Broca_Phenol丨天啊！是绝美正太！！看我prpr！！！ @Lutheia_Chaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "ASeriesOfCloud"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "Broca_Phenol"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Lutheia_Chaw"
+              }
+            ]
+          }
+        },
+        "id": "1148070145564086273",
+        "name": "未 来 遗 产",
+        "pinned_tweet_id": "1326526514423189504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357739775399063554/aQImCs1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1328,
+          "like_count": 78425,
+          "listed_count": 5,
+          "media_count": 830,
+          "tweet_count": 34138
+        },
+        "url": "",
+        "username": "__Linsen__",
+        "verified": false
+      }
+    ]
+  }
+}

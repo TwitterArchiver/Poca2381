@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061794002605920256"
+      ],
+      "media_source_tweet_id": [
+        "2061794300397269392"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069311052802843121",
+    "created_at": "2026-06-23T06:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069311052802843121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1618078379034693633",
+          "start": 3,
+          "username": "sunyunran"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7FyVrrzBkh",
+          "end": 60,
+          "expanded_url": "https://x.com/sunyunran/status/2061794300397269392/video/1",
+          "media_key": "13_2061794002605920256",
+          "start": 37,
+          "url": "https://t.co/7FyVrrzBkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069311052802843121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 376
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061794300397269392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sunyunran: 这就是文字的力量吗，台湾这公益广告太厉害了 https://t.co/7FyVrrzBkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50733,
+        "height": 1152,
+        "media_key": "13_2061794002605920256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061794002605920256/img/vu92Dhf3MEVn1ntT.jpg",
+        "public_metrics": {
+          "view_count": 544002
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061794002605920256/vid/avc1/320x512/ngFtcipQyFb26x2s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061794002605920256/vid/avc1/480x768/JAnyxFX9GKXWI1GX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061794002605920256/vid/avc1/720x1152/umP-MVfqRGY3C0u5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061794002605920256/pl/JxuCwL10akNxdRx1.m3u8?v=053"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061794002605920256"
+          ],
+          "media_source_tweet_id": [
+            "2061794300397269392"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069311052802843121",
+        "created_at": "2026-06-23T06:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069311052802843121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1618078379034693633",
+              "start": 3,
+              "username": "sunyunran"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FyVrrzBkh",
+              "end": 60,
+              "expanded_url": "https://x.com/sunyunran/status/2061794300397269392/video/1",
+              "media_key": "13_2061794002605920256",
+              "start": 37,
+              "url": "https://t.co/7FyVrrzBkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069311052802843121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061794300397269392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sunyunran: 这就是文字的力量吗，台湾这公益广告太厉害了 https://t.co/7FyVrrzBkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061794002605920256"
+          ]
+        },
+        "author_id": "1618078379034693633",
+        "conversation_id": "2061794300397269392",
+        "created_at": "2026-06-02T12:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061794300397269392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FyVrrzBkh",
+              "end": 45,
+              "expanded_url": "https://x.com/sunyunran/status/2061794300397269392/video/1",
+              "media_key": "13_2061794002605920256",
+              "start": 22,
+              "url": "https://t.co/7FyVrrzBkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061794300397269392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1151,
+          "impression_count": 878418,
+          "like_count": 5716,
+          "quote_count": 8,
+          "reply_count": 369,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "这就是文字的力量吗，台湾这公益广告太厉害了 https://t.co/7FyVrrzBkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22208,
+          "following_count": 9562,
+          "like_count": 152563,
+          "listed_count": 52,
+          "media_count": 5003,
+          "tweet_count": 52213
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-25T02:48:59.000Z",
+        "description": "Artemis Ventures 亚太区BD | 项目投资孵化 | 热爱生活💕 | 商务合作DM & TG：ranyunsun｜唯一微信：Zz1515cute",
+        "id": "1618078379034693633",
+        "name": "孙云冉.eth",
+        "pinned_tweet_id": "1826859413321515369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771377117475008512/L1-TuUSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36247,
+          "following_count": 2546,
+          "like_count": 5365,
+          "listed_count": 114,
+          "media_count": 1170,
+          "tweet_count": 6514
+        },
+        "url": "",
+        "username": "sunyunran",
+        "verified": true
+      }
+    ]
+  }
+}

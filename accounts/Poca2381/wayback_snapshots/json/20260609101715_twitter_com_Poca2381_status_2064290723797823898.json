@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2059935256640450560"
+      ],
+      "media_source_tweet_id": [
+        "2059935308389786034"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064290723797823898",
+    "created_at": "2026-06-09T10:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064290723797823898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1767095017401896960",
+          "start": 3,
+          "username": "fat_goosewalker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGyK4qkqFZ",
+          "end": 44,
+          "expanded_url": "https://x.com/fat_goosewalker/status/2059935308389786034/video/1",
+          "media_key": "7_2059935256640450560",
+          "start": 21,
+          "url": "https://t.co/TGyK4qkqFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064290723797823898",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059935308389786034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fat_goosewalker: https://t.co/TGyK4qkqFZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064290723797823898].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064290723797823898",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064290723797823898"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32466,
+        "height": 720,
+        "media_key": "7_2059935256640450560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059935256640450560/pu/img/To_AlcVk4SOIPWiV.jpg",
+        "public_metrics": {
+          "view_count": 749
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059935256640450560/pu/vid/avc1/480x270/vjQiLgbOv3DVjhgQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059935256640450560/pu/vid/avc1/640x360/7Zqp3KTHULnTTK4M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059935256640450560/pu/vid/avc1/1280x720/aV18_zgtPuFYrdKF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059935256640450560/pu/pl/VggE79A2XvYmOZp6.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059935256640450560"
+          ]
+        },
+        "author_id": "1767095017401896960",
+        "conversation_id": "2059935308389786034",
+        "created_at": "2026-05-28T09:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059935308389786034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGyK4qkqFZ",
+              "end": 23,
+              "expanded_url": "https://x.com/fat_goosewalker/status/2059935308389786034/video/1",
+              "media_key": "7_2059935256640450560",
+              "start": 0,
+              "url": "https://t.co/TGyK4qkqFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059935308389786034",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 2410,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TGyK4qkqFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21645,
+          "following_count": 9142,
+          "like_count": 151955,
+          "listed_count": 52,
+          "media_count": 4654,
+          "tweet_count": 50906
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T07:47:46.000Z",
+        "description": "111，1231",
+        "id": "1767095017401896960",
+        "location": "Hong Kong",
+        "name": "肥美的大母鹅",
+        "pinned_tweet_id": "1957835350023500279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962546389281579008/_s8f0Lv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 280,
+          "like_count": 942,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 145
+        },
+        "username": "fat_goosewalker",
+        "verified": false
+      }
+    ]
+  }
+}

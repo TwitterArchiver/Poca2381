@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065487661863694610",
+    "created_at": "2026-06-12T21:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T22:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065540964052287688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996177553422520320",
+          "start": 0,
+          "username": "AydenW42638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065540964052287688",
+    "in_reply_to_user_id": "1996177553422520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065538890018992597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AydenW42638 啊这"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2065487661863694610",
+        "created_at": "2026-06-12T21:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065540964052287688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996177553422520320",
+              "start": 0,
+              "username": "AydenW42638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065540964052287688",
+        "in_reply_to_user_id": "1996177553422520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065538890018992597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AydenW42638 啊这"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996177553422520320",
+        "conversation_id": "2065487661863694610",
+        "created_at": "2026-06-12T20:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065538890018992597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065538890018992597",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065487661863694610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 你妹给我培养培养往地雷妹方向发展咪，加油咪下一个一滴泪就可以是她啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21782,
+          "following_count": 9283,
+          "like_count": 152155,
+          "listed_count": 52,
+          "media_count": 4776,
+          "tweet_count": 51346
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-03T11:20:00.000Z",
+        "description": "Eng/福州话/男娘~/🚪88/已成年所有发布内容均自愿/主号@nekostar114/老公@Bunnynekoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "nekostar114"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Bunnynekoyo"
+              }
+            ]
+          }
+        },
+        "id": "1996177553422520320",
+        "name": "web/nekostar（2.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048418455985242112/CfKMqUUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 92,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 107
+        },
+        "username": "AydenW42638",
+        "verified": true
+      }
+    ]
+  }
+}

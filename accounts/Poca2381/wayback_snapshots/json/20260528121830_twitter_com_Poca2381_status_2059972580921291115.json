@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2059616047175745738",
+    "created_at": "2026-05-28T12:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059972580921291115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862455915217391616",
+          "start": 0,
+          "username": "MiaoMei49439"
+        },
+        {
+          "end": 28,
+          "id": "1876169000104964097",
+          "start": 14,
+          "username": "MagicDoll1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059972580921291115",
+    "in_reply_to_user_id": "1862455915217391616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059616047175745738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoMei49439 @MagicDoll1208 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059616038028038144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU539Bb0AAcdI7.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2059616047175745738",
+        "created_at": "2026-05-28T12:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059972580921291115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862455915217391616",
+              "start": 0,
+              "username": "MiaoMei49439"
+            },
+            {
+              "end": 28,
+              "id": "1876169000104964097",
+              "start": 14,
+              "username": "MagicDoll1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059972580921291115",
+        "in_reply_to_user_id": "1862455915217391616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059616047175745738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoMei49439 @MagicDoll1208 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059616038028038144"
+          ]
+        },
+        "author_id": "1862455915217391616",
+        "conversation_id": "2059616047175745738",
+        "created_at": "2026-05-27T12:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059616047175745738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1876169000104964097",
+              "start": 8,
+              "username": "MagicDoll1208"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fj9wiNS9Gf",
+              "end": 63,
+              "expanded_url": "https://x.com/MiaoMei49439/status/2059616047175745738/photo/1",
+              "media_key": "3_2059616038028038144",
+              "start": 40,
+              "url": "https://t.co/fj9wiNS9Gf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059616047175745738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1696,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "先发一张\n头壳：@MagicDoll1208 \n#kigurumi #着ぐるみ https://t.co/fj9wiNS9Gf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21039,
+          "following_count": 8527,
+          "like_count": 151247,
+          "listed_count": 51,
+          "media_count": 4413,
+          "tweet_count": 49574
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-29T11:18:04.000Z",
+        "description": "这个人很懒，什么都没有写…",
+        "id": "1862455915217391616",
+        "name": "祈雨末希",
+        "pinned_tweet_id": "1916417280994680921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984867501285785601/CuMMn9lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 115,
+          "like_count": 8397,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 60
+        },
+        "username": "MiaoMei49439",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T07:28:54.000Z",
+        "description": "We accept custom orders for kigurumi, and welcome inquiries for customization.😎\nOur store\nhttps://t.co/PbgCcBSZdM\n\n魔界工坊官号，接受各种角色委托😉\nqq群:793242071",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.73BDiObX12au…",
+                "end": 113,
+                "expanded_url": "https://m.tb.cn/h.73BDiObX12auhmW",
+                "start": 90,
+                "url": "https://t.co/PbgCcBSZdM"
+              }
+            ]
+          }
+        },
+        "id": "1876169000104964097",
+        "name": "魔界工坊MagicDoll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876567869980606464/8z1dkLgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 20,
+          "like_count": 45,
+          "listed_count": 17,
+          "media_count": 44,
+          "tweet_count": 63
+        },
+        "username": "MagicDoll1208",
+        "verified": false
+      }
+    ]
+  }
+}

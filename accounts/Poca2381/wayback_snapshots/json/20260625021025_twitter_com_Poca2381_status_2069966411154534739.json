@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069623800048889918",
+    "created_at": "2026-06-25T02:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069966411154534739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1105416488989552641",
+          "start": 0,
+          "username": "yuluo67137673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069966411154534739",
+    "in_reply_to_user_id": "1105416488989552641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069623800048889918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluo67137673 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069619740948185088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjEMGdaQAAPCvx.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2069619740986036224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjEMGmb0AAECoW.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2069619741132500992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjEMHJWsAAs6wW.jpg",
+        "width": 2833
+      },
+      {
+        "height": 2718,
+        "media_key": "3_2069619740944003072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjEMGcacAAjuWL.jpg",
+        "width": 4077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069623800048889918",
+        "created_at": "2026-06-25T02:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069966411154534739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1105416488989552641",
+              "start": 0,
+              "username": "yuluo67137673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069966411154534739",
+        "in_reply_to_user_id": "1105416488989552641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069623800048889918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluo67137673 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069619740948185088",
+            "3_2069619740986036224",
+            "3_2069619741132500992",
+            "3_2069619740944003072"
+          ]
+        },
+        "author_id": "1105416488989552641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2069623800048889918",
+        "created_at": "2026-06-24T03:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069623800048889918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "初音未来"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnahwNvFIn",
+              "end": 82,
+              "expanded_url": "https://x.com/yuluo67137673/status/2069623800048889918/photo/1",
+              "media_key": "3_2069619740948185088",
+              "start": 59,
+              "url": "https://t.co/gnahwNvFIn"
+            },
+            {
+              "display_url": "pic.x.com/gnahwNvFIn",
+              "end": 82,
+              "expanded_url": "https://x.com/yuluo67137673/status/2069623800048889918/photo/1",
+              "media_key": "3_2069619740986036224",
+              "start": 59,
+              "url": "https://t.co/gnahwNvFIn"
+            },
+            {
+              "display_url": "pic.x.com/gnahwNvFIn",
+              "end": 82,
+              "expanded_url": "https://x.com/yuluo67137673/status/2069623800048889918/photo/1",
+              "media_key": "3_2069619741132500992",
+              "start": 59,
+              "url": "https://t.co/gnahwNvFIn"
+            },
+            {
+              "display_url": "pic.x.com/gnahwNvFIn",
+              "end": 82,
+              "expanded_url": "https://x.com/yuluo67137673/status/2069623800048889918/photo/1",
+              "media_key": "3_2069619740944003072",
+              "start": 59,
+              "url": "https://t.co/gnahwNvFIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069623800048889918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 5272,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "也不能天天发重口味的😂偶尔也要发点小清新的，来点蓝白碗吧😏😏 ＃初音未来 #初音ミク ＃kigurumi #着ぐるみ https://t.co/gnahwNvFIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22288,
+          "following_count": 9619,
+          "like_count": 152645,
+          "listed_count": 52,
+          "media_count": 5039,
+          "tweet_count": 52379
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-12T10:33:23.000Z",
+        "description": "签约Kiger，自由音乐人，鼓手，ASFR爱好者，Daz3D初学者。\nFANBOX https://t.co/7nkRIypW3n\nPixiv https://t.co/B8eGE2qIHt\n国内扩列请私聊",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "raindrop2.fanbox.cc",
+                "end": 65,
+                "expanded_url": "https://raindrop2.fanbox.cc/",
+                "start": 42,
+                "url": "https://t.co/7nkRIypW3n"
+              },
+              {
+                "display_url": "pixiv.net/users/21290621",
+                "end": 95,
+                "expanded_url": "https://www.pixiv.net/users/21290621",
+                "start": 72,
+                "url": "https://t.co/B8eGE2qIHt"
+              }
+            ]
+          }
+        },
+        "id": "1105416488989552641",
+        "location": "台北 ",
+        "name": "雨洛是咩咩喔",
+        "pinned_tweet_id": "2066546701821939838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060179995704926208/pJC3Flds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9293,
+          "following_count": 746,
+          "like_count": 3037,
+          "listed_count": 53,
+          "media_count": 428,
+          "tweet_count": 2101
+        },
+        "url": "",
+        "username": "yuluo67137673",
+        "verified": false
+      }
+    ]
+  }
+}

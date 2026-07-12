@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2054152946322129256",
+    "created_at": "2026-05-13T08:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054477670499704863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "964420412296740864",
+          "start": 0,
+          "username": "HM_60kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054477670499704863",
+    "in_reply_to_user_id": "964420412296740864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054152946322129256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HM_60kg 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054152941041573888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHRN20bYAA4Q-p.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2054152946322129256",
+        "created_at": "2026-05-13T08:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054477670499704863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "964420412296740864",
+              "start": 0,
+              "username": "HM_60kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054477670499704863",
+        "in_reply_to_user_id": "964420412296740864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054152946322129256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HM_60kg 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054152941041573888"
+          ]
+        },
+        "author_id": "964420412296740864",
+        "conversation_id": "2054152946322129256",
+        "created_at": "2026-05-12T10:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054152946322129256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LduLbd0WmC",
+              "end": 32,
+              "expanded_url": "https://x.com/HM_60kg/status/2054152946322129256/photo/1",
+              "media_key": "3_2054152941041573888",
+              "start": 9,
+              "url": "https://t.co/LduLbd0WmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054152946322129256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10523,
+          "like_count": 306,
+          "quote_count": 0,
+          "reply_count": 95,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "祝自己生日快乐🎂 https://t.co/LduLbd0WmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20365,
+          "following_count": 7829,
+          "like_count": 150482,
+          "listed_count": 49,
+          "media_count": 4132,
+          "tweet_count": 48240
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T08:45:19.000Z",
+        "description": "kigurumi 🎭スケールモデル 🚂鉄道模型 雑多な趣味垢 💍 @53__kg 裏@ura214166802hm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 33,
+                "username": "53__kg"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "ura214166802hm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/544218",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/544218",
+                "start": 0,
+                "url": "https://t.co/VM88bOf5Ss"
+              }
+            ]
+          }
+        },
+        "id": "964420412296740864",
+        "location": "Tokyo-to, Japan",
+        "name": "H&M",
+        "pinned_tweet_id": "2005525345861357709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876890642439450624/8hIF1oi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19049,
+          "following_count": 2193,
+          "like_count": 23334,
+          "listed_count": 103,
+          "media_count": 120,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/VM88bOf5Ss",
+        "username": "HM_60kg",
+        "verified": true
+      }
+    ]
+  }
+}

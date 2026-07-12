@@ -1,0 +1,711 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2059272622668706096",
+    "created_at": "2026-05-26T13:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059272622668706096"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 106,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 121,
+          "start": 116,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 139,
+          "start": 129,
+          "tag": "Arknights"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930813272",
+          "start": 3,
+          "username": "CowX3XD"
+        },
+        {
+          "end": 63,
+          "id": "1465623806723387392",
+          "start": 52,
+          "username": "HiDolls_mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059272622668706096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055147771536216101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CowX3XD: “阳光正好，一起出门散步吧。”\n\nP1-P2 📷: Magical蛋蛋\n🎭: @HiDolls_mm \n\n同时特别感谢蛋蛋在五一期间提前准备的超级大惊喜🎂🎂🎂\n\n祝自己生日快乐！！！\n\n#kigurumi #着ぐるみ \n#明日方舟 #Arknights…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_2055147746211094528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVZ_I3bYAAOmUm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1358,
+        "media_key": "3_2055147746408210432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVZ_JmbIAAsQnr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2055147746475270144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVZ_J2aYAALyZ3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2055147745942626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVZ_H3a4AAdwuV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2059272622668706096",
+        "created_at": "2026-05-26T13:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059272622668706096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 106,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 139,
+              "start": 129,
+              "tag": "Arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930813272",
+              "start": 3,
+              "username": "CowX3XD"
+            },
+            {
+              "end": 63,
+              "id": "1465623806723387392",
+              "start": 52,
+              "username": "HiDolls_mm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059272622668706096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055147771536216101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CowX3XD: “阳光正好，一起出门散步吧。”\n\nP1-P2 📷: Magical蛋蛋\n🎭: @HiDolls_mm \n\n同时特别感谢蛋蛋在五一期间提前准备的超级大惊喜🎂🎂🎂\n\n祝自己生日快乐！！！\n\n#kigurumi #着ぐるみ \n#明日方舟 #Arknights…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055147746211094528",
+            "3_2055147746408210432",
+            "3_2055147746475270144",
+            "3_2055147745942626304"
+          ]
+        },
+        "author_id": "1930813272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2055147771536216101",
+        "created_at": "2026-05-15T04:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055147771536216101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 93,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 126,
+              "start": 116,
+              "tag": "Arknights"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "澄闪"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 50,
+              "id": "1465623806723387392",
+              "start": 39,
+              "username": "HiDolls_mm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2BRaBFKdk",
+              "end": 154,
+              "expanded_url": "https://x.com/CowX3XD/status/2055147771536216101/photo/1",
+              "media_key": "3_2055147746211094528",
+              "start": 131,
+              "url": "https://t.co/Z2BRaBFKdk"
+            },
+            {
+              "display_url": "pic.x.com/Z2BRaBFKdk",
+              "end": 154,
+              "expanded_url": "https://x.com/CowX3XD/status/2055147771536216101/photo/1",
+              "media_key": "3_2055147746408210432",
+              "start": 131,
+              "url": "https://t.co/Z2BRaBFKdk"
+            },
+            {
+              "display_url": "pic.x.com/Z2BRaBFKdk",
+              "end": 154,
+              "expanded_url": "https://x.com/CowX3XD/status/2055147771536216101/photo/1",
+              "media_key": "3_2055147746475270144",
+              "start": 131,
+              "url": "https://t.co/Z2BRaBFKdk"
+            },
+            {
+              "display_url": "pic.x.com/Z2BRaBFKdk",
+              "end": 154,
+              "expanded_url": "https://x.com/CowX3XD/status/2055147771536216101/photo/1",
+              "media_key": "3_2055147745942626304",
+              "start": 131,
+              "url": "https://t.co/Z2BRaBFKdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055147771536216101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4095,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "“阳光正好，一起出门散步吧。”\n\nP1-P2 📷: Magical蛋蛋\n🎭: @HiDolls_mm \n\n同时特别感谢蛋蛋在五一期间提前准备的超级大惊喜🎂🎂🎂\n\n祝自己生日快乐！！！\n\n#kigurumi #着ぐるみ \n#明日方舟 #Arknights #澄闪 https://t.co/Z2BRaBFKdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20970,
+          "following_count": 8470,
+          "like_count": 151162,
+          "listed_count": 51,
+          "media_count": 4376,
+          "tweet_count": 49410
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-03T14:03:18.000Z",
+        "description": "咕咕一时爽 一直咕咕一直爽 ‖ kigurumi新人 ‖ 角色: 澄闪 ‖ 常驻广西南宁 ‖ 轻度社恐 不善言语 ‖ 优先在b站更新动态",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/10406554",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/10406554",
+                "start": 0,
+                "url": "https://t.co/bQLhr2NZ9D"
+              }
+            ]
+          }
+        },
+        "id": "1930813272",
+        "name": "小呆_只做咸鱼",
+        "pinned_tweet_id": "1919733678542094375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831366351048388608/cUnvkx6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 378,
+          "like_count": 6965,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/bQLhr2NZ9D",
+        "username": "CowX3XD",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T10:08:52.000Z",
+        "description": "这里是HaiDolls官方娘【红豆泥】🍓\n头壳来图定制 | kig皮定制 | 二次元\n感谢宝宝们支持～欢迎加入粉丝群一起玩：797526151\n定制请戳淘宝：HiDolls\n\nフォローありがとう！次元の壁を突破して、かわいい着ぐるみになろう♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop262915540.taobao.com/shop/view_shop…",
+                "end": 23,
+                "expanded_url": "https://shop262915540.taobao.com/shop/view_shop.htm?2201307150552",
+                "start": 0,
+                "url": "https://t.co/Ehc4YxFOjo"
+              }
+            ]
+          }
+        },
+        "id": "1465623806723387392",
+        "name": "HaiDolls",
+        "pinned_tweet_id": "2046133622089130372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838028454576713728/pHiUjrfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10040,
+          "following_count": 118,
+          "like_count": 2810,
+          "listed_count": 88,
+          "media_count": 1358,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/Ehc4YxFOjo",
+        "username": "HiDolls_mm",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070740944304128000"
+      ],
+      "media_source_tweet_id": [
+        "2070740947458228583"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2070839818133913641",
+    "created_at": "2026-06-27T12:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070839818133913641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412447636829839362",
+          "start": 3,
+          "username": "kaicecedeya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pGuLFWrpkv",
+          "end": 69,
+          "expanded_url": "https://x.com/kaicecedeya/status/2070740947458228583/photo/1",
+          "media_key": "3_2070740944304128000",
+          "start": 46,
+          "url": "https://t.co/pGuLFWrpkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070839818133913641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070740947458228583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaicecedeya: 男的来的，一股味，戴个头套真把自己当女生了（bushi） https://t.co/pGuLFWrpkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070740944304128000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy_6ucawAAHnJj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070740944304128000"
+          ],
+          "media_source_tweet_id": [
+            "2070740947458228583"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2070839818133913641",
+        "created_at": "2026-06-27T12:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070839818133913641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412447636829839362",
+              "start": 3,
+              "username": "kaicecedeya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGuLFWrpkv",
+              "end": 69,
+              "expanded_url": "https://x.com/kaicecedeya/status/2070740947458228583/photo/1",
+              "media_key": "3_2070740944304128000",
+              "start": 46,
+              "url": "https://t.co/pGuLFWrpkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070839818133913641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070740947458228583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaicecedeya: 男的来的，一股味，戴个头套真把自己当女生了（bushi） https://t.co/pGuLFWrpkv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070740944304128000"
+          ]
+        },
+        "author_id": "1412447636829839362",
+        "conversation_id": "2070740947458228583",
+        "created_at": "2026-06-27T05:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070740947458228583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGuLFWrpkv",
+              "end": 52,
+              "expanded_url": "https://x.com/kaicecedeya/status/2070740947458228583/photo/1",
+              "media_key": "3_2070740944304128000",
+              "start": 29,
+              "url": "https://t.co/pGuLFWrpkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070740947458228583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 8601,
+          "like_count": 574,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "男的来的，一股味，戴个头套真把自己当女生了（bushi） https://t.co/pGuLFWrpkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22338,
+          "following_count": 9672,
+          "like_count": 152718,
+          "listed_count": 52,
+          "media_count": 5092,
+          "tweet_count": 52595
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-06T16:25:42.000Z",
+        "description": "这里是萌新Kiger憨柯lin，爱好是老憨推车，本命角色是布洛妮娅，目前角色有大鸭鸭，真理之律者鸭，憨色。请大佬们多多关照~",
+        "id": "1412447636829839362",
+        "location": "diao",
+        "name": "憨柯lin~",
+        "pinned_tweet_id": "1946441991732273556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576695157876871170/keM2eZY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 372,
+          "like_count": 2912,
+          "listed_count": 38,
+          "media_count": 192,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "kaicecedeya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057686573727219712",
+        "3_2057686573874032640",
+        "3_2057686570271145984",
+        "7_2057686564889927680"
+      ],
+      "media_source_tweet_id": [
+        "2057686649233113202",
+        "2057686649233113202",
+        "2057686649233113202",
+        "2057686649233113202"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064038262898090203",
+    "created_at": "2026-06-08T17:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064038262898090203"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "男娘"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "伪娘"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "男の娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1586362629383106561",
+          "start": 3,
+          "username": "nntngmng11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GVjWuKstb2",
+          "end": 90,
+          "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+          "media_key": "3_2057686573727219712",
+          "start": 67,
+          "url": "https://t.co/GVjWuKstb2"
+        },
+        {
+          "display_url": "pic.x.com/GVjWuKstb2",
+          "end": 90,
+          "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+          "media_key": "3_2057686573874032640",
+          "start": 67,
+          "url": "https://t.co/GVjWuKstb2"
+        },
+        {
+          "display_url": "pic.x.com/GVjWuKstb2",
+          "end": 90,
+          "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+          "media_key": "3_2057686570271145984",
+          "start": 67,
+          "url": "https://t.co/GVjWuKstb2"
+        },
+        {
+          "display_url": "pic.x.com/GVjWuKstb2",
+          "end": 90,
+          "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+          "media_key": "7_2057686564889927680",
+          "start": 67,
+          "url": "https://t.co/GVjWuKstb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064038262898090203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057686649233113202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nntngmng11: #男娘 #伪娘 #男の娘 唉唉想了想还是想发露点图想让别人看看我的肉棒🥺，怪癖，没有做除毛处理抱歉捏 https://t.co/GVjWuKstb2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064038262898090203].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064038262898090203",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064038262898090203"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057686573727219712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5fCWYaAAAnfwc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057686573874032640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5fCW7aMAAmmFn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057686570271145984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5fCJgagAAdGuO.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 14715,
+        "height": 1280,
+        "media_key": "7_2057686564889927680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057686564889927680/pu/img/pUcRdCamVGomANo2.jpg",
+        "public_metrics": {
+          "view_count": 1042
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057686564889927680/pu/vid/avc1/320x568/AvBH3HqV2HkYh0WM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057686564889927680/pu/vid/avc1/480x852/tJ4aJDx-SEhd_g2G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057686564889927680/pu/vid/avc1/720x1280/NuJo81DPbs2tjHzv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057686564889927680/pu/pl/yvFH-7bJF8qVEzuM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057686573727219712",
+            "3_2057686573874032640",
+            "3_2057686570271145984",
+            "7_2057686564889927680"
+          ]
+        },
+        "author_id": "1586362629383106561",
+        "conversation_id": "2057686649233113202",
+        "created_at": "2026-05-22T04:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057686649233113202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVjWuKstb2",
+              "end": 74,
+              "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+              "media_key": "3_2057686573727219712",
+              "start": 51,
+              "url": "https://t.co/GVjWuKstb2"
+            },
+            {
+              "display_url": "pic.x.com/GVjWuKstb2",
+              "end": 74,
+              "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+              "media_key": "3_2057686573874032640",
+              "start": 51,
+              "url": "https://t.co/GVjWuKstb2"
+            },
+            {
+              "display_url": "pic.x.com/GVjWuKstb2",
+              "end": 74,
+              "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+              "media_key": "3_2057686570271145984",
+              "start": 51,
+              "url": "https://t.co/GVjWuKstb2"
+            },
+            {
+              "display_url": "pic.x.com/GVjWuKstb2",
+              "end": 74,
+              "expanded_url": "https://x.com/nntngmng11/status/2057686649233113202/video/1",
+              "media_key": "7_2057686564889927680",
+              "start": 51,
+              "url": "https://t.co/GVjWuKstb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057686649233113202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4206,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #男の娘 唉唉想了想还是想发露点图想让别人看看我的肉棒🥺，怪癖，没有做除毛处理抱歉捏 https://t.co/GVjWuKstb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21593,
+          "following_count": 9050,
+          "like_count": 151949,
+          "listed_count": 52,
+          "media_count": 4646,
+          "tweet_count": 50752
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-29T14:21:53.000Z",
+        "description": "是1捏/爱玩战雷的小男娘/在福建/不戴锁/🚪30同好免费/s",
+        "id": "1586362629383106561",
+        "location": "福建厦门",
+        "name": "南亭梦",
+        "pinned_tweet_id": "2058833038260510872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848237265623068672/SDIg9F1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 2632,
+          "like_count": 3406,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 424
+        },
+        "username": "nntngmng11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2064275271281443175",
+    "created_at": "2026-06-09T09:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064275271281443175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493497576485953536",
+          "start": 3,
+          "username": "Kuon_Kig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064275271281443175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064226836104786345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Kuon_Kig: この件について、私なりに率直にお伝えしたいことは以下の内容が全てです。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064275271281443175",
+        "created_at": "2026-06-09T09:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064275271281443175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493497576485953536",
+              "start": 3,
+              "username": "Kuon_Kig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064275271281443175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064226836104786345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Kuon_Kig: この件について、私なりに率直にお伝えしたいことは以下の内容が全てです。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493497576485953536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064226836104786345",
+        "created_at": "2026-06-09T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064226836104786345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y_chan_kig/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/y_chan_kig/status/2063979016625762370",
+              "start": 36,
+              "url": "https://t.co/9LYh4CoZ5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064226836104786345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "この件について、私なりに率直にお伝えしたいことは以下の内容が全てです。\n\nあなたは投稿の中で「自分が馬鹿なことをした」「事前のリサーチ不足だった」と述べていますが、その一方で問題となった動画や「追い出された」という投稿を残したままにしており、多くの日本人や着ぐるみ関係者からは、本当に反省しているようには見えていません。\n\n特に日本では、問題が起きた際にはまず原因となったコンテンツを削除または非公開にし、その上で謝罪することが誠実な対応と受け取られます。しかし現在の対応は、「反省している」と言いながら、その出来事をコンテンツとして利用し続けているように見えてしまっています。\n\nまた、「迷惑者扱いされた」「誰かを不快にさせるつもりはなかった」という表現も、日本ではあまり良い受け取られ方をしません。問題視されているのは意図ではなく、実際に店舗や利用者へ迷惑をかけたという結果だからです。\n\nさらに、投稿全体を読んでも、迷惑をかけた店舗やスタッフ、利用客に対する謝罪よりも、自分が何を学んだか、自分がどれだけ楽しい時間を過ごしたかという内容が中心になっています。そのため、謝罪文というより自己弁護や感想文に近い印象を与えています。\n\nまた、あなたの投稿には「謝ったのだからもういいのでは？」「失敗は誰にでもある」といった擁護の声も見られます。しかし、そのような意見の多くは日本の文化やルール、着ぐるみ界隈の事情を十分に理解していない人たちからのものに見えます。\n\n大切なのは、他の国で問題にならないことが日本でも許されるとは限らないということです。日本では店舗や施設の管理権限、無許可撮影、コスプレ・着ぐるみでの活動に対して非常に慎重な考え方があります。特に着ぐるみ界隈は、長年にわたって関係者が築いてきた信頼の上に成り立っています。\n\nだからこそ、日本で活動するのであれば、「自分の国では大丈夫だった」「他国では問題にならなかった」「知らなかった」では済まされません。来日前にルールやマナーを十分に調べ、施設ごとの方針を確認し、許可が必要な場合は事前に許可を得ることが求められます。\n\n今回問題になっているのは、単純な失敗そのものではありません。誰にでも失敗はあります。しかし、その失敗によって迷惑を受けた側への配慮や、その後の対応が十分だったのかが問われています。\n\n着ぐるみ界隈は、イベント主催者や周囲の人々からの信頼･許諾によって成り立っています。一人のルール違反が、着ぐるみ文化全体への印象悪化につながることを多くの人が懸念しています。だからこそ、この件に対して強い反応が出ています。\n\nもし本当に今回の件を反省しているのであれば、まず行うべきことは説明や弁明ではなく、問題となった動画や投稿の削除または非公開化、そして店舗や関係者の方々への誠実な謝罪ではないでしょうか。\n\nさらに、多くの人が強く疑問を感じているのは、問題となった投稿や動画が現在も公開されたままであることです。\n\nこの投稿は既に数千件規模の「いいね」と非常に大きなインプレッションを獲得しており、結果としてあなたのアカウントや配信活動への注目を集めています。その状況にもかかわらず、問題の投稿や動画を残し続けていることで、「反省している」との説明と実際の行動が一致していないように見えています。\n\nもちろん、あなた自身に炎上商法を行う意図があるのかどうかは第三者には分かりません。しかし、問題行為によって得た注目や再生数を維持する形になっている以上、多くの人からは「炎上による話題性を利用しているのではないか」「反省よりも数字を優先しているのではないか」と受け取られても無理はありません。\n\n本当に今回の件を反省しているのであれば、まず優先されるべきなのは数字や拡散ではなく、迷惑を受けた店舗や利用者への配慮です。そのため、問題の動画や投稿を削除または非公開にすることが、誠意を示すための最低限の対応ではないかと考えます。\n\n今回問題になっているのは、失敗したことそのものではありません。失敗した後にどのような対応を取るかです。その点について、もう一度真剣に考えていただきたいと思います。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4876,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063979016625762370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "この件について、私なりに率直にお伝えしたいことは以下の内容が全てです。 https://t.co/9LYh4CoZ5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21639,
+          "following_count": 9136,
+          "like_count": 151945,
+          "listed_count": 52,
+          "media_count": 4651,
+          "tweet_count": 50896
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T08:09:16.000Z",
+        "description": "Kig & Latex｜Photography｜狐火神樂｜\n💍 @WH_MisakaNeko｜\nAI : @Kagura_w_AI｜中文(学习中)\n┈⛩縁紡ぐ、神使の狐巫女🦊┈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "WH_MisakaNeko"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Kagura_w_AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pont.co/u/kuon",
+                "end": 23,
+                "expanded_url": "https://pont.co/u/kuon",
+                "start": 0,
+                "url": "https://t.co/V7kAhkgV7s"
+              }
+            ]
+          }
+        },
+        "id": "1493497576485953536",
+        "location": "QQ：3752346300",
+        "name": "くおん",
+        "pinned_tweet_id": "2049753695169208444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053635024910684160/-ylYOeyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6060,
+          "following_count": 1378,
+          "like_count": 56815,
+          "listed_count": 37,
+          "media_count": 1391,
+          "tweet_count": 16219
+        },
+        "url": "https://t.co/V7kAhkgV7s",
+        "username": "Kuon_Kig",
+        "verified": true
+      }
+    ]
+  }
+}

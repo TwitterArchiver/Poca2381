@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2063830360912523546",
+    "created_at": "2026-06-08T03:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063830360912523546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1022043343310610433",
+          "start": 3,
+          "username": "shimotsuki_hk"
+        },
+        {
+          "end": 133,
+          "id": "1460481863848390658",
+          "start": 121,
+          "username": "NewfacedolL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063830360912523546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939461274573971655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimotsuki_hk: 萌新kiger報道！！\n大家好我是霜月，一個移居楓葉國的港產kiger\n角色是hololive 的白上フブキ，目前靠著替身絕讚活動中\n目標是成為kigurumi 中的貼貼王，把世界上的娃都貼一遍！！\n🎭：@NewfacedolL \n巨力協助…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1939461267821154304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GupZv1Qb0AAql8Y.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2063830360912523546",
+        "created_at": "2026-06-08T03:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063830360912523546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1022043343310610433",
+              "start": 3,
+              "username": "shimotsuki_hk"
+            },
+            {
+              "end": 133,
+              "id": "1460481863848390658",
+              "start": 121,
+              "username": "NewfacedolL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063830360912523546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939461274573971655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimotsuki_hk: 萌新kiger報道！！\n大家好我是霜月，一個移居楓葉國的港產kiger\n角色是hololive 的白上フブキ，目前靠著替身絕讚活動中\n目標是成為kigurumi 中的貼貼王，把世界上的娃都貼一遍！！\n🎭：@NewfacedolL \n巨力協助…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939461267821154304"
+          ]
+        },
+        "author_id": "1022043343310610433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1939461274573971655",
+        "created_at": "2025-06-29T23:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T00:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939461274573971655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 132,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 157,
+              "start": 148,
+              "tag": "hololive"
+            },
+            {
+              "end": 164,
+              "start": 158,
+              "tag": "白上フブキ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1460481863848390658",
+              "start": 102,
+              "username": "NewfacedolL"
+            },
+            {
+              "end": 131,
+              "id": "972303570023325696",
+              "start": 121,
+              "username": "QB_kyubey"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItYnZwRIYa",
+              "end": 188,
+              "expanded_url": "https://x.com/shimotsuki_hk/status/1939461274573971655/photo/1",
+              "media_key": "3_1939461267821154304",
+              "start": 165,
+              "url": "https://t.co/ItYnZwRIYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939461274573971655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 19846,
+          "like_count": 464,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "萌新kiger報道！！\n大家好我是霜月，一個移居楓葉國的港產kiger\n角色是hololive 的白上フブキ，目前靠著替身絕讚活動中\n目標是成為kigurumi 中的貼貼王，把世界上的娃都貼一遍！！\n🎭：@NewfacedolL \n巨力協助：@QB_kyubey\n#kigurumi #着ぐるみ #hololive\n#白上フブキ https://t.co/ItYnZwRIYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21535,
+          "following_count": 9011,
+          "like_count": 151901,
+          "listed_count": 52,
+          "media_count": 4628,
+          "tweet_count": 50664
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-25T08:58:16.000Z",
+        "description": "移居楓葉國的港產萌新kiger， 🇨🇦 YVR/🇭🇰HKG，不定期更新，歡迎拍打餵食閒聊，廣東話/普通话/English ，角色：白上フブキ (Hololive)/ 流螢 (崩壞：星穹鐵道) \nKiger from Hongkong , welcome to DM",
+        "id": "1022043343310610433",
+        "location": "Vancouver BC",
+        "name": "霜月_shimotsuki",
+        "pinned_tweet_id": "1939461274573971655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714495818661888/lbkms4ra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1054,
+          "like_count": 2885,
+          "listed_count": 7,
+          "media_count": 19,
+          "tweet_count": 1642
+        },
+        "username": "shimotsuki_hk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T05:36:41.000Z",
+        "description": "Kigurumi Maker NFD -New Face Doll 新颜玩偶",
+        "id": "1460481863848390658",
+        "name": "NFD-新颜玩偶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460482417370624003/gR2e3QKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5202,
+          "following_count": 12,
+          "like_count": 25,
+          "listed_count": 86,
+          "media_count": 140,
+          "tweet_count": 185
+        },
+        "username": "NewfacedolL",
+        "verified": false
+      }
+    ]
+  }
+}

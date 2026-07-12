@@ -1,0 +1,649 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041893638",
+          "name": "Apple - Siri"
+        }
+      }
+    ],
+    "conversation_id": "2071548509074132997",
+    "created_at": "2026-06-29T10:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071548509074132997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1956962007477006336",
+          "start": 3,
+          "username": "I00B6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071548509074132997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071087728066736458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I00B6: Siri AI，不需要用尾插的方案出现了？\n\n已有推友实测，通过修改 Apple WLOC（Apple 网络定位），无需尾插 也能触发 Siri AI 云端。\n\n它修改的并不是 GPS，而是 Apple Wi-Fi / 基站网络定位返回的坐标，让 iPho…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071087718491426816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL37To9bEAAI1Dg.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893638",
+              "name": "Apple - Siri"
+            }
+          }
+        ],
+        "conversation_id": "2071548509074132997",
+        "created_at": "2026-06-29T10:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071548509074132997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1956962007477006336",
+              "start": 3,
+              "username": "I00B6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071548509074132997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071087728066736458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I00B6: Siri AI，不需要用尾插的方案出现了？\n\n已有推友实测，通过修改 Apple WLOC（Apple 网络定位），无需尾插 也能触发 Siri AI 云端。\n\n它修改的并不是 GPS，而是 Apple Wi-Fi / 基站网络定位返回的坐标，让 iPho…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071087718491426816"
+          ]
+        },
+        "author_id": "1956962007477006336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893638",
+              "name": "Apple - Siri"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2071087728066736458",
+        "created_at": "2026-06-28T04:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071087728066736458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHp8yyQvZ3",
+              "end": 192,
+              "expanded_url": "https://x.com/I00B6/status/2071087728066736458/photo/1",
+              "media_key": "3_2071087718491426816",
+              "start": 169,
+              "url": "https://t.co/qHp8yyQvZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071087728066736458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 384,
+                "start": 378,
+                "tag": "Apple"
+              },
+              {
+                "end": 392,
+                "start": 385,
+                "tag": "iPhone"
+              },
+              {
+                "end": 397,
+                "start": 393,
+                "tag": "iOS"
+              },
+              {
+                "end": 405,
+                "start": 398,
+                "tag": "SiriAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wloc-spoofer.wloc.workers.dev",
+                "end": 277,
+                "expanded_url": "https://wloc-spoofer.wloc.workers.dev/",
+                "start": 254,
+                "url": "https://t.co/XcggbUBxBY"
+              },
+              {
+                "display_url": "github.com/Yu9191/wloc",
+                "end": 310,
+                "expanded_url": "https://github.com/Yu9191/wloc",
+                "start": 287,
+                "url": "https://t.co/P1eXarER4U"
+              }
+            ]
+          },
+          "text": "Siri AI，不需要用尾插的方案出现了？\n\n已有推友实测，通过修改 Apple WLOC（Apple 网络定位），无需尾插 也能触发 Siri AI 云端。\n\n它修改的并不是 GPS，而是 Apple Wi-Fi / 基站网络定位返回的坐标，让 iPhone 获取指定地区的网络定位，因此在线选点即可生效，无需手动填写经纬度。\n\n支持 Surge、Quantumult X、Loon、Stash、小火箭，启用模块并开启 MITM 即可，不放心的话也可以自行部署到 Cloudflare。\n\n🔗 在线选点：\nhttps://t.co/XcggbUBxBY\n\n🔗 项目地址：\nhttps://t.co/P1eXarER4U\n\n如果更多用户持续验证成功，尾插很可能不再是开启 Siri AI 云端的唯一方案。\n\n苹果会不会很快把这个入口堵上，就看后续了。👀\n\n#Apple #iPhone #iOS #SiriAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1052,
+          "impression_count": 70441,
+          "like_count": 648,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "Siri AI，不需要用尾插的方案出现了？\n\n已有推友实测，通过修改 Apple WLOC（Apple 网络定位），无需尾插 也能触发 Siri AI 云端。\n\n它修改的并不是 GPS，而是 Apple Wi-Fi / 基站网络定位返回的坐标，让 iPhone 获取指定地区的网络定位，因此在线选点即可生效，无需手动填写经纬度。\n\n支持 https://t.co/qHp8yyQvZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22381,
+          "following_count": 9712,
+          "like_count": 152771,
+          "listed_count": 52,
+          "media_count": 5129,
+          "tweet_count": 52708
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T06:11:27.000Z",
+        "description": "南洋街溜子\n同款📦及頻道： https://t.co/tg4pyiVIUE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/esim81888",
+                "end": 37,
+                "expanded_url": "https://t.me/esim81888",
+                "start": 14,
+                "url": "https://t.co/tg4pyiVIUE"
+              }
+            ]
+          }
+        },
+        "id": "1956962007477006336",
+        "location": "Malaysia",
+        "name": "所長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056220318856040448/ynhRmzwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 518,
+          "like_count": 63,
+          "listed_count": 8,
+          "media_count": 239,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "I00B6",
+        "verified": true
+      }
+    ]
+  }
+}

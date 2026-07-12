@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055729760031170560"
+      ],
+      "media_source_tweet_id": [
+        "2055729804021051601"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2055754022628593920",
+    "created_at": "2026-05-16T20:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055754022628593920"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 64,
+          "tag": "latex"
+        },
+        {
+          "end": 82,
+          "start": 71,
+          "tag": "Cartethyia"
+        },
+        {
+          "end": 92,
+          "start": 83,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 108,
+          "start": 93,
+          "tag": "WutheringWaves"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519759134245023744",
+          "start": 3,
+          "username": "momotyQAQ"
+        },
+        {
+          "end": 33,
+          "id": "1519759134245023744",
+          "start": 23,
+          "username": "momotyQAQ"
+        },
+        {
+          "end": 47,
+          "id": "1497247031781302273",
+          "start": 36,
+          "username": "_Xiaohuli_"
+        },
+        {
+          "end": 62,
+          "id": "767270371385114624",
+          "start": 49,
+          "username": "HatsukiMirai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxw8DGLf4p",
+          "end": 132,
+          "expanded_url": "https://x.com/momotyQAQ/status/2055729804021051601/video/1",
+          "media_key": "7_2055729760031170560",
+          "start": 109,
+          "url": "https://t.co/oxw8DGLf4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055754022628593920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055729804021051601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momotyQAQ: 和自己贴贴🥵\n🐱@momotyQAQ\n小卡@_Xiaohuli_\n🎭@HatsukiMirai \n#latex #Cartethyia #kigurumi #WutheringWaves https://t.co/oxw8DGLf4p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055754022628593920].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055754022628593920",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055754022628593920"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29040,
+        "height": 1280,
+        "media_key": "7_2055729760031170560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055729760031170560/pu/img/taHIUgvWnkC5H3MV.jpg",
+        "public_metrics": {
+          "view_count": 146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055729760031170560/pu/vid/avc1/320x568/waLOUxaHTWcgVKwx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055729760031170560/pu/vid/avc1/480x852/XfN66wDiTjAvjB3U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055729760031170560/pu/vid/avc1/720x1280/MejsAKRFdQAOdaNj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055729760031170560/pu/pl/D79LSY75KvsXB8qu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055729760031170560"
+          ]
+        },
+        "author_id": "1519759134245023744",
+        "conversation_id": "2055729804021051601",
+        "created_at": "2026-05-16T19:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055729804021051601"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "latex"
+            },
+            {
+              "end": 67,
+              "start": 56,
+              "tag": "Cartethyia"
+            },
+            {
+              "end": 77,
+              "start": 68,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 93,
+              "start": 78,
+              "tag": "WutheringWaves"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1519759134245023744",
+              "start": 8,
+              "username": "momotyQAQ"
+            },
+            {
+              "end": 32,
+              "id": "1497247031781302273",
+              "start": 21,
+              "username": "_Xiaohuli_"
+            },
+            {
+              "end": 47,
+              "id": "767270371385114624",
+              "start": 34,
+              "username": "HatsukiMirai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxw8DGLf4p",
+              "end": 117,
+              "expanded_url": "https://x.com/momotyQAQ/status/2055729804021051601/video/1",
+              "media_key": "7_2055729760031170560",
+              "start": 94,
+              "url": "https://t.co/oxw8DGLf4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055729804021051601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 430,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "和自己贴贴🥵\n🐱@momotyQAQ\n小卡@_Xiaohuli_\n🎭@HatsukiMirai \n#latex #Cartethyia #kigurumi #WutheringWaves https://t.co/oxw8DGLf4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20544,
+          "following_count": 8048,
+          "like_count": 150722,
+          "listed_count": 50,
+          "media_count": 4202,
+          "tweet_count": 48604
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T19:23:17.000Z",
+        "description": "喵喵喵？…喵喵喵！现在是雪衣/终灾/卡提希娅/深圳➕广州的娃娃ing｜最爱的妹妹@lanbing617 ｜最笨的笨蛋@HibikiDuO❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "lanbing617"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "HibikiDuO"
+              }
+            ]
+          }
+        },
+        "id": "1519759134245023744",
+        "location": "在天边",
+        "name": "墨鱼汤圆",
+        "pinned_tweet_id": "1814431992668401839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009420877851709443/c7-neSbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8196,
+          "following_count": 1527,
+          "like_count": 2308,
+          "listed_count": 43,
+          "media_count": 260,
+          "tweet_count": 807
+        },
+        "username": "momotyQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T16:28:23.000Z",
+        "description": "在@RankcyW嘴里👅 这里是e只小狐狸~萌新kiger/头壳是赛博动物园＆银狼~ 喜欢latex，kigurumi，VRChat～如果发了奇怪的东西，那一定是账号被入侵了(？）佛系更新～/感谢灌注～求扩列！想贴贴！！目前在上海 bilibili：e只小狐狸 Q群：451362719 🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 1,
+                "username": "RankcyW"
+              }
+            ]
+          }
+        },
+        "id": "1497247031781302273",
+        "location": "上海市 浦东新区",
+        "name": "e只小狐狸",
+        "pinned_tweet_id": "1942151637801574739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802319960087445505/cf73flTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 1417,
+          "like_count": 13047,
+          "listed_count": 24,
+          "media_count": 80,
+          "tweet_count": 1571
+        },
+        "username": "_Xiaohuli_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-21T08:01:26.000Z",
+        "description": "时崎狂三/牧濑红莉栖/莫娜/凝光/初雪/优菈/夜兰/凛冬/梅莉/卡芙卡/杏山和纱/简杜",
+        "id": "767270371385114624",
+        "location": "Guangdong",
+        "name": "南水",
+        "pinned_tweet_id": "1769291458018975979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770441993023619072/pplUzp_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15146,
+          "following_count": 456,
+          "like_count": 1560,
+          "listed_count": 118,
+          "media_count": 311,
+          "tweet_count": 1816
+        },
+        "username": "HatsukiMirai",
+        "verified": false
+      }
+    ]
+  }
+}

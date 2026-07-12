@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066754049161179137",
+        "3_2066754079687376896",
+        "3_2066754113824768000"
+      ],
+      "media_source_tweet_id": [
+        "2066754153477763451",
+        "2066754153477763451",
+        "2066754153477763451"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2069283020037874007",
+    "created_at": "2026-06-23T04:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069283020037874007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491077124220145665",
+          "start": 3,
+          "username": "yuebadiwang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eI2HuhAiD9",
+          "end": 46,
+          "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+          "media_key": "3_2066754049161179137",
+          "start": 23,
+          "url": "https://t.co/eI2HuhAiD9"
+        },
+        {
+          "display_url": "pic.x.com/eI2HuhAiD9",
+          "end": 46,
+          "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+          "media_key": "3_2066754079687376896",
+          "start": 23,
+          "url": "https://t.co/eI2HuhAiD9"
+        },
+        {
+          "display_url": "pic.x.com/eI2HuhAiD9",
+          "end": 46,
+          "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+          "media_key": "3_2066754113824768000",
+          "start": 23,
+          "url": "https://t.co/eI2HuhAiD9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069283020037874007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066754153477763451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuebadiwang: UOU结算 https://t.co/eI2HuhAiD9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066754049161179137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6V24paMAEaY1w.jpg",
+        "width": 2305
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2066754079687376896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6V4qXbAAAM3LW.jpg",
+        "width": 2305
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2066754113824768000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6V6piaQAAK9xP.jpg",
+        "width": 2305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066754049161179137",
+            "3_2066754079687376896",
+            "3_2066754113824768000"
+          ],
+          "media_source_tweet_id": [
+            "2066754153477763451",
+            "2066754153477763451",
+            "2066754153477763451"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2069283020037874007",
+        "created_at": "2026-06-23T04:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069283020037874007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491077124220145665",
+              "start": 3,
+              "username": "yuebadiwang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eI2HuhAiD9",
+              "end": 46,
+              "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+              "media_key": "3_2066754049161179137",
+              "start": 23,
+              "url": "https://t.co/eI2HuhAiD9"
+            },
+            {
+              "display_url": "pic.x.com/eI2HuhAiD9",
+              "end": 46,
+              "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+              "media_key": "3_2066754079687376896",
+              "start": 23,
+              "url": "https://t.co/eI2HuhAiD9"
+            },
+            {
+              "display_url": "pic.x.com/eI2HuhAiD9",
+              "end": 46,
+              "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+              "media_key": "3_2066754113824768000",
+              "start": 23,
+              "url": "https://t.co/eI2HuhAiD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069283020037874007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066754153477763451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuebadiwang: UOU结算 https://t.co/eI2HuhAiD9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066754049161179137",
+            "3_2066754079687376896",
+            "3_2066754113824768000"
+          ]
+        },
+        "author_id": "1491077124220145665",
+        "conversation_id": "2066754153477763451",
+        "created_at": "2026-06-16T05:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066754153477763451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eI2HuhAiD9",
+              "end": 29,
+              "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+              "media_key": "3_2066754049161179137",
+              "start": 6,
+              "url": "https://t.co/eI2HuhAiD9"
+            },
+            {
+              "display_url": "pic.x.com/eI2HuhAiD9",
+              "end": 29,
+              "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+              "media_key": "3_2066754079687376896",
+              "start": 6,
+              "url": "https://t.co/eI2HuhAiD9"
+            },
+            {
+              "display_url": "pic.x.com/eI2HuhAiD9",
+              "end": 29,
+              "expanded_url": "https://x.com/yuebadiwang/status/2066754153477763451/photo/1",
+              "media_key": "3_2066754113824768000",
+              "start": 6,
+              "url": "https://t.co/eI2HuhAiD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066754153477763451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1706,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "UOU结算 https://t.co/eI2HuhAiD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22195,
+          "following_count": 9554,
+          "like_count": 152532,
+          "listed_count": 52,
+          "media_count": 4998,
+          "tweet_count": 52177
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-08T15:51:12.000Z",
+        "description": "叫我【月巴】就可以了。是个经费有限，精力有限，时间有限的萌新kiger。我主要出没在【深圳】，还请多多指教啦。想跟可爱的娃娃贴贴，也求前辈们带带我一起玩。\n欢迎私信跟扩列哦。",
+        "id": "1491077124220145665",
+        "location": "广东省深圳市",
+        "name": "月巴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913621025759326208/uzY_hWC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 496,
+          "like_count": 1317,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "yuebadiwang",
+        "verified": false
+      }
+    ]
+  }
+}

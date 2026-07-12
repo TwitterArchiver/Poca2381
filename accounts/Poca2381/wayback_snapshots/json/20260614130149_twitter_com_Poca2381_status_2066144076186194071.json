@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065738301542412288"
+      ],
+      "media_source_tweet_id": [
+        "2065738394957918279"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066144076186194071",
+    "created_at": "2026-06-14T13:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066144076186194071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1402616621462478852",
+          "start": 3,
+          "username": "asuka_kiger"
+        },
+        {
+          "end": 32,
+          "id": "2692351232",
+          "start": 20,
+          "username": "MikiHoshiiP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DP1FKEiJmk",
+          "end": 56,
+          "expanded_url": "https://x.com/asuka_kiger/status/2065738394957918279/photo/1",
+          "media_key": "3_2065738301542412288",
+          "start": 33,
+          "url": "https://t.co/DP1FKEiJmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066144076186194071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065738394957918279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asuka_kiger: 代打 @MikiHoshiiP https://t.co/DP1FKEiJmk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065738301542412288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr6Cl5asAAh73P.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065738301542412288"
+          ],
+          "media_source_tweet_id": [
+            "2065738394957918279"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066144076186194071",
+        "created_at": "2026-06-14T13:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066144076186194071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1402616621462478852",
+              "start": 3,
+              "username": "asuka_kiger"
+            },
+            {
+              "end": 32,
+              "id": "2692351232",
+              "start": 20,
+              "username": "MikiHoshiiP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DP1FKEiJmk",
+              "end": 56,
+              "expanded_url": "https://x.com/asuka_kiger/status/2065738394957918279/photo/1",
+              "media_key": "3_2065738301542412288",
+              "start": 33,
+              "url": "https://t.co/DP1FKEiJmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066144076186194071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065738394957918279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asuka_kiger: 代打 @MikiHoshiiP https://t.co/DP1FKEiJmk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065738301542412288"
+          ]
+        },
+        "author_id": "1402616621462478852",
+        "conversation_id": "2065738394957918279",
+        "created_at": "2026-06-13T10:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065738394957918279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2692351232",
+              "start": 3,
+              "username": "MikiHoshiiP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DP1FKEiJmk",
+              "end": 39,
+              "expanded_url": "https://x.com/asuka_kiger/status/2065738394957918279/photo/1",
+              "media_key": "3_2065738301542412288",
+              "start": 16,
+              "url": "https://t.co/DP1FKEiJmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065738394957918279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2297,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "代打 @MikiHoshiiP https://t.co/DP1FKEiJmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21857,
+          "following_count": 9322,
+          "like_count": 152202,
+          "listed_count": 52,
+          "media_count": 4808,
+          "tweet_count": 51458
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-09T13:20:54.000Z",
+        "description": "你是谁？请支持飞鸟之家。",
+        "id": "1402616621462478852",
+        "location": "Shanghai",
+        "name": "飞鸟子Asuka",
+        "pinned_tweet_id": "1937492473099747703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955189125411377152/gOEqu6eR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6291,
+          "following_count": 834,
+          "like_count": 12012,
+          "listed_count": 36,
+          "media_count": 290,
+          "tweet_count": 534
+        },
+        "username": "asuka_kiger",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-30T09:57:46.000Z",
+        "description": "星井美希P / Kigurumi           \n園田智代子/杜野凛世/だぶるは/風野灯織/黛冬優子\nこれからも、アイマスですよ、アイマス!!",
+        "id": "2692351232",
+        "location": "Shanghai",
+        "name": "Haruka",
+        "pinned_tweet_id": "1845317338247086531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959933213058662400/cRNW4Ysl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 812,
+          "like_count": 67886,
+          "listed_count": 17,
+          "media_count": 95,
+          "tweet_count": 3799
+        },
+        "username": "MikiHoshiiP",
+        "verified": true
+      }
+    ]
+  }
+}

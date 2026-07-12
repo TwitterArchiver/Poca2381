@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2075253218721124647",
+    "created_at": "2026-07-09T16:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075257052684022258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990912416983601153",
+          "start": 0,
+          "username": "91DFjiaofu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075257052684022258",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075256981867381180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@91DFjiaofu 那你记得咱是谁嘛()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2075253218721124647",
+        "created_at": "2026-07-09T16:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075257052684022258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990912416983601153",
+              "start": 0,
+              "username": "91DFjiaofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075257052684022258",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075256981867381180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@91DFjiaofu 那你记得咱是谁嘛()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2075253218721124647",
+        "created_at": "2026-07-09T16:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075256981867381180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990912416983601153",
+              "start": 0,
+              "username": "91DFjiaofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075256981867381180",
+        "in_reply_to_user_id": "990912416983601153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075256160253558919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@91DFjiaofu 是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22578,
+          "following_count": 9862,
+          "like_count": 153084,
+          "listed_count": 51,
+          "media_count": 5332,
+          "tweet_count": 53449
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-30T11:15:05.000Z",
+        "description": "爱打三角洲 tg:@xiong5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "xiong5201314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "df.qq.com",
+                "end": 23,
+                "expanded_url": "https://df.qq.com/",
+                "start": 0,
+                "url": "https://t.co/Tx31jDcMut"
+              }
+            ]
+          }
+        },
+        "id": "990912416983601153",
+        "location": "航天基地",
+        "name": "跨性别睾酮教父",
+        "pinned_tweet_id": "1952390523546636415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073555279577591808/A7Vubu7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4403,
+          "following_count": 4922,
+          "like_count": 55611,
+          "listed_count": 13,
+          "media_count": 130,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/Tx31jDcMut",
+        "username": "91DFjiaofu",
+        "verified": false
+      }
+    ]
+  }
+}

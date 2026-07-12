@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054440840320479232"
+      ],
+      "media_source_tweet_id": [
+        "2054440847446515851"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10040186818",
+          "name": "機動戦士ガンダム 鉄血のオルフェンズ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2055912740687130943",
+    "created_at": "2026-05-17T07:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055912740687130943"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "白銀ノエル"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "ノエラート"
+        },
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "鉄血のオルフェンズ"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "鉄血"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343812869335347200",
+          "start": 3,
+          "username": "TinaAslan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7uZGmWeE4r",
+          "end": 77,
+          "expanded_url": "https://x.com/TinaAslan/status/2054440847446515851/photo/1",
+          "media_key": "3_2054440840320479232",
+          "start": 54,
+          "url": "https://t.co/7uZGmWeE4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055912740687130943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054440847446515851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TinaAslan: 團長迷上鐵血了？\n\n#白銀ノエル #ノエラート #鉄血のオルフェンズ #鉄血 https://t.co/7uZGmWeE4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054440840320479232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILXDzNbcAAlBqQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054440840320479232"
+          ],
+          "media_source_tweet_id": [
+            "2054440847446515851"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040186818",
+              "name": "機動戦士ガンダム 鉄血のオルフェンズ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2055912740687130943",
+        "created_at": "2026-05-17T07:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055912740687130943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "白銀ノエル"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "ノエラート"
+            },
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "鉄血のオルフェンズ"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "鉄血"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343812869335347200",
+              "start": 3,
+              "username": "TinaAslan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uZGmWeE4r",
+              "end": 77,
+              "expanded_url": "https://x.com/TinaAslan/status/2054440847446515851/photo/1",
+              "media_key": "3_2054440840320479232",
+              "start": 54,
+              "url": "https://t.co/7uZGmWeE4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055912740687130943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054440847446515851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TinaAslan: 團長迷上鐵血了？\n\n#白銀ノエル #ノエラート #鉄血のオルフェンズ #鉄血 https://t.co/7uZGmWeE4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054440840320479232"
+          ]
+        },
+        "author_id": "1343812869335347200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040186818",
+              "name": "機動戦士ガンダム 鉄血のオルフェンズ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2054440847446515851",
+        "created_at": "2026-05-13T05:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054440847446515851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "白銀ノエル"
+            },
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "ノエラート"
+            },
+            {
+              "end": 34,
+              "start": 24,
+              "tag": "鉄血のオルフェンズ"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "鉄血"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uZGmWeE4r",
+              "end": 62,
+              "expanded_url": "https://x.com/TinaAslan/status/2054440847446515851/photo/1",
+              "media_key": "3_2054440840320479232",
+              "start": 39,
+              "url": "https://t.co/7uZGmWeE4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054440847446515851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3890,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "團長迷上鐵血了？\n\n#白銀ノエル #ノエラート #鉄血のオルフェンズ #鉄血 https://t.co/7uZGmWeE4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20573,
+          "following_count": 8101,
+          "like_count": 150764,
+          "listed_count": 50,
+          "media_count": 4209,
+          "tweet_count": 48665
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-29T06:56:18.000Z",
+        "description": "香港人 Hong Kong\"er\" | Kigurumi Player | 中文/English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tinaaslan?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@tinaaslan?si=awcR4zEy69RYMbAT",
+                "start": 0,
+                "url": "https://t.co/SKkGenHSsL"
+              }
+            ]
+          }
+        },
+        "id": "1343812869335347200",
+        "location": "Hong Kong",
+        "name": "Tina Aslan （水姐）",
+        "pinned_tweet_id": "2010689158256410671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421365725898231810/019D1wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9391,
+          "following_count": 2329,
+          "like_count": 87888,
+          "listed_count": 49,
+          "media_count": 1531,
+          "tweet_count": 31199
+        },
+        "url": "https://t.co/SKkGenHSsL",
+        "username": "TinaAslan",
+        "verified": false
+      }
+    ]
+  }
+}

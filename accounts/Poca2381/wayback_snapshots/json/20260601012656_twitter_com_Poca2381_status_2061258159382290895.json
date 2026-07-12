@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060317987731824640"
+      ],
+      "media_source_tweet_id": [
+        "2060318528922964240"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2061258159382290895",
+    "created_at": "2026-06-01T01:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061258159382290895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1316772053207318528",
+          "start": 3,
+          "username": "Tomudra_Kailu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/svtqpGx9ZA",
+          "end": 123,
+          "expanded_url": "https://x.com/Tomudra_Kailu/status/2060318528922964240/video/1",
+          "media_key": "13_2060317987731824640",
+          "start": 100,
+          "url": "https://t.co/svtqpGx9ZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061258159382290895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060318528922964240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tomudra_Kailu: 依旧是洞洞板跪姿固定+单手套钢管固定+炮机持续榨精......爽飞了~~人就像和板子成整体了一样，像一件家具被摆放到了地上，最多就是晃动晃动，挣脱毫无可能... https://t.co/svtqpGx9ZA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061258159382290895].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061258159382290895",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061258159382290895"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50566,
+        "height": 3840,
+        "media_key": "13_2060317987731824640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060317987731824640/img/zYgHtZKTRvtiF1cr.jpg",
+        "public_metrics": {
+          "view_count": 9849
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060317987731824640/vid/avc1/320x568/zLEfn4Njm5oK4_0p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060317987731824640/vid/avc1/480x852/PHFIPNDdqo-lHK6e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060317987731824640/vid/avc1/720x1280/GwZ5pJtOOPfUa5KL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060317987731824640/pl/j-lA7Keo-Te7OBto.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060317987731824640"
+          ]
+        },
+        "author_id": "1316772053207318528",
+        "conversation_id": "2060318528922964240",
+        "created_at": "2026-05-29T11:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060318528922964240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svtqpGx9ZA",
+              "end": 104,
+              "expanded_url": "https://x.com/Tomudra_Kailu/status/2060318528922964240/video/1",
+              "media_key": "13_2060317987731824640",
+              "start": 81,
+              "url": "https://t.co/svtqpGx9ZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060318528922964240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 530,
+          "impression_count": 14473,
+          "like_count": 1239,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "依旧是洞洞板跪姿固定+单手套钢管固定+炮机持续榨精......爽飞了~~人就像和板子成整体了一样，像一件家具被摆放到了地上，最多就是晃动晃动，挣脱毫无可能... https://t.co/svtqpGx9ZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21199,
+          "following_count": 8763,
+          "like_count": 151536,
+          "listed_count": 51,
+          "media_count": 4484,
+          "tweet_count": 50029
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-15T16:05:05.000Z",
+        "description": "kigurumi，摄影，绳子，真空袋，真空床，真空柜，真空睡袋......凯璐是大S呀（bushi）🥵🥵",
+        "id": "1316772053207318528",
+        "location": "天津&&河北",
+        "name": "Tomudra Kailu",
+        "pinned_tweet_id": "2060616352902365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928540527231913984/NTVliGLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14359,
+          "following_count": 649,
+          "like_count": 2376,
+          "listed_count": 66,
+          "media_count": 139,
+          "tweet_count": 792
+        },
+        "username": "Tomudra_Kailu",
+        "verified": false
+      }
+    ]
+  }
+}

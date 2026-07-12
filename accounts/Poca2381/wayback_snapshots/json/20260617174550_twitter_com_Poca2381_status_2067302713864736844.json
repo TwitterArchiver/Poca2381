@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066633102915751936",
+        "3_2066633103469350912",
+        "3_2066633106862616576",
+        "3_2066633107156226048"
+      ],
+      "media_source_tweet_id": [
+        "2066633109714669744",
+        "2066633109714669744",
+        "2066633109714669744",
+        "2066633109714669744"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2067302713864736844",
+    "created_at": "2026-06-17T17:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067302713864736844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608502062765182983",
+          "start": 3,
+          "username": "HoneyMT3a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1a997zXWta",
+          "end": 61,
+          "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+          "media_key": "3_2066633102915751936",
+          "start": 38,
+          "url": "https://t.co/1a997zXWta"
+        },
+        {
+          "display_url": "pic.x.com/1a997zXWta",
+          "end": 61,
+          "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+          "media_key": "3_2066633103469350912",
+          "start": 38,
+          "url": "https://t.co/1a997zXWta"
+        },
+        {
+          "display_url": "pic.x.com/1a997zXWta",
+          "end": 61,
+          "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+          "media_key": "3_2066633106862616576",
+          "start": 38,
+          "url": "https://t.co/1a997zXWta"
+        },
+        {
+          "display_url": "pic.x.com/1a997zXWta",
+          "end": 61,
+          "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+          "media_key": "3_2066633107156226048",
+          "start": 38,
+          "url": "https://t.co/1a997zXWta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067302713864736844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066633109714669744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoneyMT3a: 试试新买的衣服，好好看～\n#kigurumi https://t.co/1a997zXWta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066633102915751936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4n24xbUAAQiTT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066633103469350912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4n261akAAu9BE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066633106862616576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4n3HebsAAAFeh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066633107156226048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4n3Ikb0AAqgR0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066633102915751936",
+            "3_2066633103469350912",
+            "3_2066633106862616576",
+            "3_2066633107156226048"
+          ],
+          "media_source_tweet_id": [
+            "2066633109714669744",
+            "2066633109714669744",
+            "2066633109714669744",
+            "2066633109714669744"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2067302713864736844",
+        "created_at": "2026-06-17T17:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067302713864736844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608502062765182983",
+              "start": 3,
+              "username": "HoneyMT3a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 61,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633102915751936",
+              "start": 38,
+              "url": "https://t.co/1a997zXWta"
+            },
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 61,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633103469350912",
+              "start": 38,
+              "url": "https://t.co/1a997zXWta"
+            },
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 61,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633106862616576",
+              "start": 38,
+              "url": "https://t.co/1a997zXWta"
+            },
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 61,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633107156226048",
+              "start": 38,
+              "url": "https://t.co/1a997zXWta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067302713864736844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066633109714669744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoneyMT3a: 试试新买的衣服，好好看～\n#kigurumi https://t.co/1a997zXWta"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066633102915751936",
+            "3_2066633103469350912",
+            "3_2066633106862616576",
+            "3_2066633107156226048"
+          ]
+        },
+        "author_id": "1608502062765182983",
+        "conversation_id": "2066633109714669744",
+        "created_at": "2026-06-15T21:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066633109714669744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 46,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633102915751936",
+              "start": 23,
+              "url": "https://t.co/1a997zXWta"
+            },
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 46,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633103469350912",
+              "start": 23,
+              "url": "https://t.co/1a997zXWta"
+            },
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 46,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633106862616576",
+              "start": 23,
+              "url": "https://t.co/1a997zXWta"
+            },
+            {
+              "display_url": "pic.x.com/1a997zXWta",
+              "end": 46,
+              "expanded_url": "https://x.com/HoneyMT3a/status/2066633109714669744/photo/1",
+              "media_key": "3_2066633107156226048",
+              "start": 23,
+              "url": "https://t.co/1a997zXWta"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d4255b2b43cbf2cc"
+        },
+        "id": "2066633109714669744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 192,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "试试新买的衣服，好好看～\n#kigurumi https://t.co/1a997zXWta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22022,
+          "following_count": 9435,
+          "like_count": 152349,
+          "listed_count": 52,
+          "media_count": 4883,
+          "tweet_count": 51765
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-29T16:36:03.000Z",
+        "description": "Malaysian , 24 🏳️‍⚧️ mtf , latex and kigu enjoyer , blehhhh",
+        "id": "1608502062765182983",
+        "location": "Malaysia",
+        "name": "🐝MTHoney🐝🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050573812924833792/MMfyzPcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 973,
+          "like_count": 11715,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "HoneyMT3a",
+        "verified": false
+      }
+    ]
+  }
+}

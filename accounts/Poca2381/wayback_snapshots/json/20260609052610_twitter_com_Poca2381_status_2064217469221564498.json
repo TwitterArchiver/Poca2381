@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063538460162765021",
+    "created_at": "2026-06-09T05:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064217469221564498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745804780767772672",
+          "start": 0,
+          "username": "VCQTicm5uw53759"
+        },
+        {
+          "end": 28,
+          "id": "1520769482691653635",
+          "start": 17,
+          "username": "Linger_kig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064217469221564498",
+    "in_reply_to_user_id": "1745804780767772672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063538460162765021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VCQTicm5uw53759 @Linger_kig 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2063538449140043776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMpSVFaUAAQjfF.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063538460162765021",
+        "created_at": "2026-06-09T05:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064217469221564498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745804780767772672",
+              "start": 0,
+              "username": "VCQTicm5uw53759"
+            },
+            {
+              "end": 28,
+              "id": "1520769482691653635",
+              "start": 17,
+              "username": "Linger_kig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064217469221564498",
+        "in_reply_to_user_id": "1745804780767772672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063538460162765021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VCQTicm5uw53759 @Linger_kig 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063538449140043776"
+          ]
+        },
+        "author_id": "1745804780767772672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2063538460162765021",
+        "created_at": "2026-06-07T08:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063538460162765021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 40,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 69,
+              "start": 60,
+              "tag": "Endfield"
+            },
+            {
+              "end": 80,
+              "start": 71,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "佩丽卡"
+            },
+            {
+              "end": 94,
+              "start": 86,
+              "tag": "Perilca"
+            },
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "明日方舟终末地"
+            },
+            {
+              "end": 113,
+              "start": 105,
+              "tag": "明日方舟終末地"
+            },
+            {
+              "end": 125,
+              "start": 115,
+              "tag": "arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1520769482691653635",
+              "start": 27,
+              "username": "Linger_kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HBJrtePc4",
+              "end": 149,
+              "expanded_url": "https://x.com/VCQTicm5uw53759/status/2063538460162765021/photo/1",
+              "media_key": "3_2063538449140043776",
+              "start": 126,
+              "url": "https://t.co/4HBJrtePc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063538460162765021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3303,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我们曾这样不断抵抗……期待着你能再一次归来。\n📷＆🔧：@Linger_kig\n\n#ArknightsEndfield￼ #Endfield￼ #kigurumi #佩丽卡 #Perilca #明日方舟终末地  #明日方舟終末地￼ #arknights https://t.co/4HBJrtePc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21619,
+          "following_count": 9095,
+          "like_count": 151905,
+          "listed_count": 52,
+          "media_count": 4651,
+          "tweet_count": 50845
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:48:00.000Z",
+        "description": "笨蛋醉姐姐：@firesong10 宅女吃瘪妹妹：@loremmmmmm\n好朋友：@AXNre8\n想扩列的话Q：811912752\n管理员?可惜我是并没有管理员陪的孤独鹈鹕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "firesong10"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "loremmmmmm"
+              },
+              {
+                "end": 48,
+                "start": 41,
+                "username": "AXNre8"
+              }
+            ]
+          }
+        },
+        "id": "1745804780767772672",
+        "location": "帝江号，终末地工业，塔卫二",
+        "name": "Chou 轩 F （正式版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829208041293787137/Ll_LGhMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 59,
+          "like_count": 111,
+          "listed_count": 12,
+          "media_count": 64,
+          "tweet_count": 97
+        },
+        "username": "VCQTicm5uw53759",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T14:18:04.000Z",
+        "description": "叫我灵儿就好，娃摄  角色凯尔希&幽灵鲨（wink脸有亿点点像克拉拉）&管理员~对牛奶雪糕毫无抵抗力，喜欢可爱的东西English is OK",
+        "id": "1520769482691653635",
+        "location": "卡兹戴尔",
+        "name": "飘",
+        "pinned_tweet_id": "1698928152809206184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734498526779105280/BYS9GucB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 465,
+          "like_count": 2831,
+          "listed_count": 21,
+          "media_count": 114,
+          "tweet_count": 582
+        },
+        "username": "Linger_kig",
+        "verified": false
+      }
+    ]
+  }
+}

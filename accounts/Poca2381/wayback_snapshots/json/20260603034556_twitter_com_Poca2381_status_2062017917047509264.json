@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061629286617100288"
+      ],
+      "media_source_tweet_id": [
+        "2061629295156728076"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2062017917047509264",
+    "created_at": "2026-06-03T03:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062017917047509264"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 45,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "大神ミオ"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "アウラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1630840406",
+          "start": 3,
+          "username": "qooqooxx"
+        },
+        {
+          "end": 43,
+          "id": "2229941731",
+          "start": 30,
+          "username": "nainai_tr433"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzAhLgHgCx",
+          "end": 97,
+          "expanded_url": "https://x.com/qooqooxx/status/2061629295156728076/photo/1",
+          "media_key": "3_2061629286617100288",
+          "start": 74,
+          "url": "https://t.co/pzAhLgHgCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062017917047509264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061629295156728076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qooqooxx: 漫人D2 跟奈奈貼貼🤭\n\nミオ：@nainai_tr433\n\n#kigurumi\n#着ぐるみ \n#大神ミオ \n#アウラ https://t.co/pzAhLgHgCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061629286617100288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxg6cdasAA9sr5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061629286617100288"
+          ],
+          "media_source_tweet_id": [
+            "2061629295156728076"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2062017917047509264",
+        "created_at": "2026-06-03T03:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062017917047509264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "大神ミオ"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "アウラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1630840406",
+              "start": 3,
+              "username": "qooqooxx"
+            },
+            {
+              "end": 43,
+              "id": "2229941731",
+              "start": 30,
+              "username": "nainai_tr433"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzAhLgHgCx",
+              "end": 97,
+              "expanded_url": "https://x.com/qooqooxx/status/2061629295156728076/photo/1",
+              "media_key": "3_2061629286617100288",
+              "start": 74,
+              "url": "https://t.co/pzAhLgHgCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062017917047509264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061629295156728076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qooqooxx: 漫人D2 跟奈奈貼貼🤭\n\nミオ：@nainai_tr433\n\n#kigurumi\n#着ぐるみ \n#大神ミオ \n#アウラ https://t.co/pzAhLgHgCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061629286617100288"
+          ]
+        },
+        "author_id": "1630840406",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2061629295156728076",
+        "created_at": "2026-06-02T02:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061629295156728076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "大神ミオ"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "アウラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2229941731",
+              "start": 16,
+              "username": "nainai_tr433"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzAhLgHgCx",
+              "end": 83,
+              "expanded_url": "https://x.com/qooqooxx/status/2061629295156728076/photo/1",
+              "media_key": "3_2061629286617100288",
+              "start": 60,
+              "url": "https://t.co/pzAhLgHgCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061629295156728076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3224,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "漫人D2 跟奈奈貼貼🤭\n\nミオ：@nainai_tr433\n\n#kigurumi\n#着ぐるみ \n#大神ミオ \n#アウラ https://t.co/pzAhLgHgCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21334,
+          "following_count": 8856,
+          "like_count": 151592,
+          "listed_count": 51,
+          "media_count": 4527,
+          "tweet_count": 50174
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-29T17:21:06.000Z",
+        "description": "新人Kiger 🔰",
+        "id": "1630840406",
+        "location": "Taiwan",
+        "name": "豆子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002545477859094531/VuYjk4dF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 930,
+          "like_count": 3432,
+          "listed_count": 21,
+          "media_count": 98,
+          "tweet_count": 2354
+        },
+        "username": "qooqooxx",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-04T13:41:30.000Z",
+        "description": "kigurumi初心者!\nよろしくお願いします \nウマ娘:カレンチャン🎀、トウカイテイオー🍯、メジロマックイーン🧁、アーモンドアイ\nホロライブゲーマーズ :大神ミオ🌲 \n原神:リネット🐱 \n中文/英文/日本語 \n卡蓮帳號：@nanimonai0331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "nanimonai0331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nainai_tr_433?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nainai_tr_433?igsh=MWtrM3FwZzZ6MW9tdA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/lJVlkAo3e8"
+              }
+            ]
+          }
+        },
+        "id": "2229941731",
+        "location": "奈馬廄",
+        "name": "奈",
+        "pinned_tweet_id": "2045895200812527992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045164618268696576/QhyCRw5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 774,
+          "like_count": 22067,
+          "listed_count": 30,
+          "media_count": 121,
+          "tweet_count": 7565
+        },
+        "url": "https://t.co/lJVlkAo3e8",
+        "username": "nainai_tr433",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2056568862133424388",
+    "created_at": "2026-05-19T16:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056778303038722160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029061443568713731",
+          "start": 0,
+          "username": "maoxianACT"
+        },
+        {
+          "end": 24,
+          "id": "1929416262989557760",
+          "start": 12,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056778303038722160",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056568862133424388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@maoxianACT @maoxian1527 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [maoxian1527].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "maoxian1527",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "maoxian1527"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2056568862133424388",
+        "created_at": "2026-05-19T16:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056778303038722160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 24,
+              "id": "1929416262989557760",
+              "start": 12,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056778303038722160",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056568862133424388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT @maoxian1527 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2056568862133424388",
+        "created_at": "2026-05-19T02:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056568862133424388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1929416262989557760",
+              "start": 5,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056568862133424388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3787,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 23
+        },
+        "reply_settings": "other",
+        "text": "我是猫弦\n@maoxian1527 \n我的号没有被发布任何邮件，我不知道我为什么突然被停用了，也有可能是网络，也有可能是关于性方面的，总之很多，我的蓝标也没了，但是有希望的，我还可以一直申诉\n我会回来的，等我\n\n哦对了，fo友巡回\n可以给我转帖吗，感谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20621,
+          "following_count": 8152,
+          "like_count": 150822,
+          "listed_count": 50,
+          "media_count": 4249,
+          "tweet_count": 48810
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 碎碎念| 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 学习平面设计中 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Meph4786"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "tangeorange"
+              },
+              {
+                "end": 147,
+                "start": 138,
+                "username": "Wilf_Lin"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km",
+        "name": "猫弦ACT🍥🍣🍧🥛🍜",
+        "pinned_tweet_id": "2056568862133424388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029061783508652032/3ACAbPrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 45,
+          "like_count": 96,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 151
+        },
+        "username": "maoxianACT",
+        "verified": false
+      }
+    ]
+  }
+}

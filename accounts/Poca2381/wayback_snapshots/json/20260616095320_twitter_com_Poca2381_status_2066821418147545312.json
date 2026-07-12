@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066697649605214208"
+      ],
+      "media_source_tweet_id": [
+        "2066697698045255802"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066821418147545312",
+    "created_at": "2026-06-16T09:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066821418147545312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176799208453505024",
+          "start": 3,
+          "username": "hotarukig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2F1F2auOLG",
+          "end": 90,
+          "expanded_url": "https://x.com/hotarukig/status/2066697698045255802/video/1",
+          "media_key": "7_2066697649605214208",
+          "start": 67,
+          "url": "https://t.co/2F1F2auOLG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066821418147545312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066697698045255802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hotarukig: 唉，枫丹人开茶会，我们旅行者是上不了桌的。旁边这位你是又是从哪来的？\n#kigurumi  #着ぐるみ https://t.co/2F1F2auOLG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21572,
+        "height": 720,
+        "media_key": "7_2066697649605214208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066697649605214208/pu/img/zxRpeGxQL4Fn7OVm.jpg",
+        "public_metrics": {
+          "view_count": 2180
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066697649605214208/pu/vid/avc1/480x270/iBq4v9aU2eEL6k27.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066697649605214208/pu/vid/avc1/640x360/5wNWLBA03YPvn9iC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066697649605214208/pu/vid/avc1/1280x720/gBNWS6DmFe4_lu1L.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066697649605214208/pu/pl/Tz6BkUBufrZOx-LZ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066697649605214208"
+          ],
+          "media_source_tweet_id": [
+            "2066697698045255802"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066821418147545312",
+        "created_at": "2026-06-16T09:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066821418147545312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176799208453505024",
+              "start": 3,
+              "username": "hotarukig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2F1F2auOLG",
+              "end": 90,
+              "expanded_url": "https://x.com/hotarukig/status/2066697698045255802/video/1",
+              "media_key": "7_2066697649605214208",
+              "start": 67,
+              "url": "https://t.co/2F1F2auOLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066821418147545312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066697698045255802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hotarukig: 唉，枫丹人开茶会，我们旅行者是上不了桌的。旁边这位你是又是从哪来的？\n#kigurumi  #着ぐるみ https://t.co/2F1F2auOLG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066697649605214208"
+          ]
+        },
+        "author_id": "1176799208453505024",
+        "conversation_id": "2066697698045255802",
+        "created_at": "2026-06-16T01:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066697698045255802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2F1F2auOLG",
+              "end": 75,
+              "expanded_url": "https://x.com/hotarukig/status/2066697698045255802/video/1",
+              "media_key": "7_2066697649605214208",
+              "start": 52,
+              "url": "https://t.co/2F1F2auOLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066697698045255802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 5728,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "唉，枫丹人开茶会，我们旅行者是上不了桌的。旁边这位你是又是从哪来的？\n#kigurumi  #着ぐるみ https://t.co/2F1F2auOLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21957,
+          "following_count": 9395,
+          "like_count": 152291,
+          "listed_count": 52,
+          "media_count": 4854,
+          "tweet_count": 51637
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-25T10:03:01.000Z",
+        "description": "着ぐるみ，PJSK→东云绘名&原神→荧&BA→古关忧/猫冢响(预定)，绝赞的solo变娃选手",
+        "id": "1176799208453505024",
+        "name": "Hotaru萤",
+        "pinned_tweet_id": "1494730722942218240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000569211433922560/mDrn1Ajm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 1501,
+          "like_count": 6668,
+          "listed_count": 25,
+          "media_count": 89,
+          "tweet_count": 250
+        },
+        "username": "hotarukig",
+        "verified": false
+      }
+    ]
+  }
+}

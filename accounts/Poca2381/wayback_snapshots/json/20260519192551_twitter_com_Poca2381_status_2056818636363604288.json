@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048677672004517888"
+      ],
+      "media_source_tweet_id": [
+        "2048677701029101582"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2056818636363604288",
+    "created_at": "2026-05-19T19:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056818636363604288"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1640708462224240642",
+          "start": 3,
+          "username": "zhuangzhuang91"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cVZViZTDMC",
+          "end": 61,
+          "expanded_url": "https://x.com/zhuangzhuang91/status/2048677701029101582/video/1",
+          "media_key": "7_2048677672004517888",
+          "start": 38,
+          "url": "https://t.co/cVZViZTDMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056818636363604288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048677701029101582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhuangzhuang91: 不觉得很神圣吗 #kigurumi https://t.co/cVZViZTDMC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056818636363604288].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056818636363604288",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056818636363604288"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12794,
+        "height": 720,
+        "media_key": "7_2048677672004517888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048677672004517888/pu/img/-Q6otPft-CXBHRnR.jpg",
+        "public_metrics": {
+          "view_count": 162
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048677672004517888/pu/vid/avc1/480x270/B6AfiweCcWbcioKv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048677672004517888/pu/vid/avc1/640x360/V6svu7ppS0AUH-BG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048677672004517888/pu/vid/avc1/1280x720/L_NgHF2XjqvwC8PC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048677672004517888/pu/pl/CPq6dJdvEEBEE9l4.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048677672004517888"
+          ]
+        },
+        "author_id": "1640708462224240642",
+        "conversation_id": "2048677701029101582",
+        "created_at": "2026-04-27T08:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048677701029101582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVZViZTDMC",
+              "end": 41,
+              "expanded_url": "https://x.com/zhuangzhuang91/status/2048677701029101582/video/1",
+              "media_key": "7_2048677672004517888",
+              "start": 18,
+              "url": "https://t.co/cVZViZTDMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048677701029101582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1143,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不觉得很神圣吗 #kigurumi https://t.co/cVZViZTDMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20635,
+          "following_count": 8185,
+          "like_count": 150857,
+          "listed_count": 50,
+          "media_count": 4254,
+          "tweet_count": 48847
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-28T13:32:44.000Z",
+        "description": "拍摄📷可以私聊噢 外景场照正片都拍喵",
+        "id": "1640708462224240642",
+        "location": "武汉",
+        "name": "壮壮人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640712118852009990/sId-2tAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 1113,
+          "like_count": 1419,
+          "listed_count": 17,
+          "media_count": 26,
+          "tweet_count": 1488
+        },
+        "username": "zhuangzhuang91",
+        "verified": false
+      }
+    ]
+  }
+}

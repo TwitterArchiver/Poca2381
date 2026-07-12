@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2055240412785463439",
+    "created_at": "2026-05-15T10:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055240412785463439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822200301345980416",
+          "start": 3,
+          "username": "shiyaoshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055240412785463439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055121308850278568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyaoshiwo: 所有人请撤销关于我的求助帖子！！！我已到家一切安好！！！同时请不要再骚扰我的家人！！！感谢每一个帮助我的人！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2055240412785463439",
+        "created_at": "2026-05-15T10:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055240412785463439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822200301345980416",
+              "start": 3,
+              "username": "shiyaoshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055240412785463439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055121308850278568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiyaoshiwo: 所有人请撤销关于我的求助帖子！！！我已到家一切安好！！！同时请不要再骚扰我的家人！！！感谢每一个帮助我的人！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822200301345980416",
+        "conversation_id": "2055121308850278568",
+        "created_at": "2026-05-15T03:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055121308850278568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055121308850278568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 716,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "所有人请撤销关于我的求助帖子！！！我已到家一切安好！！！同时请不要再骚扰我的家人！！！感谢每一个帮助我的人！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20439,
+          "following_count": 7963,
+          "like_count": 150652,
+          "listed_count": 49,
+          "media_count": 4171,
+          "tweet_count": 48470
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:16:52.000Z",
+        "description": "emmm，只会宅家打游戏的傻小孩吗，等等好像是我……可以随便被拿捏的屑……大大一只小女孩但是很无力…信息:180/130 /已出柜/爱哭鬼/生日是五月五号！/我爱吃甜品/好想吃汉堡呜呜/不喜欢播音的播音生/我想吃蛋挞X﹏X为什么不放假/我想要安安全全的（持续堆积中的简介）",
+        "id": "1822200301345980416",
+        "location": "桥洞下",
+        "name": "詩瑤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 261,
+          "like_count": 126,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1434
+        },
+        "username": "shiyaoshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

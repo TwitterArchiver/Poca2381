@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065362664185069568"
+      ],
+      "media_source_tweet_id": [
+        "2065363372309361007"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065434906403226093",
+    "created_at": "2026-06-12T14:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065434906403226093"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 65,
+          "start": 56,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1916306692880666625",
+          "start": 3,
+          "username": "luYuanChun7"
+        },
+        {
+          "end": 48,
+          "id": "2032662766973337600",
+          "start": 39,
+          "username": "Wuye_bei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vlkHuVEKHc",
+          "end": 89,
+          "expanded_url": "https://x.com/luYuanChun7/status/2065363372309361007/video/1",
+          "media_key": "7_2065362664185069568",
+          "start": 66,
+          "url": "https://t.co/vlkHuVEKHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065434906403226093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065363372309361007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luYuanChun7: 无助的少女\n只能在窒息的快感中逐渐沉沦\n📷:@Wuye_bei \n#着ぐるみ #kigurumi https://t.co/vlkHuVEKHc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41280,
+        "height": 720,
+        "media_key": "7_2065362664185069568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065362664185069568/pu/img/7TRZgHdYniuIEk6Y.jpg",
+        "public_metrics": {
+          "view_count": 2454
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065362664185069568/pu/vid/avc1/480x270/S893ZTDhO-kH-ac1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065362664185069568/pu/vid/avc1/640x360/p-qbr9YH5jrWxjV_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065362664185069568/pu/vid/avc1/1280x720/n3SvkUPbyzIALEDg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065362664185069568/pu/pl/h_yVun-Wjh9asGz4.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065362664185069568"
+          ],
+          "media_source_tweet_id": [
+            "2065363372309361007"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065434906403226093",
+        "created_at": "2026-06-12T14:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065434906403226093"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916306692880666625",
+              "start": 3,
+              "username": "luYuanChun7"
+            },
+            {
+              "end": 48,
+              "id": "2032662766973337600",
+              "start": 39,
+              "username": "Wuye_bei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlkHuVEKHc",
+              "end": 89,
+              "expanded_url": "https://x.com/luYuanChun7/status/2065363372309361007/video/1",
+              "media_key": "7_2065362664185069568",
+              "start": 66,
+              "url": "https://t.co/vlkHuVEKHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065434906403226093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363372309361007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luYuanChun7: 无助的少女\n只能在窒息的快感中逐渐沉沦\n📷:@Wuye_bei \n#着ぐるみ #kigurumi https://t.co/vlkHuVEKHc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065362664185069568"
+          ]
+        },
+        "author_id": "1916306692880666625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065363372309361007",
+        "created_at": "2026-06-12T09:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065363372309361007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 31,
+              "id": "2032662766973337600",
+              "start": 22,
+              "username": "Wuye_bei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlkHuVEKHc",
+              "end": 72,
+              "expanded_url": "https://x.com/luYuanChun7/status/2065363372309361007/video/1",
+              "media_key": "7_2065362664185069568",
+              "start": 49,
+              "url": "https://t.co/vlkHuVEKHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065363372309361007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 5465,
+          "like_count": 343,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "无助的少女\n只能在窒息的快感中逐渐沉沦\n📷:@Wuye_bei \n#着ぐるみ #kigurumi https://t.co/vlkHuVEKHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21775,
+          "following_count": 9268,
+          "like_count": 152137,
+          "listed_count": 52,
+          "media_count": 4766,
+          "tweet_count": 51310
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-27T01:43:46.000Z",
+        "description": "这个号发点非正式内容。\n事清水的里号(确信)\n超级变娃低手\n(各种涩涩都很想玩",
+        "id": "1916306692880666625",
+        "location": "Guangzhou",
+        "name": "纯七二号机~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065366580037640192/ET6-OZVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 849,
+          "like_count": 532,
+          "listed_count": 13,
+          "media_count": 35,
+          "tweet_count": 114
+        },
+        "username": "luYuanChun7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T03:39:13.000Z",
+        "description": "缚手~约绳可私信~\n本人所发内容均为缚手与模特自愿参与的绳缚艺术创作，所有参与者均为成年、完全自愿、无任何暴力/强迫/伤害行为，全程安全合规，仅为艺术展示。",
+        "id": "2032662766973337600",
+        "location": "粤~",
+        "name": "无夜(重重生版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035445304464744448/BqtqkBiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8800,
+          "following_count": 70,
+          "like_count": 132,
+          "listed_count": 20,
+          "media_count": 42,
+          "tweet_count": 86
+        },
+        "username": "Wuye_bei",
+        "verified": true
+      }
+    ]
+  }
+}

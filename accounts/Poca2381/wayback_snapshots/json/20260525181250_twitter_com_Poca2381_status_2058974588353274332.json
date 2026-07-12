@@ -1,0 +1,749 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2058974588353274332",
+    "created_at": "2026-05-25T18:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058974588353274332"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "原神"
+        },
+        {
+          "end": 133,
+          "start": 125,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559973215904350208",
+          "start": 3,
+          "username": "Tan_gue_doll"
+        }
+      ],
+      "urls": [
+        {
+          "description": "快到 Discord 上的 🎭TGY💫Kigurumi's server 社群消磨時間，與 213 位成員享受免費的語音與文字聊天。",
+          "display_url": "discord.com/invite/wVmaCWM…",
+          "end": 41,
+          "expanded_url": "https://discord.com/invite/wVmaCWMGnK",
+          "images": [
+            {
+              "height": 288,
+              "url": "https://pbs.twimg.com/news_img/2054163902305562624/g9bNIl87?format=jpg&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2054163902305562624/g9bNIl87?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 18,
+          "status": 200,
+          "title": "加入 🎭TGY💫Kigurumi's server Discord 伺服器！",
+          "unwound_url": "https://discord.com/invite/wVmaCWMGnK",
+          "url": "https://t.co/TmmFZBBPBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058974588353274332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1762348380842516532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tan_gue_doll: https://t.co/TmmFZBBPBB\n\n製作了新的名片~也開了自己的Discord 伺服器！\n非常歡迎朋友們的加入，圖片中的QR Code也是可以點開來掃描的喔！歡迎進來玩\n\n感謝攝影：工口繪\n\n#原神 #cosplay #kigu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1762348378854461440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHUeg2QbEAAEm05.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2058974588353274332",
+        "created_at": "2026-05-25T18:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058974588353274332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "原神"
+            },
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559973215904350208",
+              "start": 3,
+              "username": "Tan_gue_doll"
+            }
+          ],
+          "urls": [
+            {
+              "description": "快到 Discord 上的 🎭TGY💫Kigurumi's server 社群消磨時間，與 213 位成員享受免費的語音與文字聊天。",
+              "display_url": "discord.com/invite/wVmaCWM…",
+              "end": 41,
+              "expanded_url": "https://discord.com/invite/wVmaCWMGnK",
+              "images": [
+                {
+                  "height": 288,
+                  "url": "https://pbs.twimg.com/news_img/2054163902305562624/g9bNIl87?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054163902305562624/g9bNIl87?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "加入 🎭TGY💫Kigurumi's server Discord 伺服器！",
+              "unwound_url": "https://discord.com/invite/wVmaCWMGnK",
+              "url": "https://t.co/TmmFZBBPBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058974588353274332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1762348380842516532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tan_gue_doll: https://t.co/TmmFZBBPBB\n\n製作了新的名片~也開了自己的Discord 伺服器！\n非常歡迎朋友們的加入，圖片中的QR Code也是可以點開來掃描的喔！歡迎進來玩\n\n感謝攝影：工口繪\n\n#原神 #cosplay #kigu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1762348378854461440"
+          ]
+        },
+        "author_id": "1559973215904350208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1762348380842516532",
+        "created_at": "2024-02-27T05:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-27T06:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1762348380842516532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "原神"
+            },
+            {
+              "end": 115,
+              "start": 107,
+              "tag": "cosplay"
+            },
+            {
+              "end": 125,
+              "start": 116,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "kig"
+            }
+          ],
+          "urls": [
+            {
+              "description": "快到 Discord 上的 🎭TGY💫Kigurumi's server 社群消磨時間，與 213 位成員享受免費的語音與文字聊天。",
+              "display_url": "discord.com/invite/wVmaCWM…",
+              "end": 23,
+              "expanded_url": "https://discord.com/invite/wVmaCWMGnK",
+              "images": [
+                {
+                  "height": 288,
+                  "url": "https://pbs.twimg.com/news_img/2054163902305562624/g9bNIl87?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054163902305562624/g9bNIl87?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "加入 🎭TGY💫Kigurumi's server Discord 伺服器！",
+              "unwound_url": "https://discord.com/invite/wVmaCWMGnK",
+              "url": "https://t.co/TmmFZBBPBB"
+            },
+            {
+              "display_url": "pic.x.com/A4ygOujTLp",
+              "end": 154,
+              "expanded_url": "https://x.com/Tan_gue_doll/status/1762348380842516532/photo/1",
+              "media_key": "3_1762348378854461440",
+              "start": 131,
+              "url": "https://t.co/A4ygOujTLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1762348380842516532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 35621,
+          "like_count": 380,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TmmFZBBPBB\n\n製作了新的名片~也開了自己的Discord 伺服器！\n非常歡迎朋友們的加入，圖片中的QR Code也是可以點開來掃描的喔！歡迎進來玩\n\n感謝攝影：工口繪\n\n#原神 #cosplay #kigurumi #kig https://t.co/A4ygOujTLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20947,
+          "following_count": 8460,
+          "like_count": 151158,
+          "listed_count": 51,
+          "media_count": 4359,
+          "tweet_count": 49373
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T18:39:39.000Z",
+        "description": "👋你好，很高興認識你！🥰\n我是一名人偶裝扮演者（Kigurumi)🎭\n在各大社群媒體搜尋我的名字都能找到我的蹤跡哦！\n🌟喜歡的話歡迎停下來看看！🌟\n這是我的電子名片，有各大平台聯繫方式🍙\n歡迎進來看看~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Tanguedoll",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Tanguedoll",
+                "start": 0,
+                "url": "https://t.co/e4FI3gxBwn"
+              }
+            ]
+          }
+        },
+        "id": "1559973215904350208",
+        "location": "距離2公里",
+        "name": "藤穀 Tangue 🍙（藤谷）",
+        "pinned_tweet_id": "1762348380842516532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784565371061878784/jvRisohu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 982,
+          "like_count": 11388,
+          "listed_count": 25,
+          "media_count": 125,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/e4FI3gxBwn",
+        "username": "Tan_gue_doll",
+        "verified": false
+      }
+    ]
+  }
+}

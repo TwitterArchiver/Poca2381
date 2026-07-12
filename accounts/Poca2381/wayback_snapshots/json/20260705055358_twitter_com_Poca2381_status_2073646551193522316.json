@@ -1,0 +1,680 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2073447131143348320",
+    "created_at": "2026-07-05T05:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073646551193522316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        },
+        {
+          "end": 25,
+          "id": "1988187586339467264",
+          "start": 14,
+          "username": "Air_Yukiha"
+        },
+        {
+          "end": 41,
+          "id": "2050253104935997440",
+          "start": 26,
+          "username": "auspiceshirley"
+        },
+        {
+          "end": 52,
+          "id": "2059312925660319746",
+          "start": 42,
+          "username": "BaiJinju_"
+        },
+        {
+          "end": 66,
+          "id": "1910893768498438146",
+          "start": 53,
+          "username": "mengxin66666"
+        },
+        {
+          "end": 74,
+          "id": "1995056779433275392",
+          "start": 67,
+          "username": "Na3PO2"
+        },
+        {
+          "end": 88,
+          "id": "1875394297",
+          "start": 75,
+          "username": "olsi58431877"
+        },
+        {
+          "end": 97,
+          "id": "1882507274956005376",
+          "start": 89,
+          "username": "pikdOvO"
+        },
+        {
+          "end": 105,
+          "id": "2055995252771860480",
+          "start": 98,
+          "username": "qxq5ho"
+        },
+        {
+          "end": 113,
+          "id": "1778850117933838337",
+          "start": 106,
+          "username": "TBduyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073646551193522316",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073447131143348320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 @Air_Yukiha @auspiceshirley @BaiJinju_ @mengxin66666 @Na3PO2 @olsi58431877 @pikdOvO @qxq5ho @TBduyu 这是啥图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2073445467971801088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZbquOaUAAT4Jr.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2073447131143348320",
+        "created_at": "2026-07-05T05:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073646551193522316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            },
+            {
+              "end": 25,
+              "id": "1988187586339467264",
+              "start": 14,
+              "username": "Air_Yukiha"
+            },
+            {
+              "end": 41,
+              "id": "2050253104935997440",
+              "start": 26,
+              "username": "auspiceshirley"
+            },
+            {
+              "end": 52,
+              "id": "2059312925660319746",
+              "start": 42,
+              "username": "BaiJinju_"
+            },
+            {
+              "end": 66,
+              "id": "1910893768498438146",
+              "start": 53,
+              "username": "mengxin66666"
+            },
+            {
+              "end": 74,
+              "id": "1995056779433275392",
+              "start": 67,
+              "username": "Na3PO2"
+            },
+            {
+              "end": 88,
+              "id": "1875394297",
+              "start": 75,
+              "username": "olsi58431877"
+            },
+            {
+              "end": 97,
+              "id": "1882507274956005376",
+              "start": 89,
+              "username": "pikdOvO"
+            },
+            {
+              "end": 105,
+              "id": "2055995252771860480",
+              "start": 98,
+              "username": "qxq5ho"
+            },
+            {
+              "end": 113,
+              "id": "1778850117933838337",
+              "start": 106,
+              "username": "TBduyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073646551193522316",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073447131143348320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 @Air_Yukiha @auspiceshirley @BaiJinju_ @mengxin66666 @Na3PO2 @olsi58431877 @pikdOvO @qxq5ho @TBduyu 这是啥图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073445467971801088"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2073447131143348320",
+        "created_at": "2026-07-04T16:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073447131143348320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCkX8x8DZe",
+              "end": 135,
+              "expanded_url": "https://x.com/akihiro_0313/status/2073447131143348320/photo/1",
+              "media_key": "3_2073445467971801088",
+              "start": 112,
+              "url": "https://t.co/ZCkX8x8DZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073447131143348320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "时间到了喵~（其实是刚才帖子被删了😇）\n有效互动用户列表👇\n除了这十个人以外还有你们：✍️\n🧊冰、等加速度與位移、VADGER、\n✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨、文、ずずるく\n【图片由 Grok 生成】"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时间到了喵~（其实是刚才帖子被删了😇）\n有效互动用户列表👇\n除了这十个人以外还有你们：✍️\n🧊冰、等加速度與位移、VADGER、\n✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨、文、ずずるく\n【图片由 Grok 生成】 https://t.co/ZCkX8x8DZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22506,
+          "following_count": 9803,
+          "like_count": 152935,
+          "listed_count": 52,
+          "media_count": 5225,
+          "tweet_count": 53086
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n\n🌌 アニメと宇宙が好き\n💻 プログラミング\n✏️ 日本語勉強中\n\n気軽に絡んでください😼✨\n\n🐾 大切な親友がいます➰\n\nDM◎ & Telegram↓\nhttps://t.co/RV6X4WIAjP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/akihiro_0313",
+                "end": 115,
+                "expanded_url": "http://t.me/akihiro_0313",
+                "start": 92,
+                "url": "https://t.co/RV6X4WIAjP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061123813845409792/vmhK_GSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 638,
+          "like_count": 7006,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 4662
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "akihiro_0313",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n天使教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 446,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 547,
+          "like_count": 1489,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T16:38:31.000Z",
+        "description": "高中生｜友跨🏳️‍⚧️｜轻度抑郁｜化工｜数码｜\n可能在此处过度分享qwq\n\n（三代目）",
+        "id": "2059312925660319746",
+        "name": "BaiJinju",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070563510841704448/0FSJPnk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 58,
+          "like_count": 1760,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "BaiJinju_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2070680055592960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 8428,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1306
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T09:06:41.000Z",
+        "description": "此処は、何処へも繋がる、そうだ。",
+        "id": "1995056779433275392",
+        "name": "Na₃PO₂☮",
+        "pinned_tweet_id": "2071643834459853093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053737565543641089/yBxl01o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 204,
+          "like_count": 23829,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2286
+        },
+        "url": "",
+        "username": "Na3PO2",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-17T12:39:21.000Z",
+        "description": "Male",
+        "id": "1875394297",
+        "location": "Albania",
+        "name": "olsi",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 7925,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "olsi58431877",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T19:14:54.000Z",
+        "description": "大龄社畜，职业是白天当jk晚上当魔法少女。\n東方project/vocaloid/sega。\ncoser/kiger（头壳角色事結月ゆかり雫)\n欢迎DM找我互动🥺也可以找我咨询魔法少女招聘入职的问题（",
+        "id": "1882507274956005376",
+        "location": "魔法少女指挥部",
+        "name": "PikdOvO",
+        "pinned_tweet_id": "2059617770321686750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927928215252914177/M6Qu01-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 853,
+          "like_count": 16808,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "pikdOvO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "在校高中生，希望能交点朋友，来找我吧球球了😭下方链接问我问题，都会回的⬇️/互fo🙏🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrOoI"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "你心里",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2071966392396476768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070533488508391424/xUQHTPQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 281,
+          "like_count": 3950,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/7BHkcxrOoI",
+        "username": "qxq5ho",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "我简直是浪费生命的罪人。\n我不愧对任何人，除了我自己。        /\n账号转型中，流量惨淡中，小画手崩溃中\n\n@supernovaArcaea 成员 //  @aoim33良师益友 // @Unexist_Sakura 好推油❤️😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 88,
+                "start": 81,
+                "username": "aoim33"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "野鸡中学",
+        "name": "SNtabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071337129842802689/RaFupc-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1074,
+          "like_count": 20345,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 2215
+        },
+        "url": "",
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062601529656492032",
+        "3_2062601531518832640",
+        "3_2062601529971097601"
+      ],
+      "media_source_tweet_id": [
+        "2062601607527928023",
+        "2062601607527928023",
+        "2062601607527928023"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065971877298982971",
+    "created_at": "2026-06-14T01:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065971877298982971"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "vacbed"
+        },
+        {
+          "end": 53,
+          "start": 44,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 59,
+          "start": 54,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 75,
+          "start": 61,
+          "tag": "breathcontrol"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1905312065876885504",
+          "start": 3,
+          "username": "XSCharles11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgEW9d6miy",
+          "end": 99,
+          "expanded_url": "https://x.com/XSCharles11/status/2062601607527928023/video/1",
+          "media_key": "7_2062601529656492032",
+          "start": 76,
+          "url": "https://t.co/DgEW9d6miy"
+        },
+        {
+          "display_url": "pic.x.com/DgEW9d6miy",
+          "end": 99,
+          "expanded_url": "https://x.com/XSCharles11/status/2062601607527928023/video/1",
+          "media_key": "3_2062601531518832640",
+          "start": 76,
+          "url": "https://t.co/DgEW9d6miy"
+        },
+        {
+          "display_url": "pic.x.com/DgEW9d6miy",
+          "end": 99,
+          "expanded_url": "https://x.com/XSCharles11/status/2062601607527928023/video/1",
+          "media_key": "3_2062601529971097601",
+          "start": 76,
+          "url": "https://t.co/DgEW9d6miy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065971877298982971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062601607527928023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XSCharles11: 真空床好紧哦~，小肚脐都压出来了（）\n#vacbed #kigurumi #着ぐるみ  #breathcontrol https://t.co/DgEW9d6miy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065971877298982971].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065971877298982971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065971877298982971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31340,
+        "height": 1280,
+        "media_key": "7_2062601529656492032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062601529656492032/pu/img/8a1qNBab3hzALuqS.jpg",
+        "public_metrics": {
+          "view_count": 1841
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062601529656492032/pu/vid/avc1/320x568/mNSKH5COMoBEZyqx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062601529656492032/pu/vid/avc1/480x852/8JCmnkCEB1RspedX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062601529656492032/pu/vid/avc1/720x1280/m1pR59g6gDOs5F-8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062601529656492032/pu/pl/faXoAZVhslbq_jnJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062601531518832640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_VKi9bUAANqZ6.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062601529971097601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_VKdMawAE8Lpn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062601529656492032",
+            "3_2062601531518832640",
+            "3_2062601529971097601"
+          ]
+        },
+        "author_id": "1905312065876885504",
+        "conversation_id": "2062601607527928023",
+        "created_at": "2026-06-04T18:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062601607527928023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "vacbed"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 58,
+              "start": 44,
+              "tag": "breathcontrol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgEW9d6miy",
+              "end": 82,
+              "expanded_url": "https://x.com/XSCharles11/status/2062601607527928023/video/1",
+              "media_key": "7_2062601529656492032",
+              "start": 59,
+              "url": "https://t.co/DgEW9d6miy"
+            },
+            {
+              "display_url": "pic.x.com/DgEW9d6miy",
+              "end": 82,
+              "expanded_url": "https://x.com/XSCharles11/status/2062601607527928023/video/1",
+              "media_key": "3_2062601531518832640",
+              "start": 59,
+              "url": "https://t.co/DgEW9d6miy"
+            },
+            {
+              "display_url": "pic.x.com/DgEW9d6miy",
+              "end": 82,
+              "expanded_url": "https://x.com/XSCharles11/status/2062601607527928023/video/1",
+              "media_key": "3_2062601529971097601",
+              "start": 59,
+              "url": "https://t.co/DgEW9d6miy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062601607527928023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 6020,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "真空床好紧哦~，小肚脐都压出来了（）\n#vacbed #kigurumi #着ぐるみ  #breathcontrol https://t.co/DgEW9d6miy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21840,
+          "following_count": 9313,
+          "like_count": 152177,
+          "listed_count": 52,
+          "media_count": 4789,
+          "tweet_count": 51410
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T17:33:00.000Z",
+        "description": "AKC二号机，NSFW🔞，偶尔发点低质涩图，\n一号机@AKXS11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "AKXS11"
+              }
+            ]
+          }
+        },
+        "id": "1905312065876885504",
+        "location": "Canton",
+        "name": "AKCharles",
+        "pinned_tweet_id": "1937058369166332295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726007695728640/f6fyPdH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 359,
+          "like_count": 2537,
+          "listed_count": 7,
+          "media_count": 24,
+          "tweet_count": 74
+        },
+        "username": "XSCharles11",
+        "verified": false
+      }
+    ]
+  }
+}

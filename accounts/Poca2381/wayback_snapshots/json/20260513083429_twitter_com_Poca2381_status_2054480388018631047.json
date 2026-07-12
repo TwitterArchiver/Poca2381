@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054333272923279360",
+        "3_2054333317886234624",
+        "3_2054333382197395457"
+      ],
+      "media_source_tweet_id": [
+        "2054333906015736222",
+        "2054333906015736222",
+        "2054333906015736222"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      }
+    ],
+    "conversation_id": "2054480388018631047",
+    "created_at": "2026-05-13T08:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054480388018631047"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "DWG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4855798989",
+          "start": 3,
+          "username": "ka_tsu_ykbfn"
+        },
+        {
+          "end": 89,
+          "id": "2878135880",
+          "start": 79,
+          "username": "youmu_i19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e0tAWzE4gg",
+          "end": 118,
+          "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+          "media_key": "3_2054333272923279360",
+          "start": 95,
+          "url": "https://t.co/e0tAWzE4gg"
+        },
+        {
+          "display_url": "pic.x.com/e0tAWzE4gg",
+          "end": 118,
+          "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+          "media_key": "3_2054333317886234624",
+          "start": 95,
+          "url": "https://t.co/e0tAWzE4gg"
+        },
+        {
+          "display_url": "pic.x.com/e0tAWzE4gg",
+          "end": 118,
+          "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+          "media_key": "3_2054333382197395457",
+          "start": 95,
+          "url": "https://t.co/e0tAWzE4gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054480388018631047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054333906015736222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ka_tsu_ykbfn: 香港のキャンプ地、夜の自由時間に撮ってもらった写真です。\n宿泊施設内です。\n\n脛をぶつけてケガをしたのはこの直前…\n\n📷：@youmu_i19\n#DWG https://t.co/e0tAWzE4gg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054333272923279360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJ1OjbbkAAY8NN.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054333317886234624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJ1RK7b0AAal4s.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2054333382197395457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJ1U6gaQAEOH0d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054333272923279360",
+            "3_2054333317886234624",
+            "3_2054333382197395457"
+          ],
+          "media_source_tweet_id": [
+            "2054333906015736222",
+            "2054333906015736222",
+            "2054333906015736222"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2054480388018631047",
+        "created_at": "2026-05-13T08:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054480388018631047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "DWG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4855798989",
+              "start": 3,
+              "username": "ka_tsu_ykbfn"
+            },
+            {
+              "end": 89,
+              "id": "2878135880",
+              "start": 79,
+              "username": "youmu_i19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0tAWzE4gg",
+              "end": 118,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+              "media_key": "3_2054333272923279360",
+              "start": 95,
+              "url": "https://t.co/e0tAWzE4gg"
+            },
+            {
+              "display_url": "pic.x.com/e0tAWzE4gg",
+              "end": 118,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+              "media_key": "3_2054333317886234624",
+              "start": 95,
+              "url": "https://t.co/e0tAWzE4gg"
+            },
+            {
+              "display_url": "pic.x.com/e0tAWzE4gg",
+              "end": 118,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+              "media_key": "3_2054333382197395457",
+              "start": 95,
+              "url": "https://t.co/e0tAWzE4gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054480388018631047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054333906015736222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ka_tsu_ykbfn: 香港のキャンプ地、夜の自由時間に撮ってもらった写真です。\n宿泊施設内です。\n\n脛をぶつけてケガをしたのはこの直前…\n\n📷：@youmu_i19\n#DWG https://t.co/e0tAWzE4gg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054333272923279360",
+            "3_2054333317886234624",
+            "3_2054333382197395457"
+          ]
+        },
+        "author_id": "4855798989",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2054333906015736222",
+        "created_at": "2026-05-12T22:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054333906015736222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "DWG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 71,
+              "id": "2878135880",
+              "start": 61,
+              "username": "youmu_i19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0tAWzE4gg",
+              "end": 100,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+              "media_key": "3_2054333272923279360",
+              "start": 77,
+              "url": "https://t.co/e0tAWzE4gg"
+            },
+            {
+              "display_url": "pic.x.com/e0tAWzE4gg",
+              "end": 100,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+              "media_key": "3_2054333317886234624",
+              "start": 77,
+              "url": "https://t.co/e0tAWzE4gg"
+            },
+            {
+              "display_url": "pic.x.com/e0tAWzE4gg",
+              "end": 100,
+              "expanded_url": "https://x.com/ka_tsu_ykbfn/status/2054333906015736222/photo/1",
+              "media_key": "3_2054333382197395457",
+              "start": 77,
+              "url": "https://t.co/e0tAWzE4gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054333906015736222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1035,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "香港のキャンプ地、夜の自由時間に撮ってもらった写真です。\n宿泊施設内です。\n\n脛をぶつけてケガをしたのはこの直前…\n\n📷：@youmu_i19\n#DWG https://t.co/e0tAWzE4gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20365,
+          "following_count": 7837,
+          "like_count": 150492,
+          "listed_count": 49,
+          "media_count": 4132,
+          "tweet_count": 48252
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-28T02:46:10.000Z",
+        "description": "着ぐるみやってます。綺麗な着ぐるみさんをフォローさせてもらいます。どうぞよろしく。艦これの大鳳さん2018/09に進水、親潮が2019/03に進水しました 。discord:d_ka_tsu",
+        "id": "4855798989",
+        "location": "愛知県",
+        "name": "ka-tsu",
+        "pinned_tweet_id": "1105947422855815168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675479149711085569/f38cP0CH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 1994,
+          "like_count": 160174,
+          "listed_count": 31,
+          "media_count": 4606,
+          "tweet_count": 36857
+        },
+        "username": "ka_tsu_ykbfn",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-26T10:41:57.000Z",
+        "description": "香港kigurumi\n撮影,ピアノ弾く\nホロライブ、ラブライブ、ひなビタ、プリキュア 推し\nhttps://t.co/FzfxfQz2br\nhttps://t.co/q9aQB6UxM0\n\nproducer垢: @youmu_i19p\n製作垢: @19workshop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "youmu_i19p"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "19workshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/youmu_i19_kig/",
+                "end": 69,
+                "expanded_url": "http://instagram.com/youmu_i19_kig/",
+                "start": 46,
+                "url": "https://t.co/FzfxfQz2br"
+              },
+              {
+                "display_url": "youtube.com/@youmu_i19kig",
+                "end": 93,
+                "expanded_url": "https://www.youtube.com/@youmu_i19kig",
+                "start": 70,
+                "url": "https://t.co/q9aQB6UxM0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youmu-i19.xyz",
+                "end": 23,
+                "expanded_url": "http://youmu-i19.xyz",
+                "start": 0,
+                "url": "https://t.co/QXoqduNiat"
+              }
+            ]
+          }
+        },
+        "id": "2878135880",
+        "location": "香港",
+        "name": "妖夢_伊19",
+        "pinned_tweet_id": "1927802455003115610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893471731379249152/x9sVSFnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3271,
+          "following_count": 931,
+          "like_count": 16285,
+          "listed_count": 21,
+          "media_count": 1088,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/QXoqduNiat",
+        "username": "youmu_i19",
+        "verified": true
+      }
+    ]
+  }
+}

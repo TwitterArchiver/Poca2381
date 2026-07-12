@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066821809710977494",
+    "created_at": "2026-06-16T09:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066821809710977494"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 123,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2763130212",
+          "start": 3,
+          "username": "kigpotato"
+        },
+        {
+          "end": 121,
+          "id": "1176574533408567297",
+          "start": 110,
+          "username": "PrinzH_kig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066821809710977494",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066598627443949767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kigpotato: shiny and staring at you~\n\nHappy international day of latex or whatever it is I guess! 😜\n\n🧍/📸: @PrinzH_kig\n\n#kigurumi #着ぐるみ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066597368418746368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4HW3ZbQAAtbSL.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066821809710977494",
+        "created_at": "2026-06-16T09:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066821809710977494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 123,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2763130212",
+              "start": 3,
+              "username": "kigpotato"
+            },
+            {
+              "end": 121,
+              "id": "1176574533408567297",
+              "start": 110,
+              "username": "PrinzH_kig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066821809710977494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066598627443949767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kigpotato: shiny and staring at you~\n\nHappy international day of latex or whatever it is I guess! 😜\n\n🧍/📸: @PrinzH_kig\n\n#kigurumi #着ぐるみ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066597368418746368"
+          ]
+        },
+        "author_id": "2763130212",
+        "conversation_id": "2066598627443949767",
+        "created_at": "2026-06-15T19:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066598627443949767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 108,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1176574533408567297",
+              "start": 95,
+              "username": "PrinzH_kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qu2QudkLfk",
+              "end": 147,
+              "expanded_url": "https://x.com/kigpotato/status/2066598627443949767/photo/1",
+              "media_key": "3_2066597368418746368",
+              "start": 124,
+              "url": "https://t.co/qu2QudkLfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066598627443949767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 1901,
+          "like_count": 308,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "shiny and staring at you~\n\nHappy international day of latex or whatever it is I guess! 😜\n\n🧍/📸: @PrinzH_kig\n\n#kigurumi #着ぐるみ https://t.co/qu2QudkLfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21957,
+          "following_count": 9397,
+          "like_count": 152298,
+          "listed_count": 52,
+          "media_count": 4854,
+          "tweet_count": 51646
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-24T16:57:08.000Z",
+        "description": "🔜 Otakon / just a simple kigu spud / 💭🌿🌲👁️‍🗨️🍵👧 / @yap_potato priv / constantly in the UK\n\n/ QQ / Discord / Wechat / available",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yap_potato"
+              }
+            ]
+          }
+        },
+        "id": "2763130212",
+        "location": "EU ",
+        "name": "🌈potato💭👁️‍🗨️",
+        "pinned_tweet_id": "2030332718438043985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026814449647017984/liI8L2Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 997,
+          "like_count": 13790,
+          "listed_count": 8,
+          "media_count": 130,
+          "tweet_count": 3848
+        },
+        "username": "kigpotato",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T19:10:29.000Z",
+        "description": "Shiny Kigu | Prinz Heinrich & Regensburg from Azur Lane | very shy IRL | https://t.co/V1pHBojjaF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/prinzh_kig",
+                "end": 96,
+                "expanded_url": "https://linktr.ee/prinzh_kig",
+                "start": 73,
+                "url": "https://t.co/V1pHBojjaF"
+              }
+            ]
+          }
+        },
+        "id": "1176574533408567297",
+        "location": "Germany, Frankfurt",
+        "name": "Prinz ⚓️",
+        "pinned_tweet_id": "1856604506403873262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894103039767609344/-H2y4SUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11102,
+          "following_count": 781,
+          "like_count": 21763,
+          "listed_count": 61,
+          "media_count": 278,
+          "tweet_count": 3309
+        },
+        "username": "PrinzH_kig",
+        "verified": true
+      }
+    ]
+  }
+}

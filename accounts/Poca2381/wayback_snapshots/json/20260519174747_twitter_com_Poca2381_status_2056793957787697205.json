@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012187724472860672"
+      ],
+      "media_source_tweet_id": [
+        "2012187729380192345"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2056793957787697205",
+    "created_at": "2026-05-19T17:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056793957787697205"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 35,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "露出"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583130099326799874",
+          "start": 3,
+          "username": "Akarin956"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Iog9yBnXu",
+          "end": 72,
+          "expanded_url": "https://x.com/Akarin956/status/2012187729380192345/photo/1",
+          "media_key": "3_2012187724472860672",
+          "start": 49,
+          "url": "https://t.co/6Iog9yBnXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056793957787697205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012187729380192345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akarin956: sensei，偷拍jk裙底是不对的哦。\n#kigurumi #露出 https://t.co/6Iog9yBnXu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056793957787697205].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056793957787697205",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056793957787697205"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2012187724472860672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-y6EwqbQAA2ICf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012187724472860672"
+          ]
+        },
+        "author_id": "1583130099326799874",
+        "conversation_id": "2012187729380192345",
+        "created_at": "2026-01-16T15:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T16:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012187729380192345"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "露出"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Iog9yBnXu",
+              "end": 57,
+              "expanded_url": "https://x.com/Akarin956/status/2012187729380192345/photo/1",
+              "media_key": "3_2012187724472860672",
+              "start": 34,
+              "url": "https://t.co/6Iog9yBnXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012187729380192345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 15417,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "sensei，偷拍jk裙底是不对的哦。\n#kigurumi #露出 https://t.co/6Iog9yBnXu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20627,
+          "following_count": 8177,
+          "like_count": 150850,
+          "listed_count": 50,
+          "media_count": 4254,
+          "tweet_count": 48837
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-20T16:16:54.000Z",
+        "description": "纯kigurumi营业推。角色有自设，明日方舟泥岩、和弦，碧蓝档案阿露，花凛。请多多包涵。（不欢迎墙外反贼，看到我自己会屏蔽）",
+        "id": "1583130099326799874",
+        "name": "阿卡林",
+        "pinned_tweet_id": "1787486334346760482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672826583843995649/PZfb-Ipg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5078,
+          "following_count": 2377,
+          "like_count": 2170,
+          "listed_count": 21,
+          "media_count": 311,
+          "tweet_count": 787
+        },
+        "username": "Akarin956",
+        "verified": false
+      }
+    ]
+  }
+}

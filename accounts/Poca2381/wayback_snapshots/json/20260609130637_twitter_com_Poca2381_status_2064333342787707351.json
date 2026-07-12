@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064260605335482368"
+      ],
+      "media_source_tweet_id": [
+        "2064260663875428505"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2064333342787707351",
+    "created_at": "2026-06-09T13:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064333342787707351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "702327477440528384",
+          "start": 3,
+          "username": "achoudedisheng"
+        },
+        {
+          "end": 44,
+          "id": "1549013395470311426",
+          "start": 29,
+          "username": "ookamimomo1111"
+        },
+        {
+          "end": 63,
+          "id": "1946567120105750528",
+          "start": 49,
+          "username": "kawaiidollkig"
+        },
+        {
+          "end": 83,
+          "id": "1746469344325021697",
+          "start": 68,
+          "username": "suzumiyasuzume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2iDoxQxVkM",
+          "end": 107,
+          "expanded_url": "https://x.com/achoudedisheng/status/2064260663875428505/video/1",
+          "media_key": "13_2064260605335482368",
+          "start": 84,
+          "url": "https://t.co/2iDoxQxVkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064333342787707351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064260663875428505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @achoudedisheng: 撸撸尾巴!\n入替：@ookamimomo1111 \n头壳：@kawaiidollkig\n原up：@suzumiyasuzume https://t.co/2iDoxQxVkM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3960,
+        "height": 1920,
+        "media_key": "13_2064260605335482368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064260605335482368/img/Nr4bsNWsYqbCWZqP.jpg",
+        "public_metrics": {
+          "view_count": 484
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064260605335482368/pl/0oJojqcgH8edbvcJ.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064260605335482368/vid/avc1/720x1280/tYCnMdv95BJNpY8F.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064260605335482368/vid/avc1/1080x1920/dkBL3f2Aoa2qm4jb.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064260605335482368/vid/avc1/320x568/jE3hxvV2P0SgZJEy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064260605335482368/vid/avc1/480x852/wX-kVSipSaC-_JCl.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064260605335482368"
+          ],
+          "media_source_tweet_id": [
+            "2064260663875428505"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2064333342787707351",
+        "created_at": "2026-06-09T13:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064333342787707351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "702327477440528384",
+              "start": 3,
+              "username": "achoudedisheng"
+            },
+            {
+              "end": 44,
+              "id": "1549013395470311426",
+              "start": 29,
+              "username": "ookamimomo1111"
+            },
+            {
+              "end": 63,
+              "id": "1946567120105750528",
+              "start": 49,
+              "username": "kawaiidollkig"
+            },
+            {
+              "end": 83,
+              "id": "1746469344325021697",
+              "start": 68,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iDoxQxVkM",
+              "end": 107,
+              "expanded_url": "https://x.com/achoudedisheng/status/2064260663875428505/video/1",
+              "media_key": "13_2064260605335482368",
+              "start": 84,
+              "url": "https://t.co/2iDoxQxVkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064333342787707351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064260663875428505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @achoudedisheng: 撸撸尾巴!\n入替：@ookamimomo1111 \n头壳：@kawaiidollkig\n原up：@suzumiyasuzume https://t.co/2iDoxQxVkM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064260605335482368"
+          ]
+        },
+        "author_id": "702327477440528384",
+        "conversation_id": "2064260663875428505",
+        "created_at": "2026-06-09T08:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064260663875428505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1549013395470311426",
+              "start": 9,
+              "username": "ookamimomo1111"
+            },
+            {
+              "end": 43,
+              "id": "1946567120105750528",
+              "start": 29,
+              "username": "kawaiidollkig"
+            },
+            {
+              "end": 63,
+              "id": "1746469344325021697",
+              "start": 48,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iDoxQxVkM",
+              "end": 87,
+              "expanded_url": "https://x.com/achoudedisheng/status/2064260663875428505/video/1",
+              "media_key": "13_2064260605335482368",
+              "start": 64,
+              "url": "https://t.co/2iDoxQxVkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064260663875428505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1590,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "撸撸尾巴!\n入替：@ookamimomo1111 \n头壳：@kawaiidollkig\n原up：@suzumiyasuzume https://t.co/2iDoxQxVkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21656,
+          "following_count": 9159,
+          "like_count": 151979,
+          "listed_count": 52,
+          "media_count": 4657,
+          "tweet_count": 50945
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-24T03:01:34.000Z",
+        "description": "路边着ぐるみ/摄影/绳工 \nNot a Good Kigurumi Player / Photographer / Rigger",
+        "id": "702327477440528384",
+        "location": "shanghai",
+        "name": "466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414433605837680644/7UNgSuY7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5626,
+          "following_count": 1354,
+          "like_count": 3621,
+          "listed_count": 47,
+          "media_count": 180,
+          "tweet_count": 957
+        },
+        "username": "achoudedisheng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T12:49:17.000Z",
+        "description": "一个爱玩游戏王的底层萌新\n高三党随缘更\n\nb站/🎶 同名",
+        "id": "1549013395470311426",
+        "name": "ookamimomo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565759833025937412/TFu6I0Ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5448,
+          "following_count": 1811,
+          "like_count": 538,
+          "listed_count": 31,
+          "media_count": 15,
+          "tweet_count": 432
+        },
+        "username": "ookamimomo1111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T13:45:52.000Z",
+        "description": "做动漫头套的 老铁们点点关注",
+        "id": "1946567120105750528",
+        "name": "kigurumi着替社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973316598808322048/bUchdDkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 212,
+          "like_count": 96,
+          "listed_count": 14,
+          "media_count": 30,
+          "tweet_count": 91
+        },
+        "username": "kawaiidollkig",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13936,
+          "following_count": 967,
+          "like_count": 2366,
+          "listed_count": 21,
+          "media_count": 139,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      }
+    ]
+  }
+}

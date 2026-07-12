@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2052332759201575405",
+    "created_at": "2026-05-07T10:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052332759201575405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1554534639293059073",
+          "start": 3,
+          "username": "Hoshikan_Uru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052332759201575405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051923207842852975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshikan_Uru: 想问问推友们的理想都是什么或者因为什么而活着(｡&gt;∀&lt;｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2052332759201575405",
+        "created_at": "2026-05-07T10:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052332759201575405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1554534639293059073",
+              "start": 3,
+              "username": "Hoshikan_Uru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052332759201575405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051923207842852975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoshikan_Uru: 想问问推友们的理想都是什么或者因为什么而活着(｡&gt;∀&lt;｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554534639293059073",
+        "conversation_id": "2051923207842852975",
+        "created_at": "2026-05-06T07:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051923207842852975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051923207842852975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 41751,
+          "like_count": 336,
+          "quote_count": 23,
+          "reply_count": 360,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想问问推友们的理想都是什么或者因为什么而活着(｡&gt;∀&lt;｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20121,
+          "following_count": 7518,
+          "like_count": 150224,
+          "listed_count": 49,
+          "media_count": 4028,
+          "tweet_count": 47836
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T18:28:47.000Z",
+        "description": "🌌   //   静谧 | 旅程 | 萌系 | 地理环境气象生态CogSci | 人文社科 | DS→CS→LLM   //   本垢 | 音乐图文日记本 | 润ちゃん的小屋   //   欢迎一起交流玩耍～   //    小可爱 @HotoCocoaOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HotoCocoaOvO"
+              }
+            ]
+          }
+        },
+        "id": "1554534639293059073",
+        "location": "润之间",
+        "name": "星间润",
+        "pinned_tweet_id": "1768673073170088425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918283413758590977/S2LVoIWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 593,
+          "like_count": 19174,
+          "listed_count": 8,
+          "media_count": 601,
+          "tweet_count": 7019
+        },
+        "username": "Hoshikan_Uru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062830972085878784"
+      ],
+      "media_source_tweet_id": [
+        "2062831080269562228"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2062913190636503190",
+    "created_at": "2026-06-05T15:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062913190636503190"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 77,
+          "tag": "犬山たまき"
+        },
+        {
+          "end": 91,
+          "start": 84,
+          "tag": "たまきあーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3193203700",
+          "start": 3,
+          "username": "dEi_pft"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BYn4V1FDKX",
+          "end": 115,
+          "expanded_url": "https://x.com/dEi_pft/status/2062831080269562228/photo/1",
+          "media_key": "3_2062830972085878784",
+          "start": 92,
+          "url": "https://t.co/BYn4V1FDKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062913190636503190",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062831080269562228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dEi_pft: Skeb   \n「佃煮のりお/犬山たまき」様の\nリクエストイラストを描かせていただきました。\n ご依頼ありがとうございました \n#犬山たまき #たまきあーと https://t.co/BYn4V1FDKX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2062830972085878784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCl1vraQAAIcQg.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062830972085878784"
+          ],
+          "media_source_tweet_id": [
+            "2062831080269562228"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2062913190636503190",
+        "created_at": "2026-06-05T15:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062913190636503190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "犬山たまき"
+            },
+            {
+              "end": 91,
+              "start": 84,
+              "tag": "たまきあーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3193203700",
+              "start": 3,
+              "username": "dEi_pft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYn4V1FDKX",
+              "end": 115,
+              "expanded_url": "https://x.com/dEi_pft/status/2062831080269562228/photo/1",
+              "media_key": "3_2062830972085878784",
+              "start": 92,
+              "url": "https://t.co/BYn4V1FDKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062913190636503190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062831080269562228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dEi_pft: Skeb   \n「佃煮のりお/犬山たまき」様の\nリクエストイラストを描かせていただきました。\n ご依頼ありがとうございました \n#犬山たまき #たまきあーと https://t.co/BYn4V1FDKX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062830972085878784"
+          ]
+        },
+        "author_id": "3193203700",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2062831080269562228",
+        "created_at": "2026-06-05T09:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:36:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062831017602523150",
+          "2062831080269562228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "犬山たまき"
+            },
+            {
+              "end": 78,
+              "start": 71,
+              "tag": "たまきあーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYn4V1FDKX",
+              "end": 102,
+              "expanded_url": "https://x.com/dEi_pft/status/2062831080269562228/photo/1",
+              "media_key": "3_2062830972085878784",
+              "start": 79,
+              "url": "https://t.co/BYn4V1FDKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062831080269562228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9165,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Skeb   \n「佃煮のりお/犬山たまき」様の\nリクエストイラストを描かせていただきました。\n ご依頼ありがとうございました \n#犬山たまき #たまきあーと https://t.co/BYn4V1FDKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21402,
+          "following_count": 8919,
+          "like_count": 151743,
+          "listed_count": 52,
+          "media_count": 4568,
+          "tweet_count": 50416
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-22T02:44:46.000Z",
+        "description": "WEB：https://t.co/L6hAoWvb4i\nSkeb：https://t.co/NIGR7jLfUn\nxfolio：https://t.co/kXIK7M6zL3\n依頼受付：WEB参照\nAI学習・無断転載禁止\nほしいもの:https://t.co/UpQgucvTNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/i8qMV",
+                "end": 27,
+                "expanded_url": "https://x.gd/i8qMV",
+                "start": 4,
+                "url": "https://t.co/L6hAoWvb4i"
+              },
+              {
+                "display_url": "x.gd/kbgPj",
+                "end": 56,
+                "expanded_url": "https://x.gd/kbgPj",
+                "start": 33,
+                "url": "https://t.co/NIGR7jLfUn"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/dede…",
+                "end": 87,
+                "expanded_url": "https://xfolio.jp/portfolio/dedechi",
+                "start": 64,
+                "url": "https://t.co/kXIK7M6zL3"
+              },
+              {
+                "display_url": "x.gd/fC6Ss",
+                "end": 140,
+                "expanded_url": "https://x.gd/fC6Ss",
+                "start": 117,
+                "url": "https://t.co/UpQgucvTNL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dedechi44.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://dedechi44.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/w2qIIgHFB3"
+              }
+            ]
+          }
+        },
+        "id": "3193203700",
+        "name": "デデチ",
+        "pinned_tweet_id": "2019691902594076859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410924840375132166/_bqoggSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237517,
+          "following_count": 704,
+          "like_count": 31787,
+          "listed_count": 1340,
+          "media_count": 9086,
+          "tweet_count": 102180
+        },
+        "url": "https://t.co/w2qIIgHFB3",
+        "username": "dEi_pft",
+        "verified": true
+      }
+    ]
+  }
+}

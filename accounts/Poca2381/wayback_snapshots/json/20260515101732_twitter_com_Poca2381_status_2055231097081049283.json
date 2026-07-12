@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2055176089178353882",
+    "created_at": "2026-05-15T10:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055231097081049283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2589106836",
+          "start": 0,
+          "username": "RabbitDash"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055231097081049283",
+    "in_reply_to_user_id": "2589106836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055176089178353882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RabbitDash 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055176081800577024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVzwfKaQAAr5a8.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055176081800638464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVzwfKbMAAtqfs.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2055176089178353882",
+        "created_at": "2026-05-15T10:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055231097081049283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2589106836",
+              "start": 0,
+              "username": "RabbitDash"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055231097081049283",
+        "in_reply_to_user_id": "2589106836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055176089178353882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RabbitDash 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055176081800577024",
+            "3_2055176081800638464"
+          ]
+        },
+        "author_id": "2589106836",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2055176089178353882",
+        "created_at": "2026-05-15T06:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055176089178353882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "プリコネＲ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxbxFQpAUL",
+              "end": 52,
+              "expanded_url": "https://x.com/RabbitDash/status/2055176089178353882/photo/1",
+              "media_key": "3_2055176081800577024",
+              "start": 29,
+              "url": "https://t.co/wxbxFQpAUL"
+            },
+            {
+              "display_url": "pic.x.com/wxbxFQpAUL",
+              "end": 52,
+              "expanded_url": "https://x.com/RabbitDash/status/2055176089178353882/photo/1",
+              "media_key": "3_2055176081800638464",
+              "start": 29,
+              "url": "https://t.co/wxbxFQpAUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055176089178353882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1143,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "喵～\n\n#kigurumi \n#コスプレ \n#プリコネＲ https://t.co/wxbxFQpAUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20435,
+          "following_count": 7947,
+          "like_count": 150629,
+          "listed_count": 49,
+          "media_count": 4169,
+          "tweet_count": 48433
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-26T07:57:57.000Z",
+        "description": "kigurumi萌新，可以叫咱兔兔~请多多指教啦！",
+        "id": "2589106836",
+        "location": "月の上の兎",
+        "name": "兎子尾",
+        "pinned_tweet_id": "1838512120264298952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1119904622506680321/oWLOfWCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1403,
+          "like_count": 28835,
+          "listed_count": 21,
+          "media_count": 80,
+          "tweet_count": 2221
+        },
+        "username": "RabbitDash",
+        "verified": false
+      }
+    ]
+  }
+}

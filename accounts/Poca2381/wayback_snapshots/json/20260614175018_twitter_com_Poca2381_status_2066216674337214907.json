@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2066216536986316800"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066216674337214907",
+    "created_at": "2026-06-14T17:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066216674337214907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBjBHRVlpo",
+          "end": 29,
+          "expanded_url": "https://x.com/Poca2381/status/2066216674337214907/photo/1",
+          "media_key": "16_2066216536986316800",
+          "start": 6,
+          "url": "https://t.co/PBjBHRVlpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066216674337214907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点太萌了 https://t.co/PBjBHRVlpo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "16_2066216536986316800",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKys_jwbcAANgPR.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKys_jwbcAANgPR.mp4"
+          }
+        ],
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066216536986316800"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066216674337214907",
+        "created_at": "2026-06-14T17:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066216674337214907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBjBHRVlpo",
+              "end": 29,
+              "expanded_url": "https://x.com/Poca2381/status/2066216674337214907/photo/1",
+              "media_key": "16_2066216536986316800",
+              "start": 6,
+              "url": "https://t.co/PBjBHRVlpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066216674337214907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点太萌了 https://t.co/PBjBHRVlpo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21872,
+          "following_count": 9345,
+          "like_count": 152259,
+          "listed_count": 52,
+          "media_count": 4818,
+          "tweet_count": 51534
+        },
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

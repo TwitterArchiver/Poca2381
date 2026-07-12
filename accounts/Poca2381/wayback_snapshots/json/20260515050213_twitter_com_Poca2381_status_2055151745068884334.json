@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2055019091774279965",
+    "created_at": "2026-05-15T05:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055151745068884334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2052833327581667330",
+          "start": 0,
+          "username": "teleixiya555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055151745068884334",
+    "in_reply_to_user_id": "2052833327581667330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055019091774279965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teleixiya555 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055019088901259264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITk-TCbQAAuVZm.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2055019091774279965",
+        "created_at": "2026-05-15T05:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055151745068884334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2052833327581667330",
+              "start": 0,
+              "username": "teleixiya555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055151745068884334",
+        "in_reply_to_user_id": "2052833327581667330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055019091774279965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teleixiya555 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055019088901259264"
+          ]
+        },
+        "author_id": "2052833327581667330",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2055019091774279965",
+        "created_at": "2026-05-14T20:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055019091774279965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            },
+            {
+              "end": 51,
+              "start": 40,
+              "tag": "cosplayㅤㅤㅤ"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "伪娘ㅤㅤㅤㅤ"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "维什戴尔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLMGjRSSJ8",
+              "end": 97,
+              "expanded_url": "https://x.com/teleixiya555/status/2055019091774279965/photo/1",
+              "media_key": "3_2055019088901259264",
+              "start": 74,
+              "url": "https://t.co/hLMGjRSSJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055019091774279965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "猜你想看~ 第一次玩X是要这样发推文吗？（欢迎可爱小男娘跟我互推扩列哦）#男娘 #cosplayㅤㅤㅤ  #伪娘ㅤㅤㅤㅤ  #明日方舟 #维什戴尔 https://t.co/hLMGjRSSJ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20425,
+          "following_count": 7924,
+          "like_count": 150604,
+          "listed_count": 49,
+          "media_count": 4161,
+          "tweet_count": 48393
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T19:30:02.000Z",
+        "description": "无所谓",
+        "id": "2052833327581667330",
+        "name": "寰宇第一殿下小特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055018121979998208/34pRvEzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "teleixiya555",
+        "verified": false
+      }
+    ]
+  }
+}

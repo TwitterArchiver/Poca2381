@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062350615528026112"
+      ],
+      "media_source_tweet_id": [
+        "2062350622889046516"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2062705971118612930",
+    "created_at": "2026-06-05T01:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062705971118612930"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "Endfield"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595957007407730688",
+          "start": 3,
+          "username": "1846Xyc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWBuyDwVtX",
+          "end": 52,
+          "expanded_url": "https://x.com/1846Xyc/status/2062350622889046516/photo/1",
+          "media_key": "3_2062350615528026112",
+          "start": 29,
+          "url": "https://t.co/MWBuyDwVtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062705971118612930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062350622889046516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1846Xyc: 试下莱万汀\n#Endfield https://t.co/MWBuyDwVtX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062705971118612930].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062705971118612930",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062705971118612930"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2062350615528026112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7w9UDbMAARAVN.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062350615528026112"
+          ]
+        },
+        "author_id": "1595957007407730688",
+        "conversation_id": "2062350622889046516",
+        "created_at": "2026-06-04T01:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062350622889046516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "Endfield"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWBuyDwVtX",
+              "end": 39,
+              "expanded_url": "https://x.com/1846Xyc/status/2062350622889046516/photo/1",
+              "media_key": "3_2062350615528026112",
+              "start": 16,
+              "url": "https://t.co/MWBuyDwVtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062350622889046516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4112,
+          "like_count": 269,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "试下莱万汀\n#Endfield https://t.co/MWBuyDwVtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21378,
+          "following_count": 8878,
+          "like_count": 151665,
+          "listed_count": 51,
+          "media_count": 4558,
+          "tweet_count": 50322
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-25T01:46:25.000Z",
+        "description": "胶片老法师 喜欢kigurumi/latex 是清水! \nENG/中文。\n欢迎大家扩列 QQ 1203931868",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Ame_kigurumi",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Ame_kigurumi",
+                "start": 0,
+                "url": "https://t.co/lLoUlzvwJa"
+              }
+            ]
+          }
+        },
+        "id": "1595957007407730688",
+        "location": "深圳 上海  1203931868",
+        "name": "眠柒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889781924023115777/Ml2Agk0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25731,
+          "following_count": 804,
+          "like_count": 2816,
+          "listed_count": 135,
+          "media_count": 235,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/lLoUlzvwJa",
+        "username": "1846Xyc",
+        "verified": false
+      }
+    ]
+  }
+}

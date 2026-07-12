@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2072299351209320616",
+    "created_at": "2026-07-01T13:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072306366547710265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1196633399999389696",
+          "start": 0,
+          "username": "kirisame_nana23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072306366547710265",
+    "in_reply_to_user_id": "1196633399999389696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072299351209320616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirisame_nana23 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11598,
+        "height": 960,
+        "media_key": "13_2072299279713206272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072299279713206272/img/bX983LY0L3cazHZF.jpg",
+        "public_metrics": {
+          "view_count": 161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072299279713206272/vid/avc1/320x426/5ZM3rcbSBqJwwlb2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072299279713206272/vid/avc1/480x640/c-axX6lLKe6n1X6o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072299279713206272/vid/avc1/720x960/pM19GQTnv797NdWa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072299279713206272/pl/YsJdhQS8nCZE5Eeq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2072299351209320616",
+        "created_at": "2026-07-01T13:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072306366547710265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1196633399999389696",
+              "start": 0,
+              "username": "kirisame_nana23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072306366547710265",
+        "in_reply_to_user_id": "1196633399999389696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072299351209320616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirisame_nana23 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072299279713206272"
+          ]
+        },
+        "author_id": "1196633399999389696",
+        "conversation_id": "2072299351209320616",
+        "created_at": "2026-07-01T12:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072299351209320616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADbe9P25Ol",
+              "end": 47,
+              "expanded_url": "https://x.com/kirisame_nana23/status/2072299351209320616/video/1",
+              "media_key": "13_2072299279713206272",
+              "start": 24,
+              "url": "https://t.co/ADbe9P25Ol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072299351209320616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🪿 🪿 🪿\n不用上班之后皮质醇都降低了 #男娘 https://t.co/ADbe9P25Ol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22429,
+          "following_count": 9748,
+          "like_count": 152844,
+          "listed_count": 52,
+          "media_count": 5176,
+          "tweet_count": 52859
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-19T03:36:57.000Z",
+        "description": "✨男♂ | 同类扩列请私信✨\n✨恋人💖@tkns_kanatsu✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "tkns_kanatsu"
+              }
+            ]
+          }
+        },
+        "id": "1196633399999389696",
+        "location": "東京 渋谷区",
+        "name": "雾雨菜菜✨",
+        "pinned_tweet_id": "1994656588553224446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028417234180419584/OAze5cp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52288,
+          "following_count": 1646,
+          "like_count": 14619,
+          "listed_count": 197,
+          "media_count": 331,
+          "tweet_count": 4541
+        },
+        "url": "",
+        "username": "kirisame_nana23",
+        "verified": false
+      }
+    ]
+  }
+}

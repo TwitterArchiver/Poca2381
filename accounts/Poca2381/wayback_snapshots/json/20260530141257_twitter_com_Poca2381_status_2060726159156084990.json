@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060705343177654272",
+        "3_2060705343861329920",
+        "3_2060705345207689216"
+      ],
+      "media_source_tweet_id": [
+        "2060705360059728032",
+        "2060705360059728032",
+        "2060705360059728032"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2060726159156084990",
+    "created_at": "2026-05-30T14:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060726159156084990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1364950437552664583",
+          "start": 3,
+          "username": "kigerbeihai2"
+        },
+        {
+          "end": 51,
+          "id": "1844321532660809729",
+          "start": 39,
+          "username": "HAqimimi520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hGGPKZgPwE",
+          "end": 75,
+          "expanded_url": "https://x.com/kigerbeihai2/status/2060705360059728032/photo/1",
+          "media_key": "3_2060705343177654272",
+          "start": 52,
+          "url": "https://t.co/hGGPKZgPwE"
+        },
+        {
+          "display_url": "pic.x.com/hGGPKZgPwE",
+          "end": 75,
+          "expanded_url": "https://x.com/kigerbeihai2/status/2060705360059728032/photo/1",
+          "media_key": "3_2060705343861329920",
+          "start": 52,
+          "url": "https://t.co/hGGPKZgPwE"
+        },
+        {
+          "display_url": "pic.x.com/hGGPKZgPwE",
+          "end": 75,
+          "expanded_url": "https://x.com/kigerbeihai2/status/2060705360059728032/photo/1",
+          "media_key": "3_2060705345207689216",
+          "start": 52,
+          "url": "https://t.co/hGGPKZgPwE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060726159156084990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060705360059728032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kigerbeihai2: 乳胶恶堕改造成功，已经加入战斗员大军\n👺：@HAqimimi520 https://t.co/hGGPKZgPwE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060726159156084990].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060726159156084990",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060726159156084990"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060705343177654272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkYl27agAAQjGw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060705343861329920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkYl5eakAAjNho.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060705345207689216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkYl-faYAAXs0f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060705343177654272",
+            "3_2060705343861329920",
+            "3_2060705345207689216"
+          ]
+        },
+        "author_id": "1364950437552664583",
+        "conversation_id": "2060705360059728032",
+        "created_at": "2026-05-30T12:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060705360059728032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1844321532660809729",
+              "start": 21,
+              "username": "HAqimimi520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGGPKZgPwE",
+              "end": 57,
+              "expanded_url": "https://x.com/kigerbeihai2/status/2060705360059728032/photo/1",
+              "media_key": "3_2060705343177654272",
+              "start": 34,
+              "url": "https://t.co/hGGPKZgPwE"
+            },
+            {
+              "display_url": "pic.x.com/hGGPKZgPwE",
+              "end": 57,
+              "expanded_url": "https://x.com/kigerbeihai2/status/2060705360059728032/photo/1",
+              "media_key": "3_2060705343861329920",
+              "start": 34,
+              "url": "https://t.co/hGGPKZgPwE"
+            },
+            {
+              "display_url": "pic.x.com/hGGPKZgPwE",
+              "end": 57,
+              "expanded_url": "https://x.com/kigerbeihai2/status/2060705360059728032/photo/1",
+              "media_key": "3_2060705345207689216",
+              "start": 34,
+              "url": "https://t.co/hGGPKZgPwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060705360059728032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 703,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "乳胶恶堕改造成功，已经加入战斗员大军\n👺：@HAqimimi520 https://t.co/hGGPKZgPwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21126,
+          "following_count": 8683,
+          "like_count": 151419,
+          "listed_count": 51,
+          "media_count": 4455,
+          "tweet_count": 49830
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-25T14:48:48.000Z",
+        "description": "这里是来自重庆的新人kiger北海酱，全名北海帝国皇帝！24岁事帝国皇帝，斯堪的纳维亚和不列颠的合法统治者（滑稽）\n喜欢胶衣，kigurumi，汉服，lolita，JK，战锤，维京文化，中世纪历史，欢迎扩列哦，QQ号私我",
+        "id": "1364950437552664583",
+        "location": "太阳星域 神圣泰拉 皇宫区",
+        "name": "北海帝国皇帝",
+        "pinned_tweet_id": "2049054078811119901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910195309935816704/KBGCcY1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40815,
+          "following_count": 560,
+          "like_count": 17608,
+          "listed_count": 233,
+          "media_count": 966,
+          "tweet_count": 5124
+        },
+        "username": "kigerbeihai2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T10:18:31.000Z",
+        "description": "",
+        "id": "1844321532660809729",
+        "name": "哈气咪",
+        "pinned_tweet_id": "2055997066917408936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983612347966222339/LNt9ws42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 116,
+          "like_count": 46,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 24
+        },
+        "username": "HAqimimi520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057030519347646888",
+    "created_at": "2026-05-20T10:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057053199396397071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1645432109606260736",
+          "start": 0,
+          "username": "OtherSideBJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057053199396397071",
+    "in_reply_to_user_id": "1645432109606260736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057043819301073369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OtherSideBJ 👀👀👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057030519347646888",
+        "created_at": "2026-05-20T10:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057053199396397071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1645432109606260736",
+              "start": 0,
+              "username": "OtherSideBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057053199396397071",
+        "in_reply_to_user_id": "1645432109606260736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057043819301073369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OtherSideBJ 👀👀👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645432109606260736",
+        "conversation_id": "2057030519347646888",
+        "created_at": "2026-05-20T10:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057043819301073369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057043819301073369",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057030519347646888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 关注啦，多多评论区互动哦🤝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20675,
+          "following_count": 8214,
+          "like_count": 150899,
+          "listed_count": 50,
+          "media_count": 4264,
+          "tweet_count": 48915
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-10T14:22:53.000Z",
+        "description": "事物总有正反两面，想看清一点这复杂的世界。\n\n原油｜黄金｜外汇｜一个Mitrade就够了：https://t.co/AJPcjPY9Oi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mytd.cc/vWeE",
+                "end": 68,
+                "expanded_url": "https://mytd.cc/vWeE",
+                "start": 45,
+                "url": "https://t.co/AJPcjPY9Oi"
+              }
+            ]
+          }
+        },
+        "id": "1645432109606260736",
+        "name": "另一面",
+        "pinned_tweet_id": "2056565535048134781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013976731556986880/bFOl7yOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38033,
+          "following_count": 1315,
+          "like_count": 48202,
+          "listed_count": 292,
+          "media_count": 3342,
+          "tweet_count": 18725
+        },
+        "username": "OtherSideBJ",
+        "verified": true
+      }
+    ]
+  }
+}

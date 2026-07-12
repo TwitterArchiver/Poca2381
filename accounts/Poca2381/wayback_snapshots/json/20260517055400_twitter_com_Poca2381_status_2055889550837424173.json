@@ -1,0 +1,664 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050594985305866240"
+      ],
+      "media_source_tweet_id": [
+        "2050595000434737518"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "2055889550837424173",
+    "created_at": "2026-05-17T05:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055889550837424173"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "zzzero"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "ゼンゼロ"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "绝区零"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "964096405362040832",
+          "start": 3,
+          "username": "0xffffffff103"
+        },
+        {
+          "end": 42,
+          "id": "1800127206427164672",
+          "start": 30,
+          "username": "Deneb040302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UlTCThQxsV",
+          "end": 101,
+          "expanded_url": "https://x.com/0xffffffff103/status/2050595000434737518/photo/1",
+          "media_key": "3_2050594985305866240",
+          "start": 78,
+          "url": "https://t.co/UlTCThQxsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055889550837424173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050595000434737518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xffffffff103: 嘿呀嘿——！⭐\n\n📸：@Deneb040302\n#kigurumi #着ぐるみ #zzzero #ゼンゼロ #绝区零 https://t.co/UlTCThQxsV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2050594985305866240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUtRk1agAAAAqM.jpg",
+        "width": 2734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050594985305866240"
+          ],
+          "media_source_tweet_id": [
+            "2050595000434737518"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2055889550837424173",
+        "created_at": "2026-05-17T05:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055889550837424173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "zzzero"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "ゼンゼロ"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "绝区零"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "964096405362040832",
+              "start": 3,
+              "username": "0xffffffff103"
+            },
+            {
+              "end": 42,
+              "id": "1800127206427164672",
+              "start": 30,
+              "username": "Deneb040302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UlTCThQxsV",
+              "end": 101,
+              "expanded_url": "https://x.com/0xffffffff103/status/2050595000434737518/photo/1",
+              "media_key": "3_2050594985305866240",
+              "start": 78,
+              "url": "https://t.co/UlTCThQxsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055889550837424173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050595000434737518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xffffffff103: 嘿呀嘿——！⭐\n\n📸：@Deneb040302\n#kigurumi #着ぐるみ #zzzero #ゼンゼロ #绝区零 https://t.co/UlTCThQxsV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050594985305866240"
+          ]
+        },
+        "author_id": "964096405362040832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2050595000434737518",
+        "created_at": "2026-05-02T15:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050595000434737518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "zzzero"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "ゼンゼロ"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "绝区零"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1800127206427164672",
+              "start": 11,
+              "username": "Deneb040302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UlTCThQxsV",
+              "end": 82,
+              "expanded_url": "https://x.com/0xffffffff103/status/2050595000434737518/photo/1",
+              "media_key": "3_2050594985305866240",
+              "start": 59,
+              "url": "https://t.co/UlTCThQxsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050595000434737518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1434,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嘿呀嘿——！⭐\n\n📸：@Deneb040302\n#kigurumi #着ぐるみ #zzzero #ゼンゼロ #绝区零 https://t.co/UlTCThQxsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20567,
+          "following_count": 8084,
+          "like_count": 150754,
+          "listed_count": 50,
+          "media_count": 4207,
+          "tweet_count": 48655
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-15T11:17:49.000Z",
+        "description": "萌新大粗腿kiger，喜欢变娃喜欢拍照喜欢贴贴喜欢抱抱🥰正在绝赞减肥瘦小腿中🦵\n欢迎娃娃/欢迎批评娃照/轻度涩涩（🔞注意）\n非常讨厌键政\n中文/ENG",
+        "id": "964096405362040832",
+        "location": "番茄炒蛋横飞之地",
+        "name": "溢出！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002240344079958016/mnX0cmRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 1935,
+          "like_count": 138771,
+          "listed_count": 26,
+          "media_count": 225,
+          "tweet_count": 3921
+        },
+        "username": "0xffffffff103",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T11:25:58.000Z",
+        "description": "kig萌新，广州上学ing🌈微社恐，但是想认识更多娃娃！欢迎扩扩",
+        "id": "1800127206427164672",
+        "location": "广州 ",
+        "name": "橙汁plus+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800127427391467520/YmopMCV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 138,
+          "like_count": 306,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 43
+        },
+        "username": "Deneb040302",
+        "verified": false
+      }
+    ]
+  }
+}

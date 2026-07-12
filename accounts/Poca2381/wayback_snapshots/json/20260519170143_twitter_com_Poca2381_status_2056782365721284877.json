@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055906154413441024"
+      ],
+      "media_source_tweet_id": [
+        "2055906453219922107"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2056782365721284877",
+    "created_at": "2026-05-19T17:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056782365721284877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756697577511161857",
+          "start": 3,
+          "username": "ZYBXWL778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WsuSd5OGTS",
+          "end": 53,
+          "expanded_url": "https://x.com/ZYBXWL778/status/2055906453219922107/photo/1",
+          "media_key": "3_2055906154413441024",
+          "start": 30,
+          "url": "https://t.co/WsuSd5OGTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056782365721284877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055906453219922107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZYBXWL778: 凯凯的伊\n#kigurumi https://t.co/WsuSd5OGTS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056782365721284877].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056782365721284877",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056782365721284877"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055906154413441024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgLwTlaQAA5qaO.jpg",
+        "width": 1558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055906154413441024"
+          ]
+        },
+        "author_id": "1756697577511161857",
+        "conversation_id": "2055906453219922107",
+        "created_at": "2026-05-17T07:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055906453219922107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsuSd5OGTS",
+              "end": 38,
+              "expanded_url": "https://x.com/ZYBXWL778/status/2055906453219922107/photo/1",
+              "media_key": "3_2055906154413441024",
+              "start": 15,
+              "url": "https://t.co/WsuSd5OGTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055906453219922107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2625,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "凯凯的伊\n#kigurumi https://t.co/WsuSd5OGTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20624,
+          "following_count": 8153,
+          "like_count": 150824,
+          "listed_count": 50,
+          "media_count": 4250,
+          "tweet_count": 48813
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-11T15:12:05.000Z",
+        "description": "ISTP，叫我ZY/章鱼就好了  坐标：广西   此号作为发布清水向内容存在，浑水内容请移至里号，娃🉑扩，不涉政，只回关有自己变娃内容/娃摄的账号，谢谢\nQ：3380546233 \n小群：961979772  \n目前有的角色：天童爱丽丝，天雨亚子\n 🔞里号：@zYBXWLxiao\n❤️ @laoqi184",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "zYBXWLxiao"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "username": "laoqi184"
+              }
+            ]
+          }
+        },
+        "id": "1756697577511161857",
+        "location": "海底",
+        "name": "ZY章鱼🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041381453045579776/wYv4PGes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 1419,
+          "like_count": 2601,
+          "listed_count": 25,
+          "media_count": 139,
+          "tweet_count": 344
+        },
+        "username": "ZYBXWL778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2059305194064953384",
+    "created_at": "2026-05-27T05:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059508410069270541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1482794046938517504",
+          "start": 0,
+          "username": "Colongge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059508410069270541",
+    "in_reply_to_user_id": "1482794046938517504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059305194064953384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Colongge 生日快乐哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059305191024087040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQfKRsb0AAdLvT.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2059305194064953384",
+        "created_at": "2026-05-27T05:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059508410069270541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1482794046938517504",
+              "start": 0,
+              "username": "Colongge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059508410069270541",
+        "in_reply_to_user_id": "1482794046938517504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059305194064953384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Colongge 生日快乐哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059305191024087040"
+          ]
+        },
+        "author_id": "1482794046938517504",
+        "conversation_id": "2059305194064953384",
+        "created_at": "2026-05-26T16:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059305194064953384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d93vd4gWds",
+              "end": 31,
+              "expanded_url": "https://x.com/Colongge/status/2059305194064953384/photo/1",
+              "media_key": "3_2059305191024087040",
+              "start": 8,
+              "url": "https://t.co/d93vd4gWds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059305194064953384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，又老了一岁 https://t.co/d93vd4gWds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20981,
+          "following_count": 8486,
+          "like_count": 151202,
+          "listed_count": 51,
+          "media_count": 4386,
+          "tweet_count": 49469
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-16T19:17:24.000Z",
+        "description": "宝宝@jierui0807\n06MTF｜目前D上下差值17.5，HRT起始日2025-5-12，HRT止于2026-5-20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "jierui0807"
+              }
+            ]
+          }
+        },
+        "id": "1482794046938517504",
+        "name": "浮生若梦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057183121771261952/m-ofnD2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4846,
+          "following_count": 106,
+          "like_count": 1470,
+          "listed_count": 16,
+          "media_count": 5,
+          "tweet_count": 146
+        },
+        "username": "Colongge",
+        "verified": false
+      }
+    ]
+  }
+}

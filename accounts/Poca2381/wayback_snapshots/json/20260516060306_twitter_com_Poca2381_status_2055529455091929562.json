@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055230980458475520",
+        "3_2055230980399779840",
+        "3_2055230980395618304"
+      ],
+      "media_source_tweet_id": [
+        "2055231348340867207",
+        "2055231348340867207",
+        "2055231348340867207"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055529455091929562",
+    "created_at": "2026-05-16T06:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055529455091929562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1729889017049559040",
+          "start": 3,
+          "username": "Z_trainningAi"
+        },
+        {
+          "end": 49,
+          "id": "1648338630836989954",
+          "start": 38,
+          "username": "FangB68322"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ESmGV9yNfi",
+          "end": 92,
+          "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+          "media_key": "3_2055230980458475520",
+          "start": 69,
+          "url": "https://t.co/ESmGV9yNfi"
+        },
+        {
+          "display_url": "pic.x.com/ESmGV9yNfi",
+          "end": 92,
+          "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+          "media_key": "3_2055230980399779840",
+          "start": 69,
+          "url": "https://t.co/ESmGV9yNfi"
+        },
+        {
+          "display_url": "pic.x.com/ESmGV9yNfi",
+          "end": 92,
+          "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+          "media_key": "3_2055230980395618304",
+          "start": 69,
+          "url": "https://t.co/ESmGV9yNfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055529455091929562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055231348340867207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Z_trainningAi: 好累呜呜呜\n感觉自己摆的的好难看\n📷 @FangB68322 \n期待一手…吗？还是别期待了吧（哭） https://t.co/ESmGV9yNfi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2055230980458475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWlsAma8AAWfTW.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055230980399779840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWlsAYbUAAozsr.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055230980395618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWlsAXb0AAUZvA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055230980458475520",
+            "3_2055230980399779840",
+            "3_2055230980395618304"
+          ],
+          "media_source_tweet_id": [
+            "2055231348340867207",
+            "2055231348340867207",
+            "2055231348340867207"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055529455091929562",
+        "created_at": "2026-05-16T06:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055529455091929562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1729889017049559040",
+              "start": 3,
+              "username": "Z_trainningAi"
+            },
+            {
+              "end": 49,
+              "id": "1648338630836989954",
+              "start": 38,
+              "username": "FangB68322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESmGV9yNfi",
+              "end": 92,
+              "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+              "media_key": "3_2055230980458475520",
+              "start": 69,
+              "url": "https://t.co/ESmGV9yNfi"
+            },
+            {
+              "display_url": "pic.x.com/ESmGV9yNfi",
+              "end": 92,
+              "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+              "media_key": "3_2055230980399779840",
+              "start": 69,
+              "url": "https://t.co/ESmGV9yNfi"
+            },
+            {
+              "display_url": "pic.x.com/ESmGV9yNfi",
+              "end": 92,
+              "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+              "media_key": "3_2055230980395618304",
+              "start": 69,
+              "url": "https://t.co/ESmGV9yNfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055529455091929562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055231348340867207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Z_trainningAi: 好累呜呜呜\n感觉自己摆的的好难看\n📷 @FangB68322 \n期待一手…吗？还是别期待了吧（哭） https://t.co/ESmGV9yNfi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055230980458475520",
+            "3_2055230980399779840",
+            "3_2055230980395618304"
+          ]
+        },
+        "author_id": "1729889017049559040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055231348340867207",
+        "created_at": "2026-05-15T10:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055231348340867207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1648338630836989954",
+              "start": 19,
+              "username": "FangB68322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESmGV9yNfi",
+              "end": 73,
+              "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+              "media_key": "3_2055230980458475520",
+              "start": 50,
+              "url": "https://t.co/ESmGV9yNfi"
+            },
+            {
+              "display_url": "pic.x.com/ESmGV9yNfi",
+              "end": 73,
+              "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+              "media_key": "3_2055230980399779840",
+              "start": 50,
+              "url": "https://t.co/ESmGV9yNfi"
+            },
+            {
+              "display_url": "pic.x.com/ESmGV9yNfi",
+              "end": 73,
+              "expanded_url": "https://x.com/Z_trainningAi/status/2055231348340867207/photo/1",
+              "media_key": "3_2055230980395618304",
+              "start": 50,
+              "url": "https://t.co/ESmGV9yNfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055231348340867207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2638,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "好累呜呜呜\n感觉自己摆的的好难看\n📷 @FangB68322 \n期待一手…吗？还是别期待了吧（哭） https://t.co/ESmGV9yNfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20500,
+          "following_count": 7996,
+          "like_count": 150658,
+          "listed_count": 49,
+          "media_count": 4181,
+          "tweet_count": 48506
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T15:44:50.000Z",
+        "description": "萌新kiger，偶尔写写代码（但现在几乎不写），求关注～\n喜欢色色…已经是淫娃了（笑）",
+        "id": "1729889017049559040",
+        "location": "Shanghai",
+        "name": "浅水基",
+        "pinned_tweet_id": "1958884473560338586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863181345603665920/8iUgpxq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 2433,
+          "like_count": 1510,
+          "listed_count": 17,
+          "media_count": 117,
+          "tweet_count": 768
+        },
+        "username": "Z_trainningAi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T14:52:34.000Z",
+        "description": "一个很普通很普通很普通的kiger",
+        "id": "1648338630836989954",
+        "name": "帝宝第一可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847224595159638016/7o90MSSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 44,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "FangB68322",
+        "verified": false
+      }
+    ]
+  }
+}

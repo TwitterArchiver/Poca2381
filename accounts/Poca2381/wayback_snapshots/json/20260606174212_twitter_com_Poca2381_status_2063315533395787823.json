@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063136390188294144"
+      ],
+      "media_source_tweet_id": [
+        "2063136407301070941"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2063315533395787823",
+    "created_at": "2026-06-06T17:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063315533395787823"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "原神"
+        },
+        {
+          "end": 92,
+          "start": 78,
+          "tag": "GenshinImpact"
+        },
+        {
+          "end": 95,
+          "start": 93,
+          "tag": "荧"
+        },
+        {
+          "end": 103,
+          "start": 96,
+          "tag": "Lumine"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "旅行者"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929536282004443136",
+          "start": 3,
+          "username": "misaka_14377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSDCvWHrKI",
+          "end": 132,
+          "expanded_url": "https://x.com/misaka_14377/status/2063136407301070941/photo/1",
+          "media_key": "3_2063136390188294144",
+          "start": 109,
+          "url": "https://t.co/nSDCvWHrKI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063315533395787823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063136407301070941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misaka_14377: 海风，沙滩，还有……被我抓到的你！👆\n难得换上新装来海边散步，别光顾着发呆啦，接下来的旅程也要和我一起同行哦！\n#原神 #GenshinImpact #荧 #Lumine #旅行者 https://t.co/nSDCvWHrKI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1541,
+        "media_key": "3_2063136390188294144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG7naxa4AA2-7C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063136390188294144"
+          ],
+          "media_source_tweet_id": [
+            "2063136407301070941"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2063315533395787823",
+        "created_at": "2026-06-06T17:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063315533395787823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "原神"
+            },
+            {
+              "end": 92,
+              "start": 78,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 95,
+              "start": 93,
+              "tag": "荧"
+            },
+            {
+              "end": 103,
+              "start": 96,
+              "tag": "Lumine"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "旅行者"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929536282004443136",
+              "start": 3,
+              "username": "misaka_14377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSDCvWHrKI",
+              "end": 132,
+              "expanded_url": "https://x.com/misaka_14377/status/2063136407301070941/photo/1",
+              "media_key": "3_2063136390188294144",
+              "start": 109,
+              "url": "https://t.co/nSDCvWHrKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063315533395787823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063136407301070941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misaka_14377: 海风，沙滩，还有……被我抓到的你！👆\n难得换上新装来海边散步，别光顾着发呆啦，接下来的旅程也要和我一起同行哦！\n#原神 #GenshinImpact #荧 #Lumine #旅行者 https://t.co/nSDCvWHrKI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063136390188294144"
+          ]
+        },
+        "author_id": "1929536282004443136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2063136407301070941",
+        "created_at": "2026-06-06T05:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063136407301070941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "原神"
+            },
+            {
+              "end": 74,
+              "start": 60,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 77,
+              "start": 75,
+              "tag": "荧"
+            },
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "Lumine"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "旅行者"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSDCvWHrKI",
+              "end": 114,
+              "expanded_url": "https://x.com/misaka_14377/status/2063136407301070941/photo/1",
+              "media_key": "3_2063136390188294144",
+              "start": 91,
+              "url": "https://t.co/nSDCvWHrKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063136407301070941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 271,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "海风，沙滩，还有……被我抓到的你！👆\n难得换上新装来海边散步，别光顾着发呆啦，接下来的旅程也要和我一起同行哦！\n#原神 #GenshinImpact #荧 #Lumine #旅行者 https://t.co/nSDCvWHrKI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21458,
+          "following_count": 8954,
+          "like_count": 151801,
+          "listed_count": 52,
+          "media_count": 4603,
+          "tweet_count": 50517
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T13:51:37.000Z",
+        "description": "kiger 刻晴/荧/可能的neuro手搓中\n学地理吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/B2iCjipLE9"
+              }
+            ]
+          }
+        },
+        "id": "1929536282004443136",
+        "location": "虚假之天",
+        "name": "丹霞²",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037513224191639552/0HKmCLik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 432,
+          "like_count": 2919,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/B2iCjipLE9",
+        "username": "misaka_14377",
+        "verified": false
+      }
+    ]
+  }
+}

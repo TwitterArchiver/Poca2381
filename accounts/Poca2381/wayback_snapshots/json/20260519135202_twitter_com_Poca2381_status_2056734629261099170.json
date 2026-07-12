@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052786145193541632"
+      ],
+      "media_source_tweet_id": [
+        "2052786149475967030"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2056734629261099170",
+    "created_at": "2026-05-19T13:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056734629261099170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047679401400373248",
+          "start": 3,
+          "username": "Hysteriadie0331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7aXf7OgyIj",
+          "end": 44,
+          "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+          "media_key": "3_2052786145193541632",
+          "start": 21,
+          "url": "https://t.co/7aXf7OgyIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056734629261099170",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052786149475967030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hysteriadie0331: https://t.co/7aXf7OgyIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_2052786145193541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz2H3gawAAFcdL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786145193541632"
+          ],
+          "media_source_tweet_id": [
+            "2052786149475967030"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2056734629261099170",
+        "created_at": "2026-05-19T13:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056734629261099170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047679401400373248",
+              "start": 3,
+              "username": "Hysteriadie0331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aXf7OgyIj",
+              "end": 44,
+              "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+              "media_key": "3_2052786145193541632",
+              "start": 21,
+              "url": "https://t.co/7aXf7OgyIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056734629261099170",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052786149475967030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hysteriadie0331: https://t.co/7aXf7OgyIj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786145193541632"
+          ]
+        },
+        "author_id": "2047679401400373248",
+        "conversation_id": "2052786149475967030",
+        "created_at": "2026-05-08T16:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052786149475967030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aXf7OgyIj",
+              "end": 23,
+              "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+              "media_key": "3_2052786145193541632",
+              "start": 0,
+              "url": "https://t.co/7aXf7OgyIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786149475967030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 28572,
+          "like_count": 693,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7aXf7OgyIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20621,
+          "following_count": 8151,
+          "like_count": 150819,
+          "listed_count": 50,
+          "media_count": 4246,
+          "tweet_count": 48803
+        },
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "未知（抑郁期）｜\n09年｜mtf｜中度GD🏳️‍⚧️｜重启hrt:2026.05.01🍥｜有易性症病历｜家长反对党｜天残党｜INFP-T｜逆来顺受｜BPD｜同类fo｜请和咱交朋友嘛~｜疑似精神病患者（有病历）｜咱不喜欢屏蔽\n人，被屏蔽会特别难过...｜一只小透明\n‖‖聊天群:1101059788‖‖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hysteriadie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hysteriadie",
+                "start": 0,
+                "url": "https://t.co/TRsizLBvcB"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet and Paradise",
+        "name": "现实里不存在🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053486082222870753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054292156043726848/LkhQERS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 353,
+          "like_count": 85,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/TRsizLBvcB",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

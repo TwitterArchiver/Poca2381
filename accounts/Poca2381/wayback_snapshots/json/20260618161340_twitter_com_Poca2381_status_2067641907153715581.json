@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2049544181459083464",
+    "created_at": "2026-06-18T16:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067641907153715581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1264040102419771392",
+          "start": 0,
+          "username": "slothsword"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067641907153715581",
+    "in_reply_to_user_id": "1264040102419771392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049544181459083464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slothsword 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049543828752003073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFxQNhbcAEoTD-.jpg",
+        "width": 1760
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049543828697235456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFxQNUXwAAWoj9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2049544181459083464",
+        "created_at": "2026-06-18T16:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067641907153715581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1264040102419771392",
+              "start": 0,
+              "username": "slothsword"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067641907153715581",
+        "in_reply_to_user_id": "1264040102419771392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049544181459083464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slothsword 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049543828752003073",
+            "3_2049543828697235456"
+          ]
+        },
+        "author_id": "1264040102419771392",
+        "conversation_id": "2049544181459083464",
+        "created_at": "2026-04-29T17:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049544181459083464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "早露"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fifLGmbCvL",
+              "end": 29,
+              "expanded_url": "https://x.com/slothsword/status/2049544181459083464/photo/1",
+              "media_key": "3_2049543828752003073",
+              "start": 6,
+              "url": "https://t.co/fifLGmbCvL"
+            },
+            {
+              "display_url": "pic.x.com/fifLGmbCvL",
+              "end": 29,
+              "expanded_url": "https://x.com/slothsword/status/2049544181459083464/photo/1",
+              "media_key": "3_2049543828697235456",
+              "start": 6,
+              "url": "https://t.co/fifLGmbCvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049544181459083464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 334,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🐻\n#早露 https://t.co/fifLGmbCvL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22056,
+          "following_count": 9459,
+          "like_count": 152367,
+          "listed_count": 52,
+          "media_count": 4911,
+          "tweet_count": 51833
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-23T03:47:08.000Z",
+        "description": "韶华不为少年留，恨悠悠，几时休？",
+        "id": "1264040102419771392",
+        "name": "slothsword",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958927010652360704/pqnyKtYa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 2464,
+          "like_count": 1772,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 218
+        },
+        "username": "slothsword",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2060783845939814711",
+    "created_at": "2026-05-30T18:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060783845939814711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1133106591299825664",
+          "start": 3,
+          "username": "shizut0y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060783845939814711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059994567567675442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shizut0y0: 当自己最爱的角色们在现实中同时出现，同样还原了她们最完美的模样且带有个人的风格，虽然不同来源但也能一起互动，比任何官方联动更有价值。大家不只能展示出角色最可爱的一面，还找到兴趣相投的朋友，共同留下了无价的回忆。所以一起玩kig是多么有意思呢\n\n智乃…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060783845939814711].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060783845939814711",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060783845939814711"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059994563109085184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaSJA1aYAAT6T-.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059994563109085184"
+          ]
+        },
+        "author_id": "1133106591299825664",
+        "conversation_id": "2059994567567675442",
+        "created_at": "2026-05-28T13:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059994567567675442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 140,
+              "id": "1681661969995104260",
+              "start": 126,
+              "username": "SeaRabbit1024"
+            },
+            {
+              "end": 154,
+              "id": "1842831722775506944",
+              "start": 147,
+              "username": "cjlk__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usWKzHYPEu",
+              "end": 178,
+              "expanded_url": "https://x.com/shizut0y0/status/2059994567567675442/photo/1",
+              "media_key": "3_2059994563109085184",
+              "start": 155,
+              "url": "https://t.co/usWKzHYPEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059994567567675442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5143,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "当自己最爱的角色们在现实中同时出现，同样还原了她们最完美的模样且带有个人的风格，虽然不同来源但也能一起互动，比任何官方联动更有价值。大家不只能展示出角色最可爱的一面，还找到兴趣相投的朋友，共同留下了无价的回忆。所以一起玩kig是多么有意思呢\n\n智乃是 @SeaRabbit1024\n感谢摄影师 @cjlk__ https://t.co/usWKzHYPEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21132,
+          "following_count": 8686,
+          "like_count": 151448,
+          "listed_count": 51,
+          "media_count": 4458,
+          "tweet_count": 49870
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-27T20:23:58.000Z",
+        "description": "kiger+写作家。更多作品全文链接： https://t.co/cxNA5dUsyc |  更多特别内容： https://t.co/JmMvHEc3Rz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43489008",
+                "end": 43,
+                "expanded_url": "https://pixiv.net/users/43489008",
+                "start": 20,
+                "url": "https://t.co/cxNA5dUsyc"
+              },
+              {
+                "display_url": "fantia.jp/shizutoyo",
+                "end": 78,
+                "expanded_url": "https://fantia.jp/shizutoyo",
+                "start": 55,
+                "url": "https://t.co/JmMvHEc3Rz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/498761",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/498761",
+                "start": 0,
+                "url": "https://t.co/MyZbJZ94DW"
+              }
+            ]
+          }
+        },
+        "id": "1133106591299825664",
+        "name": "静丰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958906743205036032/r0FLoF75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42582,
+          "following_count": 1505,
+          "like_count": 28100,
+          "listed_count": 190,
+          "media_count": 497,
+          "tweet_count": 3868
+        },
+        "url": "https://t.co/MyZbJZ94DW",
+        "username": "shizut0y0",
+        "verified": false
+      }
+    ]
+  }
+}

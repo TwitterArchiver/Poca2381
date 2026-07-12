@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064933316625883136"
+      ],
+      "media_source_tweet_id": [
+        "2064933405339590745"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2065631229245006300",
+    "created_at": "2026-06-13T03:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065631229245006300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1531087822471323648",
+          "start": 3,
+          "username": "YaeTeaParty"
+        },
+        {
+          "end": 52,
+          "id": "855625390877843456",
+          "start": 37,
+          "username": "DF11_0018_Tang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2j4W3AsXa",
+          "end": 76,
+          "expanded_url": "https://x.com/YaeTeaParty/status/2064933405339590745/video/1",
+          "media_key": "7_2064933316625883136",
+          "start": 53,
+          "url": "https://t.co/D2j4W3AsXa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065631229245006300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064933405339590745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YaeTeaParty: 回眸再看你一眼，你愿意跟上来么？\n📷： @DF11_0018_Tang https://t.co/D2j4W3AsXa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7545,
+        "height": 1280,
+        "media_key": "7_2064933316625883136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064933316625883136/pu/img/AWyt04SYLw-ST74W.jpg",
+        "public_metrics": {
+          "view_count": 1558
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064933316625883136/pu/vid/avc1/320x568/NEoC-ed1-aVDNz2L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064933316625883136/pu/vid/avc1/480x852/s9eiXbaUMkWjArz2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064933316625883136/pu/vid/avc1/720x1280/wd8V_7PKC0Z2QEMA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064933316625883136/pu/pl/DvzCMWxZ3MkfOJ8N.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064933316625883136"
+          ],
+          "media_source_tweet_id": [
+            "2064933405339590745"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2065631229245006300",
+        "created_at": "2026-06-13T03:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065631229245006300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531087822471323648",
+              "start": 3,
+              "username": "YaeTeaParty"
+            },
+            {
+              "end": 52,
+              "id": "855625390877843456",
+              "start": 37,
+              "username": "DF11_0018_Tang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2j4W3AsXa",
+              "end": 76,
+              "expanded_url": "https://x.com/YaeTeaParty/status/2064933405339590745/video/1",
+              "media_key": "7_2064933316625883136",
+              "start": 53,
+              "url": "https://t.co/D2j4W3AsXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065631229245006300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064933405339590745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YaeTeaParty: 回眸再看你一眼，你愿意跟上来么？\n📷： @DF11_0018_Tang https://t.co/D2j4W3AsXa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064933316625883136"
+          ]
+        },
+        "author_id": "1531087822471323648",
+        "conversation_id": "2064933405339590745",
+        "created_at": "2026-06-11T04:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064933405339590745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "855625390877843456",
+              "start": 20,
+              "username": "DF11_0018_Tang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2j4W3AsXa",
+              "end": 59,
+              "expanded_url": "https://x.com/YaeTeaParty/status/2064933405339590745/video/1",
+              "media_key": "7_2064933316625883136",
+              "start": 36,
+              "url": "https://t.co/D2j4W3AsXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064933405339590745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 7153,
+          "like_count": 560,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "回眸再看你一眼，你愿意跟上来么？\n📷： @DF11_0018_Tang https://t.co/D2j4W3AsXa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21779,
+          "following_count": 9282,
+          "like_count": 152156,
+          "listed_count": 52,
+          "media_count": 4775,
+          "tweet_count": 51347
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-30T01:40:03.000Z",
+        "description": "嗨～这里八重崎椿，可以叫我八重，也可以叫我小椿～随你喜欢，哪个都行w是个有点奇怪xp的kiger！目前角色是爱莉希雅～会不定时更新自己的娃照，希望大家喜欢！对了现居湖北武汉w",
+        "id": "1531087822471323648",
+        "location": "Hubei",
+        "name": "八重崎椿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952590602673303552/tFCosDpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27420,
+          "following_count": 328,
+          "like_count": 1828,
+          "listed_count": 129,
+          "media_count": 237,
+          "tweet_count": 680
+        },
+        "username": "YaeTeaParty",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-22T03:32:44.000Z",
+        "description": "这里是糖糖！tiktok：刻清",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/3314987967",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/3314987967",
+                "start": 0,
+                "url": "https://t.co/ahVJYBAkmb"
+              }
+            ]
+          }
+        },
+        "id": "855625390877843456",
+        "location": "广东·深圳",
+        "name": "刻清",
+        "pinned_tweet_id": "2024785340842774647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747073911932780544/FtdL_yDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 180,
+          "like_count": 516,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/ahVJYBAkmb",
+        "username": "DF11_0018_Tang",
+        "verified": false
+      }
+    ]
+  }
+}

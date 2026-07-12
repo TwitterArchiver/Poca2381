@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2063809804154610010",
+    "created_at": "2026-06-08T09:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063917750502965649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1172891041336180736",
+          "start": 0,
+          "username": "nai9666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063917750502965649",
+    "in_reply_to_user_id": "1172891041336180736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063809804154610010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nai9666 燃尽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063809800908210176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQgFFMagAAmJDH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063809804154610010",
+        "created_at": "2026-06-08T09:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063917750502965649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1172891041336180736",
+              "start": 0,
+              "username": "nai9666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063917750502965649",
+        "in_reply_to_user_id": "1172891041336180736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063809804154610010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nai9666 燃尽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063809800908210176"
+          ]
+        },
+        "author_id": "1172891041336180736",
+        "conversation_id": "2063809804154610010",
+        "created_at": "2026-06-08T02:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063809804154610010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1W4dhPtkD",
+              "end": 31,
+              "expanded_url": "https://x.com/nai9666/status/2063809804154610010/photo/1",
+              "media_key": "3_2063809800908210176",
+              "start": 8,
+              "url": "https://t.co/s1W4dhPtkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063809804154610010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 4410,
+          "like_count": 397,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "不想再战斗了… https://t.co/s1W4dhPtkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21556,
+          "following_count": 9032,
+          "like_count": 151932,
+          "listed_count": 52,
+          "media_count": 4635,
+          "tweet_count": 50715
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-14T15:13:18.000Z",
+        "description": "塑料大头玩家，不算老资历",
+        "id": "1172891041336180736",
+        "location": "Guangdong",
+        "name": "Kyu",
+        "pinned_tweet_id": "1945036918976102486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052066306757951489/wmxglciw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41314,
+          "following_count": 1123,
+          "like_count": 3686,
+          "listed_count": 169,
+          "media_count": 159,
+          "tweet_count": 1119
+        },
+        "username": "nai9666",
+        "verified": false
+      }
+    ]
+  }
+}

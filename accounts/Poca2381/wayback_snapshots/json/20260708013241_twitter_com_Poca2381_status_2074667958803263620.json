@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074406757238259712"
+      ],
+      "media_source_tweet_id": [
+        "2074406831590699139"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2074667958803263620",
+    "created_at": "2026-07-08T01:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074667958803263620"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 59,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779801557816733696",
+          "start": 3,
+          "username": "Huan___Meng"
+        },
+        {
+          "end": 43,
+          "id": "1522044421486768128",
+          "start": 31,
+          "username": "Xiaonai0398"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AakG5oMWrM",
+          "end": 92,
+          "expanded_url": "https://x.com/Huan___Meng/status/2074406831590699139/video/1",
+          "media_key": "13_2074406757238259712",
+          "start": 69,
+          "url": "https://t.co/AakG5oMWrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074667958803263620",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074406831590699139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huan___Meng: 好像走错房间了...\n妃咲：@Xiaonai0398 \n小春入替：Eldarian\n#kigurumi https://t.co/AakG5oMWrM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11330,
+        "height": 1280,
+        "media_key": "13_2074406757238259712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074406757238259712/img/oZRlSQiNzyQue2UG.jpg",
+        "public_metrics": {
+          "view_count": 3378
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074406757238259712/vid/avc1/320x568/4UxF8GC5eTO9coEO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074406757238259712/vid/avc1/480x852/W_0owuY3zec5qQMR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074406757238259712/vid/avc1/720x1280/IAn_oFto5UYt1XL8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074406757238259712/pl/clsx48_0ysB9itez.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074406757238259712"
+          ],
+          "media_source_tweet_id": [
+            "2074406831590699139"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2074667958803263620",
+        "created_at": "2026-07-08T01:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074667958803263620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 59,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779801557816733696",
+              "start": 3,
+              "username": "Huan___Meng"
+            },
+            {
+              "end": 43,
+              "id": "1522044421486768128",
+              "start": 31,
+              "username": "Xiaonai0398"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AakG5oMWrM",
+              "end": 92,
+              "expanded_url": "https://x.com/Huan___Meng/status/2074406831590699139/video/1",
+              "media_key": "13_2074406757238259712",
+              "start": 69,
+              "url": "https://t.co/AakG5oMWrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074667958803263620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074406831590699139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huan___Meng: 好像走错房间了...\n妃咲：@Xiaonai0398 \n小春入替：Eldarian\n#kigurumi https://t.co/AakG5oMWrM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074406757238259712"
+          ]
+        },
+        "author_id": "1779801557816733696",
+        "conversation_id": "2074406831590699139",
+        "created_at": "2026-07-07T08:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074406831590699139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1522044421486768128",
+              "start": 14,
+              "username": "Xiaonai0398"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AakG5oMWrM",
+              "end": 75,
+              "expanded_url": "https://x.com/Huan___Meng/status/2074406831590699139/video/1",
+              "media_key": "13_2074406757238259712",
+              "start": 52,
+              "url": "https://t.co/AakG5oMWrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074406831590699139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 8038,
+          "like_count": 426,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "好像走错房间了...\n妃咲：@Xiaonai0398 \n小春入替：Eldarian\n#kigurumi https://t.co/AakG5oMWrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22558,
+          "following_count": 9845,
+          "like_count": 153029,
+          "listed_count": 51,
+          "media_count": 5297,
+          "tweet_count": 53331
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-15T09:19:13.000Z",
+        "description": "这里是幻梦！喜欢kig，音乐🎼和绳子🪢 →角色是伊蕾娜，才羽桃井，下江小春 →想要贴贴更多的娃！！！",
+        "id": "1779801557816733696",
+        "location": "武汉",
+        "name": "幻梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032816139538214912/jlgDPw6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5260,
+          "following_count": 372,
+          "like_count": 600,
+          "listed_count": 28,
+          "media_count": 93,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "Huan___Meng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T02:44:21.000Z",
+        "description": "一名武汉萌新kiger！| 想认识跟多娃娃，欢迎私信扩列|目前已有角色是空银子、小鸟游星野 、 荧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xiaona…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xiaonai0398.bsky.social",
+                "start": 0,
+                "url": "https://t.co/mErgT3FYiw"
+              }
+            ]
+          }
+        },
+        "id": "1522044421486768128",
+        "location": "武汉",
+        "name": "小奈",
+        "pinned_tweet_id": "1990450706692837413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757817278341746688/37s4893Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8532,
+          "following_count": 807,
+          "like_count": 4340,
+          "listed_count": 52,
+          "media_count": 244,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/mErgT3FYiw",
+        "username": "Xiaonai0398",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068606376751046657"
+      ],
+      "media_source_tweet_id": [
+        "2068606387484299285"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2069305355759394859",
+    "created_at": "2026-06-23T06:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069305355759394859"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 52,
+          "tag": "東方Project"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "桑尼"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "例大祭"
+        },
+        {
+          "end": 81,
+          "start": 72,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499400860106833922",
+          "start": 3,
+          "username": "Nyanko_Texas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gyQT33DZuM",
+          "end": 105,
+          "expanded_url": "https://x.com/Nyanko_Texas/status/2068606387484299285/photo/1",
+          "media_key": "3_2068606376751046657",
+          "start": 82,
+          "url": "https://t.co/gyQT33DZuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069305355759394859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068606387484299285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nyanko_Texas: 昨天台灣例大祭\n桑尼玩爽了呢~\n\n希望下次能再來~\n桑尼是我喔~\n\n#東方Project #桑尼 #例大祭 #kigurumi https://t.co/gyQT33DZuM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068606376751046657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUqiipaoAE0m0P.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068606376751046657"
+          ],
+          "media_source_tweet_id": [
+            "2068606387484299285"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2069305355759394859",
+        "created_at": "2026-06-23T06:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069305355759394859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "東方Project"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "桑尼"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "例大祭"
+            },
+            {
+              "end": 81,
+              "start": 72,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499400860106833922",
+              "start": 3,
+              "username": "Nyanko_Texas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyQT33DZuM",
+              "end": 105,
+              "expanded_url": "https://x.com/Nyanko_Texas/status/2068606387484299285/photo/1",
+              "media_key": "3_2068606376751046657",
+              "start": 82,
+              "url": "https://t.co/gyQT33DZuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069305355759394859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068606387484299285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nyanko_Texas: 昨天台灣例大祭\n桑尼玩爽了呢~\n\n希望下次能再來~\n桑尼是我喔~\n\n#東方Project #桑尼 #例大祭 #kigurumi https://t.co/gyQT33DZuM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068606376751046657"
+          ]
+        },
+        "author_id": "1499400860106833922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2068606387484299285",
+        "created_at": "2026-06-21T08:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068606387484299285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 34,
+              "tag": "東方Project"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "桑尼"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "例大祭"
+            },
+            {
+              "end": 63,
+              "start": 54,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyQT33DZuM",
+              "end": 87,
+              "expanded_url": "https://x.com/Nyanko_Texas/status/2068606387484299285/photo/1",
+              "media_key": "3_2068606376751046657",
+              "start": 64,
+              "url": "https://t.co/gyQT33DZuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068606387484299285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1359,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "昨天台灣例大祭\n桑尼玩爽了呢~\n\n希望下次能再來~\n桑尼是我喔~\n\n#東方Project #桑尼 #例大祭 #kigurumi https://t.co/gyQT33DZuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22205,
+          "following_count": 9561,
+          "like_count": 152554,
+          "listed_count": 52,
+          "media_count": 5001,
+          "tweet_count": 52203
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T15:06:56.000Z",
+        "description": "一個玩貓戰的kigurumi萌新，也玩其他遊戲的！\n目前角色：京坂七穗/因幡帝",
+        "id": "1499400860106833922",
+        "name": "Quality.Nyanko",
+        "pinned_tweet_id": "2016841571157889355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016515819480526849/XlAR0wOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 336,
+          "like_count": 4371,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Nyanko_Texas",
+        "verified": false
+      }
+    ]
+  }
+}

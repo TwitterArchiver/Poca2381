@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056513348532051968",
+        "3_2056513375774056448"
+      ],
+      "media_source_tweet_id": [
+        "2056513387891507558",
+        "2056513387891507558"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      }
+    ],
+    "conversation_id": "2056825481073422351",
+    "created_at": "2026-05-19T19:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056825481073422351"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "kemono"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647306105977180160",
+          "start": 3,
+          "username": "SNOWING0519"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3yQxrtOYT",
+          "end": 73,
+          "expanded_url": "https://x.com/SNOWING0519/status/2056513387891507558/photo/1",
+          "media_key": "3_2056513348532051968",
+          "start": 50,
+          "url": "https://t.co/K3yQxrtOYT"
+        },
+        {
+          "display_url": "pic.x.com/K3yQxrtOYT",
+          "end": 73,
+          "expanded_url": "https://x.com/SNOWING0519/status/2056513387891507558/photo/1",
+          "media_key": "3_2056513375774056448",
+          "start": 50,
+          "url": "https://t.co/K3yQxrtOYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056825481073422351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056513387891507558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SNOWING0519: 5/19\n今天是我的生日\nHB to ME !!\n#kemono https://t.co/K3yQxrtOYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2056513348532051968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoz_p8aIAAys8p.jpg",
+        "width": 1524
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056513375774056448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIo0BPbaIAAofAq.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056513348532051968",
+            "3_2056513375774056448"
+          ],
+          "media_source_tweet_id": [
+            "2056513387891507558",
+            "2056513387891507558"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2056825481073422351",
+        "created_at": "2026-05-19T19:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056825481073422351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "kemono"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647306105977180160",
+              "start": 3,
+              "username": "SNOWING0519"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3yQxrtOYT",
+              "end": 73,
+              "expanded_url": "https://x.com/SNOWING0519/status/2056513387891507558/photo/1",
+              "media_key": "3_2056513348532051968",
+              "start": 50,
+              "url": "https://t.co/K3yQxrtOYT"
+            },
+            {
+              "display_url": "pic.x.com/K3yQxrtOYT",
+              "end": 73,
+              "expanded_url": "https://x.com/SNOWING0519/status/2056513387891507558/photo/1",
+              "media_key": "3_2056513375774056448",
+              "start": 50,
+              "url": "https://t.co/K3yQxrtOYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056825481073422351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056513387891507558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SNOWING0519: 5/19\n今天是我的生日\nHB to ME !!\n#kemono https://t.co/K3yQxrtOYT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056513348532051968",
+            "3_2056513375774056448"
+          ]
+        },
+        "author_id": "1647306105977180160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2056513387891507558",
+        "created_at": "2026-05-18T23:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056513387891507558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "kemono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3yQxrtOYT",
+              "end": 56,
+              "expanded_url": "https://x.com/SNOWING0519/status/2056513387891507558/photo/1",
+              "media_key": "3_2056513348532051968",
+              "start": 33,
+              "url": "https://t.co/K3yQxrtOYT"
+            },
+            {
+              "display_url": "pic.x.com/K3yQxrtOYT",
+              "end": 56,
+              "expanded_url": "https://x.com/SNOWING0519/status/2056513387891507558/photo/1",
+              "media_key": "3_2056513375774056448",
+              "start": 33,
+              "url": "https://t.co/K3yQxrtOYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056513387891507558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5647,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "5/19\n今天是我的生日\nHB to ME !!\n#kemono https://t.co/K3yQxrtOYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20634,
+          "following_count": 8188,
+          "like_count": 150865,
+          "listed_count": 50,
+          "media_count": 4255,
+          "tweet_count": 48858
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T18:29:24.000Z",
+        "description": "中文︱English |日本語（学习中） 高中生 \nPFP and BANNER｜Midori💚NEKO: @Kenaru_ 🌿最高最強一番の骨猫！！！\nDiscord: @snowing0519\n🈲政治敏感",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "Kenaru_"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "snowing0519"
+              }
+            ]
+          }
+        },
+        "id": "1647306105977180160",
+        "location": "SUPER ANIMAL WORLD",
+        "name": "斯诺SNOW | スノ",
+        "pinned_tweet_id": "1870281025454256158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025407116065079297/-GjEpH2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 807,
+          "like_count": 41541,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2524
+        },
+        "username": "SNOWING0519",
+        "verified": false
+      }
+    ]
+  }
+}

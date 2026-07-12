@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2057110078051012661",
+    "created_at": "2026-05-20T15:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057124560118714414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "730166535357136896",
+          "start": 0,
+          "username": "takusan1121"
+        },
+        {
+          "end": 24,
+          "id": "1360393688136912896",
+          "start": 13,
+          "username": "Kuma_kiger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057124560118714414",
+    "in_reply_to_user_id": "730166535357136896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057110078051012661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takusan1121 @Kuma_kiger 可爱~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2057110071612674048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxStgpaEAAC8QB.jpg",
+        "width": 800
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2057110071570780160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxStgfa0AAIT7e.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2057110078051012661",
+        "created_at": "2026-05-20T15:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057124560118714414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "730166535357136896",
+              "start": 0,
+              "username": "takusan1121"
+            },
+            {
+              "end": 24,
+              "id": "1360393688136912896",
+              "start": 13,
+              "username": "Kuma_kiger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057124560118714414",
+        "in_reply_to_user_id": "730166535357136896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057110078051012661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takusan1121 @Kuma_kiger 可爱~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057110071612674048",
+            "3_2057110071570780160"
+          ]
+        },
+        "author_id": "730166535357136896",
+        "conversation_id": "2057110078051012661",
+        "created_at": "2026-05-20T14:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057110078051012661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 59,
+              "id": "1360393688136912896",
+              "start": 48,
+              "username": "Kuma_kiger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlSvZTD0rJ",
+              "end": 100,
+              "expanded_url": "https://x.com/takusan1121/status/2057110078051012661/photo/1",
+              "media_key": "3_2057110071612674048",
+              "start": 77,
+              "url": "https://t.co/GlSvZTD0rJ"
+            },
+            {
+              "display_url": "pic.x.com/GlSvZTD0rJ",
+              "end": 100,
+              "expanded_url": "https://x.com/takusan1121/status/2057110078051012661/photo/1",
+              "media_key": "3_2057110071570780160",
+              "start": 77,
+              "url": "https://t.co/GlSvZTD0rJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057110078051012661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 284,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "520か...\nよくわからない、でもこの日は、世界の他の地域における愛を象徴する日です。\n\n📷:@Kuma_kiger \n#kigurumi #着ぐるみ https://t.co/GlSvZTD0rJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20688,
+          "following_count": 8240,
+          "like_count": 150933,
+          "listed_count": 50,
+          "media_count": 4268,
+          "tweet_count": 48955
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-10T22:44:02.000Z",
+        "description": "kigurumi愛好者+初心者，新人攝，音遊人\n主打mai/chuni/pjsk\n因為工作關係更新會比較慢",
+        "id": "730166535357136896",
+        "location": "Hong Kong",
+        "name": "タクさん",
+        "pinned_tweet_id": "2016368780226777154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011223195098177536/hAjOF_L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 248,
+          "like_count": 2272,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 126
+        },
+        "username": "takusan1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T01:01:57.000Z",
+        "description": "完成必須完成的長久任務以及努力成為自己喜歡的角色 ｜着ぐるみ ｜kigurumi｜",
+        "id": "1360393688136912896",
+        "location": "Hong Kong",
+        "name": "Kuma！",
+        "pinned_tweet_id": "1791484022469828785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801446624016875520/rdpErR5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 959,
+          "like_count": 5656,
+          "listed_count": 12,
+          "media_count": 111,
+          "tweet_count": 2593
+        },
+        "username": "Kuma_kiger",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074002418451542016"
+      ],
+      "media_source_tweet_id": [
+        "2074009567772778883"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2074418389238554842",
+    "created_at": "2026-07-07T09:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074418389238554842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mSjaduqtyC",
+          "end": 42,
+          "expanded_url": "https://x.com/Alice__486/status/2074009567772778883/photo/1",
+          "media_key": "3_2074002418451542016",
+          "start": 19,
+          "url": "https://t.co/mSjaduqtyC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074418389238554842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074009567772778883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 双子 https://t.co/mSjaduqtyC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2074002418451542016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhWNgca8AAwzwL.jpg",
+        "width": 3363
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074002418451542016"
+          ],
+          "media_source_tweet_id": [
+            "2074009567772778883"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2074418389238554842",
+        "created_at": "2026-07-07T09:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074418389238554842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090136700741812224",
+              "start": 3,
+              "username": "Alice__486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSjaduqtyC",
+              "end": 42,
+              "expanded_url": "https://x.com/Alice__486/status/2074009567772778883/photo/1",
+              "media_key": "3_2074002418451542016",
+              "start": 19,
+              "url": "https://t.co/mSjaduqtyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074418389238554842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074009567772778883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alice__486: 双子 https://t.co/mSjaduqtyC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074002418451542016"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "description",
+              "id": "1978712361704841216",
+              "name": "test_1016"
+            }
+          }
+        ],
+        "conversation_id": "2074009567772778883",
+        "created_at": "2026-07-06T05:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074009567772778883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSjaduqtyC",
+              "end": 26,
+              "expanded_url": "https://x.com/Alice__486/status/2074009567772778883/photo/1",
+              "media_key": "3_2074002418451542016",
+              "start": 3,
+              "url": "https://t.co/mSjaduqtyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074009567772778883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 16350,
+          "like_count": 1213,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "双子 https://t.co/mSjaduqtyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22549,
+          "following_count": 9839,
+          "like_count": 152999,
+          "listed_count": 51,
+          "media_count": 5285,
+          "tweet_count": 53264
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2024770539202695182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29332,
+          "following_count": 1706,
+          "like_count": 52753,
+          "listed_count": 102,
+          "media_count": 997,
+          "tweet_count": 15562
+        },
+        "url": "",
+        "username": "Alice__486",
+        "verified": true
+      }
+    ]
+  }
+}

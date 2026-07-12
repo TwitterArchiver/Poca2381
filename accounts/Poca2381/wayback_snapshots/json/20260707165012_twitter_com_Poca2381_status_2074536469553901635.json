@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057808965170536448"
+      ],
+      "media_source_tweet_id": [
+        "2057809006421545370"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2074536469553901635",
+    "created_at": "2026-07-07T16:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074536469553901635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0rLLAdEYOP",
+          "end": 60,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2057809006421545370/photo/1",
+          "media_key": "3_2057808965170536448",
+          "start": 37,
+          "url": "https://t.co/0rLLAdEYOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074536469553901635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057809006421545370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 如果和你一起教培，你可以叫我宝宝吗 https://t.co/0rLLAdEYOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2057808965170536448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7OWeCaoAAGh8x.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057808965170536448"
+          ],
+          "media_source_tweet_id": [
+            "2057809006421545370"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2074536469553901635",
+        "created_at": "2026-07-07T16:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074536469553901635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rLLAdEYOP",
+              "end": 60,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2057809006421545370/photo/1",
+              "media_key": "3_2057808965170536448",
+              "start": 37,
+              "url": "https://t.co/0rLLAdEYOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074536469553901635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057809006421545370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 如果和你一起教培，你可以叫我宝宝吗 https://t.co/0rLLAdEYOP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057808965170536448"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2057809006421545370",
+        "created_at": "2026-05-22T13:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057809006421545370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rLLAdEYOP",
+              "end": 41,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2057809006421545370/photo/1",
+              "media_key": "3_2057808965170536448",
+              "start": 18,
+              "url": "https://t.co/0rLLAdEYOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057809006421545370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 53357,
+          "like_count": 951,
+          "quote_count": 0,
+          "reply_count": 190,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "如果和你一起教培，你可以叫我宝宝吗 https://t.co/0rLLAdEYOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22553,
+          "following_count": 9844,
+          "like_count": 153015,
+          "listed_count": 51,
+          "media_count": 5290,
+          "tweet_count": 53290
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2057809006421545370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95322,
+          "following_count": 1558,
+          "like_count": 6280,
+          "listed_count": 208,
+          "media_count": 238,
+          "tweet_count": 2549
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "2060344226790146225",
+    "created_at": "2026-05-29T12:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060344226790146225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060344226790146225",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059929316822032891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: seems like X has enabled automatic translation now\n\nmy fellas, has my post been translated into Chinese by X? https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059929266540732421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZWwQKXYAUjAt0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2060344226790146225",
+        "created_at": "2026-05-29T12:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060344226790146225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060344226790146225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059929316822032891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: seems like X has enabled automatic translation now\n\nmy fellas, has my post been translated into Chinese by X? https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059929266540732421"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2059929316822032891",
+        "created_at": "2026-05-28T09:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059929316822032891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDnA7cWWtX",
+              "end": 133,
+              "expanded_url": "https://x.com/careforme123/status/2059929316822032891/photo/1",
+              "media_key": "3_2059929266540732421",
+              "start": 110,
+              "url": "https://t.co/yDnA7cWWtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059929316822032891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 38361,
+          "like_count": 599,
+          "quote_count": 1,
+          "reply_count": 301,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "seems like X has enabled automatic translation now\n\nmy fellas, has my post been translated into Chinese by X? https://t.co/yDnA7cWWtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21078,
+          "following_count": 8608,
+          "like_count": 151336,
+          "listed_count": 51,
+          "media_count": 4438,
+          "tweet_count": 49710
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 741,
+          "like_count": 6498,
+          "listed_count": 5,
+          "media_count": 666,
+          "tweet_count": 2618
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}
