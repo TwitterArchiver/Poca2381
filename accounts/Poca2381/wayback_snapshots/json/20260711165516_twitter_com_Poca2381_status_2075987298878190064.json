@@ -1,0 +1,629 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075561481937301505",
+        "3_2075561481962414081",
+        "3_2075561481954115585"
+      ],
+      "media_source_tweet_id": [
+        "2075561488539111872",
+        "2075561488539111872",
+        "2075561488539111872"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2075987298878190064",
+    "created_at": "2026-07-11T16:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075987298878190064"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 63,
+          "tag": "hololive"
+        },
+        {
+          "end": 79,
+          "start": 73,
+          "tag": "獅白ぼたん"
+        },
+        {
+          "end": 86,
+          "start": 80,
+          "tag": "ししらーと"
+        },
+        {
+          "end": 96,
+          "start": 87,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977765079979610112",
+          "start": 3,
+          "username": "shjing339294"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hfxq2fuIli",
+          "end": 126,
+          "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+          "media_key": "3_2075561481937301505",
+          "start": 103,
+          "url": "https://t.co/Hfxq2fuIli"
+        },
+        {
+          "display_url": "pic.x.com/Hfxq2fuIli",
+          "end": 126,
+          "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+          "media_key": "3_2075561481962414081",
+          "start": 103,
+          "url": "https://t.co/Hfxq2fuIli"
+        },
+        {
+          "display_url": "pic.x.com/Hfxq2fuIli",
+          "end": 126,
+          "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+          "media_key": "3_2075561481954115585",
+          "start": 103,
+          "url": "https://t.co/Hfxq2fuIli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075987298878190064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075561488539111872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shjing339294: なにジロジロ見てんのよ！\n酔っ払ったライオンは……\n……けっこう…怖い……んだから……\n\n#hololive #獅白ぼたん #ししらーと\n#kigurumi #着ぐるみ https://t.co/Hfxq2fuIli"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075561481937301505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3gK8hbMAE5WOb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075561481962414081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3gK8naYAEWbIt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075561481954115585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3gK8lbwAEbUMH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075561481937301505",
+            "3_2075561481962414081",
+            "3_2075561481954115585"
+          ],
+          "media_source_tweet_id": [
+            "2075561488539111872",
+            "2075561488539111872",
+            "2075561488539111872"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2075987298878190064",
+        "created_at": "2026-07-11T16:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075987298878190064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 63,
+              "tag": "hololive"
+            },
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "獅白ぼたん"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "ししらーと"
+            },
+            {
+              "end": 96,
+              "start": 87,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977765079979610112",
+              "start": 3,
+              "username": "shjing339294"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hfxq2fuIli",
+              "end": 126,
+              "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+              "media_key": "3_2075561481937301505",
+              "start": 103,
+              "url": "https://t.co/Hfxq2fuIli"
+            },
+            {
+              "display_url": "pic.x.com/Hfxq2fuIli",
+              "end": 126,
+              "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+              "media_key": "3_2075561481962414081",
+              "start": 103,
+              "url": "https://t.co/Hfxq2fuIli"
+            },
+            {
+              "display_url": "pic.x.com/Hfxq2fuIli",
+              "end": 126,
+              "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+              "media_key": "3_2075561481954115585",
+              "start": 103,
+              "url": "https://t.co/Hfxq2fuIli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075987298878190064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075561488539111872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shjing339294: なにジロジロ見てんのよ！\n酔っ払ったライオンは……\n……けっこう…怖い……んだから……\n\n#hololive #獅白ぼたん #ししらーと\n#kigurumi #着ぐるみ https://t.co/Hfxq2fuIli"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075561481937301505",
+            "3_2075561481962414081",
+            "3_2075561481954115585"
+          ]
+        },
+        "author_id": "1977765079979610112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2075561488539111872",
+        "created_at": "2026-07-10T12:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075561488539111872"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "hololive"
+            },
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "獅白ぼたん"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "ししらーと"
+            },
+            {
+              "end": 78,
+              "start": 69,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hfxq2fuIli",
+              "end": 108,
+              "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+              "media_key": "3_2075561481937301505",
+              "start": 85,
+              "url": "https://t.co/Hfxq2fuIli"
+            },
+            {
+              "display_url": "pic.x.com/Hfxq2fuIli",
+              "end": 108,
+              "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+              "media_key": "3_2075561481962414081",
+              "start": 85,
+              "url": "https://t.co/Hfxq2fuIli"
+            },
+            {
+              "display_url": "pic.x.com/Hfxq2fuIli",
+              "end": 108,
+              "expanded_url": "https://x.com/shjing339294/status/2075561488539111872/photo/1",
+              "media_key": "3_2075561481954115585",
+              "start": 85,
+              "url": "https://t.co/Hfxq2fuIli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075561488539111872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 6211,
+          "like_count": 289,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "なにジロジロ見てんのよ！\n酔っ払ったライオンは……\n……けっこう…怖い……んだから……\n\n#hololive #獅白ぼたん #ししらーと\n#kigurumi #着ぐるみ https://t.co/Hfxq2fuIli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22602,
+          "following_count": 9876,
+          "like_count": 153123,
+          "listed_count": 51,
+          "media_count": 5365,
+          "tweet_count": 53551
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-13T15:55:45.000Z",
+        "description": "一位喜愛kigurumi小小萌新\n角色：Hololive 5期生 獅白ぼたん\nMujina Into The Deep 姑獲鳥/八木星華\n歡迎拍打餵食🤗 請多多指教🙇🏻‍♂️\n中文 母語/Fluent in Eng/日本語：サバイバルレベル",
+        "id": "1977765079979610112",
+        "name": "獅小緻🦁",
+        "pinned_tweet_id": "2063622108819939504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051991267954053120/ywi3mLwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 564,
+          "like_count": 10774,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "shjing339294",
+        "verified": true
+      }
+    ]
+  }
+}

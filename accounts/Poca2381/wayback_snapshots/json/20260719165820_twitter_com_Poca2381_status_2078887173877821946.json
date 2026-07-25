@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078698634447826945"
+      ],
+      "media_source_tweet_id": [
+        "2078698904544252000"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2078887173877821946",
+    "created_at": "2026-07-19T16:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078887173877821946"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2789274161",
+          "start": 3,
+          "username": "rmsomiso"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hm8IhsHrjK",
+          "end": 48,
+          "expanded_url": "https://x.com/rmsomiso/status/2078698904544252000/video/1",
+          "media_key": "13_2078698634447826945",
+          "start": 25,
+          "url": "https://t.co/hm8IhsHrjK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078887173877821946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078698904544252000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rmsomiso: 验车OK\n#着ぐるみ https://t.co/hm8IhsHrjK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24843,
+        "height": 1920,
+        "media_key": "13_2078698634447826945",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078698634447826945/img/8AwrPy9Y_waL3TIK.jpg",
+        "public_metrics": {
+          "view_count": 1646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078698634447826945/vid/avc1/320x568/_AC_SvrtqC9dx-fn.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078698634447826945/vid/avc1/1080x1920/qc2Ett2Ji-nUSlGd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078698634447826945/vid/avc1/720x1280/onr2K9TRa3yXRKZZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078698634447826945/pl/pOX-iWrDsCfFIzP4.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078698634447826945/vid/avc1/480x852/b56JOFKbgYtevsvo.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078698634447826945"
+          ]
+        },
+        "author_id": "2789274161",
+        "conversation_id": "2078698904544252000",
+        "created_at": "2026-07-19T04:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078698904544252000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hm8IhsHrjK",
+              "end": 34,
+              "expanded_url": "https://x.com/rmsomiso/status/2078698904544252000/video/1",
+              "media_key": "13_2078698634447826945",
+              "start": 11,
+              "url": "https://t.co/hm8IhsHrjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078698904544252000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 6156,
+          "like_count": 453,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "验车OK\n#着ぐるみ https://t.co/hm8IhsHrjK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078698634447826945"
+          ],
+          "media_source_tweet_id": [
+            "2078698904544252000"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2078887173877821946",
+        "created_at": "2026-07-19T16:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078887173877821946"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2789274161",
+              "start": 3,
+              "username": "rmsomiso"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hm8IhsHrjK",
+              "end": 48,
+              "expanded_url": "https://x.com/rmsomiso/status/2078698904544252000/video/1",
+              "media_key": "13_2078698634447826945",
+              "start": 25,
+              "url": "https://t.co/hm8IhsHrjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078887173877821946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078698904544252000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rmsomiso: 验车OK\n#着ぐるみ https://t.co/hm8IhsHrjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22918,
+          "following_count": 10096,
+          "like_count": 153504,
+          "listed_count": 51,
+          "media_count": 5548,
+          "tweet_count": 54276
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-28T16:18:10.000Z",
+        "description": "🈺ウマ娘｜FFXIV｜ARKNIGHTS｜StarRail ｜BanGDream ◎中文◎ENG○日本語 | ूᐖ ) 偶尔发发",
+        "id": "2789274161",
+        "location": "Shanghai",
+        "name": "OsMiso",
+        "pinned_tweet_id": "1953078745457217554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1040838345796935680/qrDSa3sv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 794,
+          "like_count": 2310,
+          "listed_count": 9,
+          "media_count": 226,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "rmsomiso",
+        "verified": true
+      }
+    ]
+  }
+}

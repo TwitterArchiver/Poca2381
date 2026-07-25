@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076234900332785664"
+      ],
+      "media_source_tweet_id": [
+        "2076234962739880315"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076480060941615318",
+    "created_at": "2026-07-13T01:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076480060941615318"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 66,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1778812036073308160",
+          "start": 3,
+          "username": "hhhh12545089051"
+        },
+        {
+          "end": 65,
+          "id": "1976304170912354304",
+          "start": 54,
+          "username": "9ninecocoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z62vcnM7SG",
+          "end": 99,
+          "expanded_url": "https://x.com/hhhh12545089051/status/2076234962739880315/video/1",
+          "media_key": "13_2076234900332785664",
+          "start": 76,
+          "url": "https://t.co/z62vcnM7SG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076480060941615318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076234962739880315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hhhh12545089051: 被主人疼爱了喵，哦齁哦哦哦～\n要…要坏掉啦！！！（超大声）\n坏人：@9ninecocoa\n#kigurumi https://t.co/z62vcnM7SG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112593,
+        "height": 1280,
+        "media_key": "13_2076234900332785664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076234900332785664/img/JnUVxEWooSvfRxjq.jpg",
+        "public_metrics": {
+          "view_count": 3643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076234900332785664/vid/avc1/320x568/ykbGCXufJCs_FfIX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076234900332785664/vid/avc1/480x852/tsUorKQk19WXIw4f.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076234900332785664/vid/avc1/720x1280/_y4bXmICAoCpelx4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076234900332785664/pl/6WeSI1RFB3WN73AO.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076234900332785664"
+          ],
+          "media_source_tweet_id": [
+            "2076234962739880315"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076480060941615318",
+        "created_at": "2026-07-13T01:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076480060941615318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1778812036073308160",
+              "start": 3,
+              "username": "hhhh12545089051"
+            },
+            {
+              "end": 65,
+              "id": "1976304170912354304",
+              "start": 54,
+              "username": "9ninecocoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z62vcnM7SG",
+              "end": 99,
+              "expanded_url": "https://x.com/hhhh12545089051/status/2076234962739880315/video/1",
+              "media_key": "13_2076234900332785664",
+              "start": 76,
+              "url": "https://t.co/z62vcnM7SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076480060941615318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076234962739880315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hhhh12545089051: 被主人疼爱了喵，哦齁哦哦哦～\n要…要坏掉啦！！！（超大声）\n坏人：@9ninecocoa\n#kigurumi https://t.co/z62vcnM7SG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076234900332785664"
+          ]
+        },
+        "author_id": "1778812036073308160",
+        "conversation_id": "2076234962739880315",
+        "created_at": "2026-07-12T09:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076234962739880315"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1976304170912354304",
+              "start": 33,
+              "username": "9ninecocoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z62vcnM7SG",
+              "end": 78,
+              "expanded_url": "https://x.com/hhhh12545089051/status/2076234962739880315/video/1",
+              "media_key": "13_2076234900332785664",
+              "start": 55,
+              "url": "https://t.co/z62vcnM7SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076234962739880315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 5261,
+          "like_count": 491,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "被主人疼爱了喵，哦齁哦哦哦～\n要…要坏掉啦！！！（超大声）\n坏人：@9ninecocoa\n#kigurumi https://t.co/z62vcnM7SG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22623,
+          "following_count": 9902,
+          "like_count": 153142,
+          "listed_count": 51,
+          "media_count": 5408,
+          "tweet_count": 53671
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T15:47:00.000Z",
+        "description": "你好啊喵！这里是律喵。唔，现在是一个萌新kiger啦，我可不是什么正经人，略。喜欢和可爱的娃娃涩涩！！！qq3151967936（已经有主人了哦，只和娃娃扩列）",
+        "id": "1778812036073308160",
+        "location": "山东枣庄",
+        "name": "律喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948293235543289856/pxZjcT9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3556,
+          "following_count": 101,
+          "like_count": 13,
+          "listed_count": 24,
+          "media_count": 27,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "hhhh12545089051",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T15:10:20.000Z",
+        "description": "CN可可，原账号焦糖可可@Astringococa被盗，目前是骗子在使用，请大家仔细识别！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "Astringococa"
+              }
+            ]
+          }
+        },
+        "id": "1976304170912354304",
+        "location": "航天基地",
+        "name": "多吃可可会发胖",
+        "pinned_tweet_id": "2006626546384306469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032149769318260736/_cRC7Y7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18997,
+          "following_count": 302,
+          "like_count": 1996,
+          "listed_count": 95,
+          "media_count": 140,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "9ninecocoa",
+        "verified": false
+      }
+    ]
+  }
+}

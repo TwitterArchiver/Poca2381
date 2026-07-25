@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2079291195478655288",
+    "created_at": "2026-07-21T11:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079525936295506368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903472422722142208",
+          "start": 0,
+          "username": "jljj114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079525936295506368",
+    "in_reply_to_user_id": "1903472422722142208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079291195478655288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jljj114514 在现场的一集"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2079291191892623360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsgUo1bwAAhb1t.jpg",
+        "width": 2268
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079291184653172736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsgUN3agAAgjHo.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2079291195478655288",
+        "created_at": "2026-07-21T11:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079525936295506368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903472422722142208",
+              "start": 0,
+              "username": "jljj114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079525936295506368",
+        "in_reply_to_user_id": "1903472422722142208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079291195478655288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jljj114514 在现场的一集"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079291191892623360",
+            "3_2079291184653172736"
+          ]
+        },
+        "author_id": "1903472422722142208",
+        "conversation_id": "2079291195478655288",
+        "created_at": "2026-07-20T19:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079291195478655288"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hh5y3DUM2r",
+              "end": 56,
+              "expanded_url": "https://x.com/jljj114514/status/2079291195478655288/photo/1",
+              "media_key": "3_2079291191892623360",
+              "start": 33,
+              "url": "https://t.co/hh5y3DUM2r"
+            },
+            {
+              "display_url": "pic.x.com/hh5y3DUM2r",
+              "end": 56,
+              "expanded_url": "https://x.com/jljj114514/status/2079291195478655288/photo/1",
+              "media_key": "3_2079291184653172736",
+              "start": 33,
+              "url": "https://t.co/hh5y3DUM2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079291195478655288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 4962,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#kigurumi #着ぐるみ \n螢火蟲d2合照！最可愛的一集！ https://t.co/hh5y3DUM2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22969,
+          "following_count": 10122,
+          "like_count": 153563,
+          "listed_count": 52,
+          "media_count": 5585,
+          "tweet_count": 54408
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T15:43:02.000Z",
+        "description": "新人kiger一枚～\n常驻地广州，欢迎扩列 (*≧▽≦)",
+        "id": "1903472422722142208",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "吉良吉杰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984946152878555136/_XgGb4t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1305,
+          "like_count": 1980,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 740
+        },
+        "url": "",
+        "username": "jljj114514",
+        "verified": false
+      }
+    ]
+  }
+}

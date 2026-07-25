@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078105942345027584"
+      ],
+      "media_source_tweet_id": [
+        "2078106119516667906"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2078841281053401359",
+    "created_at": "2026-07-19T13:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078841281053401359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1155475384512712709",
+          "start": 3,
+          "username": "GuaEthan"
+        },
+        {
+          "end": 44,
+          "id": "1494308672289521669",
+          "start": 33,
+          "username": "withNagi_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rIwO6p7Amc",
+          "end": 68,
+          "expanded_url": "https://x.com/GuaEthan/status/2078106119516667906/video/1",
+          "media_key": "13_2078105942345027584",
+          "start": 45,
+          "url": "https://t.co/rIwO6p7Amc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078841281053401359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078106119516667906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuaEthan: 非常豪华的宿舍，拎包入住\n \n🐱 | @withNagi_7 https://t.co/rIwO6p7Amc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 85033,
+        "height": 1920,
+        "media_key": "13_2078105942345027584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078105942345027584/img/JK0gDU6_thdbcO-3.jpg",
+        "public_metrics": {
+          "view_count": 317139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078105942345027584/vid/avc1/320x568/vYsbSXxVVdXbwUuC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078105942345027584/vid/avc1/480x852/1QKQbzJFzP_D8BVF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078105942345027584/vid/avc1/720x1280/d_uv5nHXYaA19PDI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078105942345027584/vid/avc1/1080x1920/z6zxn9PgQiKuFG4I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078105942345027584/pl/XQBum_YRYpHCaMj1.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078105942345027584"
+          ]
+        },
+        "author_id": "1155475384512712709",
+        "conversation_id": "2078106119516667906",
+        "created_at": "2026-07-17T13:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078106119516667906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1494308672289521669",
+              "start": 19,
+              "username": "withNagi_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIwO6p7Amc",
+              "end": 54,
+              "expanded_url": "https://x.com/GuaEthan/status/2078106119516667906/video/1",
+              "media_key": "13_2078105942345027584",
+              "start": 31,
+              "url": "https://t.co/rIwO6p7Amc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078106119516667906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2755,
+          "impression_count": 566898,
+          "like_count": 9309,
+          "quote_count": 5,
+          "reply_count": 87,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "非常豪华的宿舍，拎包入住\n \n🐱 | @withNagi_7 https://t.co/rIwO6p7Amc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078105942345027584"
+          ],
+          "media_source_tweet_id": [
+            "2078106119516667906"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2078841281053401359",
+        "created_at": "2026-07-19T13:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078841281053401359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1155475384512712709",
+              "start": 3,
+              "username": "GuaEthan"
+            },
+            {
+              "end": 44,
+              "id": "1494308672289521669",
+              "start": 33,
+              "username": "withNagi_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIwO6p7Amc",
+              "end": 68,
+              "expanded_url": "https://x.com/GuaEthan/status/2078106119516667906/video/1",
+              "media_key": "13_2078105942345027584",
+              "start": 45,
+              "url": "https://t.co/rIwO6p7Amc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078841281053401359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078106119516667906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuaEthan: 非常豪华的宿舍，拎包入住\n \n🐱 | @withNagi_7 https://t.co/rIwO6p7Amc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22906,
+          "following_count": 10089,
+          "like_count": 153465,
+          "listed_count": 51,
+          "media_count": 5543,
+          "tweet_count": 54233
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-28T13:49:34.000Z",
+        "description": "💍 @withNagi_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "withNagi_7"
+              }
+            ]
+          }
+        },
+        "id": "1155475384512712709",
+        "location": "凪凪家",
+        "name": "Ethan瓜",
+        "pinned_tweet_id": "1799751012280119639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699424480869666816/wYJJ5Zn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25527,
+          "following_count": 2332,
+          "like_count": 14373,
+          "listed_count": 125,
+          "media_count": 621,
+          "tweet_count": 2119
+        },
+        "url": "",
+        "username": "GuaEthan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-17T13:52:19.000Z",
+        "description": "Kiger | INFJ-T | 5w4 💍@GuaEthan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "GuaEthan"
+              }
+            ]
+          }
+        },
+        "id": "1494308672289521669",
+        "name": "凪",
+        "pinned_tweet_id": "1950778072719868029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963789037917085696/GjCVdkXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19436,
+          "following_count": 775,
+          "like_count": 27568,
+          "listed_count": 102,
+          "media_count": 555,
+          "tweet_count": 4490
+        },
+        "url": "",
+        "username": "withNagi_7",
+        "verified": false
+      }
+    ]
+  }
+}

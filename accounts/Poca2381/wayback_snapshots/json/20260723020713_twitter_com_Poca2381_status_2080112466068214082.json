@@ -1,0 +1,662 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080048060999376896"
+      ],
+      "media_source_tweet_id": [
+        "2080048108957036917"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2080112466068214082",
+    "created_at": "2026-07-23T02:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080112466068214082"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "latex"
+        },
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 58,
+          "start": 51,
+          "tag": "Makima"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851550952240852993",
+          "start": 3,
+          "username": "JuaEmii6657"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JxU4ynrDz6",
+          "end": 82,
+          "expanded_url": "https://x.com/JuaEmii6657/status/2080048108957036917/video/1",
+          "media_key": "13_2080048060999376896",
+          "start": 59,
+          "url": "https://t.co/JxU4ynrDz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080112466068214082",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080048108957036917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuaEmii6657: Wanna be my dog?\n#latex #kigurumi #Makima https://t.co/JxU4ynrDz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10883,
+        "height": 1280,
+        "media_key": "13_2080048060999376896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080048060999376896/img/OxRXeigTLbmWmz1N.jpg",
+        "public_metrics": {
+          "view_count": 738
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080048060999376896/vid/avc1/320x568/S6rOhFPzbCVFQs6W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080048060999376896/vid/avc1/480x852/eavmg7CLgwig-rcp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080048060999376896/vid/avc1/720x1280/VtNQuizjIOgScRjk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080048060999376896/pl/ALu0bk7X-ah4eRpF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080048060999376896"
+          ]
+        },
+        "author_id": "1851550952240852993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          }
+        ],
+        "conversation_id": "2080048108957036917",
+        "created_at": "2026-07-22T21:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080048108957036917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "latex"
+            },
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "Makima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxU4ynrDz6",
+              "end": 65,
+              "expanded_url": "https://x.com/JuaEmii6657/status/2080048108957036917/video/1",
+              "media_key": "13_2080048060999376896",
+              "start": 42,
+              "url": "https://t.co/JxU4ynrDz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080048108957036917",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 1961,
+          "like_count": 199,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Wanna be my dog?\n#latex #kigurumi #Makima https://t.co/JxU4ynrDz6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080048060999376896"
+          ],
+          "media_source_tweet_id": [
+            "2080048108957036917"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2080112466068214082",
+        "created_at": "2026-07-23T02:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080112466068214082"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "latex"
+            },
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "Makima"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851550952240852993",
+              "start": 3,
+              "username": "JuaEmii6657"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxU4ynrDz6",
+              "end": 82,
+              "expanded_url": "https://x.com/JuaEmii6657/status/2080048108957036917/video/1",
+              "media_key": "13_2080048060999376896",
+              "start": 59,
+              "url": "https://t.co/JxU4ynrDz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080112466068214082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080048108957036917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuaEmii6657: Wanna be my dog?\n#latex #kigurumi #Makima https://t.co/JxU4ynrDz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23114,
+          "following_count": 10163,
+          "like_count": 153617,
+          "listed_count": 52,
+          "media_count": 5623,
+          "tweet_count": 54522
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-30T09:05:30.000Z",
+        "description": "latex/kigurumi 涩涩注意🔞 萌新一只 欢迎扩列😉 不使用AI🚫。",
+        "id": "1851550952240852993",
+        "name": "emii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855228003464499200/PE91LxW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24102,
+          "following_count": 753,
+          "like_count": 2790,
+          "listed_count": 105,
+          "media_count": 134,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "JuaEmii6657",
+        "verified": false
+      }
+    ]
+  }
+}

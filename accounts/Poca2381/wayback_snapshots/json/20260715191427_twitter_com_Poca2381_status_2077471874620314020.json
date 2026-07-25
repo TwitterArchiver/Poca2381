@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076562803578765312"
+      ],
+      "media_source_tweet_id": [
+        "2077324794740236681"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2077471874620314020",
+    "created_at": "2026-07-15T19:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T20:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077471874620314020"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "向日葵"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "ひまわり"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "ヒマワリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712792106572644352",
+          "start": 3,
+          "username": "yukine_hkkig"
+        },
+        {
+          "end": 50,
+          "id": "1733963032160854016",
+          "start": 37,
+          "username": "DARKSTUDIOHK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/curcBFuNeg",
+          "end": 104,
+          "expanded_url": "https://x.com/yukine_hkkig/status/2077324794740236681/photo/1",
+          "media_key": "3_2076562803578765312",
+          "start": 81,
+          "url": "https://t.co/curcBFuNeg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077471874620314020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077324794740236681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukine_hkkig: 這裏的向日葵開得超級大朵的！\n\n📷: @DARKSTUDIOHK \n#着ぐるみ #初音ミク #向日葵 #ひまわり #ヒマワリ https://t.co/curcBFuNeg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2076562803578765312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFu3iUaAAATNUA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076562803578765312"
+          ],
+          "media_source_tweet_id": [
+            "2077324794740236681"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2077471874620314020",
+        "created_at": "2026-07-15T19:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077471874620314020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "向日葵"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "ひまわり"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "ヒマワリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712792106572644352",
+              "start": 3,
+              "username": "yukine_hkkig"
+            },
+            {
+              "end": 50,
+              "id": "1733963032160854016",
+              "start": 37,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/curcBFuNeg",
+              "end": 104,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2077324794740236681/photo/1",
+              "media_key": "3_2076562803578765312",
+              "start": 81,
+              "url": "https://t.co/curcBFuNeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077471874620314020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077324794740236681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukine_hkkig: 這裏的向日葵開得超級大朵的！\n\n📷: @DARKSTUDIOHK \n#着ぐるみ #初音ミク #向日葵 #ひまわり #ヒマワリ https://t.co/curcBFuNeg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076562803578765312"
+          ]
+        },
+        "author_id": "1712792106572644352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2077324794740236681",
+        "created_at": "2026-07-15T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077324794740236681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "向日葵"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "ひまわり"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "ヒマワリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1733963032160854016",
+              "start": 19,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/curcBFuNeg",
+              "end": 86,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2077324794740236681/photo/1",
+              "media_key": "3_2076562803578765312",
+              "start": 63,
+              "url": "https://t.co/curcBFuNeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077324794740236681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 742,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "這裏的向日葵開得超級大朵的！\n\n📷: @DARKSTUDIOHK \n#着ぐるみ #初音ミク #向日葵 #ひまわり #ヒマワリ https://t.co/curcBFuNeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22722,
+          "following_count": 9974,
+          "like_count": 153294,
+          "listed_count": 51,
+          "media_count": 5465,
+          "tweet_count": 53905
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "location": "香港",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5362,
+          "following_count": 703,
+          "like_count": 11992,
+          "listed_count": 28,
+          "media_count": 1296,
+          "tweet_count": 8713
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T21:33:14.000Z",
+        "description": "新手kiger，可以叫我KS ｜目前什麼都不會，但我會繼續努力的💪🏻",
+        "id": "1733963032160854016",
+        "location": "Hong Kong",
+        "name": "K.S.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958195972586287104/AdXuN5K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 321,
+          "like_count": 1365,
+          "listed_count": 17,
+          "media_count": 141,
+          "tweet_count": 1229
+        },
+        "url": "",
+        "username": "DARKSTUDIOHK",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078498448488431617",
+        "3_2078498448492707840"
+      ],
+      "media_source_tweet_id": [
+        "2078498458831577430",
+        "2078498458831577430"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2078799672693666200",
+    "created_at": "2026-07-19T11:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078799672693666200"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "神崎愛実"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1261560609214087168",
+          "start": 3,
+          "username": "Cathy_eko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17rfSo0oSf",
+          "end": 61,
+          "expanded_url": "https://x.com/Cathy_eko/status/2078498458831577430/photo/1",
+          "media_key": "3_2078498448488431617",
+          "start": 38,
+          "url": "https://t.co/17rfSo0oSf"
+        },
+        {
+          "display_url": "pic.x.com/17rfSo0oSf",
+          "end": 61,
+          "expanded_url": "https://x.com/Cathy_eko/status/2078498458831577430/photo/1",
+          "media_key": "3_2078498448492707840",
+          "start": 38,
+          "url": "https://t.co/17rfSo0oSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078799672693666200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078498458831577430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cathy_eko: 第一次出反派角色（仅试衣试假发）\n#神崎愛実 https://t.co/17rfSo0oSf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078498448488431617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhPU5hagAEP7wA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078498448492707840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhPU5ibwAAaJAx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078498448488431617",
+            "3_2078498448492707840"
+          ]
+        },
+        "author_id": "1261560609214087168",
+        "conversation_id": "2078498458831577430",
+        "created_at": "2026-07-18T15:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078498458831577430"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "神崎愛実"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17rfSo0oSf",
+              "end": 46,
+              "expanded_url": "https://x.com/Cathy_eko/status/2078498458831577430/photo/1",
+              "media_key": "3_2078498448488431617",
+              "start": 23,
+              "url": "https://t.co/17rfSo0oSf"
+            },
+            {
+              "display_url": "pic.x.com/17rfSo0oSf",
+              "end": 46,
+              "expanded_url": "https://x.com/Cathy_eko/status/2078498458831577430/photo/1",
+              "media_key": "3_2078498448492707840",
+              "start": 23,
+              "url": "https://t.co/17rfSo0oSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078498458831577430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3030,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次出反派角色（仅试衣试假发）\n#神崎愛実 https://t.co/17rfSo0oSf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078498448488431617",
+            "3_2078498448492707840"
+          ],
+          "media_source_tweet_id": [
+            "2078498458831577430",
+            "2078498458831577430"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2078799672693666200",
+        "created_at": "2026-07-19T11:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078799672693666200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "神崎愛実"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1261560609214087168",
+              "start": 3,
+              "username": "Cathy_eko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17rfSo0oSf",
+              "end": 61,
+              "expanded_url": "https://x.com/Cathy_eko/status/2078498458831577430/photo/1",
+              "media_key": "3_2078498448488431617",
+              "start": 38,
+              "url": "https://t.co/17rfSo0oSf"
+            },
+            {
+              "display_url": "pic.x.com/17rfSo0oSf",
+              "end": 61,
+              "expanded_url": "https://x.com/Cathy_eko/status/2078498458831577430/photo/1",
+              "media_key": "3_2078498448492707840",
+              "start": 38,
+              "url": "https://t.co/17rfSo0oSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078799672693666200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078498458831577430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cathy_eko: 第一次出反派角色（仅试衣试假发）\n#神崎愛実 https://t.co/17rfSo0oSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22892,
+          "following_count": 10072,
+          "like_count": 153417,
+          "listed_count": 51,
+          "media_count": 5540,
+          "tweet_count": 54180
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "我叫Cathy/凯茜/小茜\n发吃的@chihuoxiaoqian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "chihuoxiaoqian"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "布洛芬重度依赖",
+        "pinned_tweet_id": "2077334011949814226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053372636898725888/9buW95xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5122,
+          "following_count": 1451,
+          "like_count": 174173,
+          "listed_count": 57,
+          "media_count": 6174,
+          "tweet_count": 67086
+        },
+        "url": "",
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

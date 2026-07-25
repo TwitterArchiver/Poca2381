@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2079054411641561088"
+      ],
+      "media_source_tweet_id": [
+        "2079054453974659233"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079190579439878408",
+    "created_at": "2026-07-20T13:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079190579439878408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1613462516163842050",
+          "start": 3,
+          "username": "sayaalauun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ekra5XSKeo",
+          "end": 66,
+          "expanded_url": "https://x.com/sayaalauun/status/2079054453974659233/video/1",
+          "media_key": "7_2079054411641561088",
+          "start": 43,
+          "url": "https://t.co/ekra5XSKeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079190579439878408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079054453974659233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayaalauun: 我去情报是真的\n萤火虫真有coser复刻洗脚柠檬水😨 https://t.co/ekra5XSKeo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11624,
+        "height": 720,
+        "media_key": "7_2079054411641561088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079054411641561088/pu/img/Pm76e6HkhrXHJMP5.jpg",
+        "public_metrics": {
+          "view_count": 792885
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079054411641561088/pu/vid/avc1/480x270/re360jS9BOepYuy_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079054411641561088/pu/vid/avc1/640x360/GcK0sp1TsVB8ZTfA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079054411641561088/pu/vid/avc1/1280x720/C-JEMINggQ1AJnlg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079054411641561088/pu/pl/P5n9zLLwMBTGP5WM.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079054411641561088"
+          ]
+        },
+        "author_id": "1613462516163842050",
+        "conversation_id": "2079054453974659233",
+        "created_at": "2026-07-20T04:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079054453974659233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekra5XSKeo",
+              "end": 50,
+              "expanded_url": "https://x.com/sayaalauun/status/2079054453974659233/video/1",
+              "media_key": "7_2079054411641561088",
+              "start": 27,
+              "url": "https://t.co/ekra5XSKeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079054453974659233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1289,
+          "impression_count": 1498634,
+          "like_count": 3248,
+          "quote_count": 212,
+          "reply_count": 287,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "我去情报是真的\n萤火虫真有coser复刻洗脚柠檬水😨 https://t.co/ekra5XSKeo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079054411641561088"
+          ],
+          "media_source_tweet_id": [
+            "2079054453974659233"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079190579439878408",
+        "created_at": "2026-07-20T13:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079190579439878408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1613462516163842050",
+              "start": 3,
+              "username": "sayaalauun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekra5XSKeo",
+              "end": 66,
+              "expanded_url": "https://x.com/sayaalauun/status/2079054453974659233/video/1",
+              "media_key": "7_2079054411641561088",
+              "start": 43,
+              "url": "https://t.co/ekra5XSKeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079190579439878408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079054453974659233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayaalauun: 我去情报是真的\n萤火虫真有coser复刻洗脚柠檬水😨 https://t.co/ekra5XSKeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22941,
+          "following_count": 10111,
+          "like_count": 153515,
+          "listed_count": 51,
+          "media_count": 5563,
+          "tweet_count": 54326
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-12T09:07:08.000Z",
+        "description": "✨ | NO_PRON | 19y | zh/en/jp | WTFPL | node.js plz    🤗\n游走互联网的赛博半凛 想要有人陪的可回收垃圾w\n@Rinkomo233 legacy acc. | #サカナクション fans",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "サカナクション"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "Rinkomo233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "996.icu",
+                "end": 23,
+                "expanded_url": "http://996.icu",
+                "start": 0,
+                "url": "https://t.co/UARhIq8kUS"
+              }
+            ]
+          }
+        },
+        "id": "1613462516163842050",
+        "location": "Loading...",
+        "name": "萌田 リン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053985971390332929/VtJyMoRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 696,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/UARhIq8kUS",
+        "username": "sayaalauun",
+        "verified": false
+      }
+    ]
+  }
+}

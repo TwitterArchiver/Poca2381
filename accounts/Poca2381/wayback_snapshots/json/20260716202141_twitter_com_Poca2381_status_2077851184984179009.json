@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070419723482013696"
+      ],
+      "media_source_tweet_id": [
+        "2070419726577389982"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2077851184984179009",
+    "created_at": "2026-07-16T20:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T21:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077851184984179009"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 25,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "fsf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260054214870306816",
+          "start": 3,
+          "username": "plpl95692289"
+        },
+        {
+          "end": 57,
+          "id": "1976530831847063552",
+          "start": 42,
+          "username": "DiverCat132805"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zab4WxcO5k",
+          "end": 81,
+          "expanded_url": "https://x.com/plpl95692289/status/2070419726577389982/photo/1",
+          "media_key": "3_2070419723482013696",
+          "start": 58,
+          "url": "https://t.co/Zab4WxcO5k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077851184984179009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070419726577389982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plpl95692289: 杂鱼~杂鱼~\n#kigurumi #fsf\n🎭：@DiverCat132805 https://t.co/Zab4WxcO5k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070419723482013696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLubxNoboAATr-r.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070419723482013696"
+          ]
+        },
+        "author_id": "1260054214870306816",
+        "conversation_id": "2070419726577389982",
+        "created_at": "2026-06-26T08:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070419726577389982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "fsf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1976530831847063552",
+              "start": 24,
+              "username": "DiverCat132805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zab4WxcO5k",
+              "end": 63,
+              "expanded_url": "https://x.com/plpl95692289/status/2070419726577389982/photo/1",
+              "media_key": "3_2070419723482013696",
+              "start": 40,
+              "url": "https://t.co/Zab4WxcO5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070419726577389982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 7336,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼~杂鱼~\n#kigurumi #fsf\n🎭：@DiverCat132805 https://t.co/Zab4WxcO5k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070419723482013696"
+          ],
+          "media_source_tweet_id": [
+            "2070419726577389982"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2077851184984179009",
+        "created_at": "2026-07-16T20:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077851184984179009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "fsf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260054214870306816",
+              "start": 3,
+              "username": "plpl95692289"
+            },
+            {
+              "end": 57,
+              "id": "1976530831847063552",
+              "start": 42,
+              "username": "DiverCat132805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zab4WxcO5k",
+              "end": 81,
+              "expanded_url": "https://x.com/plpl95692289/status/2070419726577389982/photo/1",
+              "media_key": "3_2070419723482013696",
+              "start": 58,
+              "url": "https://t.co/Zab4WxcO5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077851184984179009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419726577389982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plpl95692289: 杂鱼~杂鱼~\n#kigurumi #fsf\n🎭：@DiverCat132805 https://t.co/Zab4WxcO5k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22764,
+          "following_count": 10009,
+          "like_count": 153353,
+          "listed_count": 51,
+          "media_count": 5496,
+          "tweet_count": 54021
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-12T03:48:36.000Z",
+        "description": "kiger减肥中/常驻深圳/ps神力救我！！",
+        "id": "1260054214870306816",
+        "location": "深圳",
+        "name": "plura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561308396523253760/5Iw-xbMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 743,
+          "like_count": 2877,
+          "listed_count": 51,
+          "media_count": 122,
+          "tweet_count": 1566
+        },
+        "url": "",
+        "username": "plpl95692289",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T06:12:03.000Z",
+        "description": "淘宝-深海猫KIGURUMI工坊\n官方Q群827799726",
+        "id": "1976530831847063552",
+        "name": "深海猫工坊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976531419452362752/Oh6zTTHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 12,
+          "like_count": 41,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "DiverCat132805",
+        "verified": false
+      }
+    ]
+  }
+}

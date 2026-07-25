@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077058411003613184",
+        "3_2077058411003551744",
+        "3_2077058410957463552",
+        "3_2077058411003535360"
+      ],
+      "media_source_tweet_id": [
+        "2077058417550884897",
+        "2077058417550884897",
+        "2077058417550884897",
+        "2077058417550884897"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2077293718298939847",
+    "created_at": "2026-07-15T07:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077293718298939847"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815424027441442816",
+          "start": 3,
+          "username": "yuri_n4c0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MuXOzkmVhp",
+          "end": 53,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+          "media_key": "3_2077058411003613184",
+          "start": 30,
+          "url": "https://t.co/MuXOzkmVhp"
+        },
+        {
+          "display_url": "pic.x.com/MuXOzkmVhp",
+          "end": 53,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+          "media_key": "3_2077058411003551744",
+          "start": 30,
+          "url": "https://t.co/MuXOzkmVhp"
+        },
+        {
+          "display_url": "pic.x.com/MuXOzkmVhp",
+          "end": 53,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+          "media_key": "3_2077058410957463552",
+          "start": 30,
+          "url": "https://t.co/MuXOzkmVhp"
+        },
+        {
+          "display_url": "pic.x.com/MuXOzkmVhp",
+          "end": 53,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+          "media_key": "3_2077058411003535360",
+          "start": 30,
+          "url": "https://t.co/MuXOzkmVhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077293718298939847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077058417550884897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_n4c0: 創作┊︎百合\n\n #創作百合 https://t.co/MuXOzkmVhp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2077058411003613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMxnr2bkAALGv0.jpg",
+        "width": 1066
+      },
+      {
+        "height": 1475,
+        "media_key": "3_2077058411003551744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMxnr2aoAA-DZy.jpg",
+        "width": 983
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2077058410957463552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMxnrrbYAAzMJG.jpg",
+        "width": 985
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2077058411003535360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMxnr2aYAAZJEL.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077058411003613184",
+            "3_2077058411003551744",
+            "3_2077058410957463552",
+            "3_2077058411003535360"
+          ],
+          "media_source_tweet_id": [
+            "2077058417550884897",
+            "2077058417550884897",
+            "2077058417550884897",
+            "2077058417550884897"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2077293718298939847",
+        "created_at": "2026-07-15T07:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077293718298939847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815424027441442816",
+              "start": 3,
+              "username": "yuri_n4c0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 53,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058411003613184",
+              "start": 30,
+              "url": "https://t.co/MuXOzkmVhp"
+            },
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 53,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058411003551744",
+              "start": 30,
+              "url": "https://t.co/MuXOzkmVhp"
+            },
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 53,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058410957463552",
+              "start": 30,
+              "url": "https://t.co/MuXOzkmVhp"
+            },
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 53,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058411003535360",
+              "start": 30,
+              "url": "https://t.co/MuXOzkmVhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077293718298939847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077058417550884897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_n4c0: 創作┊︎百合\n\n #創作百合 https://t.co/MuXOzkmVhp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077058411003613184",
+            "3_2077058411003551744",
+            "3_2077058410957463552",
+            "3_2077058411003535360"
+          ]
+        },
+        "author_id": "1815424027441442816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2077058417550884897",
+        "created_at": "2026-07-14T15:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077058417550884897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 38,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058411003613184",
+              "start": 15,
+              "url": "https://t.co/MuXOzkmVhp"
+            },
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 38,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058411003551744",
+              "start": 15,
+              "url": "https://t.co/MuXOzkmVhp"
+            },
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 38,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058410957463552",
+              "start": 15,
+              "url": "https://t.co/MuXOzkmVhp"
+            },
+            {
+              "display_url": "pic.x.com/MuXOzkmVhp",
+              "end": 38,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2077058417550884897/photo/1",
+              "media_key": "3_2077058411003535360",
+              "start": 15,
+              "url": "https://t.co/MuXOzkmVhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077058417550884897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 688,
+          "impression_count": 78069,
+          "like_count": 3273,
+          "quote_count": 11,
+          "reply_count": 7,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "創作┊︎百合\n\n #創作百合 https://t.co/MuXOzkmVhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22695,
+          "following_count": 9942,
+          "like_count": 153210,
+          "listed_count": 51,
+          "media_count": 5447,
+          "tweet_count": 53807
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T16:30:07.000Z",
+        "description": "☘︎ ┊︎⚠︎捏造 創作 百合 WutheringWaves HonkaiStarRail \n𓂂𓏸 @0t4kunoaka02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "0t4kunoaka02"
+              }
+            ]
+          }
+        },
+        "id": "1815424027441442816",
+        "name": "nako",
+        "pinned_tweet_id": "2054514721995522457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038820754796802048/E1-SRNPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 26,
+          "like_count": 922,
+          "listed_count": 12,
+          "media_count": 34,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "yuri_n4c0",
+        "verified": false
+      }
+    ]
+  }
+}

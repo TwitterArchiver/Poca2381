@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2076179350748344500",
+    "created_at": "2026-07-12T07:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076208557155102881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1515029714808631296",
+          "start": 0,
+          "username": "blufish1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076208557155102881",
+    "in_reply_to_user_id": "1515029714808631296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076191639350227096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blufish1234 有吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2076179350748344500",
+        "created_at": "2026-07-12T07:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076208557155102881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1515029714808631296",
+              "start": 0,
+              "username": "blufish1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076208557155102881",
+        "in_reply_to_user_id": "1515029714808631296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076191639350227096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blufish1234 有吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515029714808631296",
+        "conversation_id": "2076179350748344500",
+        "created_at": "2026-07-12T06:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076191639350227096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076191639350227096",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076179350748344500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22608,
+          "following_count": 9888,
+          "like_count": 153134,
+          "listed_count": 51,
+          "media_count": 5381,
+          "tweet_count": 53596
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-15T18:10:42.000Z",
+        "description": "VRChatter | PyPyDancer\nCommunity manager of @VRCX0_official\n是一隻狐狐\n裏帳：@blufish_cdr\n更多社群媒體帳號請見下方網址\nicon & banner by @sid_1018",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "VRCX0_official"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "blufish_cdr"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "sid_1018"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aikomizuki.me",
+                "end": 23,
+                "expanded_url": "https://aikomizuki.me/",
+                "start": 0,
+                "url": "https://t.co/toXepXW0eL"
+              }
+            ]
+          }
+        },
+        "id": "1515029714808631296",
+        "location": "VRChat",
+        "name": "水樹あいこ",
+        "pinned_tweet_id": "2008822228734095647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065102786694729728/7NuvQisT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 796,
+          "like_count": 79473,
+          "listed_count": 3,
+          "media_count": 820,
+          "tweet_count": 8697
+        },
+        "url": "https://t.co/toXepXW0eL",
+        "username": "blufish1234",
+        "verified": true
+      }
+    ]
+  }
+}

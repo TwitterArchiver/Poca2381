@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076936698920058880"
+      ],
+      "media_source_tweet_id": [
+        "2076936701843476947"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2077334148617019599",
+    "created_at": "2026-07-15T10:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077334148617019599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "晓山瑞希"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653714082963533824",
+          "start": 3,
+          "username": "AlexclBy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H0XJ5bXopf",
+          "end": 49,
+          "expanded_url": "https://x.com/AlexclBy/status/2076936701843476947/photo/1",
+          "media_key": "3_2076936698920058880",
+          "start": 26,
+          "url": "https://t.co/H0XJ5bXopf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077334148617019599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076936701843476947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlexclBy: 男的来了\n\n#晓山瑞希 https://t.co/H0XJ5bXopf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076936698920058880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLC7HAaQAAR6I4.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076936698920058880"
+          ],
+          "media_source_tweet_id": [
+            "2076936701843476947"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2077334148617019599",
+        "created_at": "2026-07-15T10:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077334148617019599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "晓山瑞希"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653714082963533824",
+              "start": 3,
+              "username": "AlexclBy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0XJ5bXopf",
+              "end": 49,
+              "expanded_url": "https://x.com/AlexclBy/status/2076936701843476947/photo/1",
+              "media_key": "3_2076936698920058880",
+              "start": 26,
+              "url": "https://t.co/H0XJ5bXopf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077334148617019599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076936701843476947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlexclBy: 男的来了\n\n#晓山瑞希 https://t.co/H0XJ5bXopf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076936698920058880"
+          ]
+        },
+        "author_id": "1653714082963533824",
+        "conversation_id": "2076936701843476947",
+        "created_at": "2026-07-14T07:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076936701843476947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "晓山瑞希"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0XJ5bXopf",
+              "end": 35,
+              "expanded_url": "https://x.com/AlexclBy/status/2076936701843476947/photo/1",
+              "media_key": "3_2076936698920058880",
+              "start": 12,
+              "url": "https://t.co/H0XJ5bXopf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076936701843476947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 6469,
+          "like_count": 496,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "男的来了\n\n#晓山瑞希 https://t.co/H0XJ5bXopf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22703,
+          "following_count": 9957,
+          "like_count": 153277,
+          "listed_count": 51,
+          "media_count": 5452,
+          "tweet_count": 53881
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T10:52:24.000Z",
+        "description": "萌新kiger",
+        "id": "1653714082963533824",
+        "name": "白银",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893883694911197184/4BR4-a-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 106,
+          "like_count": 88,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "AlexclBy",
+        "verified": false
+      }
+    ]
+  }
+}

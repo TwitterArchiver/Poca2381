@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2076075247133200547",
+    "created_at": "2026-07-16T15:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077785210167730602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1415388958377213952",
+          "start": 0,
+          "username": "4wenyv"
+        },
+        {
+          "end": 17,
+          "id": "1578451578465517597",
+          "start": 8,
+          "username": "o_ha_ha_"
+        },
+        {
+          "end": 26,
+          "id": "990113190271860741",
+          "start": 18,
+          "username": "iTcEeA_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077785210167730602",
+    "in_reply_to_user_id": "1415388958377213952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076075247133200547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4wenyv @o_ha_ha_ @iTcEeA_ 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076069790419210240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-ueZLbUAAjn70.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 139562,
+        "height": 1280,
+        "media_key": "7_2076074846824636417",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076074846824636417/pu/img/o-3WuGjBmxxXWGtD.jpg",
+        "public_metrics": {
+          "view_count": 2925
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076074846824636417/pu/vid/avc1/320x568/-ZfNqG04eTYDr2oY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076074846824636417/pu/vid/avc1/480x852/Q2b9xloHNyxTyhl2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076074846824636417/pu/vid/avc1/720x1280/R7bsiMLJesuzyxOG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076074846824636417/pu/pl/KIpAWpb9Z60-GjnM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 119296,
+        "height": 1280,
+        "media_key": "7_2076075029268443136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076075029268443136/pu/img/COga0ozSDvvz02y1.jpg",
+        "public_metrics": {
+          "view_count": 944
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076075029268443136/pu/vid/avc1/320x568/KWQlQEX7RYCm6bua.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076075029268443136/pu/vid/avc1/480x852/4UnLplm2RveOIAlh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076075029268443136/pu/vid/avc1/720x1280/4bgxSKnXy8V1q-42.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076075029268443136/pu/pl/kfDxo5iQbVPaUSmY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 104917,
+        "height": 1280,
+        "media_key": "7_2076075147845677056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076075147845677056/pu/img/5Z26rVhx1YUSe0J9.jpg",
+        "public_metrics": {
+          "view_count": 611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076075147845677056/pu/vid/avc1/320x568/vXWOjUQc-Xd85vnf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076075147845677056/pu/vid/avc1/480x852/DurvRS2bm4CE6OUa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076075147845677056/pu/vid/avc1/720x1280/tsDDA3SXHRyBLLSw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076075147845677056/pu/pl/bVkIF0If2X3sIhYA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2076075247133200547",
+        "created_at": "2026-07-16T15:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077785210167730602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1415388958377213952",
+              "start": 0,
+              "username": "4wenyv"
+            },
+            {
+              "end": 17,
+              "id": "1578451578465517597",
+              "start": 8,
+              "username": "o_ha_ha_"
+            },
+            {
+              "end": 26,
+              "id": "990113190271860741",
+              "start": 18,
+              "username": "iTcEeA_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077785210167730602",
+        "in_reply_to_user_id": "1415388958377213952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076075247133200547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4wenyv @o_ha_ha_ @iTcEeA_ 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076069790419210240",
+            "7_2076074846824636417",
+            "7_2076075029268443136",
+            "7_2076075147845677056"
+          ]
+        },
+        "author_id": "1415388958377213952",
+        "conversation_id": "2076075247133200547",
+        "created_at": "2026-07-11T22:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076075247133200547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 92,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 117,
+              "start": 109,
+              "tag": "bondage"
+            },
+            {
+              "end": 125,
+              "start": 118,
+              "tag": "tickle"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "メード"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "レム"
+            },
+            {
+              "end": 142,
+              "start": 136,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1415388958377213952",
+              "start": 55,
+              "username": "4wenyv"
+            },
+            {
+              "end": 77,
+              "id": "1578451578465517597",
+              "start": 68,
+              "username": "o_ha_ha_"
+            },
+            {
+              "end": 90,
+              "id": "990113190271860741",
+              "start": 82,
+              "username": "iTcEeA_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/67looa3DKT",
+              "end": 166,
+              "expanded_url": "https://x.com/4wenyv/status/2076075247133200547/video/1",
+              "media_key": "3_2076069790419210240",
+              "start": 143,
+              "url": "https://t.co/67looa3DKT"
+            },
+            {
+              "display_url": "pic.x.com/67looa3DKT",
+              "end": 166,
+              "expanded_url": "https://x.com/4wenyv/status/2076075247133200547/video/1",
+              "media_key": "7_2076074846824636417",
+              "start": 143,
+              "url": "https://t.co/67looa3DKT"
+            },
+            {
+              "display_url": "pic.x.com/67looa3DKT",
+              "end": 166,
+              "expanded_url": "https://x.com/4wenyv/status/2076075247133200547/video/1",
+              "media_key": "7_2076075029268443136",
+              "start": 143,
+              "url": "https://t.co/67looa3DKT"
+            },
+            {
+              "display_url": "pic.x.com/67looa3DKT",
+              "end": 166,
+              "expanded_url": "https://x.com/4wenyv/status/2076075247133200547/video/1",
+              "media_key": "7_2076075147845677056",
+              "start": 143,
+              "url": "https://t.co/67looa3DKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076075247133200547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 9880,
+          "like_count": 509,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "这里是女仆TK 榨汁服务包含的内容哦\n请各位先行品鉴，合适的话尽请下单捏\n蓝毛女仆会服务好每一位娃娃（\n女仆 @4wenyv \n填充物 @o_ha_ha_ \n道具 @iTcEeA_ \n#kigurumi  #着ぐるみ #bondage\n#tickle #メード #レム  #latex https://t.co/67looa3DKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22752,
+          "following_count": 10001,
+          "like_count": 153337,
+          "listed_count": 51,
+          "media_count": 5489,
+          "tweet_count": 53986
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-14T19:13:31.000Z",
+        "description": "Kigurumi萌新 目前角色有蕾姆 兔子洞 爱蜜莉雅（制作中）  事个工具人 雷批 欢迎扩列捏",
+        "id": "1415388958377213952",
+        "location": "NanNing",
+        "name": "四文鱼",
+        "pinned_tweet_id": "1995157198675288208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046641918877347840/wIbB5zWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 438,
+          "like_count": 271,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "4wenyv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T18:26:21.000Z",
+        "description": "萌新kiger，角色是心海/香菱/可琳/茜特菈莉/红豆（制作中），喜欢胶喜欢涩涩。想认识更多更多可爱的娃娃，欢迎大家来关注来扩列。",
+        "id": "1578451578465517597",
+        "location": "China",
+        "name": "哦哈哈",
+        "pinned_tweet_id": "2073140037173313711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843330980825972736/H2srcjml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 547,
+          "like_count": 806,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "o_ha_ha_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-28T06:19:14.000Z",
+        "description": "低质kiger  喜欢捕猎可爱的娃娃\n地牢完善中\n不定时更新-",
+        "id": "990113190271860741",
+        "location": "广西",
+        "name": "冰丶茶",
+        "pinned_tweet_id": "2008789654439662029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644622466583764993/r2L2AsQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7180,
+          "following_count": 1554,
+          "like_count": 3580,
+          "listed_count": 47,
+          "media_count": 26,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "iTcEeA_",
+        "verified": false
+      }
+    ]
+  }
+}

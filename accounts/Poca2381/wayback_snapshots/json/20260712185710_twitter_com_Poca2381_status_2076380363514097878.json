@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074153051234123776"
+      ],
+      "media_source_tweet_id": [
+        "2074153670317650179"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2076380363514097878",
+    "created_at": "2026-07-12T18:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076380363514097878"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 52,
+          "start": 46,
+          "tag": "latex"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457349219916730382",
+          "start": 3,
+          "username": "tonysingchen"
+        },
+        {
+          "end": 72,
+          "id": "2065634228151455744",
+          "start": 65,
+          "username": "w73cu0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/73BQn6Rjka",
+          "end": 96,
+          "expanded_url": "https://x.com/tonysingchen/status/2074153670317650179/video/1",
+          "media_key": "13_2074153051234123776",
+          "start": 73,
+          "url": "https://t.co/73BQn6Rjka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076380363514097878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074153670317650179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tonysingchen: 猫猫被大坏蛋控制了～\n\n#kigurumi #着ぐるみ #latex\n\n大坏蛋2号------@w73cu0 https://t.co/73BQn6Rjka"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69666,
+        "height": 406,
+        "media_key": "13_2074153051234123776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074153051234123776/img/VZqMHSGksmNSkVGd.jpg",
+        "public_metrics": {
+          "view_count": 2643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074153051234123776/vid/avc1/478x270/Q83Sn2JcZNTIkbHp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074153051234123776/vid/avc1/720x406/E4ISnrGbJEYT_j8S.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074153051234123776/pl/3fgGx-oV_NjBZZzU.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074153051234123776"
+          ],
+          "media_source_tweet_id": [
+            "2074153670317650179"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2076380363514097878",
+        "created_at": "2026-07-12T18:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076380363514097878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457349219916730382",
+              "start": 3,
+              "username": "tonysingchen"
+            },
+            {
+              "end": 72,
+              "id": "2065634228151455744",
+              "start": 65,
+              "username": "w73cu0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/73BQn6Rjka",
+              "end": 96,
+              "expanded_url": "https://x.com/tonysingchen/status/2074153670317650179/video/1",
+              "media_key": "13_2074153051234123776",
+              "start": 73,
+              "url": "https://t.co/73BQn6Rjka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076380363514097878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074153670317650179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tonysingchen: 猫猫被大坏蛋控制了～\n\n#kigurumi #着ぐるみ #latex\n\n大坏蛋2号------@w73cu0 https://t.co/73BQn6Rjka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074153051234123776"
+          ]
+        },
+        "author_id": "1457349219916730382",
+        "conversation_id": "2074153670317650179",
+        "created_at": "2026-07-06T15:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074153670317650179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "2065634228151455744",
+              "start": 47,
+              "username": "w73cu0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/73BQn6Rjka",
+              "end": 78,
+              "expanded_url": "https://x.com/tonysingchen/status/2074153670317650179/video/1",
+              "media_key": "13_2074153051234123776",
+              "start": 55,
+              "url": "https://t.co/73BQn6Rjka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074153670317650179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 7251,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫被大坏蛋控制了～\n\n#kigurumi #着ぐるみ #latex\n\n大坏蛋2号------@w73cu0 https://t.co/73BQn6Rjka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22617,
+          "following_count": 9894,
+          "like_count": 153157,
+          "listed_count": 51,
+          "media_count": 5405,
+          "tweet_count": 53652
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-07T14:08:30.000Z",
+        "description": "萌新kigurumi/latex",
+        "id": "1457349219916730382",
+        "location": "Shenzhen",
+        "name": "琰正",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048706338566680576/xsJl0qaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 862,
+          "like_count": 4638,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "tonysingchen",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T03:16:53.000Z",
+        "description": "在广的缚手，学习中，偶像是48老师。  1225923254：qq（非娃勿扰）",
+        "id": "2065634228151455744",
+        "location": "广州",
+        "name": "情天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076348469967753216/KXThwv5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 16,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "w73cu0",
+        "verified": false
+      }
+    ]
+  }
+}

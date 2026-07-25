@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079768136862330880",
+        "3_2079768152288940032"
+      ],
+      "media_source_tweet_id": [
+        "2079768168046669840",
+        "2079768168046669840"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079950928246112471",
+    "created_at": "2026-07-22T15:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079950928246112471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1357977098963611648",
+          "start": 3,
+          "username": "iiTzTimmy_fake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2AS4iUyYST",
+          "end": 75,
+          "expanded_url": "https://x.com/iiTzTimmy_fake/status/2079768168046669840/photo/1",
+          "media_key": "3_2079768136862330880",
+          "start": 52,
+          "url": "https://t.co/2AS4iUyYST"
+        },
+        {
+          "display_url": "pic.x.com/2AS4iUyYST",
+          "end": 75,
+          "expanded_url": "https://x.com/iiTzTimmy_fake/status/2079768168046669840/photo/1",
+          "media_key": "3_2079768152288940032",
+          "start": 52,
+          "url": "https://t.co/2AS4iUyYST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079950928246112471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079768168046669840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiTzTimmy_fake: 原来茶色的茶羽中已经绝版了吗，昨天群友提醒才发现，时间过得真快 https://t.co/2AS4iUyYST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2079768136862330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzSGfTa8AAeS_n.jpg",
+        "width": 1260
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079768152288940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzSHYxaUAA9q2A.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079768136862330880",
+            "3_2079768152288940032"
+          ]
+        },
+        "author_id": "1357977098963611648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079768168046669840",
+        "created_at": "2026-07-22T03:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079768168046669840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AS4iUyYST",
+              "end": 55,
+              "expanded_url": "https://x.com/iiTzTimmy_fake/status/2079768168046669840/photo/1",
+              "media_key": "3_2079768136862330880",
+              "start": 32,
+              "url": "https://t.co/2AS4iUyYST"
+            },
+            {
+              "display_url": "pic.x.com/2AS4iUyYST",
+              "end": 55,
+              "expanded_url": "https://x.com/iiTzTimmy_fake/status/2079768168046669840/photo/1",
+              "media_key": "3_2079768152288940032",
+              "start": 32,
+              "url": "https://t.co/2AS4iUyYST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079768168046669840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16972,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原来茶色的茶羽中已经绝版了吗，昨天群友提醒才发现，时间过得真快 https://t.co/2AS4iUyYST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079768136862330880",
+            "3_2079768152288940032"
+          ],
+          "media_source_tweet_id": [
+            "2079768168046669840",
+            "2079768168046669840"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079950928246112471",
+        "created_at": "2026-07-22T15:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079950928246112471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1357977098963611648",
+              "start": 3,
+              "username": "iiTzTimmy_fake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AS4iUyYST",
+              "end": 75,
+              "expanded_url": "https://x.com/iiTzTimmy_fake/status/2079768168046669840/photo/1",
+              "media_key": "3_2079768136862330880",
+              "start": 52,
+              "url": "https://t.co/2AS4iUyYST"
+            },
+            {
+              "display_url": "pic.x.com/2AS4iUyYST",
+              "end": 75,
+              "expanded_url": "https://x.com/iiTzTimmy_fake/status/2079768168046669840/photo/1",
+              "media_key": "3_2079768152288940032",
+              "start": 52,
+              "url": "https://t.co/2AS4iUyYST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079950928246112471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079768168046669840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiTzTimmy_fake: 原来茶色的茶羽中已经绝版了吗，昨天群友提醒才发现，时间过得真快 https://t.co/2AS4iUyYST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23041,
+          "following_count": 10147,
+          "like_count": 153586,
+          "listed_count": 52,
+          "media_count": 5612,
+          "tweet_count": 54470
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-06T08:59:16.000Z",
+        "description": "Apex Legends  Player🎮 master |  le♀ |  Aviation enthusiasts｜photographer📷｜Sony α6100",
+        "id": "1357977098963611648",
+        "location": "Macau",
+        "name": "iitz_sora✈",
+        "pinned_tweet_id": "2079770258752352395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076588179180912640/XweR79BW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11844,
+          "following_count": 1419,
+          "like_count": 6223,
+          "listed_count": 28,
+          "media_count": 1297,
+          "tweet_count": 10263
+        },
+        "url": "",
+        "username": "iiTzTimmy_fake",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2076699462765060132",
+    "created_at": "2026-07-14T07:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076926639053914557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404701320116727811",
+          "start": 0,
+          "username": "Ragdoll6231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076926639053914557",
+    "in_reply_to_user_id": "1404701320116727811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076920479512953015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ragdoll6231 没关系哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2076699462765060132",
+        "created_at": "2026-07-14T07:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076926639053914557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404701320116727811",
+              "start": 0,
+              "username": "Ragdoll6231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076926639053914557",
+        "in_reply_to_user_id": "1404701320116727811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076920479512953015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ragdoll6231 没关系哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404701320116727811",
+        "conversation_id": "2076699462765060132",
+        "created_at": "2026-07-14T06:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076920479512953015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076920479512953015",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076919925168545966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 打錯！😭😭😭，自動輸入左\nSorry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22645,
+          "following_count": 9919,
+          "like_count": 153175,
+          "listed_count": 51,
+          "media_count": 5431,
+          "tweet_count": 53742
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-15T07:24:36.000Z",
+        "description": "本貓最喜歡自己的貓，這裏會更新Kig相關的畫。Kig相停更。也可以看看本貓的Fanbox ！⬇️\n| 日/ENG/中 ok |\n歡迎DM留言逗貓，不定時回覆留言。",
+        "id": "1404701320116727811",
+        "name": "布布【Fanbox更新中】",
+        "pinned_tweet_id": "2068906825219780842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076925928522055680/-Z9hwN4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5925,
+          "following_count": 596,
+          "like_count": 27108,
+          "listed_count": 39,
+          "media_count": 941,
+          "tweet_count": 6551
+        },
+        "url": "",
+        "username": "Ragdoll6231",
+        "verified": false
+      }
+    ]
+  }
+}

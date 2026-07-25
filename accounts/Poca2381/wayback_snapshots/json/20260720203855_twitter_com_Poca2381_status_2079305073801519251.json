@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066482845179326464"
+      ],
+      "media_source_tweet_id": [
+        "2066482935516336415"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2079305073801519251",
+    "created_at": "2026-07-20T20:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T21:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079305073801519251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1884136491825389569",
+          "start": 3,
+          "username": "POEM_zhongyin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dgub11ulPY",
+          "end": 46,
+          "expanded_url": "https://x.com/POEM_zhongyin/status/2066482935516336415/photo/1",
+          "media_key": "3_2066482845179326464",
+          "start": 23,
+          "url": "https://t.co/Dgub11ulPY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079305073801519251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066482935516336415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @POEM_zhongyin: 摸摸我 https://t.co/Dgub11ulPY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2066482845179326464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2fMvFaMAAWHJL.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066482845179326464"
+          ]
+        },
+        "author_id": "1884136491825389569",
+        "conversation_id": "2066482935516336415",
+        "created_at": "2026-06-15T11:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066482935516336415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dgub11ulPY",
+              "end": 27,
+              "expanded_url": "https://x.com/POEM_zhongyin/status/2066482935516336415/photo/1",
+              "media_key": "3_2066482845179326464",
+              "start": 4,
+              "url": "https://t.co/Dgub11ulPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066482935516336415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4314,
+          "like_count": 185,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "摸摸我 https://t.co/Dgub11ulPY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066482845179326464"
+          ],
+          "media_source_tweet_id": [
+            "2066482935516336415"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2079305073801519251",
+        "created_at": "2026-07-20T20:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079305073801519251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1884136491825389569",
+              "start": 3,
+              "username": "POEM_zhongyin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dgub11ulPY",
+              "end": 46,
+              "expanded_url": "https://x.com/POEM_zhongyin/status/2066482935516336415/photo/1",
+              "media_key": "3_2066482845179326464",
+              "start": 23,
+              "url": "https://t.co/Dgub11ulPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079305073801519251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066482935516336415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @POEM_zhongyin: 摸摸我 https://t.co/Dgub11ulPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22951,
+          "following_count": 10119,
+          "like_count": 153551,
+          "listed_count": 51,
+          "media_count": 5577,
+          "tweet_count": 54377
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-28T07:08:53.000Z",
+        "description": "ヲタ芸初心者\nkigurumi小萌新\nMIKU MIKU MIKU",
+        "id": "1884136491825389569",
+        "location": "床上",
+        "name": "詩中音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035521838085013504/-gN3cZcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 334,
+          "like_count": 787,
+          "listed_count": 6,
+          "media_count": 79,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "POEM_zhongyin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076680530289197056"
+      ],
+      "media_source_tweet_id": [
+        "2076959133903798669"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2077297433407844563",
+    "created_at": "2026-07-15T07:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077297433407844563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IwdwXRohji",
+          "end": 50,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2076959133903798669/photo/1",
+          "media_key": "3_2076680530289197056",
+          "start": 27,
+          "url": "https://t.co/IwdwXRohji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077297433407844563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076959133903798669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 马斯克来了都得掂量掂量 https://t.co/IwdwXRohji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076680530289197056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHZ8IfbgAAOZNa.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076680530289197056"
+          ],
+          "media_source_tweet_id": [
+            "2076959133903798669"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2077297433407844563",
+        "created_at": "2026-07-15T07:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077297433407844563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwdwXRohji",
+              "end": 50,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2076959133903798669/photo/1",
+              "media_key": "3_2076680530289197056",
+              "start": 27,
+              "url": "https://t.co/IwdwXRohji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077297433407844563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076959133903798669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 马斯克来了都得掂量掂量 https://t.co/IwdwXRohji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076680530289197056"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2076959133903798669",
+        "created_at": "2026-07-14T09:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076959133903798669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwdwXRohji",
+              "end": 35,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2076959133903798669/photo/1",
+              "media_key": "3_2076680530289197056",
+              "start": 12,
+              "url": "https://t.co/IwdwXRohji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076959133903798669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 27907,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克来了都得掂量掂量 https://t.co/IwdwXRohji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22695,
+          "following_count": 9946,
+          "like_count": 153268,
+          "listed_count": 51,
+          "media_count": 5448,
+          "tweet_count": 53862
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9701,
+          "following_count": 2370,
+          "like_count": 33418,
+          "listed_count": 26,
+          "media_count": 1642,
+          "tweet_count": 5919
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

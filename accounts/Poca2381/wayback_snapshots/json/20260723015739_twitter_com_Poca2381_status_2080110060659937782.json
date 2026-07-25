@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2078743062726205881",
+    "created_at": "2026-07-23T01:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080110060659937782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837843674283294720",
+          "start": 0,
+          "username": "TeamRain2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080110060659937782",
+    "in_reply_to_user_id": "1837843674283294720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078743062726205881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamRain2024 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078743053158985728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNktyw7aMAAhbbH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2078743062726205881",
+        "created_at": "2026-07-23T01:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080110060659937782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837843674283294720",
+              "start": 0,
+              "username": "TeamRain2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080110060659937782",
+        "in_reply_to_user_id": "1837843674283294720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078743062726205881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain2024 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078743053158985728"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2078743062726205881",
+        "created_at": "2026-07-19T07:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078743062726205881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G08pbUjtER",
+              "end": 29,
+              "expanded_url": "https://x.com/TeamRain2024/status/2078743062726205881/photo/1",
+              "media_key": "3_2078743053158985728",
+              "start": 6,
+              "url": "https://t.co/G08pbUjtER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078743062726205881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好涩（ https://t.co/G08pbUjtER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23112,
+          "following_count": 10162,
+          "like_count": 153613,
+          "listed_count": 52,
+          "media_count": 5623,
+          "tweet_count": 54517
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 167,
+          "like_count": 1003,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "TeamRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

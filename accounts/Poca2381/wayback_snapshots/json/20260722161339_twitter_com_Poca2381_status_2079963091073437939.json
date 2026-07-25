@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2079902120753701161",
+    "created_at": "2026-07-22T16:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079963091073437939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "819858501530894337",
+          "start": 0,
+          "username": "teyi0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079963091073437939",
+    "in_reply_to_user_id": "819858501530894337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079902120753701161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teyi0214 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079902115523424256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1L9EtbcAA6vcV.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2079902120753701161",
+        "created_at": "2026-07-22T16:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079963091073437939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "819858501530894337",
+              "start": 0,
+              "username": "teyi0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079963091073437939",
+        "in_reply_to_user_id": "819858501530894337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079902120753701161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teyi0214 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079902115523424256"
+          ]
+        },
+        "author_id": "819858501530894337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2079902120753701161",
+        "created_at": "2026-07-22T12:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079902120753701161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yn0KAnmMUy",
+              "end": 37,
+              "expanded_url": "https://x.com/teyi0214/status/2079902120753701161/photo/1",
+              "media_key": "3_2079902115523424256",
+              "start": 14,
+              "url": "https://t.co/yn0KAnmMUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079902120753701161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 4740,
+          "like_count": 566,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "同人水着ミカ💫\n#ブルアカ https://t.co/yn0KAnmMUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23048,
+          "following_count": 10152,
+          "like_count": 153589,
+          "listed_count": 52,
+          "media_count": 5614,
+          "tweet_count": 54477
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-13T10:47:53.000Z",
+        "description": "コスプレイヤーユキテイです❄️日本在住（日常：@yukiyukiroom）（Instagram ➤tingting214_new ）（bilibili➤亭子ww ）（爱发电➤亭子ww)（weibo➤Yuki_亭亭子）お仕事はDMで✨推しマーク：❄️🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "yukiyukiroom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/43476",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/43476",
+                "start": 0,
+                "url": "https://t.co/00n7AYn4kV"
+              }
+            ]
+          }
+        },
+        "id": "819858501530894337",
+        "location": "https://yukiteyi.booth.pm/",
+        "name": "Yuki亭❄️🎀",
+        "pinned_tweet_id": "1990408250517278842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438389446953426945/evGGzgX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321655,
+          "following_count": 514,
+          "like_count": 13699,
+          "listed_count": 1211,
+          "media_count": 1677,
+          "tweet_count": 6899
+        },
+        "url": "https://t.co/00n7AYn4kV",
+        "username": "teyi0214",
+        "verified": true
+      }
+    ]
+  }
+}

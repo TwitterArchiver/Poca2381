@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2077130267039588580",
+    "created_at": "2026-07-14T20:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077130267039588580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1404701320116727811",
+          "start": 3,
+          "username": "Ragdoll6231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077130267039588580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076923591439139237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ragdoll6231: 生日快樂！祝我自己的！\n而我生日願望是，每天可以去茶餐廳吃一餐午餐！\n\n今年生日我是想了很多很多東西想送給自己！大約想了三個月左右(也可能是只要想着買甚麼，就不用面對不開心的自己吧)，當中有：\n◇ Surface pro (用於畫畫，windo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2077130267039588580",
+        "created_at": "2026-07-14T20:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077130267039588580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1404701320116727811",
+              "start": 3,
+              "username": "Ragdoll6231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077130267039588580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076923591439139237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ragdoll6231: 生日快樂！祝我自己的！\n而我生日願望是，每天可以去茶餐廳吃一餐午餐！\n\n今年生日我是想了很多很多東西想送給自己！大約想了三個月左右(也可能是只要想着買甚麼，就不用面對不開心的自己吧)，當中有：\n◇ Surface pro (用於畫畫，windo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404701320116727811",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026414931",
+              "name": "Microsoft - Surface"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2076923591439139237",
+        "created_at": "2026-07-14T06:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076923591439139237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ragdoll6231/st…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/Ragdoll6231/status/2076699462765060132",
+              "start": 160,
+              "url": "https://t.co/T01HmmiFDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076923591439139237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "生日快樂！祝我自己的！\n而我生日願望是，每天可以去茶餐廳吃一餐午餐！\n\n今年生日我是想了很多很多東西想送給自己！大約想了三個月左右(也可能是只要想着買甚麼，就不用面對不開心的自己吧)，當中有：\n◇ Surface pro (用於畫畫，windows + ipad！)\n◇ 新pc (用於直播，現在pc用了10年了)\n◇ 報本地live2d課程 (live2d 力upup！) \n◇ 買低音大提琴 (最喜歡的樂器+練琴的時候可以少看螢幕)\n◇ 買coloso畫畫課 (學完畫力 upup！)\n◇ 買新繪圖版 (pro都用大繪圖版！)\n◇ E-ink類平版 (可能對眼好點？)\n◇ 新包包/銀包 (滿足自己購買慾#)\n◇ 買周邊 (買自己推的周邊！)\n◇ 去旅行 (去睇自己最喜歡的\"祭\"！)\n◇ 買新asmr耳機(睡覺用！)\n◇ 買相機 (做cos攝影(?))\n◇ 買新cos服 (設計poko新衣裝！)\n◇ robot 魂 大型 ma (畫畫無聊的時候可以玩！)\n◇ 委託自己喜歡的畫師！(看其他人眼中的poko是怎麼樣？)\n\n但！但！看到這裏的你，你敢相信嗎？\n我最後一樣東西也沒有買\n一樣也沒有...\n現在的我只在煩惱不交一個月水費會不會出事 (笑\n\n在這kig圈我從來最討厭\"麻煩別人\" 和 \"花金錢\"，這年也算有一個留下來的原因，但現在已經沒有了，我三個月以來每隔數天就抑鬱到哭，但我連一個可以發洩的地方也沒有，算了...\n\n所以！你們說得對，我現在要為我自己而活！我以後也不用再 \"麻煩別人\" ！任何人也可以迫我去玩Kig！連她也是！在kig圈想做的事，就由我的畫角色幫我去完成！現在我只會以畫畫人繼續走下去！\n\n我只想畫畫，以前是，現在是，未來也是。\n\nPs：後面也是放住一些我最最喜歡的東西！當然我是同担拒否(，有些位置可以放大看看！兩朵花的花語也有它意思！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 748,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076699462765060132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生日快樂！祝我自己的！\n而我生日願望是，每天可以去茶餐廳吃一餐午餐！\n\n今年生日我是想了很多很多東西想送給自己！大約想了三個月左右(也可能是只要想着買甚麼，就不用面對不開心的自己吧)，當中有：\n◇ Surface pro (用於畫畫，windows + ipad！)\n◇ 新pc (用於直播，現在pc用了10年了)\n◇ https://t.co/T01HmmiFDa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22679,
+          "following_count": 9935,
+          "like_count": 153185,
+          "listed_count": 51,
+          "media_count": 5443,
+          "tweet_count": 53772
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-15T07:24:36.000Z",
+        "description": "為我自己而活！這裏會更新Kig相關的畫！Kig相停止更新，也可以看看本貓的Fanbox ！\n| 日/ENG/中 ok |\n歡迎DM留言逗貓，接各種畫畫委託，不定時回覆留言。",
+        "id": "1404701320116727811",
+        "name": "布布【Fanbox更新中】",
+        "pinned_tweet_id": "2068906825219780842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076925928522055680/-Z9hwN4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5927,
+          "following_count": 596,
+          "like_count": 27119,
+          "listed_count": 39,
+          "media_count": 941,
+          "tweet_count": 6555
+        },
+        "url": "",
+        "username": "Ragdoll6231",
+        "verified": true
+      }
+    ]
+  }
+}

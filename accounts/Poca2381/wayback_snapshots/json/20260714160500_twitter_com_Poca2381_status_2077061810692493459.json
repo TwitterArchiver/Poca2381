@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076853992345481217"
+      ],
+      "media_source_tweet_id": [
+        "2076853998758547799"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2077061810692493459",
+    "created_at": "2026-07-14T16:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077061810692493459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1280062360170885122",
+          "start": 3,
+          "username": "ligongdao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZEQSHFbUD",
+          "end": 38,
+          "expanded_url": "https://x.com/ligongdao/status/2076853998758547799/photo/1",
+          "media_key": "3_2076853992345481217",
+          "start": 15,
+          "url": "https://t.co/XZEQSHFbUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077061810692493459",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076853998758547799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ligongdao: https://t.co/XZEQSHFbUD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076853992345481217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJ3s9AasAEXB29.jpg",
+        "width": 1225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076853992345481217"
+          ],
+          "media_source_tweet_id": [
+            "2076853998758547799"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2077061810692493459",
+        "created_at": "2026-07-14T16:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077061810692493459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1280062360170885122",
+              "start": 3,
+              "username": "ligongdao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZEQSHFbUD",
+              "end": 38,
+              "expanded_url": "https://x.com/ligongdao/status/2076853998758547799/photo/1",
+              "media_key": "3_2076853992345481217",
+              "start": 15,
+              "url": "https://t.co/XZEQSHFbUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077061810692493459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076853998758547799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ligongdao: https://t.co/XZEQSHFbUD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076853992345481217"
+          ]
+        },
+        "author_id": "1280062360170885122",
+        "conversation_id": "2076853998758547799",
+        "created_at": "2026-07-14T02:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076853998758547799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZEQSHFbUD",
+              "end": 23,
+              "expanded_url": "https://x.com/ligongdao/status/2076853998758547799/photo/1",
+              "media_key": "3_2076853992345481217",
+              "start": 0,
+              "url": "https://t.co/XZEQSHFbUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076853998758547799",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 65249,
+          "like_count": 380,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XZEQSHFbUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22669,
+          "following_count": 9925,
+          "like_count": 153180,
+          "listed_count": 51,
+          "media_count": 5437,
+          "tweet_count": 53759
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-06T08:53:53.000Z",
+        "description": "偏爱月色动人，怎奈夜色弄人",
+        "id": "1280062360170885122",
+        "location": "距您5.2km",
+        "name": "离宫悼",
+        "pinned_tweet_id": "1822350436994863271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866179967555686400/gk0I2lus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3431,
+          "following_count": 1447,
+          "like_count": 56602,
+          "listed_count": 22,
+          "media_count": 2662,
+          "tweet_count": 31212
+        },
+        "url": "",
+        "username": "ligongdao",
+        "verified": false
+      }
+    ]
+  }
+}
