@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081948593863462913"
+      ],
+      "media_source_tweet_id": [
+        "2081948603053129838"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2082119628663505317",
+    "created_at": "2026-07-28T15:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082119628663505317"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 71,
+          "start": 62,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 78,
+          "start": 72,
+          "tag": "latex"
+        },
+        {
+          "end": 87,
+          "start": 79,
+          "tag": "cosplay"
+        },
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "ACGHK"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799728933262569472",
+          "start": 3,
+          "username": "badhollydoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LeSjH7ZlzX",
+          "end": 118,
+          "expanded_url": "https://x.com/badhollydoll/status/2081948603053129838/photo/1",
+          "media_key": "3_2081948593863462913",
+          "start": 95,
+          "url": "https://t.co/LeSjH7ZlzX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082119628663505317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081948603053129838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badhollydoll: D4的Holly是初音✨\n現在全身酸痛需要休息💤\n今天最後一天就不出現了😣\n#着ぐるみ #kigurumi #latex #cosplay #ACGHK https://t.co/LeSjH7ZlzX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081948593863462913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSRNynbEAEqhZ7.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081948593863462913"
+          ]
+        },
+        "author_id": "1799728933262569472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081948603053129838",
+        "created_at": "2026-07-28T03:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081948603053129838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "latex"
+            },
+            {
+              "end": 69,
+              "start": 61,
+              "tag": "cosplay"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "ACGHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeSjH7ZlzX",
+              "end": 100,
+              "expanded_url": "https://x.com/badhollydoll/status/2081948603053129838/photo/1",
+              "media_key": "3_2081948593863462913",
+              "start": 77,
+              "url": "https://t.co/LeSjH7ZlzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081948603053129838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1100,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "D4的Holly是初音✨\n現在全身酸痛需要休息💤\n今天最後一天就不出現了😣\n#着ぐるみ #kigurumi #latex #cosplay #ACGHK https://t.co/LeSjH7ZlzX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081948593863462913"
+          ],
+          "media_source_tweet_id": [
+            "2081948603053129838"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2082119628663505317",
+        "created_at": "2026-07-28T15:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082119628663505317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 71,
+              "start": 62,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "latex"
+            },
+            {
+              "end": 87,
+              "start": 79,
+              "tag": "cosplay"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "ACGHK"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799728933262569472",
+              "start": 3,
+              "username": "badhollydoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeSjH7ZlzX",
+              "end": 118,
+              "expanded_url": "https://x.com/badhollydoll/status/2081948603053129838/photo/1",
+              "media_key": "3_2081948593863462913",
+              "start": 95,
+              "url": "https://t.co/LeSjH7ZlzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082119628663505317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081948603053129838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badhollydoll: D4的Holly是初音✨\n現在全身酸痛需要休息💤\n今天最後一天就不出現了😣\n#着ぐるみ #kigurumi #latex #cosplay #ACGHK https://t.co/LeSjH7ZlzX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23164,
+          "following_count": 10203,
+          "like_count": 153818,
+          "listed_count": 52,
+          "media_count": 5731,
+          "tweet_count": 54898
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T09:03:23.000Z",
+        "description": "Holly Bad｜好能壞\n+852🇭🇰\nKigurumi + Latex \n#Kigurumi #Latex",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 39,
+                "tag": "Kigurumi"
+              },
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "Latex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/badhollydoll",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/badhollydoll",
+                "start": 0,
+                "url": "https://t.co/5HhxAsjGoU"
+              }
+            ]
+          }
+        },
+        "id": "1799728933262569472",
+        "location": "Hong Kong",
+        "name": "HOLLY BAD",
+        "pinned_tweet_id": "2054141955303743788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051530964296491008/5Sq95tZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 119,
+          "like_count": 476,
+          "listed_count": 18,
+          "media_count": 22,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/5HhxAsjGoU",
+        "username": "badhollydoll",
+        "verified": true
+      }
+    ]
+  }
+}

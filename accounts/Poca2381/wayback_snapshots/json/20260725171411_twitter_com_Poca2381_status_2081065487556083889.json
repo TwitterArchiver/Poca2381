@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2081065487556083889",
+    "created_at": "2026-07-25T17:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081065487556083889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799728933262569472",
+          "start": 3,
+          "username": "badhollydoll"
+        },
+        {
+          "end": 73,
+          "id": "3024747140",
+          "start": 65,
+          "username": "ydh2101"
+        },
+        {
+          "end": 123,
+          "id": "1919055891145596928",
+          "start": 110,
+          "username": "Kig_Settings"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081065487556083889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054141955303743788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badhollydoll: 關於Holly(Ver 2.0）\n・Latex + Kigurumi/Cosplay\n・角色是@ydh2101 的早坂シエ（圖片2)\n・頭殼有些自己DIY，有些是購入的\n・購入的頭殼：@Kig_Settings 膠衣：@VVISAGE_STU…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054141947602935808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHHN9EaIAAjZQF.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2054141947661664256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHHN9SaQAA2nxt.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081065487556083889",
+        "created_at": "2026-07-25T17:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081065487556083889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799728933262569472",
+              "start": 3,
+              "username": "badhollydoll"
+            },
+            {
+              "end": 73,
+              "id": "3024747140",
+              "start": 65,
+              "username": "ydh2101"
+            },
+            {
+              "end": 123,
+              "id": "1919055891145596928",
+              "start": 110,
+              "username": "Kig_Settings"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081065487556083889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054141955303743788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badhollydoll: 關於Holly(Ver 2.0）\n・Latex + Kigurumi/Cosplay\n・角色是@ydh2101 的早坂シエ（圖片2)\n・頭殼有些自己DIY，有些是購入的\n・購入的頭殼：@Kig_Settings 膠衣：@VVISAGE_STU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054141947602935808",
+            "3_2054141947661664256"
+          ]
+        },
+        "author_id": "1799728933262569472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2054141955303743788",
+        "created_at": "2026-05-12T10:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054141955303743788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "3024747140",
+              "start": 47,
+              "username": "ydh2101"
+            },
+            {
+              "end": 105,
+              "id": "1919055891145596928",
+              "start": 92,
+              "username": "Kig_Settings"
+            },
+            {
+              "end": 124,
+              "id": "999706572245946369",
+              "start": 109,
+              "username": "VVISAGE_STUDIO"
+            },
+            {
+              "end": 207,
+              "id": "3024747140",
+              "start": 199,
+              "username": "ydh2101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8X0rlIWRPD",
+              "end": 253,
+              "expanded_url": "https://x.com/badhollydoll/status/2054141955303743788/photo/1",
+              "media_key": "3_2054141947602935808",
+              "start": 230,
+              "url": "https://t.co/8X0rlIWRPD"
+            },
+            {
+              "display_url": "pic.x.com/8X0rlIWRPD",
+              "end": 253,
+              "expanded_url": "https://x.com/badhollydoll/status/2054141955303743788/photo/1",
+              "media_key": "3_2054141947661664256",
+              "start": 230,
+              "url": "https://t.co/8X0rlIWRPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054141955303743788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 331,
+                "start": 326,
+                "tag": "着ぐるみ"
+              },
+              {
+                "end": 341,
+                "start": 332,
+                "tag": "kigurumi"
+              },
+              {
+                "end": 348,
+                "start": 342,
+                "tag": "latex"
+              },
+              {
+                "end": 357,
+                "start": 349,
+                "tag": "cosplay"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "id": "3024747140",
+                "start": 47,
+                "username": "ydh2101"
+              },
+              {
+                "end": 105,
+                "id": "1919055891145596928",
+                "start": 92,
+                "username": "Kig_Settings"
+              },
+              {
+                "end": 124,
+                "id": "999706572245946369",
+                "start": 109,
+                "username": "VVISAGE_STUDIO"
+              },
+              {
+                "end": 207,
+                "id": "3024747140",
+                "start": 199,
+                "username": "ydh2101"
+              },
+              {
+                "end": 292,
+                "id": "1919055891145596928",
+                "start": 279,
+                "username": "Kig_Settings"
+              },
+              {
+                "end": 324,
+                "id": "999706572245946369",
+                "start": 309,
+                "username": "VVISAGE_STUDIO"
+              }
+            ]
+          },
+          "text": "關於Holly(Ver 2.0）\n・Latex + Kigurumi/Cosplay\n・角色是@ydh2101 的早坂シエ（圖片2)\n・頭殼有些自己DIY，有些是購入的\n・購入的頭殼：@Kig_Settings 膠衣：@VVISAGE_STUDIO \n\nAbout Holly (Ver 2.0)\n・Latex + Kigurumi/Cosplay\n・The character is 早坂シエ (@ydh2101) from picture 2\n・Some mask are DIY, some are purchased\n・Kigurumi Mask: @Kig_Settings\n・Latex Catsuit: @VVISAGE_STUDIO\n\n#着ぐるみ #kigurumi #latex #cosplay"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 24483,
+          "like_count": 497,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "關於Holly(Ver 2.0）\n・Latex + Kigurumi/Cosplay\n・角色是@ydh2101 的早坂シエ（圖片2)\n・頭殼有些自己DIY，有些是購入的\n・購入的頭殼：@Kig_Settings 膠衣：@VVISAGE_STUDIO \n\nAbout Holly (Ver 2.0)\n・Latex + Kigurumi/Cosplay\n・The character is 早坂シエ (@ydh2101) from picture 2\n・Some https://t.co/8X0rlIWRPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23165,
+          "following_count": 10190,
+          "like_count": 153700,
+          "listed_count": 52,
+          "media_count": 5696,
+          "tweet_count": 54725
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T09:03:23.000Z",
+        "description": "Holly Bad｜好能壞\n+852🇭🇰\nKigurumi + Latex \n#Kigurumi #Latex",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 39,
+                "tag": "Kigurumi"
+              },
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "Latex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/badhollydoll",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/badhollydoll",
+                "start": 0,
+                "url": "https://t.co/5HhxAsjGoU"
+              }
+            ]
+          }
+        },
+        "id": "1799728933262569472",
+        "location": "Hong Kong",
+        "name": "HOLLY BAD",
+        "pinned_tweet_id": "2054141955303743788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051530964296491008/5Sq95tZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 117,
+          "like_count": 477,
+          "listed_count": 18,
+          "media_count": 19,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/5HhxAsjGoU",
+        "username": "badhollydoll",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-18T04:31:37.000Z",
+        "description": "@ydh2101_18 @OrangeMaru_ FANBOX https://t.co/vN7hpudJSU.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "ydh2101_18"
+              },
+              {
+                "end": 24,
+                "start": 12,
+                "username": "OrangeMaru_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yydd.fanbox.cc",
+                "end": 55,
+                "expanded_url": "http://yydd.fanbox.cc",
+                "start": 32,
+                "url": "https://t.co/vN7hpudJSU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/ydh2101",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/ydh2101",
+                "start": 0,
+                "url": "https://t.co/r2YibBTclY"
+              }
+            ]
+          }
+        },
+        "id": "3024747140",
+        "name": "YD",
+        "pinned_tweet_id": "2004140206128353619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1255311069586784256/Pv_e7WNk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592500,
+          "following_count": 1491,
+          "like_count": 26757,
+          "listed_count": 5622,
+          "media_count": 1501,
+          "tweet_count": 12623
+        },
+        "url": "https://t.co/r2YibBTclY",
+        "username": "ydh2101",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T15:46:06.000Z",
+        "description": "翻开成为人形的第一页 | TB 设定集Kigurumi - 更多请看QQ群：1032134553及置顶 #Kigurumi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 52,
+                "tag": "Kigurumi"
+              }
+            ]
+          }
+        },
+        "id": "1919055891145596928",
+        "name": "Kigurumi设定集",
+        "pinned_tweet_id": "2028096792072753660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058978828591104/sXzuyjq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 0,
+          "like_count": 76,
+          "listed_count": 13,
+          "media_count": 57,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "Kig_Settings",
+        "verified": false
+      }
+    ]
+  }
+}

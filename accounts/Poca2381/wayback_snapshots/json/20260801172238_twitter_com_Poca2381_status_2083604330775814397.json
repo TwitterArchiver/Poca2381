@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2081773954809901538",
+    "created_at": "2026-08-01T17:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083604330775814397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1290937590405726208",
+          "start": 0,
+          "username": "asork0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083604330775814397",
+    "in_reply_to_user_id": "1290937590405726208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081773954809901538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asork0721 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 264917,
+        "height": 1080,
+        "media_key": "13_2081769586169716736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081769586169716736/img/oMHBPTVfRW-33CWo.jpg",
+        "public_metrics": {
+          "view_count": 5675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081769586169716736/vid/avc1/480x270/Efn9VyngS-KeqtpX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081769586169716736/vid/avc1/640x360/i_AAdtmh9t3ea35e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081769586169716736/vid/avc1/1280x720/zlswZO1bbaBNwJGt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081769586169716736/pl/EX9kC7fqC6xg82Mp.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2081773954809901538",
+        "created_at": "2026-08-01T17:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083604330775814397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1290937590405726208",
+              "start": 0,
+              "username": "asork0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083604330775814397",
+        "in_reply_to_user_id": "1290937590405726208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081773954809901538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asork0721 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081769586169716736"
+          ]
+        },
+        "author_id": "1290937590405726208",
+        "conversation_id": "2081773954809901538",
+        "created_at": "2026-07-27T16:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081773954809901538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcmT2eKKxE",
+              "end": 26,
+              "expanded_url": "https://x.com/asork0721/status/2081773954809901538/video/1",
+              "media_key": "13_2081769586169716736",
+              "start": 3,
+              "url": "https://t.co/NcmT2eKKxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081773954809901538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 11609,
+          "like_count": 531,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "做！ https://t.co/NcmT2eKKxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23288,
+          "following_count": 10245,
+          "like_count": 153904,
+          "listed_count": 52,
+          "media_count": 5818,
+          "tweet_count": 55154
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-05T09:08:14.000Z",
+        "description": "阿巴阿巴巴\n只是只笨蛋啦",
+        "id": "1290937590405726208",
+        "location": "中华人民共和国",
+        "name": "笨蛋阿空",
+        "pinned_tweet_id": "1454824705702039560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906051649719934976/7jAZAKIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15548,
+          "following_count": 1532,
+          "like_count": 6207,
+          "listed_count": 59,
+          "media_count": 260,
+          "tweet_count": 1374
+        },
+        "url": "",
+        "username": "asork0721",
+        "verified": false
+      }
+    ]
+  }
+}

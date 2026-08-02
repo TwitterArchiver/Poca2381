@@ -1,0 +1,859 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075193198180507648"
+      ],
+      "media_source_tweet_id": [
+        "2077422946990113060"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2081066138734358802",
+    "created_at": "2026-07-25T17:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081066138734358802"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 62,
+          "start": 53,
+          "tag": "vocaloid"
+        },
+        {
+          "end": 65,
+          "start": 63,
+          "tag": "猫"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "ねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712792106572644352",
+          "start": 3,
+          "username": "yukine_hkkig"
+        },
+        {
+          "end": 39,
+          "id": "1733963032160854016",
+          "start": 26,
+          "username": "DARKSTUDIOHK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MIB9TFJ8Sn",
+          "end": 93,
+          "expanded_url": "https://x.com/yukine_hkkig/status/2077422946990113060/video/1",
+          "media_key": "13_2075193198180507648",
+          "start": 70,
+          "url": "https://t.co/MIB9TFJ8Sn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081066138734358802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077422946990113060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukine_hkkig: 摸貓咪\n\n📷: @DARKSTUDIOHK \n#着ぐるみ #初音ミク #vocaloid #猫 #ねこ https://t.co/MIB9TFJ8Sn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23374,
+        "height": 3840,
+        "media_key": "13_2075193198180507648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075193198180507648/img/8VH9ba8W-RD1SX0M.jpg",
+        "public_metrics": {
+          "view_count": 1666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075193198180507648/pl/n9gG-BtHnmuoeUZI.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075193198180507648/vid/avc1/480x852/-G8dtRcX59byghwv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075193198180507648/vid/avc1/1080x1920/iAfUaTYs_Kdo089N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075193198180507648/vid/avc1/720x1280/QI752nVOErKGGoVd.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075193198180507648/vid/avc1/320x568/zf2DyCjQqjYpLQ-n.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075193198180507648/vid/avc1/2160x3840/VFiCsjt8beJM97-P.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075193198180507648"
+          ]
+        },
+        "author_id": "1712792106572644352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2077422946990113060",
+        "created_at": "2026-07-15T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077422946990113060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "vocaloid"
+            },
+            {
+              "end": 47,
+              "start": 45,
+              "tag": "猫"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "ねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1733963032160854016",
+              "start": 8,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIB9TFJ8Sn",
+              "end": 75,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2077422946990113060/video/1",
+              "media_key": "13_2075193198180507648",
+              "start": 52,
+              "url": "https://t.co/MIB9TFJ8Sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077422946990113060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 6440,
+          "like_count": 334,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "摸貓咪\n\n📷: @DARKSTUDIOHK \n#着ぐるみ #初音ミク #vocaloid #猫 #ねこ https://t.co/MIB9TFJ8Sn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075193198180507648"
+          ],
+          "media_source_tweet_id": [
+            "2077422946990113060"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2081066138734358802",
+        "created_at": "2026-07-25T17:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081066138734358802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "vocaloid"
+            },
+            {
+              "end": 65,
+              "start": 63,
+              "tag": "猫"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "ねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712792106572644352",
+              "start": 3,
+              "username": "yukine_hkkig"
+            },
+            {
+              "end": 39,
+              "id": "1733963032160854016",
+              "start": 26,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIB9TFJ8Sn",
+              "end": 93,
+              "expanded_url": "https://x.com/yukine_hkkig/status/2077422946990113060/video/1",
+              "media_key": "13_2075193198180507648",
+              "start": 70,
+              "url": "https://t.co/MIB9TFJ8Sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081066138734358802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077422946990113060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukine_hkkig: 摸貓咪\n\n📷: @DARKSTUDIOHK \n#着ぐるみ #初音ミク #vocaloid #猫 #ねこ https://t.co/MIB9TFJ8Sn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23165,
+          "following_count": 10190,
+          "like_count": 153714,
+          "listed_count": 52,
+          "media_count": 5696,
+          "tweet_count": 54736
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "location": "香港",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 703,
+          "like_count": 12032,
+          "listed_count": 29,
+          "media_count": 1315,
+          "tweet_count": 8754
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T21:33:14.000Z",
+        "description": "新手kiger，可以叫我KS ｜目前什麼都不會，但我會繼續努力的💪🏻",
+        "id": "1733963032160854016",
+        "location": "Hong Kong",
+        "name": "K.S.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958195972586287104/AdXuN5K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 324,
+          "like_count": 1397,
+          "listed_count": 17,
+          "media_count": 143,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "DARKSTUDIOHK",
+        "verified": true
+      }
+    ]
+  }
+}

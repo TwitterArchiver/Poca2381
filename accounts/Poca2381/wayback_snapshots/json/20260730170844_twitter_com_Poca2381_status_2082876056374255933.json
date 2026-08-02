@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081079560586817536"
+      ],
+      "media_source_tweet_id": [
+        "2081079733144711303"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2082876056374255933",
+    "created_at": "2026-07-30T17:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082876056374255933"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862220237912813568",
+          "start": 3,
+          "username": "zYBXWLxiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wiqCtw6a2K",
+          "end": 65,
+          "expanded_url": "https://x.com/zYBXWLxiao/status/2081079733144711303/video/1",
+          "media_key": "13_2081079560586817536",
+          "start": 42,
+          "url": "https://t.co/wiqCtw6a2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082876056374255933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081079733144711303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zYBXWLxiao: 深夜时，一人，发骚，软了，硬了\n#kigurumi https://t.co/wiqCtw6a2K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25615,
+        "height": 1920,
+        "media_key": "13_2081079560586817536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081079560586817536/img/qAhwJKwisa3h8TVS.jpg",
+        "public_metrics": {
+          "view_count": 2716
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081079560586817536/vid/avc1/320x568/FJjTHPtHn3oaT42b.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081079560586817536/vid/avc1/480x852/Bwpi-YWkex3VuW4L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081079560586817536/vid/avc1/720x1280/Tpb2lCGauktW2L7h.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081079560586817536/pl/-YUpwCuCNmsVVEnu.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081079560586817536"
+          ]
+        },
+        "author_id": "1862220237912813568",
+        "conversation_id": "2081079733144711303",
+        "created_at": "2026-07-25T18:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081079733144711303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiqCtw6a2K",
+              "end": 49,
+              "expanded_url": "https://x.com/zYBXWLxiao/status/2081079733144711303/video/1",
+              "media_key": "13_2081079560586817536",
+              "start": 26,
+              "url": "https://t.co/wiqCtw6a2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081079733144711303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 7401,
+          "like_count": 323,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "深夜时，一人，发骚，软了，硬了\n#kigurumi https://t.co/wiqCtw6a2K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081079560586817536"
+          ],
+          "media_source_tweet_id": [
+            "2081079733144711303"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2082876056374255933",
+        "created_at": "2026-07-30T17:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082876056374255933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862220237912813568",
+              "start": 3,
+              "username": "zYBXWLxiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiqCtw6a2K",
+              "end": 65,
+              "expanded_url": "https://x.com/zYBXWLxiao/status/2081079733144711303/video/1",
+              "media_key": "13_2081079560586817536",
+              "start": 42,
+              "url": "https://t.co/wiqCtw6a2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082876056374255933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081079733144711303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zYBXWLxiao: 深夜时，一人，发骚，软了，硬了\n#kigurumi https://t.co/wiqCtw6a2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23189,
+          "following_count": 10223,
+          "like_count": 153908,
+          "listed_count": 52,
+          "media_count": 5777,
+          "tweet_count": 55058
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-28T19:41:27.000Z",
+        "description": "章鱼的里号，🔞注意！！！如要看正常内容请移至正常号，谢谢  正常号@ZYBXWL778\n娃娃我都会回关的！但单取我可就拉黑惹！\n所有玩的内容均保证在不影响路人的前提下偷偷拍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "ZYBXWL778"
+              }
+            ]
+          }
+        },
+        "id": "1862220237912813568",
+        "name": "章鱼（里）🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082491609091051520/-brsXITI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8526,
+          "following_count": 1373,
+          "like_count": 1914,
+          "listed_count": 37,
+          "media_count": 145,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "zYBXWLxiao",
+        "verified": false
+      }
+    ]
+  }
+}

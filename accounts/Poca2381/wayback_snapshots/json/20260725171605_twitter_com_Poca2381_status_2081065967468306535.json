@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080634187355475968"
+      ],
+      "media_source_tweet_id": [
+        "2080634196322869621"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2081065967468306535",
+    "created_at": "2026-07-25T17:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081065967468306535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031555106982998019",
+          "start": 3,
+          "username": "syamn_kig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RELpeuq959",
+          "end": 70,
+          "expanded_url": "https://x.com/syamn_kig/status/2080634196322869621/photo/1",
+          "media_key": "3_2080634187355475968",
+          "start": 47,
+          "url": "https://t.co/RELpeuq959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081065967468306535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080634196322869621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syamn_kig: ACGHK Day 1 速報〜 #kigurumi #着ぐるみ https://t.co/RELpeuq959"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080634187355475968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_lxQzbUAAANtB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080634187355475968"
+          ]
+        },
+        "author_id": "2031555106982998019",
+        "conversation_id": "2080634196322869621",
+        "created_at": "2026-07-24T12:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080634196322869621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RELpeuq959",
+              "end": 55,
+              "expanded_url": "https://x.com/syamn_kig/status/2080634196322869621/photo/1",
+              "media_key": "3_2080634187355475968",
+              "start": 32,
+              "url": "https://t.co/RELpeuq959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080634196322869621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1296,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "ACGHK Day 1 速報〜 #kigurumi #着ぐるみ https://t.co/RELpeuq959"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080634187355475968"
+          ],
+          "media_source_tweet_id": [
+            "2080634196322869621"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2081065967468306535",
+        "created_at": "2026-07-25T17:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081065967468306535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031555106982998019",
+              "start": 3,
+              "username": "syamn_kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RELpeuq959",
+              "end": 70,
+              "expanded_url": "https://x.com/syamn_kig/status/2080634196322869621/photo/1",
+              "media_key": "3_2080634187355475968",
+              "start": 47,
+              "url": "https://t.co/RELpeuq959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081065967468306535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080634196322869621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syamn_kig: ACGHK Day 1 速報〜 #kigurumi #着ぐるみ https://t.co/RELpeuq959"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23165,
+          "following_count": 10190,
+          "like_count": 153712,
+          "listed_count": 52,
+          "media_count": 5696,
+          "tweet_count": 54734
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "A kiger & photographer / 🧸 Hatsune Miku / 📷 A1M2, X2D2 / 📍 Tokyo / 🗣️ English & 日本語 / Only SFW here \n\n🏠@syamncat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "syamncat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/syamn_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/syamn_kig",
+                "start": 0,
+                "url": "https://t.co/11vg1lEoMs"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "location": "Tokyo, Japan",
+        "name": "syamn_kig✈️ACGHK✈️コスサミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 602,
+          "like_count": 1346,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/11vg1lEoMs",
+        "username": "syamn_kig",
+        "verified": true
+      }
+    ]
+  }
+}

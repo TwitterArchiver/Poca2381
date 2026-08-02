@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2079558724826619904"
+      ],
+      "media_source_tweet_id": [
+        "2079558765305827534"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2082144511816613931",
+    "created_at": "2026-07-28T16:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082144511816613931"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 39,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 55,
+          "start": 49,
+          "tag": "latex"
+        },
+        {
+          "end": 63,
+          "start": 56,
+          "tag": "rubber"
+        },
+        {
+          "end": 71,
+          "start": 64,
+          "tag": "ドールマスク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1688175489557655552",
+          "start": 3,
+          "username": "EkoKobayas86791"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QqViy5Hrxi",
+          "end": 95,
+          "expanded_url": "https://x.com/EkoKobayas86791/status/2079558765305827534/video/1",
+          "media_key": "7_2079558724826619904",
+          "start": 72,
+          "url": "https://t.co/QqViy5Hrxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082144511816613931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079558765305827534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EkoKobayas86791: 0721日要干什么呢🥺\n打个胶先😋\n#kigurumi #latex #rubber #ドールマスク https://t.co/QqViy5Hrxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24212,
+        "height": 1280,
+        "media_key": "7_2079558724826619904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079558724826619904/pu/img/0xH3ZGqgLmseLYt9.jpg",
+        "public_metrics": {
+          "view_count": 3054
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079558724826619904/pu/vid/avc1/320x568/_0sNat38C8Rkg5av.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079558724826619904/pu/vid/avc1/480x852/FTLHeZJ1kqifMWOP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079558724826619904/pu/vid/avc1/720x1280/GX-rvQudcVSGeRIW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079558724826619904/pu/pl/tiqajS_fgF3l12K_.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079558724826619904"
+          ]
+        },
+        "author_id": "1688175489557655552",
+        "conversation_id": "2079558765305827534",
+        "created_at": "2026-07-21T13:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079558765305827534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "latex"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "rubber"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "ドールマスク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqViy5Hrxi",
+              "end": 74,
+              "expanded_url": "https://x.com/EkoKobayas86791/status/2079558765305827534/video/1",
+              "media_key": "7_2079558724826619904",
+              "start": 51,
+              "url": "https://t.co/QqViy5Hrxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079558765305827534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 9280,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "0721日要干什么呢🥺\n打个胶先😋\n#kigurumi #latex #rubber #ドールマスク https://t.co/QqViy5Hrxi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079558724826619904"
+          ],
+          "media_source_tweet_id": [
+            "2079558765305827534"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2082144511816613931",
+        "created_at": "2026-07-28T16:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082144511816613931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "latex"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "rubber"
+            },
+            {
+              "end": 71,
+              "start": 64,
+              "tag": "ドールマスク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1688175489557655552",
+              "start": 3,
+              "username": "EkoKobayas86791"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqViy5Hrxi",
+              "end": 95,
+              "expanded_url": "https://x.com/EkoKobayas86791/status/2079558765305827534/video/1",
+              "media_key": "7_2079558724826619904",
+              "start": 72,
+              "url": "https://t.co/QqViy5Hrxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082144511816613931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079558765305827534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EkoKobayas86791: 0721日要干什么呢🥺\n打个胶先😋\n#kigurumi #latex #rubber #ドールマスク https://t.co/QqViy5Hrxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23167,
+          "following_count": 10211,
+          "like_count": 153865,
+          "listed_count": 52,
+          "media_count": 5735,
+          "tweet_count": 54943
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T13:09:50.000Z",
+        "description": "＃kigurumi/#latex/摄影，是雌小鬼（叉腰）\n常驻广佛市，偶尔会在珠三角其他城市出现\n平时是清水，偶尔有涩涩NSFW🔞注意\nbsky：@haakane114.bsky.social",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "kigurumi"
+              },
+              {
+                "end": 16,
+                "start": 10,
+                "tag": "latex"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "haakane114"
+              }
+            ]
+          }
+        },
+        "id": "1688175489557655552",
+        "location": "Queen's  Road  East",
+        "name": "羽茜_Kobayashi",
+        "pinned_tweet_id": "1754437274031325204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951631309387788289/M5XYUVgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12135,
+          "following_count": 1643,
+          "like_count": 5718,
+          "listed_count": 65,
+          "media_count": 263,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "EkoKobayas86791",
+        "verified": false
+      }
+    ]
+  }
+}

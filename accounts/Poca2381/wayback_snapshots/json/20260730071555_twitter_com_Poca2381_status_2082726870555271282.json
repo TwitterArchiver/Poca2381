@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054080790",
+          "name": "ハッピーシュガーライフ"
+        }
+      }
+    ],
+    "conversation_id": "2082726870555271282",
+    "created_at": "2026-07-30T07:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082726870555271282"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 79,
+          "tag": "砂糖的幸福生活"
+        },
+        {
+          "end": 100,
+          "start": 88,
+          "tag": "ハッピーシュガーライフ"
+        },
+        {
+          "end": 106,
+          "start": 101,
+          "tag": "松坂砂糖"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "神戶鹽"
+        },
+        {
+          "end": 126,
+          "start": 112,
+          "tag": "MatsuzakaSato"
+        },
+        {
+          "end": 136,
+          "start": 127,
+          "tag": "Kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1909785256913518594",
+          "start": 3,
+          "username": "AsunaYuuki24805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082726870555271282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082294184824947146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsunaYuuki24805: 這不是誓言，而是我的生活。只要和鹽醬在一起，我就能變得無比堅強。\n這就是我們的 Happy Sugar Life\n #砂糖的幸福生活 #ハッピーシュガーライフ #松坂砂糖 #神戶鹽 #MatsuzakaSato #Kigurumi #キ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2082294165925453824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXLgu3a4AAb2R1.jpg",
+        "width": 929
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2082294170904068096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXLhBaagAA0YWs.jpg",
+        "width": 2005
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2082294175723393024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXLhTXbkAA7wKX.jpg",
+        "width": 1324
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2082294180240576512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXLhkMaUAAOqB8.jpg",
+        "width": 1629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "2082726870555271282",
+        "created_at": "2026-07-30T07:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082726870555271282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 79,
+              "tag": "砂糖的幸福生活"
+            },
+            {
+              "end": 100,
+              "start": 88,
+              "tag": "ハッピーシュガーライフ"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "松坂砂糖"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "神戶鹽"
+            },
+            {
+              "end": 126,
+              "start": 112,
+              "tag": "MatsuzakaSato"
+            },
+            {
+              "end": 136,
+              "start": 127,
+              "tag": "Kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1909785256913518594",
+              "start": 3,
+              "username": "AsunaYuuki24805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082726870555271282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082294184824947146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsunaYuuki24805: 這不是誓言，而是我的生活。只要和鹽醬在一起，我就能變得無比堅強。\n這就是我們的 Happy Sugar Life\n #砂糖的幸福生活 #ハッピーシュガーライフ #松坂砂糖 #神戶鹽 #MatsuzakaSato #Kigurumi #キ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082294165925453824",
+            "3_2082294170904068096",
+            "3_2082294175723393024",
+            "3_2082294180240576512"
+          ]
+        },
+        "author_id": "1909785256913518594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "2082294184824947146",
+        "created_at": "2026-07-29T02:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082294184824947146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "砂糖的幸福生活"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "ハッピーシュガーライフ"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "松坂砂糖"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "神戶鹽"
+            },
+            {
+              "end": 105,
+              "start": 91,
+              "tag": "MatsuzakaSato"
+            },
+            {
+              "end": 115,
+              "start": 106,
+              "tag": "Kigurumi"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "キグルミ"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "病嬌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dxDSSbabIg",
+              "end": 156,
+              "expanded_url": "https://x.com/AsunaYuuki24805/status/2082294184824947146/photo/1",
+              "media_key": "3_2082294165925453824",
+              "start": 133,
+              "url": "https://t.co/dxDSSbabIg"
+            },
+            {
+              "display_url": "pic.x.com/dxDSSbabIg",
+              "end": 156,
+              "expanded_url": "https://x.com/AsunaYuuki24805/status/2082294184824947146/photo/1",
+              "media_key": "3_2082294170904068096",
+              "start": 133,
+              "url": "https://t.co/dxDSSbabIg"
+            },
+            {
+              "display_url": "pic.x.com/dxDSSbabIg",
+              "end": 156,
+              "expanded_url": "https://x.com/AsunaYuuki24805/status/2082294184824947146/photo/1",
+              "media_key": "3_2082294175723393024",
+              "start": 133,
+              "url": "https://t.co/dxDSSbabIg"
+            },
+            {
+              "display_url": "pic.x.com/dxDSSbabIg",
+              "end": 156,
+              "expanded_url": "https://x.com/AsunaYuuki24805/status/2082294184824947146/photo/1",
+              "media_key": "3_2082294180240576512",
+              "start": 133,
+              "url": "https://t.co/dxDSSbabIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082294184824947146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 307,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "這不是誓言，而是我的生活。只要和鹽醬在一起，我就能變得無比堅強。\n這就是我們的 Happy Sugar Life\n #砂糖的幸福生活 #ハッピーシュガーライフ #松坂砂糖 #神戶鹽 #MatsuzakaSato #Kigurumi #キグルミ #着ぐるみ  #病嬌 https://t.co/dxDSSbabIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23193,
+          "following_count": 10223,
+          "like_count": 153898,
+          "listed_count": 52,
+          "media_count": 5764,
+          "tweet_count": 55031
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-09T01:48:32.000Z",
+        "description": "",
+        "id": "1909785256913518594",
+        "location": "Hong Kong",
+        "name": "Asuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082353799889629184/rDL06Ix1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 56,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "AsunaYuuki24805",
+        "verified": false
+      }
+    ]
+  }
+}

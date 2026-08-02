@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2082711591997587786",
+    "created_at": "2026-07-30T06:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082711591997587786"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 106,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 125,
+          "start": 117,
+          "tag": "cosplay"
+        },
+        {
+          "end": 137,
+          "start": 127,
+          "tag": "ACGHK2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3792469754",
+          "start": 3,
+          "username": "honwing27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082711591997587786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082428911091322941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honwing27: 一連五天的漫展活動結束了,也是我第一次連續五天也是以kig(變娃)形式去遊玩😆,跟大家一起拍照一起玩🤩,很高興可以參加這次活動,期待下年可以繼續去遊玩🤤\n(來發一下一些活動合照)\n\n#kigurumi \n#cosplay \n#ACGHK2026 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2082428876651929600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZGB7baoAAcgdM.jpg",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2082428884671483904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZGCZTbUAAk_Jo.jpg",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2082428895555719168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZGDB2bkAALypI.jpg",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2082428902820220928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZGDc6bEAAkCOL.jpg",
+        "width": 3264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2082711591997587786",
+        "created_at": "2026-07-30T06:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082711591997587786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 106,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 125,
+              "start": 117,
+              "tag": "cosplay"
+            },
+            {
+              "end": 137,
+              "start": 127,
+              "tag": "ACGHK2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3792469754",
+              "start": 3,
+              "username": "honwing27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082711591997587786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082428911091322941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honwing27: 一連五天的漫展活動結束了,也是我第一次連續五天也是以kig(變娃)形式去遊玩😆,跟大家一起拍照一起玩🤩,很高興可以參加這次活動,期待下年可以繼續去遊玩🤤\n(來發一下一些活動合照)\n\n#kigurumi \n#cosplay \n#ACGHK2026 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082428876651929600",
+            "3_2082428884671483904",
+            "3_2082428895555719168",
+            "3_2082428902820220928"
+          ]
+        },
+        "author_id": "3792469754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2082428911091322941",
+        "created_at": "2026-07-29T11:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082428911091322941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 91,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 110,
+              "start": 102,
+              "tag": "cosplay"
+            },
+            {
+              "end": 122,
+              "start": 112,
+              "tag": "ACGHK2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nwRAIFX5a",
+              "end": 146,
+              "expanded_url": "https://x.com/honwing27/status/2082428911091322941/photo/1",
+              "media_key": "3_2082428876651929600",
+              "start": 123,
+              "url": "https://t.co/1nwRAIFX5a"
+            },
+            {
+              "display_url": "pic.x.com/1nwRAIFX5a",
+              "end": 146,
+              "expanded_url": "https://x.com/honwing27/status/2082428911091322941/photo/1",
+              "media_key": "3_2082428884671483904",
+              "start": 123,
+              "url": "https://t.co/1nwRAIFX5a"
+            },
+            {
+              "display_url": "pic.x.com/1nwRAIFX5a",
+              "end": 146,
+              "expanded_url": "https://x.com/honwing27/status/2082428911091322941/photo/1",
+              "media_key": "3_2082428895555719168",
+              "start": 123,
+              "url": "https://t.co/1nwRAIFX5a"
+            },
+            {
+              "display_url": "pic.x.com/1nwRAIFX5a",
+              "end": 146,
+              "expanded_url": "https://x.com/honwing27/status/2082428911091322941/photo/1",
+              "media_key": "3_2082428902820220928",
+              "start": 123,
+              "url": "https://t.co/1nwRAIFX5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082428911091322941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1719,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "一連五天的漫展活動結束了,也是我第一次連續五天也是以kig(變娃)形式去遊玩😆,跟大家一起拍照一起玩🤩,很高興可以參加這次活動,期待下年可以繼續去遊玩🤤\n(來發一下一些活動合照)\n\n#kigurumi \n#cosplay \n#ACGHK2026 https://t.co/1nwRAIFX5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23190,
+          "following_count": 10219,
+          "like_count": 153876,
+          "listed_count": 52,
+          "media_count": 5761,
+          "tweet_count": 55001
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-05T13:20:18.000Z",
+        "description": "來自香港🇭🇰 。vrc玩家，kig萌新。角色：Sameko Saba🐟、白上フブキ🦊🌽、 結城さくな🎀🐾、(ブルアカ)Arona🩵、(ブルアカ)Plana🤍、？。偶爾會發點日常",
+        "id": "3792469754",
+        "name": "honwing",
+        "pinned_tweet_id": "2009136747616330032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451649336421482496/1a2gL892_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 4968,
+          "like_count": 3911,
+          "listed_count": 14,
+          "media_count": 269,
+          "tweet_count": 21226
+        },
+        "url": "",
+        "username": "honwing27",
+        "verified": true
+      }
+    ]
+  }
+}

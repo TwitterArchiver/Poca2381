@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080682397939781632"
+      ],
+      "media_source_tweet_id": [
+        "2080682408748450233"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2081065955845886263",
+    "created_at": "2026-07-25T17:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081065955845886263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031555106982998019",
+          "start": 3,
+          "username": "syamn_kig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9eQO8PJhB",
+          "end": 46,
+          "expanded_url": "https://x.com/syamn_kig/status/2080682408748450233/photo/1",
+          "media_key": "3_2080682397939781632",
+          "start": 23,
+          "url": "https://t.co/f9eQO8PJhB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081065955845886263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080682408748450233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syamn_kig: 意思薄弱狗〜〜 https://t.co/f9eQO8PJhB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080682397939781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOARnfOb0AAhdDj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080682397939781632"
+          ]
+        },
+        "author_id": "2031555106982998019",
+        "conversation_id": "2080682408748450233",
+        "created_at": "2026-07-24T15:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080682408748450233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9eQO8PJhB",
+              "end": 31,
+              "expanded_url": "https://x.com/syamn_kig/status/2080682408748450233/photo/1",
+              "media_key": "3_2080682397939781632",
+              "start": 8,
+              "url": "https://t.co/f9eQO8PJhB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "2080682408748450233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 752,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "意思薄弱狗〜〜 https://t.co/f9eQO8PJhB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080682397939781632"
+          ],
+          "media_source_tweet_id": [
+            "2080682408748450233"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2081065955845886263",
+        "created_at": "2026-07-25T17:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081065955845886263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031555106982998019",
+              "start": 3,
+              "username": "syamn_kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9eQO8PJhB",
+              "end": 46,
+              "expanded_url": "https://x.com/syamn_kig/status/2080682408748450233/photo/1",
+              "media_key": "3_2080682397939781632",
+              "start": 23,
+              "url": "https://t.co/f9eQO8PJhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081065955845886263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080682408748450233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syamn_kig: 意思薄弱狗〜〜 https://t.co/f9eQO8PJhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23165,
+          "following_count": 10190,
+          "like_count": 153712,
+          "listed_count": 52,
+          "media_count": 5696,
+          "tweet_count": 54733
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "A kiger & photographer / 🧸 Hatsune Miku / 📷 A1M2, X2D2 / 📍 Tokyo / 🗣️ English & 日本語 / Only SFW here \n\n🏠@syamncat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "syamncat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/syamn_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/syamn_kig",
+                "start": 0,
+                "url": "https://t.co/11vg1lEoMs"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "location": "Tokyo, Japan",
+        "name": "syamn_kig✈️ACGHK✈️コスサミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 602,
+          "like_count": 1346,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/11vg1lEoMs",
+        "username": "syamn_kig",
+        "verified": true
+      }
+    ]
+  }
+}
