@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086069459266187264",
+        "3_2086069459270488065"
+      ],
+      "media_source_tweet_id": [
+        "2086069536307265931",
+        "2086069536307265931"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2086382725527986511",
+    "created_at": "2026-08-09T09:22:59.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086382725527986511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271512602145730560",
+          "start": 3,
+          "username": "Akino_QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/106yczYVFL",
+          "end": 54,
+          "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+          "media_key": "13_2086069459266187264",
+          "start": 31,
+          "url": "https://t.co/106yczYVFL"
+        },
+        {
+          "display_url": "pic.x.com/106yczYVFL",
+          "end": 54,
+          "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+          "media_key": "3_2086069459270488065",
+          "start": 31,
+          "url": "https://t.co/106yczYVFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086382725527986511",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086069459266187264"
+      },
+      {
+        "media_key": "3_2086069459270488065"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086069536307265931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akino_QwQ: 索尼罪大滔天\n诱发双相情感障碍 https://t.co/106yczYVFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19358,
+        "height": 1280,
+        "media_key": "13_2086069459266187264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086069459266187264/img/-oKNJCgJyNidalAU.jpg",
+        "public_metrics": {
+          "view_count": 534293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/vid/avc1/320x568/QadhvkTg9VTAqHfL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/vid/avc1/480x852/8zr_-oNL_pp9vOLo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/vid/avc1/720x1280/o1w9vBgrjN-N9oEC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/pl/hEuhnxtt9JyR8PyD.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086069459270488065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPM1Huib0AEBcHy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086069459266187264",
+            "3_2086069459270488065"
+          ]
+        },
+        "author_id": "1271512602145730560",
+        "conversation_id": "2086069536307265931",
+        "created_at": "2026-08-08T12:38:29.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086069536307265931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/106yczYVFL",
+              "end": 39,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+              "media_key": "13_2086069459266187264",
+              "start": 16,
+              "url": "https://t.co/106yczYVFL"
+            },
+            {
+              "display_url": "pic.x.com/106yczYVFL",
+              "end": 39,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+              "media_key": "3_2086069459270488065",
+              "start": 16,
+              "url": "https://t.co/106yczYVFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086069536307265931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086069459266187264"
+          },
+          {
+            "media_key": "3_2086069459270488065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 799688,
+          "like_count": 2017,
+          "quote_count": 13,
+          "reply_count": 513,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "索尼罪大滔天\n诱发双相情感障碍 https://t.co/106yczYVFL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086069459266187264",
+            "3_2086069459270488065"
+          ],
+          "media_source_tweet_id": [
+            "2086069536307265931",
+            "2086069536307265931"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2086382725527986511",
+        "created_at": "2026-08-09T09:22:59.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086382725527986511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271512602145730560",
+              "start": 3,
+              "username": "Akino_QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/106yczYVFL",
+              "end": 54,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+              "media_key": "13_2086069459266187264",
+              "start": 31,
+              "url": "https://t.co/106yczYVFL"
+            },
+            {
+              "display_url": "pic.x.com/106yczYVFL",
+              "end": 54,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+              "media_key": "3_2086069459270488065",
+              "start": 31,
+              "url": "https://t.co/106yczYVFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086382725527986511",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086069459266187264"
+          },
+          {
+            "media_key": "3_2086069459270488065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086069536307265931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akino_QwQ: 索尼罪大滔天\n诱发双相情感障碍 https://t.co/106yczYVFL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2086382725527986511",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23682,
+          "following_count": 10444,
+          "like_count": 154549,
+          "listed_count": 52,
+          "media_count": 5985,
+          "tweet_count": 56008
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "is_identity_verified": false,
+        "location": "华立科技展厅",
+        "most_recent_tweet_id": "2086370897146138673",
+        "name": "一定不是银喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271512602145730560/1674706633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4034,
+          "following_count": 953,
+          "like_count": 18723,
+          "listed_count": 12,
+          "media_count": 681,
+          "tweet_count": 4009
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2085097132504351220",
+    "created_at": "2026-08-06T11:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085320289345556784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916306692880666625",
+          "start": 0,
+          "username": "luYuanChun7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085320289345556784",
+    "in_reply_to_user_id": "1916306692880666625",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085097132504351220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luYuanChun7 🐔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21845,
+        "height": 1280,
+        "media_key": "13_2085096975738023936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085096975738023936/img/jzbIq2I8uq3Jgp57.jpg",
+        "public_metrics": {
+          "view_count": 2445
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085096975738023936/vid/avc1/320x568/_HVBa5OHG3hyOcV3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085096975738023936/vid/avc1/480x852/IjMAfadQpgEEKww-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085096975738023936/vid/avc1/720x1280/a2RFb3DVowTF6Rii.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085096975738023936/pl/jLd6KbAftUxz0s70.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 587,
+        "height": 1280,
+        "media_key": "13_2085097107426516992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085097107426516992/img/eVwQW3Ar2eRgB7f3.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085097107426516992/vid/avc1/320x568/B4n64IKyR0Qb9jCt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085097107426516992/vid/avc1/480x852/Y8scAt0bieTQyxqd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085097107426516992/vid/avc1/720x1280/u0Az6TljbWaqRDCD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085097107426516992/pl/GCGgUAp3yOSNp1QV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2085097132504351220",
+        "created_at": "2026-08-06T11:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085320289345556784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916306692880666625",
+              "start": 0,
+              "username": "luYuanChun7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085320289345556784",
+        "in_reply_to_user_id": "1916306692880666625",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085097132504351220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luYuanChun7 🐔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085096975738023936",
+            "13_2085097107426516992"
+          ]
+        },
+        "author_id": "1916306692880666625",
+        "conversation_id": "2085097132504351220",
+        "created_at": "2026-08-05T20:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085097132504351220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7m4NBTUPxp",
+              "end": 49,
+              "expanded_url": "https://x.com/luYuanChun7/status/2085097132504351220/video/1",
+              "media_key": "13_2085096975738023936",
+              "start": 26,
+              "url": "https://t.co/7m4NBTUPxp"
+            },
+            {
+              "display_url": "pic.x.com/7m4NBTUPxp",
+              "end": 49,
+              "expanded_url": "https://x.com/luYuanChun7/status/2085097132504351220/video/1",
+              "media_key": "13_2085097107426516992",
+              "start": 26,
+              "url": "https://t.co/7m4NBTUPxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085097132504351220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 5322,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "抚摸着不明的凸起物\n#kigurumi #着ぐるみ https://t.co/7m4NBTUPxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23480,
+          "following_count": 10364,
+          "like_count": 154173,
+          "listed_count": 51,
+          "media_count": 5927,
+          "tweet_count": 55572
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T01:43:46.000Z",
+        "description": "发点非正式内容。\n事某位不知名清水的里号(确信\n超级变娃低手\n各种涩涩都很想玩，全包感官剥夺suki❤️",
+        "id": "1916306692880666625",
+        "location": "Guangzhou",
+        "name": "纯七二号机~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081140306670690304/V6b4i0TE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 935,
+          "like_count": 828,
+          "listed_count": 18,
+          "media_count": 45,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "luYuanChun7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084637730416500736",
+        "3_2084637730424926208"
+      ],
+      "media_source_tweet_id": [
+        "2084637734925471881",
+        "2084637734925471881"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      }
+    ],
+    "conversation_id": "2087530279200338204",
+    "created_at": "2026-08-12T13:22:57.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087530279200338204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1122898229559824384",
+          "start": 3,
+          "username": "yukiyukiroom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XBzn45HkNW",
+          "end": 54,
+          "expanded_url": "https://x.com/yukiyukiroom/status/2084637734925471881/photo/1",
+          "media_key": "3_2084637730416500736",
+          "start": 31,
+          "url": "https://t.co/XBzn45HkNW"
+        },
+        {
+          "display_url": "pic.x.com/XBzn45HkNW",
+          "end": 54,
+          "expanded_url": "https://x.com/yukiyukiroom/status/2084637734925471881/photo/1",
+          "media_key": "3_2084637730424926208",
+          "start": 31,
+          "url": "https://t.co/XBzn45HkNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087530279200338204",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2084637730416500736"
+      },
+      {
+        "media_key": "3_2084637730424926208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084637734925471881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukiyukiroom: 先月の上海ディズニー🏰✨ https://t.co/XBzn45HkNW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084637730416500736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4e-I7aIAAMqpO.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084637730424926208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4e-I9asAA91su.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084637730416500736",
+            "3_2084637730424926208"
+          ]
+        },
+        "author_id": "1122898229559824384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2084637734925471881",
+        "created_at": "2026-08-04T13:49:01.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084637734925471881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBzn45HkNW",
+              "end": 36,
+              "expanded_url": "https://x.com/yukiyukiroom/status/2084637734925471881/photo/1",
+              "media_key": "3_2084637730416500736",
+              "start": 13,
+              "url": "https://t.co/XBzn45HkNW"
+            },
+            {
+              "display_url": "pic.x.com/XBzn45HkNW",
+              "end": 36,
+              "expanded_url": "https://x.com/yukiyukiroom/status/2084637734925471881/photo/1",
+              "media_key": "3_2084637730424926208",
+              "start": 13,
+              "url": "https://t.co/XBzn45HkNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084637734925471881",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2084637730416500736"
+          },
+          {
+            "media_key": "3_2084637730424926208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 4635,
+          "like_count": 522,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "先月の上海ディズニー🏰✨ https://t.co/XBzn45HkNW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084637730416500736",
+            "3_2084637730424926208"
+          ],
+          "media_source_tweet_id": [
+            "2084637734925471881",
+            "2084637734925471881"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2087530279200338204",
+        "created_at": "2026-08-12T13:22:57.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087530279200338204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1122898229559824384",
+              "start": 3,
+              "username": "yukiyukiroom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBzn45HkNW",
+              "end": 54,
+              "expanded_url": "https://x.com/yukiyukiroom/status/2084637734925471881/photo/1",
+              "media_key": "3_2084637730416500736",
+              "start": 31,
+              "url": "https://t.co/XBzn45HkNW"
+            },
+            {
+              "display_url": "pic.x.com/XBzn45HkNW",
+              "end": 54,
+              "expanded_url": "https://x.com/yukiyukiroom/status/2084637734925471881/photo/1",
+              "media_key": "3_2084637730424926208",
+              "start": 31,
+              "url": "https://t.co/XBzn45HkNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087530279200338204",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2084637730416500736"
+          },
+          {
+            "media_key": "3_2084637730424926208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084637734925471881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukiyukiroom: 先月の上海ディズニー🏰✨ https://t.co/XBzn45HkNW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2087530279200338204",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23861,
+          "following_count": 10506,
+          "like_count": 154715,
+          "listed_count": 53,
+          "media_count": 6055,
+          "tweet_count": 56306
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-29T16:19:35.000Z",
+        "description": "はうううん @teyi0214の日常垢❄️🎀！ゆきてい日常のいろんなこと&グッズやfantiaについて呟いてる",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "teyi0214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/21B1V37INNC54?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/B02IJKVx0K"
+              }
+            ]
+          }
+        },
+        "id": "1122898229559824384",
+        "is_identity_verified": false,
+        "location": "🎁ギフト→",
+        "most_recent_tweet_id": "2087529833064808786",
+        "name": "ゆき小屋☃️🎀",
+        "pinned_tweet_id": "1279564321073160192",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122898229559824384/1577118473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1249072771323187200/OaiDgXj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24355,
+          "following_count": 541,
+          "like_count": 7369,
+          "listed_count": 112,
+          "media_count": 638,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/B02IJKVx0K",
+        "username": "yukiyukiroom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

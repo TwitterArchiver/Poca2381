@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088220770690379776"
+      ],
+      "media_source_tweet_id": [
+        "2088224096446239045"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2088502756114100646",
+    "created_at": "2026-08-15T05:47:14.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088502756114100646"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 74,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 98,
+          "start": 90,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777619623539560448",
+          "start": 3,
+          "username": "KiguRyuka"
+        },
+        {
+          "end": 71,
+          "id": "1399855230511108096",
+          "start": 60,
+          "username": "Kohaku_Kig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j5MsoqTOrK",
+          "end": 122,
+          "expanded_url": "https://x.com/KiguRyuka/status/2088224096446239045/photo/1",
+          "media_key": "3_2088220770690379776",
+          "start": 99,
+          "url": "https://t.co/j5MsoqTOrK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088502756114100646",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088220770690379776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088224096446239045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiguRyuka: I love mirrors because they love me~~ 💜✨\n\n📸: @Kohaku_Kig \n\n#kigurumi #着ぐるみ #cosplay https://t.co/j5MsoqTOrK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088220770690379776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrZuiGXsAAlSWp.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088220770690379776"
+          ],
+          "media_source_tweet_id": [
+            "2088224096446239045"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088502756114100646",
+        "created_at": "2026-08-15T05:47:14.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088502756114100646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 98,
+              "start": 90,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777619623539560448",
+              "start": 3,
+              "username": "KiguRyuka"
+            },
+            {
+              "end": 71,
+              "id": "1399855230511108096",
+              "start": 60,
+              "username": "Kohaku_Kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5MsoqTOrK",
+              "end": 122,
+              "expanded_url": "https://x.com/KiguRyuka/status/2088224096446239045/photo/1",
+              "media_key": "3_2088220770690379776",
+              "start": 99,
+              "url": "https://t.co/j5MsoqTOrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088502756114100646",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088220770690379776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088224096446239045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiguRyuka: I love mirrors because they love me~~ 💜✨\n\n📸: @Kohaku_Kig \n\n#kigurumi #着ぐるみ #cosplay https://t.co/j5MsoqTOrK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088220770690379776"
+          ]
+        },
+        "author_id": "1777619623539560448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088224096446239045",
+        "created_at": "2026-08-14T11:19:56.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088224096446239045"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 59,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 83,
+              "start": 75,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 56,
+              "id": "1399855230511108096",
+              "start": 45,
+              "username": "Kohaku_Kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5MsoqTOrK",
+              "end": 107,
+              "expanded_url": "https://x.com/KiguRyuka/status/2088224096446239045/photo/1",
+              "media_key": "3_2088220770690379776",
+              "start": 84,
+              "url": "https://t.co/j5MsoqTOrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088224096446239045",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088220770690379776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2277,
+          "like_count": 271,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "I love mirrors because they love me~~ 💜✨\n\n📸: @Kohaku_Kig \n\n#kigurumi #着ぐるみ #cosplay https://t.co/j5MsoqTOrK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2088502767296110962",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23928,
+          "following_count": 10510,
+          "like_count": 154860,
+          "listed_count": 53,
+          "media_count": 6129,
+          "tweet_count": 56557
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-09T08:51:10.000Z",
+        "description": "リュウカくろみや👹💖 抱きつき大好きオランダデーモン着ぐるみ〜\nCuddle-addicted Dutch demon kig...",
+        "id": "1777619623539560448",
+        "is_identity_verified": false,
+        "location": "Nederland",
+        "most_recent_tweet_id": "2088335741197693289",
+        "name": "Ryuka Kuromiya",
+        "pinned_tweet_id": "2085818101409448375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1777619623539560448/1726433901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928241076697022464/kT8WnUsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 3994,
+          "like_count": 36404,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "KiguRyuka",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-01T22:28:19.000Z",
+        "description": "Henlo yes, Dutch kigu here. 182cm | 67kg Chars: シャルロット デュノア - Charlotte Dunois: IS | 月見草 朧 - Oboro Tsukimigusa: Shimoneta | 柚香 (ゆずか) - Yuzuka: OC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohaku_kig",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohaku_kig",
+                "start": 0,
+                "url": "https://t.co/kGMTFgygHg"
+              }
+            ]
+          }
+        },
+        "id": "1399855230511108096",
+        "is_identity_verified": false,
+        "location": "The Netherlands / オランダ",
+        "most_recent_tweet_id": "2084739630729973897",
+        "name": "Kohaku",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399855230511108096/1635871568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506764396659449864/AOTvVBFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4369,
+          "following_count": 992,
+          "like_count": 13027,
+          "listed_count": 25,
+          "media_count": 408,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/kGMTFgygHg",
+        "username": "Kohaku_Kig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,773 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086854072242700288",
+        "3_2086854452993224706",
+        "3_2086854914920374272"
+      ],
+      "media_source_tweet_id": [
+        "2086857011220869454",
+        "2086857011220869454",
+        "2086857011220869454"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      }
+    ],
+    "conversation_id": "2087069319566184771",
+    "created_at": "2026-08-11T06:51:16.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087069319566184771"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 53,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2878135880",
+          "start": 3,
+          "username": "youmu_i19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ST7Qg5tP7S",
+          "end": 92,
+          "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+          "media_key": "3_2086854072242700288",
+          "start": 69,
+          "url": "https://t.co/ST7Qg5tP7S"
+        },
+        {
+          "display_url": "pic.x.com/ST7Qg5tP7S",
+          "end": 92,
+          "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+          "media_key": "3_2086854452993224706",
+          "start": 69,
+          "url": "https://t.co/ST7Qg5tP7S"
+        },
+        {
+          "display_url": "pic.x.com/ST7Qg5tP7S",
+          "end": 92,
+          "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+          "media_key": "3_2086854914920374272",
+          "start": 69,
+          "url": "https://t.co/ST7Qg5tP7S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087069319566184771",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086854072242700288"
+      },
+      {
+        "media_key": "3_2086854452993224706"
+      },
+      {
+        "media_key": "3_2086854914920374272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086857011220869454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmu_i19: 着ぐるみで麻雀\n運が良すぎる！\n6連荘もした\n結局96900点 (三麻)\n\n#kigurumi #着ぐるみ https://t.co/ST7Qg5tP7S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086854072242700288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX-uNoagAAs-9V.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3560,
+        "media_key": "3_2086854452993224706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX_EYCacAIQ5LQ.jpg",
+        "width": 2367
+      },
+      {
+        "height": 3377,
+        "media_key": "3_2086854914920374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX_fQ2bYAA_yZt.jpg",
+        "width": 2542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086854072242700288",
+            "3_2086854452993224706",
+            "3_2086854914920374272"
+          ]
+        },
+        "author_id": "2878135880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2086857011220869454",
+        "created_at": "2026-08-10T16:47:38.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086857011220869454"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ST7Qg5tP7S",
+              "end": 77,
+              "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+              "media_key": "3_2086854072242700288",
+              "start": 54,
+              "url": "https://t.co/ST7Qg5tP7S"
+            },
+            {
+              "display_url": "pic.x.com/ST7Qg5tP7S",
+              "end": 77,
+              "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+              "media_key": "3_2086854452993224706",
+              "start": 54,
+              "url": "https://t.co/ST7Qg5tP7S"
+            },
+            {
+              "display_url": "pic.x.com/ST7Qg5tP7S",
+              "end": 77,
+              "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+              "media_key": "3_2086854914920374272",
+              "start": 54,
+              "url": "https://t.co/ST7Qg5tP7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086857011220869454",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086854072242700288"
+          },
+          {
+            "media_key": "3_2086854452993224706"
+          },
+          {
+            "media_key": "3_2086854914920374272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1474,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "着ぐるみで麻雀\n運が良すぎる！\n6連荘もした\n結局96900点 (三麻)\n\n#kigurumi #着ぐるみ https://t.co/ST7Qg5tP7S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086854072242700288",
+            "3_2086854452993224706",
+            "3_2086854914920374272"
+          ],
+          "media_source_tweet_id": [
+            "2086857011220869454",
+            "2086857011220869454",
+            "2086857011220869454"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2087069319566184771",
+        "created_at": "2026-08-11T06:51:16.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087069319566184771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2878135880",
+              "start": 3,
+              "username": "youmu_i19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ST7Qg5tP7S",
+              "end": 92,
+              "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+              "media_key": "3_2086854072242700288",
+              "start": 69,
+              "url": "https://t.co/ST7Qg5tP7S"
+            },
+            {
+              "display_url": "pic.x.com/ST7Qg5tP7S",
+              "end": 92,
+              "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+              "media_key": "3_2086854452993224706",
+              "start": 69,
+              "url": "https://t.co/ST7Qg5tP7S"
+            },
+            {
+              "display_url": "pic.x.com/ST7Qg5tP7S",
+              "end": 92,
+              "expanded_url": "https://x.com/youmu_i19/status/2086857011220869454/photo/1",
+              "media_key": "3_2086854914920374272",
+              "start": 69,
+              "url": "https://t.co/ST7Qg5tP7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087069319566184771",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086854072242700288"
+          },
+          {
+            "media_key": "3_2086854452993224706"
+          },
+          {
+            "media_key": "3_2086854914920374272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086857011220869454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmu_i19: 着ぐるみで麻雀\n運が良すぎる！\n6連荘もした\n結局96900点 (三麻)\n\n#kigurumi #着ぐるみ https://t.co/ST7Qg5tP7S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2087069338679509329",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23803,
+          "following_count": 10492,
+          "like_count": 154680,
+          "listed_count": 53,
+          "media_count": 6026,
+          "tweet_count": 56214
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-26T10:41:57.000Z",
+        "description": "香港kigurumi\n撮影,VRC\nホロライブ、ラブライブ、ひなビタ、プリキュア 推し\nhttps://t.co/FzfxfQzA0Z\nhttps://t.co/q9aQB6V5By\n\nproducer垢: @youmu_i19p\n製作垢: @19workshop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "youmu_i19p"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "19workshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/youmu_i19_kig/",
+                "end": 67,
+                "expanded_url": "http://instagram.com/youmu_i19_kig/",
+                "start": 44,
+                "url": "https://t.co/FzfxfQzA0Z"
+              },
+              {
+                "display_url": "youtube.com/@youmu_i19kig",
+                "end": 91,
+                "expanded_url": "https://www.youtube.com/@youmu_i19kig",
+                "start": 68,
+                "url": "https://t.co/q9aQB6V5By"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youmu-i19.xyz",
+                "end": 23,
+                "expanded_url": "http://youmu-i19.xyz",
+                "start": 0,
+                "url": "https://t.co/QXoqduNQ01"
+              }
+            ]
+          }
+        },
+        "id": "2878135880",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2086857011220869454",
+        "name": "妖夢_伊19",
+        "pinned_tweet_id": "1927802455003115610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2878135880/1744549517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893471731379249152/x9sVSFnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3260,
+          "following_count": 953,
+          "like_count": 16896,
+          "listed_count": 20,
+          "media_count": 1142,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/QXoqduNQ01",
+        "username": "youmu_i19",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

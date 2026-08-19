@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088175417429757952",
+        "3_2088175427907194881",
+        "3_2088175437608546304"
+      ],
+      "media_source_tweet_id": [
+        "2088175446282432538",
+        "2088175446282432538",
+        "2088175446282432538"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2088502767296110962",
+    "created_at": "2026-08-15T05:47:16.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088502767296110962"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 25,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "原神"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "リンネア"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912686099702697984",
+          "start": 3,
+          "username": "hourai_29"
+        },
+        {
+          "end": 23,
+          "id": "1093751226758352898",
+          "start": 16,
+          "username": "xyik11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EQdIlC7Mwe",
+          "end": 74,
+          "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+          "media_key": "3_2088175417429757952",
+          "start": 51,
+          "url": "https://t.co/EQdIlC7Mwe"
+        },
+        {
+          "display_url": "pic.x.com/EQdIlC7Mwe",
+          "end": 74,
+          "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+          "media_key": "3_2088175427907194881",
+          "start": 51,
+          "url": "https://t.co/EQdIlC7Mwe"
+        },
+        {
+          "display_url": "pic.x.com/EQdIlC7Mwe",
+          "end": 74,
+          "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+          "media_key": "3_2088175437608546304",
+          "start": 51,
+          "url": "https://t.co/EQdIlC7Mwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088502767296110962",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088175417429757952"
+      },
+      {
+        "media_key": "3_2088175427907194881"
+      },
+      {
+        "media_key": "3_2088175437608546304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088175446282432538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hourai_29: 📷@xyik11\n\n#kigurumi #着ぐるみ #原神 #リンネア https://t.co/EQdIlC7Mwe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088175417429757952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqweoCakAANCNX.jpg",
+        "width": 2730
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2088175427907194881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqwfPEbkAEzmMB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088175437608546304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqwfzNacAA4gOG.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088175417429757952",
+            "3_2088175427907194881",
+            "3_2088175437608546304"
+          ],
+          "media_source_tweet_id": [
+            "2088175446282432538",
+            "2088175446282432538",
+            "2088175446282432538"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2088502767296110962",
+        "created_at": "2026-08-15T05:47:16.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088502767296110962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "原神"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "リンネア"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912686099702697984",
+              "start": 3,
+              "username": "hourai_29"
+            },
+            {
+              "end": 23,
+              "id": "1093751226758352898",
+              "start": 16,
+              "username": "xyik11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQdIlC7Mwe",
+              "end": 74,
+              "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+              "media_key": "3_2088175417429757952",
+              "start": 51,
+              "url": "https://t.co/EQdIlC7Mwe"
+            },
+            {
+              "display_url": "pic.x.com/EQdIlC7Mwe",
+              "end": 74,
+              "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+              "media_key": "3_2088175427907194881",
+              "start": 51,
+              "url": "https://t.co/EQdIlC7Mwe"
+            },
+            {
+              "display_url": "pic.x.com/EQdIlC7Mwe",
+              "end": 74,
+              "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+              "media_key": "3_2088175437608546304",
+              "start": 51,
+              "url": "https://t.co/EQdIlC7Mwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088502767296110962",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088175417429757952"
+          },
+          {
+            "media_key": "3_2088175427907194881"
+          },
+          {
+            "media_key": "3_2088175437608546304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088175446282432538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hourai_29: 📷@xyik11\n\n#kigurumi #着ぐるみ #原神 #リンネア https://t.co/EQdIlC7Mwe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088175417429757952",
+            "3_2088175427907194881",
+            "3_2088175437608546304"
+          ]
+        },
+        "author_id": "1912686099702697984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2088175446282432538",
+        "created_at": "2026-08-14T08:06:37.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088175446282432538"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "原神"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "リンネア"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1093751226758352898",
+              "start": 1,
+              "username": "xyik11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQdIlC7Mwe",
+              "end": 59,
+              "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+              "media_key": "3_2088175417429757952",
+              "start": 36,
+              "url": "https://t.co/EQdIlC7Mwe"
+            },
+            {
+              "display_url": "pic.x.com/EQdIlC7Mwe",
+              "end": 59,
+              "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+              "media_key": "3_2088175427907194881",
+              "start": 36,
+              "url": "https://t.co/EQdIlC7Mwe"
+            },
+            {
+              "display_url": "pic.x.com/EQdIlC7Mwe",
+              "end": 59,
+              "expanded_url": "https://x.com/hourai_29/status/2088175446282432538/photo/1",
+              "media_key": "3_2088175437608546304",
+              "start": 36,
+              "url": "https://t.co/EQdIlC7Mwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088175446282432538",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088175417429757952"
+          },
+          {
+            "media_key": "3_2088175427907194881"
+          },
+          {
+            "media_key": "3_2088175437608546304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2155,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "📷@xyik11\n\n#kigurumi #着ぐるみ #原神 #リンネア https://t.co/EQdIlC7Mwe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2088502781112131872",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23928,
+          "following_count": 10510,
+          "like_count": 154861,
+          "listed_count": 53,
+          "media_count": 6129,
+          "tweet_count": 56558
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-17T01:54:50.000Z",
+        "description": "",
+        "id": "1912686099702697984",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2088175446282432538",
+        "name": "蓬莱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912686099702697984/1782634527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912686641854189568/8PjXKJf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 494,
+          "like_count": 2534,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "hourai_29",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-08T05:59:48.000Z",
+        "description": "kig萌新＆摄影。\n目前角色：雷姆，守岸人。\n扩列扩娃友，私信扩列吖。",
+        "id": "1093751226758352898",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2088357560005132633",
+        "name": "子月",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967989553496743936/2R4d1XqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8070,
+          "following_count": 1762,
+          "like_count": 11989,
+          "listed_count": 54,
+          "media_count": 430,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "xyik11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085010379781099520",
+        "3_2085010397879586816",
+        "3_2085010416976179200",
+        "3_2085010434680291328"
+      ],
+      "media_source_tweet_id": [
+        "2085010453755842985",
+        "2085010453755842985",
+        "2085010453755842985",
+        "2085010453755842985"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Girls' Frontline",
+          "id": "1034883605355360256",
+          "name": "Girls' Frontline"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2085226416250184095",
+    "created_at": "2026-08-06T04:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085226416250184095"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "Cheyanne"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "M200"
+        },
+        {
+          "end": 80,
+          "start": 57,
+          "tag": "GirlsFrontline2Exilium"
+        },
+        {
+          "end": 93,
+          "start": 81,
+          "tag": "gfl2exilium"
+        },
+        {
+          "end": 103,
+          "start": 94,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "少女前线"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1330179074355040258",
+          "start": 3,
+          "username": "Cheyanne06684"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m5vitnRARt",
+          "end": 133,
+          "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+          "media_key": "3_2085010379781099520",
+          "start": 110,
+          "url": "https://t.co/m5vitnRARt"
+        },
+        {
+          "display_url": "pic.x.com/m5vitnRARt",
+          "end": 133,
+          "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+          "media_key": "3_2085010397879586816",
+          "start": 110,
+          "url": "https://t.co/m5vitnRARt"
+        },
+        {
+          "display_url": "pic.x.com/m5vitnRARt",
+          "end": 133,
+          "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+          "media_key": "3_2085010416976179200",
+          "start": 110,
+          "url": "https://t.co/m5vitnRARt"
+        },
+        {
+          "display_url": "pic.x.com/m5vitnRARt",
+          "end": 133,
+          "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+          "media_key": "3_2085010434680291328",
+          "start": 110,
+          "url": "https://t.co/m5vitnRARt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085226416250184095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085010453755842985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheyanne06684: 夏安休息室.jpg\n隔天还是有好好收到礼物\n#Cheyanne\n#M200\n#GirlsFrontline2Exilium #gfl2exilium\n#kigurumi\n#少女前线 https://t.co/m5vitnRARt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2085010379781099520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9x5L_a0AAHBF1.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2085010397879586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9x6Pab0AAw2Ov.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085010416976179200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9x7WjasAAi0bq.jpg",
+        "width": 2730
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2085010434680291328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9x8YgaAAAye9_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085010379781099520",
+            "3_2085010397879586816",
+            "3_2085010416976179200",
+            "3_2085010434680291328"
+          ]
+        },
+        "author_id": "1330179074355040258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2085010453755842985",
+        "created_at": "2026-08-05T14:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085010453755842985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "Cheyanne"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "M200"
+            },
+            {
+              "end": 61,
+              "start": 38,
+              "tag": "GirlsFrontline2Exilium"
+            },
+            {
+              "end": 74,
+              "start": 62,
+              "tag": "gfl2exilium"
+            },
+            {
+              "end": 84,
+              "start": 75,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "少女前线"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 114,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010379781099520",
+              "start": 91,
+              "url": "https://t.co/m5vitnRARt"
+            },
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 114,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010397879586816",
+              "start": 91,
+              "url": "https://t.co/m5vitnRARt"
+            },
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 114,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010416976179200",
+              "start": 91,
+              "url": "https://t.co/m5vitnRARt"
+            },
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 114,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010434680291328",
+              "start": 91,
+              "url": "https://t.co/m5vitnRARt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085010453755842985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 19273,
+          "like_count": 1299,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "夏安休息室.jpg\n隔天还是有好好收到礼物\n#Cheyanne\n#M200\n#GirlsFrontline2Exilium #gfl2exilium\n#kigurumi\n#少女前线 https://t.co/m5vitnRARt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085010379781099520",
+            "3_2085010397879586816",
+            "3_2085010416976179200",
+            "3_2085010434680291328"
+          ],
+          "media_source_tweet_id": [
+            "2085010453755842985",
+            "2085010453755842985",
+            "2085010453755842985",
+            "2085010453755842985"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Girls' Frontline",
+              "id": "1034883605355360256",
+              "name": "Girls' Frontline"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2085226416250184095",
+        "created_at": "2026-08-06T04:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085226416250184095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "Cheyanne"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "M200"
+            },
+            {
+              "end": 80,
+              "start": 57,
+              "tag": "GirlsFrontline2Exilium"
+            },
+            {
+              "end": 93,
+              "start": 81,
+              "tag": "gfl2exilium"
+            },
+            {
+              "end": 103,
+              "start": 94,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "少女前线"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1330179074355040258",
+              "start": 3,
+              "username": "Cheyanne06684"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 133,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010379781099520",
+              "start": 110,
+              "url": "https://t.co/m5vitnRARt"
+            },
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 133,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010397879586816",
+              "start": 110,
+              "url": "https://t.co/m5vitnRARt"
+            },
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 133,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010416976179200",
+              "start": 110,
+              "url": "https://t.co/m5vitnRARt"
+            },
+            {
+              "display_url": "pic.x.com/m5vitnRARt",
+              "end": 133,
+              "expanded_url": "https://x.com/Cheyanne06684/status/2085010453755842985/photo/1",
+              "media_key": "3_2085010434680291328",
+              "start": 110,
+              "url": "https://t.co/m5vitnRARt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085226416250184095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085010453755842985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheyanne06684: 夏安休息室.jpg\n隔天还是有好好收到礼物\n#Cheyanne\n#M200\n#GirlsFrontline2Exilium #gfl2exilium\n#kigurumi\n#少女前线 https://t.co/m5vitnRARt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23439,
+          "following_count": 10346,
+          "like_count": 154129,
+          "listed_count": 51,
+          "media_count": 5918,
+          "tweet_count": 55513
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T15:59:53.000Z",
+        "description": "huh",
+        "id": "1330179074355040258",
+        "location": "Super Earth",
+        "name": "鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042219979769344000/2O7Uq4Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5460,
+          "following_count": 353,
+          "like_count": 9496,
+          "listed_count": 15,
+          "media_count": 26,
+          "tweet_count": 3547
+        },
+        "url": "",
+        "username": "Cheyanne06684",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2087567559591862355",
+    "created_at": "2026-08-13T04:29:50.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T05:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087758504467841058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087758504467841058",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087567559591862355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene 逆天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1869,
+        "media_key": "3_2087567517694992384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiHmNDaoAATRfE.jpg",
+        "width": 1885
+      },
+      {
+        "height": 3562,
+        "media_key": "3_2087567529774620672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiHm6DbIAAWfw4.jpg",
+        "width": 1878
+      },
+      {
+        "height": 3473,
+        "media_key": "3_2087567544328806400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiHnwRaYAApq-u.jpg",
+        "width": 1878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2087567559591862355",
+        "created_at": "2026-08-13T04:29:50.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087758504467841058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087758504467841058",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087567559591862355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087567517694992384",
+            "3_2087567529774620672",
+            "3_2087567544328806400"
+          ]
+        },
+        "author_id": "765807474964258816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe abaixo os principais Tweets sobre o programa:",
+              "id": "10028564156",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281297135971913728",
+              "name": "Competition shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283479403482112000",
+              "name": "Other competition"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          }
+        ],
+        "conversation_id": "2087567559591862355",
+        "created_at": "2026-08-12T15:51:05.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087567559591862355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JfeZImIIFJ",
+              "end": 172,
+              "expanded_url": "https://x.com/xixi_epicene/status/2087567559591862355/photo/1",
+              "media_key": "3_2087567517694992384",
+              "start": 149,
+              "url": "https://t.co/JfeZImIIFJ"
+            },
+            {
+              "display_url": "pic.x.com/JfeZImIIFJ",
+              "end": 172,
+              "expanded_url": "https://x.com/xixi_epicene/status/2087567559591862355/photo/1",
+              "media_key": "3_2087567529774620672",
+              "start": 149,
+              "url": "https://t.co/JfeZImIIFJ"
+            },
+            {
+              "display_url": "pic.x.com/JfeZImIIFJ",
+              "end": 172,
+              "expanded_url": "https://x.com/xixi_epicene/status/2087567559591862355/photo/1",
+              "media_key": "3_2087567544328806400",
+              "start": 149,
+              "url": "https://t.co/JfeZImIIFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087567559591862355",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087567517694992384"
+          },
+          {
+            "media_key": "3_2087567529774620672"
+          },
+          {
+            "media_key": "3_2087567544328806400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3456,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "号回来了\n\n开蓝勾后推特把我所有帖子打上了敏感内容，还不能申诉，限制帖子的可见性，和蓝勾的宣传不符\n\n所以我以虚假宣传，欺诈用户等缘由向美国的BBB投诉推特\n\n推特反手就封号——经典美国思维解决人=解决问题，然后反咬一口说你在中国用推特违法——然而我并不在\n\n最后申诉恢复账号，但推特拒绝任何投诉 https://t.co/JfeZImIIFJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2087758504467841058",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23877,
+          "following_count": 10511,
+          "like_count": 154752,
+          "listed_count": 53,
+          "media_count": 6065,
+          "tweet_count": 56377
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "男的♂/ cosplayer/ 我老婆 @cosplay_riji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "cosplay_riji"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "is_identity_verified": false,
+        "location": "Queensferry, Scotland",
+        "most_recent_tweet_id": "2087567559591862355",
+        "name": "汐矽",
+        "pinned_tweet_id": "2082150999662174379",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082165144533053440/ZBw9SgU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39995,
+          "following_count": 1897,
+          "like_count": 19083,
+          "listed_count": 126,
+          "media_count": 1492,
+          "tweet_count": 8665
+        },
+        "url": "",
+        "username": "xixi_epicene",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

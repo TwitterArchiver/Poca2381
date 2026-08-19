@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082730592685510659"
+      ],
+      "media_source_tweet_id": [
+        "2082730599215956102"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2083915730236645518",
+    "created_at": "2026-08-02T14:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083915730236645518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343812869335347200",
+          "start": 3,
+          "username": "TinaAslan"
+        },
+        {
+          "end": 43,
+          "id": "1126876681883377664",
+          "start": 29,
+          "username": "karasukunnnnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DLaMzCkHUA",
+          "end": 106,
+          "expanded_url": "https://x.com/TinaAslan/status/2082730599215956102/photo/1",
+          "media_key": "3_2082730592685510659",
+          "start": 83,
+          "url": "https://t.co/DLaMzCkHUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083915730236645518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082730599215956102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TinaAslan: 仲要多謝衣裝製作的烏鴉君🥹\n@karasukunnnnn \n極大量嘅麒麟怪要求💩加上麒麟怪嘅身材🫠\n仲要咁短時間爆出嚟，真係辛苦晒你😭 https://t.co/DLaMzCkHUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082730592685510659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdYcHPb0AM9F63.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082730592685510659"
+          ]
+        },
+        "author_id": "1343812869335347200",
+        "conversation_id": "2082730599215956102",
+        "created_at": "2026-07-30T07:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082730599215956102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1126876681883377664",
+              "start": 14,
+              "username": "karasukunnnnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLaMzCkHUA",
+              "end": 91,
+              "expanded_url": "https://x.com/TinaAslan/status/2082730599215956102/photo/1",
+              "media_key": "3_2082730592685510659",
+              "start": 68,
+              "url": "https://t.co/DLaMzCkHUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082730599215956102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1032,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "仲要多謝衣裝製作的烏鴉君🥹\n@karasukunnnnn \n極大量嘅麒麟怪要求💩加上麒麟怪嘅身材🫠\n仲要咁短時間爆出嚟，真係辛苦晒你😭 https://t.co/DLaMzCkHUA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082730592685510659"
+          ],
+          "media_source_tweet_id": [
+            "2082730599215956102"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2083915730236645518",
+        "created_at": "2026-08-02T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083915730236645518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343812869335347200",
+              "start": 3,
+              "username": "TinaAslan"
+            },
+            {
+              "end": 43,
+              "id": "1126876681883377664",
+              "start": 29,
+              "username": "karasukunnnnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLaMzCkHUA",
+              "end": 106,
+              "expanded_url": "https://x.com/TinaAslan/status/2082730599215956102/photo/1",
+              "media_key": "3_2082730592685510659",
+              "start": 83,
+              "url": "https://t.co/DLaMzCkHUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083915730236645518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082730599215956102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TinaAslan: 仲要多謝衣裝製作的烏鴉君🥹\n@karasukunnnnn \n極大量嘅麒麟怪要求💩加上麒麟怪嘅身材🫠\n仲要咁短時間爆出嚟，真係辛苦晒你😭 https://t.co/DLaMzCkHUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23332,
+          "following_count": 10271,
+          "like_count": 153931,
+          "listed_count": 51,
+          "media_count": 5828,
+          "tweet_count": 55200
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-29T06:56:18.000Z",
+        "description": "香港人 Hong Kong\"er\" | Kigurumi Player | 中文/English | 事故系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tinaaslan?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@tinaaslan?si=awcR4zEy69RYMbAT",
+                "start": 0,
+                "url": "https://t.co/SKkGenHkDd"
+              }
+            ]
+          }
+        },
+        "id": "1343812869335347200",
+        "location": "Hong Kong",
+        "name": "Tina Aslan （水姐）",
+        "pinned_tweet_id": "2082408486097535486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421365725898231810/019D1wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9527,
+          "following_count": 2389,
+          "like_count": 89271,
+          "listed_count": 51,
+          "media_count": 1618,
+          "tweet_count": 31857
+        },
+        "url": "https://t.co/SKkGenHkDd",
+        "username": "TinaAslan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T15:48:32.000Z",
+        "description": "在台灣的香港手作人\n手作日常/港V迷因\n🎨 : @lpid52 \nL2D: @Tecchan2046532\nFan art委圖: #karasukunart\nMeme: #karasukunmeme\n烏鴉君做的Meme: #karasumakememe\n直播消息: #karasulive\n冷笑話(自用): #鴉咩囉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 65,
+                "tag": "karasukunart"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "tag": "karasukunmeme"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "tag": "karasumakememe"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "tag": "karasulive"
+              },
+              {
+                "end": 158,
+                "start": 154,
+                "tag": "鴉咩囉"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "lpid52"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Tecchan2046532"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/karasusworkshop",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/karasusworkshop",
+                "start": 0,
+                "url": "https://t.co/gvOEVXCFFt"
+              }
+            ]
+          }
+        },
+        "id": "1126876681883377664",
+        "name": "烏鴉君KarasuKun🐦‍⬛HK Vtype",
+        "pinned_tweet_id": "1969388461720551822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931662385359814656/l3cr45Z5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 247,
+          "like_count": 9019,
+          "listed_count": 0,
+          "media_count": 1231,
+          "tweet_count": 4917
+        },
+        "url": "https://t.co/gvOEVXCFFt",
+        "username": "karasukunnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

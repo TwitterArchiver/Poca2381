@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084239367070187520"
+      ],
+      "media_source_tweet_id": [
+        "2084239413677293708"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2085091182137557276",
+    "created_at": "2026-08-05T19:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085091182137557276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1172891041336180736",
+          "start": 3,
+          "username": "nai9666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOQaUe2tYK",
+          "end": 36,
+          "expanded_url": "https://x.com/nai9666/status/2084239413677293708/video/1",
+          "media_key": "13_2084239367070187520",
+          "start": 13,
+          "url": "https://t.co/FOQaUe2tYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085091182137557276",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084239413677293708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nai9666: https://t.co/FOQaUe2tYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13328,
+        "height": 1280,
+        "media_key": "13_2084239367070187520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084239367070187520/img/gLTl7z47tq-9jhmc.jpg",
+        "public_metrics": {
+          "view_count": 4909
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084239367070187520/vid/avc1/320x568/nB5KkOgQ_yIzY5u9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084239367070187520/vid/avc1/480x852/kdLaNjGcX4CkVoWG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084239367070187520/vid/avc1/720x1280/ls21k7hXBeAirlai.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084239367070187520/pl/qwAvz2W1XIfNg4Rs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084239367070187520"
+          ]
+        },
+        "author_id": "1172891041336180736",
+        "conversation_id": "2084239413677293708",
+        "created_at": "2026-08-03T11:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084239413677293708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOQaUe2tYK",
+              "end": 23,
+              "expanded_url": "https://x.com/nai9666/status/2084239413677293708/video/1",
+              "media_key": "13_2084239367070187520",
+              "start": 0,
+              "url": "https://t.co/FOQaUe2tYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084239413677293708",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 11297,
+          "like_count": 395,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FOQaUe2tYK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084239367070187520"
+          ],
+          "media_source_tweet_id": [
+            "2084239413677293708"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2085091182137557276",
+        "created_at": "2026-08-05T19:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085091182137557276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1172891041336180736",
+              "start": 3,
+              "username": "nai9666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOQaUe2tYK",
+              "end": 36,
+              "expanded_url": "https://x.com/nai9666/status/2084239413677293708/video/1",
+              "media_key": "13_2084239367070187520",
+              "start": 13,
+              "url": "https://t.co/FOQaUe2tYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085091182137557276",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084239413677293708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nai9666: https://t.co/FOQaUe2tYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23433,
+          "following_count": 10347,
+          "like_count": 154120,
+          "listed_count": 51,
+          "media_count": 5918,
+          "tweet_count": 55506
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-14T15:13:18.000Z",
+        "description": "塑料大头玩家，不算老资历，订胶私信我",
+        "id": "1172891041336180736",
+        "location": "Guangdong",
+        "name": "Kyu",
+        "pinned_tweet_id": "1945036918976102486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052066306757951489/wmxglciw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42102,
+          "following_count": 1127,
+          "like_count": 3739,
+          "listed_count": 166,
+          "media_count": 177,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "nai9666",
+        "verified": false
+      }
+    ]
+  }
+}

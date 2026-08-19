@@ -1,0 +1,745 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2083915693477777861",
+    "created_at": "2026-08-02T13:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083915693477777861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1637732516026269696",
+          "start": 3,
+          "username": "HoshikawaInori"
+        },
+        {
+          "end": 34,
+          "id": "1321499132184260608",
+          "start": 20,
+          "username": "seki_takamura"
+        },
+        {
+          "end": 45,
+          "id": "1343812869335347200",
+          "start": 35,
+          "username": "TinaAslan"
+        },
+        {
+          "end": 56,
+          "id": "2031555106982998019",
+          "start": 46,
+          "username": "syamn_kig"
+        },
+        {
+          "end": 70,
+          "id": "1712792106572644352",
+          "start": 57,
+          "username": "yukine_hkkig"
+        },
+        {
+          "end": 84,
+          "id": "1733963032160854016",
+          "start": 71,
+          "username": "DARKSTUDIOHK"
+        },
+        {
+          "end": 95,
+          "id": "2878135880",
+          "start": 85,
+          "username": "youmu_i19"
+        },
+        {
+          "end": 112,
+          "id": "1909785256913518594",
+          "start": 96,
+          "username": "AsunaYuuki24805"
+        },
+        {
+          "end": 126,
+          "id": "1499400860106833922",
+          "start": 113,
+          "username": "Nyanko_Texas"
+        },
+        {
+          "end": 136,
+          "id": "2028397856814764032",
+          "start": 127,
+          "username": "Poca5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083915693477777861",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082858810088243432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoshikawaInori: @seki_takamura @TinaAslan @syamn_kig @yukine_hkkig @DARKSTUDIOHK @youmu_i19 @AsunaYuuki24805 @Nyanko_Texas @Poca5150 @s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2082858798528741376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfNCrOaQAANafG.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2083915693477777861",
+        "created_at": "2026-08-02T13:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083915693477777861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1637732516026269696",
+              "start": 3,
+              "username": "HoshikawaInori"
+            },
+            {
+              "end": 34,
+              "id": "1321499132184260608",
+              "start": 20,
+              "username": "seki_takamura"
+            },
+            {
+              "end": 45,
+              "id": "1343812869335347200",
+              "start": 35,
+              "username": "TinaAslan"
+            },
+            {
+              "end": 56,
+              "id": "2031555106982998019",
+              "start": 46,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 70,
+              "id": "1712792106572644352",
+              "start": 57,
+              "username": "yukine_hkkig"
+            },
+            {
+              "end": 84,
+              "id": "1733963032160854016",
+              "start": 71,
+              "username": "DARKSTUDIOHK"
+            },
+            {
+              "end": 95,
+              "id": "2878135880",
+              "start": 85,
+              "username": "youmu_i19"
+            },
+            {
+              "end": 112,
+              "id": "1909785256913518594",
+              "start": 96,
+              "username": "AsunaYuuki24805"
+            },
+            {
+              "end": 126,
+              "id": "1499400860106833922",
+              "start": 113,
+              "username": "Nyanko_Texas"
+            },
+            {
+              "end": 136,
+              "id": "2028397856814764032",
+              "start": 127,
+              "username": "Poca5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083915693477777861",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082858810088243432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoshikawaInori: @seki_takamura @TinaAslan @syamn_kig @yukine_hkkig @DARKSTUDIOHK @youmu_i19 @AsunaYuuki24805 @Nyanko_Texas @Poca5150 @s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082858798528741376"
+          ]
+        },
+        "author_id": "1637732516026269696",
+        "conversation_id": "2082858793311039662",
+        "created_at": "2026-07-30T16:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082858810088243432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1321499132184260608",
+              "start": 0,
+              "username": "seki_takamura"
+            },
+            {
+              "end": 25,
+              "id": "1343812869335347200",
+              "start": 15,
+              "username": "TinaAslan"
+            },
+            {
+              "end": 36,
+              "id": "2031555106982998019",
+              "start": 26,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 50,
+              "id": "1712792106572644352",
+              "start": 37,
+              "username": "yukine_hkkig"
+            },
+            {
+              "end": 64,
+              "id": "1733963032160854016",
+              "start": 51,
+              "username": "DARKSTUDIOHK"
+            },
+            {
+              "end": 75,
+              "id": "2878135880",
+              "start": 65,
+              "username": "youmu_i19"
+            },
+            {
+              "end": 92,
+              "id": "1909785256913518594",
+              "start": 76,
+              "username": "AsunaYuuki24805"
+            },
+            {
+              "end": 106,
+              "id": "1499400860106833922",
+              "start": 93,
+              "username": "Nyanko_Texas"
+            },
+            {
+              "end": 116,
+              "id": "2028397856814764032",
+              "start": 107,
+              "username": "Poca5150"
+            },
+            {
+              "end": 131,
+              "id": "955056958360309761",
+              "start": 117,
+              "username": "sakaneko_meow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gOC8um0bz",
+              "end": 162,
+              "expanded_url": "https://x.com/HoshikawaInori/status/2082858810088243432/photo/1",
+              "media_key": "3_2082858798528741376",
+              "start": 139,
+              "url": "https://t.co/6gOC8um0bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082858810088243432",
+        "in_reply_to_user_id": "1637732516026269696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 838,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082858793311039662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seki_takamura @TinaAslan @syamn_kig @yukine_hkkig @DARKSTUDIOHK @youmu_i19 @AsunaYuuki24805 @Nyanko_Texas @Poca5150 @sakaneko_meow part 2 https://t.co/6gOC8um0bz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23332,
+          "following_count": 10271,
+          "like_count": 153929,
+          "listed_count": 51,
+          "media_count": 5828,
+          "tweet_count": 55198
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-20T08:27:23.000Z",
+        "description": "定位香港的萌新清水kig SFW ONLY!\n歡迎拍打聊天\n中文/English👌 日本語下手です\n想做的事很多 能用的時間卻很少\n💚🎶出自 @heyaoheyao\n💜🕊出自 @NewfacedolL\n🦋💀出自 @IrisKigurumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "heyaoheyao"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "NewfacedolL"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "IrisKigurumi"
+              }
+            ]
+          }
+        },
+        "id": "1637732516026269696",
+        "name": "星川祈",
+        "pinned_tweet_id": "1998060088658157672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806858338677952512/TT9bnFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 364,
+          "like_count": 8632,
+          "listed_count": 25,
+          "media_count": 381,
+          "tweet_count": 6678
+        },
+        "url": "",
+        "username": "HoshikawaInori",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-28T17:08:52.000Z",
+        "description": "喜歡畫畫但還是不懂畫的孩子,喜歡可愛的東西,可愛就是正義！\n\n港V最推 凪砂Nagisa @Nagisa_HK \n我大人研會萬歲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Nagisa_HK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/seki_takamura?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/seki_takamura?igsh=bWQ3YWVvaTk2dnNr",
+                "start": 0,
+                "url": "https://t.co/E83YmUldPv"
+              }
+            ]
+          }
+        },
+        "id": "1321499132184260608",
+        "name": "篁雪姬🏴‍☠️🪴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671525983914950660/dv9qRFyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 539,
+          "like_count": 18153,
+          "listed_count": 14,
+          "media_count": 487,
+          "tweet_count": 3694
+        },
+        "url": "https://t.co/E83YmUldPv",
+        "username": "seki_takamura",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-29T06:56:18.000Z",
+        "description": "香港人 Hong Kong\"er\" | Kigurumi Player | 中文/English | 事故系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tinaaslan?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@tinaaslan?si=awcR4zEy69RYMbAT",
+                "start": 0,
+                "url": "https://t.co/SKkGenHkDd"
+              }
+            ]
+          }
+        },
+        "id": "1343812869335347200",
+        "location": "Hong Kong",
+        "name": "Tina Aslan （水姐）",
+        "pinned_tweet_id": "2082408486097535486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421365725898231810/019D1wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9527,
+          "following_count": 2389,
+          "like_count": 89271,
+          "listed_count": 51,
+          "media_count": 1618,
+          "tweet_count": 31857
+        },
+        "url": "https://t.co/SKkGenHkDd",
+        "username": "TinaAslan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "しゃむ です / A kiger & photographer / 🧸 Hatsune Miku / 📷 A1M2, X2D2 / 📍 Tokyo / 🗣️ English & 日本語 / Only SFW here \n\n🏠@syamncat\nnsfw @syamn_cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "syamncat"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "syamn_cat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/syamn_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/syamn_kig",
+                "start": 0,
+                "url": "https://t.co/11vg1lDQWU"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "location": "Tokyo, Japan",
+        "name": "syamn_kig✈️コスサミ&DW14",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 620,
+          "like_count": 1472,
+          "listed_count": 6,
+          "media_count": 116,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/11vg1lDQWU",
+        "username": "syamn_kig",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "location": "香港",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5426,
+          "following_count": 677,
+          "like_count": 12079,
+          "listed_count": 29,
+          "media_count": 1332,
+          "tweet_count": 8804
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T21:33:14.000Z",
+        "description": "新手kiger，可以叫我KS ｜目前什麼都不會，但我會繼續努力的💪🏻",
+        "id": "1733963032160854016",
+        "location": "Hong Kong",
+        "name": "K.S.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958195972586287104/AdXuN5K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 331,
+          "like_count": 1442,
+          "listed_count": 18,
+          "media_count": 149,
+          "tweet_count": 1300
+        },
+        "url": "",
+        "username": "DARKSTUDIOHK",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-26T10:41:57.000Z",
+        "description": "香港kigurumi\n撮影,VRC\nホロライブ、ラブライブ、ひなビタ、プリキュア 推し\nhttps://t.co/FzfxfQzA0Z\nhttps://t.co/q9aQB6V5By\n\nproducer垢: @youmu_i19p\n製作垢: @19workshop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "youmu_i19p"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "19workshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/youmu_i19_kig/",
+                "end": 67,
+                "expanded_url": "http://instagram.com/youmu_i19_kig/",
+                "start": 44,
+                "url": "https://t.co/FzfxfQzA0Z"
+              },
+              {
+                "display_url": "youtube.com/@youmu_i19kig",
+                "end": 91,
+                "expanded_url": "https://www.youtube.com/@youmu_i19kig",
+                "start": 68,
+                "url": "https://t.co/q9aQB6V5By"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youmu-i19.xyz",
+                "end": 23,
+                "expanded_url": "http://youmu-i19.xyz",
+                "start": 0,
+                "url": "https://t.co/QXoqduNQ01"
+              }
+            ]
+          }
+        },
+        "id": "2878135880",
+        "location": "香港",
+        "name": "妖夢_伊19",
+        "pinned_tweet_id": "1927802455003115610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893471731379249152/x9sVSFnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3270,
+          "following_count": 952,
+          "like_count": 16824,
+          "listed_count": 21,
+          "media_count": 1138,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/QXoqduNQ01",
+        "username": "youmu_i19",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-09T01:48:32.000Z",
+        "description": "",
+        "id": "1909785256913518594",
+        "location": "Hong Kong",
+        "name": "Asuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082353799889629184/rDL06Ix1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 60,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "AsunaYuuki24805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T15:06:56.000Z",
+        "description": "一個玩貓戰的kigurumi萌新，也玩其他遊戲的！\n目前角色：京坂七穗/因幡帝",
+        "id": "1499400860106833922",
+        "name": "Quality.Nyanko",
+        "pinned_tweet_id": "2016841571157889355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016515819480526849/XlAR0wOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 348,
+          "like_count": 4696,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "Nyanko_Texas",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是  @Poca2381 的逃生仓\n娃娃专用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Poca2381"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "location": "香港上水",
+        "name": "早露夸夸兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1153,
+          "like_count": 1131,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1455
+        },
+        "url": "",
+        "username": "Poca5150",
+        "verified": false
+      }
+    ]
+  }
+}

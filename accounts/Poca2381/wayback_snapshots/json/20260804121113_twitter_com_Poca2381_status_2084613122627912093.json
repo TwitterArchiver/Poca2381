@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084584866323337216"
+      ],
+      "media_source_tweet_id": [
+        "2084584994530324968"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084613122627912093",
+    "created_at": "2026-08-04T12:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084613122627912093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906701555535171584",
+          "start": 3,
+          "username": "Koharu_epi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3W9MLk3rRM",
+          "end": 47,
+          "expanded_url": "https://x.com/Koharu_epi/status/2084584994530324968/photo/1",
+          "media_key": "3_2084584866323337216",
+          "start": 24,
+          "url": "https://t.co/3W9MLk3rRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084613122627912093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084584994530324968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koharu_epi: 哈完了 已老实 https://t.co/3W9MLk3rRM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084584866323337216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3u5C1bkAAkqQA.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084584866323337216"
+          ]
+        },
+        "author_id": "1906701555535171584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084584994530324968",
+        "created_at": "2026-08-04T10:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084584994530324968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3W9MLk3rRM",
+              "end": 31,
+              "expanded_url": "https://x.com/Koharu_epi/status/2084584994530324968/photo/1",
+              "media_key": "3_2084584866323337216",
+              "start": 8,
+              "url": "https://t.co/3W9MLk3rRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084584994530324968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 269,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "哈完了 已老实 https://t.co/3W9MLk3rRM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084584866323337216"
+          ],
+          "media_source_tweet_id": [
+            "2084584994530324968"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084613122627912093",
+        "created_at": "2026-08-04T12:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084613122627912093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906701555535171584",
+              "start": 3,
+              "username": "Koharu_epi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3W9MLk3rRM",
+              "end": 47,
+              "expanded_url": "https://x.com/Koharu_epi/status/2084584994530324968/photo/1",
+              "media_key": "3_2084584866323337216",
+              "start": 24,
+              "url": "https://t.co/3W9MLk3rRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084613122627912093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084584994530324968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Koharu_epi: 哈完了 已老实 https://t.co/3W9MLk3rRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23403,
+          "following_count": 10318,
+          "like_count": 154029,
+          "listed_count": 51,
+          "media_count": 5882,
+          "tweet_count": 55377
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T13:34:17.000Z",
+        "description": "萌新底边清水kiger 自嗨oc乱搭致歉\n私信评论会尽量回复回fo 极度社恐扩列需谨慎",
+        "id": "1906701555535171584",
+        "name": "汐時雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062845477524246528/vv_0ThiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 325,
+          "like_count": 2026,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "Koharu_epi",
+        "verified": true
+      }
+    ]
+  }
+}

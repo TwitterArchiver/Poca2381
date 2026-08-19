@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2086520470581764386",
+    "created_at": "2026-08-09T18:30:20.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086520470581764386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277438448",
+          "start": 3,
+          "username": "kyo_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086520470581764386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 554
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086467795785863520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyo_official: 今天本來想說火鍋好吃的，發音太難大家聽不懂好可惜😭\n\n京"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2086520470581764386",
+        "created_at": "2026-08-09T18:30:20.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086520470581764386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277438448",
+              "start": 3,
+              "username": "kyo_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086520470581764386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 554
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086467795785863520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyo_official: 今天本來想說火鍋好吃的，發音太難大家聽不懂好可惜😭\n\n京"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277438448",
+        "conversation_id": "2086467795785863520",
+        "created_at": "2026-08-09T15:01:01.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086467795785863520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086467795785863520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 51297,
+          "like_count": 2428,
+          "quote_count": 86,
+          "reply_count": 50,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "今天本來想說火鍋好吃的，發音太難大家聽不懂好可惜😭\n\n京"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2086520470581764386",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23754,
+          "following_count": 10476,
+          "like_count": 154619,
+          "listed_count": 52,
+          "media_count": 6001,
+          "tweet_count": 56114
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-18T11:06:42.000Z",
+        "description": "京(DIR EN GREY / sukekiyo / Petit Brabancon - Voice)に関する情報を更新中。(S)=スタッフによる更新。◉ sukekiyo https://t.co/isWEcE5Gpd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sukekiyo-official.jp",
+                "end": 110,
+                "expanded_url": "http://sukekiyo-official.jp",
+                "start": 87,
+                "url": "https://t.co/isWEcE5Gpd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sp-freewillonline.com/kyo/",
+                "end": 23,
+                "expanded_url": "http://www.sp-freewillonline.com/kyo/",
+                "start": 0,
+                "url": "https://t.co/POJOJwyE5r"
+              }
+            ]
+          }
+        },
+        "id": "1277438448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086467795785863520",
+        "name": "京",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277438448/1559831241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036738812865576960/S-Gb7s7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110223,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 679,
+          "media_count": 383,
+          "tweet_count": 2866
+        },
+        "url": "https://t.co/POJOJwyE5r",
+        "username": "kyo_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

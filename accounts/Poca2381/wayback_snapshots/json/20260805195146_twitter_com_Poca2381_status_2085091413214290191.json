@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084906240145301504"
+      ],
+      "media_source_tweet_id": [
+        "2084906359464870182"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2085091413214290191",
+    "created_at": "2026-08-05T19:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085091413214290191"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 51,
+          "start": 45,
+          "tag": "新约能天使"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1641633062617481216",
+          "start": 3,
+          "username": "nailaonailao123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWq0pHM8ba",
+          "end": 75,
+          "expanded_url": "https://x.com/nailaonailao123/status/2084906359464870182/photo/1",
+          "media_key": "3_2084906240145301504",
+          "start": 52,
+          "url": "https://t.co/fWq0pHM8ba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085091413214290191",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084906359464870182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nailaonailao123: 整点常服小乐（\n#kigurumi #明日方舟 #新约能天使 https://t.co/fWq0pHM8ba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3744,
+        "media_key": "3_2084906240145301504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8TLdnbIAAiONE.jpg",
+        "width": 2628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084906240145301504"
+          ]
+        },
+        "author_id": "1641633062617481216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2084906359464870182",
+        "created_at": "2026-08-05T07:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084906359464870182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "新约能天使"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWq0pHM8ba",
+              "end": 54,
+              "expanded_url": "https://x.com/nailaonailao123/status/2084906359464870182/photo/1",
+              "media_key": "3_2084906240145301504",
+              "start": 31,
+              "url": "https://t.co/fWq0pHM8ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084906359464870182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 793,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "整点常服小乐（\n#kigurumi #明日方舟 #新约能天使 https://t.co/fWq0pHM8ba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084906240145301504"
+          ],
+          "media_source_tweet_id": [
+            "2084906359464870182"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2085091413214290191",
+        "created_at": "2026-08-05T19:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085091413214290191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "新约能天使"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1641633062617481216",
+              "start": 3,
+              "username": "nailaonailao123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWq0pHM8ba",
+              "end": 75,
+              "expanded_url": "https://x.com/nailaonailao123/status/2084906359464870182/photo/1",
+              "media_key": "3_2084906240145301504",
+              "start": 52,
+              "url": "https://t.co/fWq0pHM8ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085091413214290191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084906359464870182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nailaonailao123: 整点常服小乐（\n#kigurumi #明日方舟 #新约能天使 https://t.co/fWq0pHM8ba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23433,
+          "following_count": 10348,
+          "like_count": 154121,
+          "listed_count": 51,
+          "media_count": 5918,
+          "tweet_count": 55507
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T02:47:19.000Z",
+        "description": "tcg玩家\n是个kiger \n角色：娜娜莉 鹿乃子 新约能天使 vrc模型shinano",
+        "id": "1641633062617481216",
+        "name": "月夜的奶酪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012014227146620933/Ku9-_rPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 264,
+          "like_count": 1,
+          "listed_count": 7,
+          "media_count": 89,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "nailaonailao123",
+        "verified": false
+      }
+    ]
+  }
+}

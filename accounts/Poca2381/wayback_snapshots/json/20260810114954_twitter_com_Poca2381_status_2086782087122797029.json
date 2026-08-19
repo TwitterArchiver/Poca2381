@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2086773409980280833"
+      ],
+      "media_source_tweet_id": [
+        "2086773556390818092"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2086782087122797029",
+    "created_at": "2026-08-10T11:49:54.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086782087122797029"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 27,
+          "tag": "ArknightsEndfield"
+        },
+        {
+          "end": 57,
+          "start": 46,
+          "tag": "ComingHome"
+        },
+        {
+          "end": 67,
+          "start": 58,
+          "tag": "명일방주엔드필드"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "엔드필드"
+        },
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "明日方舟终末地"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "终末地"
+        },
+        {
+          "end": 97,
+          "start": 88,
+          "tag": "Endfield"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "835114745640304643",
+          "start": 3,
+          "username": "Seseren_kr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjj6nf3cN7",
+          "end": 121,
+          "expanded_url": "https://x.com/Seseren_kr/status/2086773556390818092/photo/1",
+          "media_key": "16_2086773409980280833",
+          "start": 98,
+          "url": "https://t.co/mjj6nf3cN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086782087122797029",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2086773409980280833"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086773556390818092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seseren_kr: Show time!\n#ArknightsEndfield #ComingHome #명일방주엔드필드 #엔드필드 #明日方舟终末地 #终末地 #Endfield https://t.co/mjj6nf3cN7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2086773409980280833",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPW1XDSa8AEU4Z7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPW1XDSa8AEU4Z7.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086773409980280833"
+          ]
+        },
+        "author_id": "835114745640304643",
+        "conversation_id": "2086773556390818092",
+        "created_at": "2026-08-10T11:16:00.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086773556390818092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 11,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "ComingHome"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "명일방주엔드필드"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "엔드필드"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "明日方舟终末地"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "终末地"
+            },
+            {
+              "end": 81,
+              "start": 72,
+              "tag": "Endfield"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjj6nf3cN7",
+              "end": 105,
+              "expanded_url": "https://x.com/Seseren_kr/status/2086773556390818092/photo/1",
+              "media_key": "16_2086773409980280833",
+              "start": 82,
+              "url": "https://t.co/mjj6nf3cN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086773556390818092",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2086773409980280833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4690,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Show time!\n#ArknightsEndfield #ComingHome #명일방주엔드필드 #엔드필드 #明日方舟终末地 #终末地 #Endfield https://t.co/mjj6nf3cN7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086773409980280833"
+          ],
+          "media_source_tweet_id": [
+            "2086773556390818092"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2086782087122797029",
+        "created_at": "2026-08-10T11:49:54.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086782087122797029"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 27,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 57,
+              "start": 46,
+              "tag": "ComingHome"
+            },
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "명일방주엔드필드"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "엔드필드"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "明日方舟终末地"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "终末地"
+            },
+            {
+              "end": 97,
+              "start": 88,
+              "tag": "Endfield"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "835114745640304643",
+              "start": 3,
+              "username": "Seseren_kr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjj6nf3cN7",
+              "end": 121,
+              "expanded_url": "https://x.com/Seseren_kr/status/2086773556390818092/photo/1",
+              "media_key": "16_2086773409980280833",
+              "start": 98,
+              "url": "https://t.co/mjj6nf3cN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086782087122797029",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2086773409980280833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086773556390818092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seseren_kr: Show time!\n#ArknightsEndfield #ComingHome #명일방주엔드필드 #엔드필드 #明日方舟终末地 #终末地 #Endfield https://t.co/mjj6nf3cN7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2086782087122797029",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23779,
+          "following_count": 10483,
+          "like_count": 154656,
+          "listed_count": 52,
+          "media_count": 6011,
+          "tweet_count": 56165
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-24T13:10:45.000Z",
+        "description": "✉ : airounya2@naver.com / kor, JP, 中文, en ok\n動くラインスタンプ製作者です。\nDownload Transparent GIF : https://t.co/7a2Z9z5NgH\nPixiv : https://t.co/mcLbgJGROo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discordapp.com/invite/vgnG5GX",
+                "end": 111,
+                "expanded_url": "http://discordapp.com/invite/vgnG5GX",
+                "start": 88,
+                "url": "https://t.co/7a2Z9z5NgH"
+              },
+              {
+                "display_url": "pixiv.me/airounya2",
+                "end": 143,
+                "expanded_url": "http://pixiv.me/airounya2",
+                "start": 120,
+                "url": "https://t.co/mcLbgJGROo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=16274829",
+                "start": 0,
+                "url": "https://t.co/MkbQHEoNvJ"
+              }
+            ]
+          }
+        },
+        "id": "835114745640304643",
+        "is_identity_verified": false,
+        "location": "대한민국 부산",
+        "most_recent_tweet_id": "2086776293241323537",
+        "name": "Seseren / C108 土曜日 西 “ほ” 13ab (西１ホール)",
+        "pinned_tweet_id": "2085288054890336632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/835114745640304643/1496036228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/835117601676144641/mYxxpLOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103955,
+          "following_count": 1502,
+          "like_count": 2596,
+          "listed_count": 374,
+          "media_count": 4077,
+          "tweet_count": 6762
+        },
+        "url": "https://t.co/MkbQHEoNvJ",
+        "username": "Seseren_kr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

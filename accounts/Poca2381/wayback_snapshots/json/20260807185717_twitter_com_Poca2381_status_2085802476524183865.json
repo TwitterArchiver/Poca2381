@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085672451531546625",
+        "3_2085672866134241280"
+      ],
+      "media_source_tweet_id": [
+        "2085673260113658291",
+        "2085673260113658291"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2085802476524183865",
+    "created_at": "2026-08-07T18:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085802476524183865"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "Kigurumi"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "异环"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "NTE"
+        },
+        {
+          "end": 76,
+          "start": 56,
+          "tag": "NevernesstoEverness"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "888431275257675776",
+          "start": 3,
+          "username": "eikokiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gY4Gzam30W",
+          "end": 100,
+          "expanded_url": "https://x.com/eikokiri/status/2085673260113658291/photo/1",
+          "media_key": "3_2085672451531546625",
+          "start": 77,
+          "url": "https://t.co/gY4Gzam30W"
+        },
+        {
+          "display_url": "pic.x.com/gY4Gzam30W",
+          "end": 100,
+          "expanded_url": "https://x.com/eikokiri/status/2085673260113658291/photo/1",
+          "media_key": "3_2085672866134241280",
+          "start": 77,
+          "url": "https://t.co/gY4Gzam30W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085802476524183865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085673260113658291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eikokiri: [OOC致歉]\n\"头发刚好是可可色~\"(?)\n#Kigurumi #异环 #NTE #NevernesstoEverness https://t.co/gY4Gzam30W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085672451531546625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHMC1dbIAElXe_.jpg",
+        "width": 2146
+      },
+      {
+        "height": 4027,
+        "media_key": "3_2085672866134241280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHMa9-aMAAvM3j.jpg",
+        "width": 2295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085672451531546625",
+            "3_2085672866134241280"
+          ]
+        },
+        "author_id": "888431275257675776",
+        "conversation_id": "2085673260113658291",
+        "created_at": "2026-08-07T10:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085673260113658291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "Kigurumi"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "异环"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "NTE"
+            },
+            {
+              "end": 62,
+              "start": 42,
+              "tag": "NevernesstoEverness"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gY4Gzam30W",
+              "end": 86,
+              "expanded_url": "https://x.com/eikokiri/status/2085673260113658291/photo/1",
+              "media_key": "3_2085672451531546625",
+              "start": 63,
+              "url": "https://t.co/gY4Gzam30W"
+            },
+            {
+              "display_url": "pic.x.com/gY4Gzam30W",
+              "end": 86,
+              "expanded_url": "https://x.com/eikokiri/status/2085673260113658291/photo/1",
+              "media_key": "3_2085672866134241280",
+              "start": 63,
+              "url": "https://t.co/gY4Gzam30W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085673260113658291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1204,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "[OOC致歉]\n\"头发刚好是可可色~\"(?)\n#Kigurumi #异环 #NTE #NevernesstoEverness https://t.co/gY4Gzam30W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085672451531546625",
+            "3_2085672866134241280"
+          ],
+          "media_source_tweet_id": [
+            "2085673260113658291",
+            "2085673260113658291"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2085802476524183865",
+        "created_at": "2026-08-07T18:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085802476524183865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "Kigurumi"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "异环"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "NTE"
+            },
+            {
+              "end": 76,
+              "start": 56,
+              "tag": "NevernesstoEverness"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "888431275257675776",
+              "start": 3,
+              "username": "eikokiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gY4Gzam30W",
+              "end": 100,
+              "expanded_url": "https://x.com/eikokiri/status/2085673260113658291/photo/1",
+              "media_key": "3_2085672451531546625",
+              "start": 77,
+              "url": "https://t.co/gY4Gzam30W"
+            },
+            {
+              "display_url": "pic.x.com/gY4Gzam30W",
+              "end": 100,
+              "expanded_url": "https://x.com/eikokiri/status/2085673260113658291/photo/1",
+              "media_key": "3_2085672866134241280",
+              "start": 77,
+              "url": "https://t.co/gY4Gzam30W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085802476524183865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085673260113658291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eikokiri: [OOC致歉]\n\"头发刚好是可可色~\"(?)\n#Kigurumi #异环 #NTE #NevernesstoEverness https://t.co/gY4Gzam30W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23599,
+          "following_count": 10385,
+          "like_count": 154251,
+          "listed_count": 52,
+          "media_count": 5968,
+          "tweet_count": 55705
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-21T16:11:37.000Z",
+        "description": "Eiko/エイコ/暎子 | 要开心哦～\n角色是自设(400/300系)和V | 愿望是带娃娃出去玩\n中文/English/日本語 | SFW/apolitical",
+        "id": "888431275257675776",
+        "location": "Night City",
+        "name": "Eiko400",
+        "pinned_tweet_id": "2077376363498189242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062068805350936576/X13KWOQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 464,
+          "like_count": 5337,
+          "listed_count": 6,
+          "media_count": 140,
+          "tweet_count": 1779
+        },
+        "url": "",
+        "username": "eikokiri",
+        "verified": false
+      }
+    ]
+  }
+}

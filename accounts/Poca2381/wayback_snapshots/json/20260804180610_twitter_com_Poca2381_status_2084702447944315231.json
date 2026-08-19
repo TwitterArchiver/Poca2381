@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077732746546565120"
+      ],
+      "media_source_tweet_id": [
+        "2077732768956735605"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2084702447944315231",
+    "created_at": "2026-08-04T18:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084702447944315231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 55,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944242736640798721",
+          "start": 3,
+          "username": "LearnedToad"
+        },
+        {
+          "end": 52,
+          "id": "310095396",
+          "start": 39,
+          "username": "francis_zhai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GApg4w5aTM",
+          "end": 88,
+          "expanded_url": "https://x.com/LearnedToad/status/2077732768956735605/photo/1",
+          "media_key": "3_2077732746546565120",
+          "start": 65,
+          "url": "https://t.co/GApg4w5aTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084702447944315231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077732768956735605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LearnedToad: 我也没想到我柔韧性这么好）\n🪢&amp;📷：@francis_zhai \n\n#kigurumi https://t.co/GApg4w5aTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077732746546565120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWW7Lga0AAnGMb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077732746546565120"
+          ]
+        },
+        "author_id": "1944242736640798721",
+        "conversation_id": "2077732768956735605",
+        "created_at": "2026-07-16T12:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077732768956735605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "310095396",
+              "start": 22,
+              "username": "francis_zhai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GApg4w5aTM",
+              "end": 71,
+              "expanded_url": "https://x.com/LearnedToad/status/2077732768956735605/photo/1",
+              "media_key": "3_2077732746546565120",
+              "start": 48,
+              "url": "https://t.co/GApg4w5aTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077732768956735605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 78182,
+          "like_count": 2016,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "我也没想到我柔韧性这么好）\n🪢&amp;📷：@francis_zhai \n\n#kigurumi https://t.co/GApg4w5aTM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077732746546565120"
+          ],
+          "media_source_tweet_id": [
+            "2077732768956735605"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2084702447944315231",
+        "created_at": "2026-08-04T18:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084702447944315231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944242736640798721",
+              "start": 3,
+              "username": "LearnedToad"
+            },
+            {
+              "end": 52,
+              "id": "310095396",
+              "start": 39,
+              "username": "francis_zhai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GApg4w5aTM",
+              "end": 88,
+              "expanded_url": "https://x.com/LearnedToad/status/2077732768956735605/photo/1",
+              "media_key": "3_2077732746546565120",
+              "start": 65,
+              "url": "https://t.co/GApg4w5aTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084702447944315231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077732768956735605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LearnedToad: 我也没想到我柔韧性这么好）\n🪢&amp;📷：@francis_zhai \n\n#kigurumi https://t.co/GApg4w5aTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23416,
+          "following_count": 10332,
+          "like_count": 154081,
+          "listed_count": 51,
+          "media_count": 5890,
+          "tweet_count": 55439
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T03:49:36.000Z",
+        "description": "新泽西kiger，在做科技头壳，PhD student in Computer Science。所有内容（图片视频和项目）都是学习交流用途的免费分享！只在X发布内容，假如你在其他地方看到卖的那都是盗的和本人无关（特别是妖狐吧！）。All content is free on X. No OF, Fantia etc.",
+        "id": "1944242736640798721",
+        "location": "New Jersey, USA",
+        "name": "机械神教驻神圣泰拉机械神甫0059",
+        "pinned_tweet_id": "1963178499276992645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944243041746714624/CmUlckos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32457,
+          "following_count": 630,
+          "like_count": 2699,
+          "listed_count": 110,
+          "media_count": 178,
+          "tweet_count": 1974
+        },
+        "url": "",
+        "username": "LearnedToad",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-03T05:43:17.000Z",
+        "description": "",
+        "id": "310095396",
+        "location": "shenzhen",
+        "name": "宅宅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932296179175567360/FMcH9Bdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5686,
+          "following_count": 555,
+          "like_count": 326,
+          "listed_count": 28,
+          "media_count": 155,
+          "tweet_count": 1931
+        },
+        "url": "",
+        "username": "francis_zhai",
+        "verified": false
+      }
+    ]
+  }
+}

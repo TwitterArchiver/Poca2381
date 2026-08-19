@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2086008559746351314",
+    "created_at": "2026-08-08T09:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T10:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086017909063811220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        },
+        {
+          "end": 18,
+          "id": "1942570771941056515",
+          "start": 8,
+          "username": "ShiseiOko"
+        },
+        {
+          "end": 32,
+          "id": "1766644305660420096",
+          "start": 19,
+          "username": "umehara02A01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086017909063811220",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086008559746351314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 @ShiseiOko @umehara02A01 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2086008532592439296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPL9tU-bMAAm5_X.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2086008548966952960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPL9uR-acAAern3.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2086008559746351314",
+        "created_at": "2026-08-08T09:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T10:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086017909063811220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            },
+            {
+              "end": 18,
+              "id": "1942570771941056515",
+              "start": 8,
+              "username": "ShiseiOko"
+            },
+            {
+              "end": 32,
+              "id": "1766644305660420096",
+              "start": 19,
+              "username": "umehara02A01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086017909063811220",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086008559746351314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 @ShiseiOko @umehara02A01 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086008532592439296",
+            "3_2086008548966952960"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086008559746351314",
+        "created_at": "2026-08-08T08:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086008559746351314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902568136450424832",
+              "start": 7,
+              "username": "aoim33"
+            },
+            {
+              "end": 25,
+              "id": "1942570771941056515",
+              "start": 15,
+              "username": "ShiseiOko"
+            },
+            {
+              "end": 39,
+              "id": "1766644305660420096",
+              "start": 26,
+              "username": "umehara02A01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVHTvfenwE",
+              "end": 63,
+              "expanded_url": "https://x.com/aoim33/status/2086008559746351314/photo/1",
+              "media_key": "3_2086008532592439296",
+              "start": 40,
+              "url": "https://t.co/xVHTvfenwE"
+            },
+            {
+              "display_url": "pic.x.com/xVHTvfenwE",
+              "end": 63,
+              "expanded_url": "https://x.com/aoim33/status/2086008559746351314/photo/1",
+              "media_key": "3_2086008548966952960",
+              "start": 40,
+              "url": "https://t.co/xVHTvfenwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086008559746351314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好新朋友\n\n@aoim33 @ShiseiOko @umehara02A01 https://t.co/xVHTvfenwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23603,
+          "following_count": 10396,
+          "like_count": 154362,
+          "listed_count": 52,
+          "media_count": 5971,
+          "tweet_count": 55816
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6771,
+          "following_count": 3200,
+          "like_count": 58920,
+          "listed_count": 22,
+          "media_count": 3816,
+          "tweet_count": 15281
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-08T13:05:47.000Z",
+        "description": "17 y.o. | 可以叫我非存 | 交友大欢迎 | PM Friendly | 分享日常 | Assistant of English Teaching | 喜欢猫猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Skaural",
+                "end": 23,
+                "expanded_url": "https://t.me/Skaural",
+                "start": 0,
+                "url": "https://t.co/7zzRcTZor0"
+              }
+            ]
+          }
+        },
+        "id": "1942570771941056515",
+        "name": "桜 非存",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085675936968744961/fN4DCWFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 191,
+          "like_count": 761,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/7zzRcTZor0",
+        "username": "ShiseiOko",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいかちゃん/高校2年生/mtf（x?🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領/ zh-hant/ja/en /@happysugarlifeA 推し/裏垢@umeharaAC02/大好きな姉💕@rafaeru54035903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "umeharaAC02"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "rafaeru54035903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF2uTU"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "name": "梅原寒咲🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2084240409937756562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084055985422061568/b3nnME5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 2250,
+          "like_count": 19077,
+          "listed_count": 6,
+          "media_count": 532,
+          "tweet_count": 9706
+        },
+        "url": "https://t.co/BjCzmF2uTU",
+        "username": "umehara02A01",
+        "verified": false
+      }
+    ]
+  }
+}

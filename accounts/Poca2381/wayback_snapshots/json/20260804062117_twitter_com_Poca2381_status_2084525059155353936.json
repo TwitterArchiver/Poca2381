@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084268968521654273"
+      ],
+      "media_source_tweet_id": [
+        "2084268982480310495"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2084525059155353936",
+    "created_at": "2026-08-04T06:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084525059155353936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042902564048355328",
+          "start": 3,
+          "username": "TTTypezhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INVWkJsgJm",
+          "end": 46,
+          "expanded_url": "https://x.com/TTTypezhi/status/2084268982480310495/photo/1",
+          "media_key": "3_2084268968521654273",
+          "start": 23,
+          "url": "https://t.co/INVWkJsgJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084525059155353936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084268982480310495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTTypezhi: 小壁灯自拍（） https://t.co/INVWkJsgJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2084268968521654273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzPlX0aYAEU9mc.jpg",
+        "width": 2592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084268968521654273"
+          ]
+        },
+        "author_id": "2042902564048355328",
+        "conversation_id": "2084268982480310495",
+        "created_at": "2026-08-03T13:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084268982480310495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INVWkJsgJm",
+              "end": 31,
+              "expanded_url": "https://x.com/TTTypezhi/status/2084268982480310495/photo/1",
+              "media_key": "3_2084268968521654273",
+              "start": 8,
+              "url": "https://t.co/INVWkJsgJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084268982480310495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4093,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小壁灯自拍（） https://t.co/INVWkJsgJm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084268968521654273"
+          ],
+          "media_source_tweet_id": [
+            "2084268982480310495"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2084525059155353936",
+        "created_at": "2026-08-04T06:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084525059155353936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042902564048355328",
+              "start": 3,
+              "username": "TTTypezhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INVWkJsgJm",
+              "end": 46,
+              "expanded_url": "https://x.com/TTTypezhi/status/2084268982480310495/photo/1",
+              "media_key": "3_2084268968521654273",
+              "start": 23,
+              "url": "https://t.co/INVWkJsgJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084525059155353936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084268982480310495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTTypezhi: 小壁灯自拍（） https://t.co/INVWkJsgJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23392,
+          "following_count": 10303,
+          "like_count": 153977,
+          "listed_count": 51,
+          "media_count": 5870,
+          "tweet_count": 55301
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "location": "你家",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 357,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

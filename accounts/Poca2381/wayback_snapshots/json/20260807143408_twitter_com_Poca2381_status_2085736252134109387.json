@@ -1,0 +1,624 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082843233928036352",
+        "3_2082843233886031872"
+      ],
+      "media_source_tweet_id": [
+        "2082843249006575780",
+        "2082843249006575780"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2085736252134109387",
+    "created_at": "2026-08-07T14:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085736252134109387"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 71,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031555106982998019",
+          "start": 3,
+          "username": "syamn_kig"
+        },
+        {
+          "end": 48,
+          "id": "1637732516026269696",
+          "start": 33,
+          "username": "HoshikawaInori"
+        },
+        {
+          "end": 67,
+          "id": "1712792106572644352",
+          "start": 54,
+          "username": "yukine_hkkig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FKIsEMfC6e",
+          "end": 116,
+          "expanded_url": "https://x.com/syamn_kig/status/2082843249006575780/photo/1",
+          "media_key": "3_2082843233928036352",
+          "start": 93,
+          "url": "https://t.co/FKIsEMfC6e"
+        },
+        {
+          "display_url": "pic.x.com/FKIsEMfC6e",
+          "end": 116,
+          "expanded_url": "https://x.com/syamn_kig/status/2082843249006575780/photo/1",
+          "media_key": "3_2082843233886031872",
+          "start": 93,
+          "url": "https://t.co/FKIsEMfC6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085736252134109387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082843249006575780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syamn_kig: 香港のミクちゃんたちと〜\n\n🩵 L @HoshikawaInori \n🩵 R @yukine_hkkig \n\n #kigurumi #着ぐるみ #初音ミク https://t.co/FKIsEMfC6e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2082843233928036352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe-4skbQAAuEqd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2082843233886031872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe-4saaUAAdbJU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082843233928036352",
+            "3_2082843233886031872"
+          ]
+        },
+        "author_id": "2031555106982998019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2082843249006575780",
+        "created_at": "2026-07-30T14:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082843249006575780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1637732516026269696",
+              "start": 18,
+              "username": "HoshikawaInori"
+            },
+            {
+              "end": 52,
+              "id": "1712792106572644352",
+              "start": 39,
+              "username": "yukine_hkkig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKIsEMfC6e",
+              "end": 101,
+              "expanded_url": "https://x.com/syamn_kig/status/2082843249006575780/photo/1",
+              "media_key": "3_2082843233928036352",
+              "start": 78,
+              "url": "https://t.co/FKIsEMfC6e"
+            },
+            {
+              "display_url": "pic.x.com/FKIsEMfC6e",
+              "end": 101,
+              "expanded_url": "https://x.com/syamn_kig/status/2082843249006575780/photo/1",
+              "media_key": "3_2082843233886031872",
+              "start": 78,
+              "url": "https://t.co/FKIsEMfC6e"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2082843249006575780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1474,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "香港のミクちゃんたちと〜\n\n🩵 L @HoshikawaInori \n🩵 R @yukine_hkkig \n\n #kigurumi #着ぐるみ #初音ミク https://t.co/FKIsEMfC6e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082843233928036352",
+            "3_2082843233886031872"
+          ],
+          "media_source_tweet_id": [
+            "2082843249006575780",
+            "2082843249006575780"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2085736252134109387",
+        "created_at": "2026-08-07T14:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085736252134109387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 71,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031555106982998019",
+              "start": 3,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 48,
+              "id": "1637732516026269696",
+              "start": 33,
+              "username": "HoshikawaInori"
+            },
+            {
+              "end": 67,
+              "id": "1712792106572644352",
+              "start": 54,
+              "username": "yukine_hkkig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKIsEMfC6e",
+              "end": 116,
+              "expanded_url": "https://x.com/syamn_kig/status/2082843249006575780/photo/1",
+              "media_key": "3_2082843233928036352",
+              "start": 93,
+              "url": "https://t.co/FKIsEMfC6e"
+            },
+            {
+              "display_url": "pic.x.com/FKIsEMfC6e",
+              "end": 116,
+              "expanded_url": "https://x.com/syamn_kig/status/2082843249006575780/photo/1",
+              "media_key": "3_2082843233886031872",
+              "start": 93,
+              "url": "https://t.co/FKIsEMfC6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085736252134109387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082843249006575780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syamn_kig: 香港のミクちゃんたちと〜\n\n🩵 L @HoshikawaInori \n🩵 R @yukine_hkkig \n\n #kigurumi #着ぐるみ #初音ミク https://t.co/FKIsEMfC6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23582,
+          "following_count": 10378,
+          "like_count": 154237,
+          "listed_count": 51,
+          "media_count": 5964,
+          "tweet_count": 55684
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "しゃむ です / A kiger & photographer / 🧸 Hatsune Miku / 📷 A1M2, X2D2 / 📍 Tokyo / 🗣️ English & 日本語 / Only SFW here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/syamn_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/syamn_kig",
+                "start": 0,
+                "url": "https://t.co/11vg1lDQWU"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "location": "Tokyo, Japan",
+        "name": "syamn_kig✈️DW14",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 623,
+          "like_count": 1491,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/11vg1lDQWU",
+        "username": "syamn_kig",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-20T08:27:23.000Z",
+        "description": "定位香港的萌新清水kig SFW ONLY!\n歡迎拍打聊天\n中文/English👌 日本語下手です\n想做的事很多 能用的時間卻很少\n💚🎶出自 @heyaoheyao\n💜🕊出自 @NewfacedolL\n🦋💀出自 @IrisKigurumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "heyaoheyao"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "NewfacedolL"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "IrisKigurumi"
+              }
+            ]
+          }
+        },
+        "id": "1637732516026269696",
+        "name": "星川祈",
+        "pinned_tweet_id": "1998060088658157672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806858338677952512/TT9bnFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 366,
+          "like_count": 8655,
+          "listed_count": 25,
+          "media_count": 383,
+          "tweet_count": 6701
+        },
+        "url": "",
+        "username": "HoshikawaInori",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "location": "香港",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5432,
+          "following_count": 677,
+          "like_count": 12087,
+          "listed_count": 30,
+          "media_count": 1337,
+          "tweet_count": 8819
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true
+      }
+    ]
+  }
+}

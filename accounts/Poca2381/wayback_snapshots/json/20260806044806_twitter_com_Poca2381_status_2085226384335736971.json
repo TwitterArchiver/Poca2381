@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084873405250306048",
+        "3_2084873410933587968"
+      ],
+      "media_source_tweet_id": [
+        "2084873418231726172",
+        "2084873418231726172"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2085226384335736971",
+    "created_at": "2026-08-06T04:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085226384335736971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627301480440164352",
+          "start": 3,
+          "username": "NWA12302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5xNKYAgXq",
+          "end": 57,
+          "expanded_url": "https://x.com/NWA12302/status/2084873418231726172/photo/1",
+          "media_key": "3_2084873405250306048",
+          "start": 34,
+          "url": "https://t.co/w5xNKYAgXq"
+        },
+        {
+          "display_url": "pic.x.com/w5xNKYAgXq",
+          "end": 57,
+          "expanded_url": "https://x.com/NWA12302/status/2084873418231726172/photo/1",
+          "media_key": "3_2084873410933587968",
+          "start": 34,
+          "url": "https://t.co/w5xNKYAgXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085226384335736971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084873418231726172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NWA12302: 快递上直接写猪是我没想到的，但是可爱捏 https://t.co/w5xNKYAgXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1945,
+        "media_key": "3_2084873405250306048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO71UOGagAAb3H9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2084873410933587968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO71UjRagAAGnwC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084873405250306048",
+            "3_2084873410933587968"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "conversation_id": "2084873418231726172",
+        "created_at": "2026-08-05T05:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084873418231726172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5xNKYAgXq",
+              "end": 43,
+              "expanded_url": "https://x.com/NWA12302/status/2084873418231726172/photo/1",
+              "media_key": "3_2084873405250306048",
+              "start": 20,
+              "url": "https://t.co/w5xNKYAgXq"
+            },
+            {
+              "display_url": "pic.x.com/w5xNKYAgXq",
+              "end": 43,
+              "expanded_url": "https://x.com/NWA12302/status/2084873418231726172/photo/1",
+              "media_key": "3_2084873410933587968",
+              "start": 20,
+              "url": "https://t.co/w5xNKYAgXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084873418231726172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9943,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 68,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "快递上直接写猪是我没想到的，但是可爱捏 https://t.co/w5xNKYAgXq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084873405250306048",
+            "3_2084873410933587968"
+          ],
+          "media_source_tweet_id": [
+            "2084873418231726172",
+            "2084873418231726172"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2085226384335736971",
+        "created_at": "2026-08-06T04:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085226384335736971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627301480440164352",
+              "start": 3,
+              "username": "NWA12302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5xNKYAgXq",
+              "end": 57,
+              "expanded_url": "https://x.com/NWA12302/status/2084873418231726172/photo/1",
+              "media_key": "3_2084873405250306048",
+              "start": 34,
+              "url": "https://t.co/w5xNKYAgXq"
+            },
+            {
+              "display_url": "pic.x.com/w5xNKYAgXq",
+              "end": 57,
+              "expanded_url": "https://x.com/NWA12302/status/2084873418231726172/photo/1",
+              "media_key": "3_2084873410933587968",
+              "start": 34,
+              "url": "https://t.co/w5xNKYAgXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085226384335736971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084873418231726172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NWA12302: 快递上直接写猪是我没想到的，但是可爱捏 https://t.co/w5xNKYAgXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23439,
+          "following_count": 10346,
+          "like_count": 154127,
+          "listed_count": 51,
+          "media_count": 5918,
+          "tweet_count": 55512
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜眼镜娘厨｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063466222734430208/FnOg_4u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1498,
+          "like_count": 154187,
+          "listed_count": 8,
+          "media_count": 2303,
+          "tweet_count": 11460
+        },
+        "url": "",
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

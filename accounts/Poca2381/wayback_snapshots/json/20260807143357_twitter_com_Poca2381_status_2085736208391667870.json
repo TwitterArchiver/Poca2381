@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083719528811487232"
+      ],
+      "media_source_tweet_id": [
+        "2083725269127598470"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2085736208391667870",
+    "created_at": "2026-08-07T14:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085736208391667870"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "コスサミ2026"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "コスサミ"
+        },
+        {
+          "end": 66,
+          "start": 57,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031555106982998019",
+          "start": 3,
+          "username": "syamn_kig"
+        },
+        {
+          "end": 37,
+          "id": "1135160085544484865",
+          "start": 30,
+          "username": "_iin44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/slxLHLtmnV",
+          "end": 96,
+          "expanded_url": "https://x.com/syamn_kig/status/2083725269127598470/photo/1",
+          "media_key": "3_2083719528811487232",
+          "start": 73,
+          "url": "https://t.co/slxLHLtmnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085736208391667870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083725269127598470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syamn_kig: 大須コスプレパレード！ \n🤍 @_iin44 \n\n#コスサミ2026 #コスサミ　\n#kigurumi #着ぐるみ https://t.co/slxLHLtmnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083719528811487232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrb3xZaYAAF6Dq.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083719528811487232"
+          ]
+        },
+        "author_id": "2031555106982998019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2083725269127598470",
+        "created_at": "2026-08-02T01:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083725269127598470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "コスサミ2026"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "コスサミ"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1135160085544484865",
+              "start": 15,
+              "username": "_iin44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/slxLHLtmnV",
+              "end": 81,
+              "expanded_url": "https://x.com/syamn_kig/status/2083725269127598470/photo/1",
+              "media_key": "3_2083719528811487232",
+              "start": 58,
+              "url": "https://t.co/slxLHLtmnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083725269127598470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3744,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "大須コスプレパレード！ \n🤍 @_iin44 \n\n#コスサミ2026 #コスサミ　\n#kigurumi #着ぐるみ https://t.co/slxLHLtmnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083719528811487232"
+          ],
+          "media_source_tweet_id": [
+            "2083725269127598470"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2085736208391667870",
+        "created_at": "2026-08-07T14:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085736208391667870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "コスサミ2026"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "コスサミ"
+            },
+            {
+              "end": 66,
+              "start": 57,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031555106982998019",
+              "start": 3,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 37,
+              "id": "1135160085544484865",
+              "start": 30,
+              "username": "_iin44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/slxLHLtmnV",
+              "end": 96,
+              "expanded_url": "https://x.com/syamn_kig/status/2083725269127598470/photo/1",
+              "media_key": "3_2083719528811487232",
+              "start": 73,
+              "url": "https://t.co/slxLHLtmnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085736208391667870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083725269127598470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syamn_kig: 大須コスプレパレード！ \n🤍 @_iin44 \n\n#コスサミ2026 #コスサミ　\n#kigurumi #着ぐるみ https://t.co/slxLHLtmnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23581,
+          "following_count": 10378,
+          "like_count": 154236,
+          "listed_count": 51,
+          "media_count": 5964,
+          "tweet_count": 55682
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "しゃむ です / A kiger & photographer / 🧸 Hatsune Miku / 📷 A1M2, X2D2 / 📍 Tokyo / 🗣️ English & 日本語 / Only SFW here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/syamn_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/syamn_kig",
+                "start": 0,
+                "url": "https://t.co/11vg1lDQWU"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "location": "Tokyo, Japan",
+        "name": "syamn_kig✈️DW14",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 623,
+          "like_count": 1491,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/11vg1lDQWU",
+        "username": "syamn_kig",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-02T12:23:49.000Z",
+        "description": "ラバースーツ・ギャグ・マスク着てる女の子を描きました。 着ぐるみ初心者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/68565…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/68565628",
+                "start": 0,
+                "url": "https://t.co/Bvtc3PAJQr"
+              }
+            ]
+          }
+        },
+        "id": "1135160085544484865",
+        "location": "東京",
+        "name": "iin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070809883566637056/EvoXChFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18063,
+          "following_count": 510,
+          "like_count": 3901,
+          "listed_count": 133,
+          "media_count": 177,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/Bvtc3PAJQr",
+        "username": "_iin44",
+        "verified": true
+      }
+    ]
+  }
+}

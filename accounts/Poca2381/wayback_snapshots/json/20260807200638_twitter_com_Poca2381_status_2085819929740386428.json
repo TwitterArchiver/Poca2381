@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085577722374533120"
+      ],
+      "media_source_tweet_id": [
+        "2085577738455527666"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      }
+    ],
+    "conversation_id": "2085819929740386428",
+    "created_at": "2026-08-07T20:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085819929740386428"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "黑丝"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "白丝"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "jk"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1633715238322466817",
+          "start": 3,
+          "username": "plumedream233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FjDwMnEwHw",
+          "end": 67,
+          "expanded_url": "https://x.com/plumedream233/status/2085577738455527666/photo/1",
+          "media_key": "3_2085577722374533120",
+          "start": 44,
+          "url": "https://t.co/FjDwMnEwHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085819929740386428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085577738455527666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @plumedream233: 抱住美少女在一起 #男娘 #黑丝 #白丝 #jk https://t.co/FjDwMnEwHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2085577722374533120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF1432aMAAa9nS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085577722374533120"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2085577738455527666",
+        "created_at": "2026-08-07T04:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085577738455527666"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "黑丝"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "白丝"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "jk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjDwMnEwHw",
+              "end": 48,
+              "expanded_url": "https://x.com/plumedream233/status/2085577738455527666/photo/1",
+              "media_key": "3_2085577722374533120",
+              "start": 25,
+              "url": "https://t.co/FjDwMnEwHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085577738455527666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4819,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "抱住美少女在一起 #男娘 #黑丝 #白丝 #jk https://t.co/FjDwMnEwHw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085577722374533120"
+          ],
+          "media_source_tweet_id": [
+            "2085577738455527666"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2085819929740386428",
+        "created_at": "2026-08-07T20:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085819929740386428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "黑丝"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "白丝"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "jk"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1633715238322466817",
+              "start": 3,
+              "username": "plumedream233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjDwMnEwHw",
+              "end": 67,
+              "expanded_url": "https://x.com/plumedream233/status/2085577738455527666/photo/1",
+              "media_key": "3_2085577722374533120",
+              "start": 44,
+              "url": "https://t.co/FjDwMnEwHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085819929740386428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085577738455527666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @plumedream233: 抱住美少女在一起 #男娘 #黑丝 #白丝 #jk https://t.co/FjDwMnEwHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23602,
+          "following_count": 10388,
+          "like_count": 154264,
+          "listed_count": 52,
+          "media_count": 5969,
+          "tweet_count": 55719
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "是个笨蛋男娘萝莉？...20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子。没有任何立场不站队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZypVzDRP-H4xM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZypVzDRP-H4xMTA1",
+                "start": 0,
+                "url": "https://t.co/T7IWsxdw5M"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "白羽梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080622624196231168/HPn-F0fR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 776,
+          "like_count": 11602,
+          "listed_count": 8,
+          "media_count": 817,
+          "tweet_count": 7497
+        },
+        "url": "https://t.co/T7IWsxdw5M",
+        "username": "plumedream233",
+        "verified": false
+      }
+    ]
+  }
+}

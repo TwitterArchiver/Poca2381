@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085697443367354368"
+      ],
+      "media_source_tweet_id": [
+        "2085698968634425600"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2086022056559411578",
+    "created_at": "2026-08-08T09:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T10:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086022056559411578"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 49,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227426307320844289",
+          "start": 3,
+          "username": "Fred_Ag1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JUJ6YKvq9u",
+          "end": 82,
+          "expanded_url": "https://x.com/Fred_Ag1/status/2085698968634425600/video/1",
+          "media_key": "13_2085697443367354368",
+          "start": 59,
+          "url": "https://t.co/JUJ6YKvq9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086022056559411578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085698968634425600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fred_Ag1: 4000fo 纪念回，以真空包装的形式呈现～\n谢谢大家对我的支持！\n\n#kigurumi https://t.co/JUJ6YKvq9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69909,
+        "height": 1920,
+        "media_key": "13_2085697443367354368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085697443367354368/img/FigEarL2Vtd2H2fo.jpg",
+        "public_metrics": {
+          "view_count": 1385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085697443367354368/vid/avc1/320x568/qKfbrakWhe5vGX21.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085697443367354368/vid/avc1/480x852/pRvMnKzQjzF_W8Rm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085697443367354368/vid/avc1/720x1280/56lOXtgW6l3Av8GW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085697443367354368/pl/TLd6uFnj3EG6iJnf.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085697443367354368"
+          ]
+        },
+        "author_id": "1227426307320844289",
+        "conversation_id": "2085698968634425600",
+        "created_at": "2026-08-07T12:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085698968634425600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUJ6YKvq9u",
+              "end": 68,
+              "expanded_url": "https://x.com/Fred_Ag1/status/2085698968634425600/video/1",
+              "media_key": "13_2085697443367354368",
+              "start": 45,
+              "url": "https://t.co/JUJ6YKvq9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085698968634425600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 3716,
+          "like_count": 286,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "4000fo 纪念回，以真空包装的形式呈现～\n谢谢大家对我的支持！\n\n#kigurumi https://t.co/JUJ6YKvq9u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085697443367354368"
+          ],
+          "media_source_tweet_id": [
+            "2085698968634425600"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2086022056559411578",
+        "created_at": "2026-08-08T09:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T10:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086022056559411578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 49,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227426307320844289",
+              "start": 3,
+              "username": "Fred_Ag1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUJ6YKvq9u",
+              "end": 82,
+              "expanded_url": "https://x.com/Fred_Ag1/status/2085698968634425600/video/1",
+              "media_key": "13_2085697443367354368",
+              "start": 59,
+              "url": "https://t.co/JUJ6YKvq9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086022056559411578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085698968634425600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fred_Ag1: 4000fo 纪念回，以真空包装的形式呈现～\n谢谢大家对我的支持！\n\n#kigurumi https://t.co/JUJ6YKvq9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23605,
+          "following_count": 10404,
+          "like_count": 154407,
+          "listed_count": 52,
+          "media_count": 5972,
+          "tweet_count": 55854
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T02:57:01.000Z",
+        "description": "新手娃摄，不太变娃的萌新kiger，希望向大佬们更多学习！",
+        "id": "1227426307320844289",
+        "location": "Manchu",
+        "name": "Fred_Ag",
+        "pinned_tweet_id": "2023367333365092861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010988778819829760/1Kpi_OjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 692,
+          "like_count": 5785,
+          "listed_count": 26,
+          "media_count": 482,
+          "tweet_count": 2517
+        },
+        "url": "",
+        "username": "Fred_Ag1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083075849281241089"
+      ],
+      "media_source_tweet_id": [
+        "2083076009226899725"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2084708815837302928",
+    "created_at": "2026-08-04T18:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084708815837302928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060930236372631552",
+          "start": 3,
+          "username": "yinyin0710"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j4B3WXb7xs",
+          "end": 65,
+          "expanded_url": "https://x.com/yinyin0710/status/2083076009226899725/video/1",
+          "media_key": "13_2083075849281241089",
+          "start": 42,
+          "url": "https://t.co/j4B3WXb7xs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084708815837302928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083076009226899725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yinyin0710: 我跟房梁表白了，房梁没同意也没拒绝，现在正吊着我呢 https://t.co/j4B3WXb7xs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26602,
+        "height": 1280,
+        "media_key": "13_2083075849281241089",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083075849281241089/img/5OBtanRYElhIXVqF.jpg",
+        "public_metrics": {
+          "view_count": 7291
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083075849281241089/vid/avc1/320x568/eKWKOR5940EnG3UN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083075849281241089/vid/avc1/480x852/pDRnx0WTEkhxWCo1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083075849281241089/vid/avc1/720x1280/Itf0bAdhF8yhEfT3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083075849281241089/pl/3gqcCVeL5U8l47e4.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083075849281241089"
+          ]
+        },
+        "author_id": "2060930236372631552",
+        "conversation_id": "2083076009226899725",
+        "created_at": "2026-07-31T06:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083076009226899725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4B3WXb7xs",
+              "end": 49,
+              "expanded_url": "https://x.com/yinyin0710/status/2083076009226899725/video/1",
+              "media_key": "13_2083075849281241089",
+              "start": 26,
+              "url": "https://t.co/j4B3WXb7xs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083076009226899725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 21763,
+          "like_count": 294,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我跟房梁表白了，房梁没同意也没拒绝，现在正吊着我呢 https://t.co/j4B3WXb7xs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083075849281241089"
+          ],
+          "media_source_tweet_id": [
+            "2083076009226899725"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2084708815837302928",
+        "created_at": "2026-08-04T18:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084708815837302928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060930236372631552",
+              "start": 3,
+              "username": "yinyin0710"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4B3WXb7xs",
+              "end": 65,
+              "expanded_url": "https://x.com/yinyin0710/status/2083076009226899725/video/1",
+              "media_key": "13_2083075849281241089",
+              "start": 42,
+              "url": "https://t.co/j4B3WXb7xs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084708815837302928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083076009226899725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yinyin0710: 我跟房梁表白了，房梁没同意也没拒绝，现在正吊着我呢 https://t.co/j4B3WXb7xs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23416,
+          "following_count": 10335,
+          "like_count": 154089,
+          "listed_count": 51,
+          "media_count": 5891,
+          "tweet_count": 55447
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T03:45:12.000Z",
+        "description": "原号@he16263 （看着眼熟给个关注求求了）07  🚪52    胸是C杯吃药自然长的 |遵守X的规则 全国可✈️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "he16263"
+              }
+            ]
+          }
+        },
+        "id": "2060930236372631552",
+        "location": "很好说话欢迎聊天互转",
+        "name": "妙音盒（重生求互转）",
+        "pinned_tweet_id": "2084552282008633593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078873946045489152/IhoA88mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 27,
+          "like_count": 25,
+          "listed_count": 5,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "yinyin0710",
+        "verified": false
+      }
+    ]
+  }
+}

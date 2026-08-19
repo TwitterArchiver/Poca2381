@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079104302094974976"
+      ],
+      "media_source_tweet_id": [
+        "2079104566587793772"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2084710401795846303",
+    "created_at": "2026-08-04T18:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084710401795846303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060930236372631552",
+          "start": 3,
+          "username": "yinyin0710"
+        },
+        {
+          "end": 27,
+          "id": "1794303049550213120",
+          "start": 19,
+          "username": "he16263"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TNXbXBfMom",
+          "end": 74,
+          "expanded_url": "https://x.com/yinyin0710/status/2079104566587793772/video/1",
+          "media_key": "13_2079104302094974976",
+          "start": 51,
+          "url": "https://t.co/TNXbXBfMom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084710401795846303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079104566587793772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yinyin0710: 原账号@he16263被封，看着眼熟的朋友给个关注谢谢了，以后慢慢补 https://t.co/TNXbXBfMom"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [he16263].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "he16263",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "he16263"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29512,
+        "height": 2160,
+        "media_key": "13_2079104302094974976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079104302094974976/img/ECVpkV78-dp4euRM.jpg",
+        "public_metrics": {
+          "view_count": 8793
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079104302094974976/vid/avc1/480x270/yOalbF0q-Hc4MENC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079104302094974976/vid/avc1/640x360/XdzFkAsB2bqXajjd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079104302094974976/vid/avc1/1280x720/rnS309s2gQl5quGp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079104302094974976/pl/x9Lf5dDm6UmbJFqn.m3u8?tag=14"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079104302094974976"
+          ]
+        },
+        "author_id": "2060930236372631552",
+        "conversation_id": "2079104566587793772",
+        "created_at": "2026-07-20T07:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079104566587793772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794303049550213120",
+              "start": 3,
+              "username": "he16263"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNXbXBfMom",
+              "end": 58,
+              "expanded_url": "https://x.com/yinyin0710/status/2079104566587793772/video/1",
+              "media_key": "13_2079104302094974976",
+              "start": 35,
+              "url": "https://t.co/TNXbXBfMom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079104566587793772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 27773,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "原账号@he16263被封，看着眼熟的朋友给个关注谢谢了，以后慢慢补 https://t.co/TNXbXBfMom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079104302094974976"
+          ],
+          "media_source_tweet_id": [
+            "2079104566587793772"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2084710401795846303",
+        "created_at": "2026-08-04T18:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084710401795846303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060930236372631552",
+              "start": 3,
+              "username": "yinyin0710"
+            },
+            {
+              "end": 27,
+              "id": "1794303049550213120",
+              "start": 19,
+              "username": "he16263"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNXbXBfMom",
+              "end": 74,
+              "expanded_url": "https://x.com/yinyin0710/status/2079104566587793772/video/1",
+              "media_key": "13_2079104302094974976",
+              "start": 51,
+              "url": "https://t.co/TNXbXBfMom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084710401795846303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079104566587793772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yinyin0710: 原账号@he16263被封，看着眼熟的朋友给个关注谢谢了，以后慢慢补 https://t.co/TNXbXBfMom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23416,
+          "following_count": 10335,
+          "like_count": 154092,
+          "listed_count": 51,
+          "media_count": 5891,
+          "tweet_count": 55450
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T03:45:12.000Z",
+        "description": "原号@he16263 （看着眼熟给个关注求求了）07  🚪52    胸是C杯吃药自然长的 |遵守X的规则 全国可✈️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "he16263"
+              }
+            ]
+          }
+        },
+        "id": "2060930236372631552",
+        "location": "很好说话欢迎聊天互转",
+        "name": "妙音盒（重生求互转）",
+        "pinned_tweet_id": "2084552282008633593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078873946045489152/IhoA88mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 27,
+          "like_count": 25,
+          "listed_count": 5,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "yinyin0710",
+        "verified": false
+      }
+    ]
+  }
+}
