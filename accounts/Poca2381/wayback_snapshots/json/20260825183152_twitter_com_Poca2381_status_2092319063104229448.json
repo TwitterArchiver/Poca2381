@@ -1,0 +1,620 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090827897229758464",
+        "13_2090827897233911808",
+        "13_2090827897233915905"
+      ],
+      "media_source_tweet_id": [
+        "2090827983510786498",
+        "2090827983510786498",
+        "2090827983510786498"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092319063104229448",
+    "created_at": "2026-08-25T18:31:52.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T19:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092319063104229448"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 75,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 99,
+          "start": 91,
+          "tag": "hkkiger"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "730166535357136896",
+          "start": 3,
+          "username": "takusan1121"
+        },
+        {
+          "end": 73,
+          "id": "1712792106572644352",
+          "start": 60,
+          "username": "yukine_hkkig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gyTVSwCGBY",
+          "end": 123,
+          "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+          "media_key": "3_2090827897229758464",
+          "start": 100,
+          "url": "https://t.co/gyTVSwCGBY"
+        },
+        {
+          "display_url": "pic.x.com/gyTVSwCGBY",
+          "end": 123,
+          "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+          "media_key": "13_2090827897233911808",
+          "start": 100,
+          "url": "https://t.co/gyTVSwCGBY"
+        },
+        {
+          "display_url": "pic.x.com/gyTVSwCGBY",
+          "end": 123,
+          "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+          "media_key": "13_2090827897233915905",
+          "start": 100,
+          "url": "https://t.co/gyTVSwCGBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092319063104229448",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090827897229758464"
+      },
+      {
+        "media_key": "13_2090827897233911808"
+      },
+      {
+        "media_key": "13_2090827897233915905"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090827983510786498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takusan1121: 第一次以kig狀態去打mai\n算是完成了一個心願\n(視野狹窄會看不到部分按鍵)\n\n📷:@yukine_hkkig \n#kigurumi #着ぐるみ #hkkiger https://t.co/gyTVSwCGBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2090827897229758464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQc5RTbUAA_X1V.jpg",
+        "width": 4032
+      },
+      {
+        "duration_ms": 172205,
+        "height": 640,
+        "media_key": "13_2090827897233911808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090827897233911808/img/EkNbHg3pX3n1CcXu.jpg",
+        "public_metrics": {
+          "view_count": 432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090827897233911808/vid/avc1/320x568/nQgbhMN8svBgn-Qz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090827897233911808/vid/avc1/360x640/5lXPiBGmgxPhxGbU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090827897233911808/pl/6IZU1M_sJ_lzsNAh.m3u8"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "duration_ms": 160405,
+        "height": 640,
+        "media_key": "13_2090827897233915905",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090827897233915905/img/sicOrXM_ZK1l1IVh.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090827897233915905/vid/avc1/320x538/KusT8-vDugPuQExM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090827897233915905/vid/avc1/380x640/OBCz8V3m4kBhE9h5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090827897233915905/pl/PN7mj52GpH4IO7Jf.m3u8"
+          }
+        ],
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090827897229758464",
+            "13_2090827897233911808",
+            "13_2090827897233915905"
+          ],
+          "media_source_tweet_id": [
+            "2090827983510786498",
+            "2090827983510786498",
+            "2090827983510786498"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092319063104229448",
+        "created_at": "2026-08-25T18:31:52.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092319063104229448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 75,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "hkkiger"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "730166535357136896",
+              "start": 3,
+              "username": "takusan1121"
+            },
+            {
+              "end": 73,
+              "id": "1712792106572644352",
+              "start": 60,
+              "username": "yukine_hkkig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyTVSwCGBY",
+              "end": 123,
+              "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+              "media_key": "3_2090827897229758464",
+              "start": 100,
+              "url": "https://t.co/gyTVSwCGBY"
+            },
+            {
+              "display_url": "pic.x.com/gyTVSwCGBY",
+              "end": 123,
+              "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+              "media_key": "13_2090827897233911808",
+              "start": 100,
+              "url": "https://t.co/gyTVSwCGBY"
+            },
+            {
+              "display_url": "pic.x.com/gyTVSwCGBY",
+              "end": 123,
+              "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+              "media_key": "13_2090827897233915905",
+              "start": 100,
+              "url": "https://t.co/gyTVSwCGBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092319063104229448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090827897229758464"
+          },
+          {
+            "media_key": "13_2090827897233911808"
+          },
+          {
+            "media_key": "13_2090827897233915905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090827983510786498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takusan1121: 第一次以kig狀態去打mai\n算是完成了一個心願\n(視野狹窄會看不到部分按鍵)\n\n📷:@yukine_hkkig \n#kigurumi #着ぐるみ #hkkiger https://t.co/gyTVSwCGBY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090827897229758464",
+            "13_2090827897233911808",
+            "13_2090827897233915905"
+          ]
+        },
+        "author_id": "730166535357136896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090827983510786498",
+        "created_at": "2026-08-21T15:46:51.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090827983510786498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "hkkiger"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 56,
+              "id": "1712792106572644352",
+              "start": 43,
+              "username": "yukine_hkkig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyTVSwCGBY",
+              "end": 106,
+              "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+              "media_key": "3_2090827897229758464",
+              "start": 83,
+              "url": "https://t.co/gyTVSwCGBY"
+            },
+            {
+              "display_url": "pic.x.com/gyTVSwCGBY",
+              "end": 106,
+              "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+              "media_key": "13_2090827897233911808",
+              "start": 83,
+              "url": "https://t.co/gyTVSwCGBY"
+            },
+            {
+              "display_url": "pic.x.com/gyTVSwCGBY",
+              "end": 106,
+              "expanded_url": "https://x.com/takusan1121/status/2090827983510786498/video/1",
+              "media_key": "13_2090827897233915905",
+              "start": 83,
+              "url": "https://t.co/gyTVSwCGBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090827983510786498",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090827897229758464"
+          },
+          {
+            "media_key": "13_2090827897233911808"
+          },
+          {
+            "media_key": "13_2090827897233915905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1938,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "第一次以kig狀態去打mai\n算是完成了一個心願\n(視野狹窄會看不到部分按鍵)\n\n📷:@yukine_hkkig \n#kigurumi #着ぐるみ #hkkiger https://t.co/gyTVSwCGBY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2092319063104229448",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24296,
+          "following_count": 10764,
+          "like_count": 155724,
+          "listed_count": 53,
+          "media_count": 6366,
+          "tweet_count": 57935
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-10T22:44:02.000Z",
+        "description": "kigurumi愛好者+初心者，新人攝，音遊人\n主打mai/chuni/pjsk\n因為工作關係更新會比較慢",
+        "id": "730166535357136896",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2092208656830062663",
+        "name": "タクさん",
+        "pinned_tweet_id": "2016368780226777154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/730166535357136896/1769902960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011223195098177536/hAjOF_L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 288,
+          "like_count": 2789,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "takusan1121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-13T11:29:23.000Z",
+        "description": "來自香港🇭🇰的Kiger，偶爾會去其他地方的活動，最喜愛初音ミク，會不定時出現在event上(*≧∀≦*) DM📩 yukinehkkig@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hatsunemiku_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hatsunemiku_kig",
+                "start": 0,
+                "url": "https://t.co/GPYcotVSaG"
+              }
+            ]
+          }
+        },
+        "id": "1712792106572644352",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2092280845495078945",
+        "name": "雪音",
+        "pinned_tweet_id": "1896542971069419780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712792106572644352/1736579115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799640807101935616/4maD5Pvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5524,
+          "following_count": 683,
+          "like_count": 12234,
+          "listed_count": 30,
+          "media_count": 1381,
+          "tweet_count": 8947
+        },
+        "url": "https://t.co/GPYcotVSaG",
+        "username": "yukine_hkkig",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050532346764689408",
+        "3_2050532346806583296"
+      ],
+      "media_source_tweet_id": [
+        "2050532582987866432",
+        "2050532582987866432"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2089793845991186634",
+    "created_at": "2026-08-18T19:17:34.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089793845991186634"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "miku"
+        },
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1568580456819621888",
+          "start": 3,
+          "username": "mitty39"
+        },
+        {
+          "end": 40,
+          "id": "1896932200635146240",
+          "start": 27,
+          "username": "qqwwer417389"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IeZIfhQjcE",
+          "end": 83,
+          "expanded_url": "https://x.com/mitty39/status/2050532582987866432/photo/1",
+          "media_key": "3_2050532346764689408",
+          "start": 60,
+          "url": "https://t.co/IeZIfhQjcE"
+        },
+        {
+          "display_url": "pic.x.com/IeZIfhQjcE",
+          "end": 83,
+          "expanded_url": "https://x.com/mitty39/status/2050532582987866432/photo/1",
+          "media_key": "3_2050532346806583296",
+          "start": 60,
+          "url": "https://t.co/IeZIfhQjcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089793845991186634",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2050532346764689408"
+      },
+      {
+        "media_key": "3_2050532346806583296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050532582987866432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitty39: 玻璃幕上的miku娃娃\n🎭：@qqwwer417389 和我\n#miku #kigurumi https://t.co/IeZIfhQjcE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050532346764689408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT0TiFbgAALuvA.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050532346806583296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT0TiPawAAgyNW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050532346764689408",
+            "3_2050532346806583296"
+          ],
+          "media_source_tweet_id": [
+            "2050532582987866432",
+            "2050532582987866432"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2089793845991186634",
+        "created_at": "2026-08-18T19:17:34.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089793845991186634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "miku"
+            },
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1568580456819621888",
+              "start": 3,
+              "username": "mitty39"
+            },
+            {
+              "end": 40,
+              "id": "1896932200635146240",
+              "start": 27,
+              "username": "qqwwer417389"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IeZIfhQjcE",
+              "end": 83,
+              "expanded_url": "https://x.com/mitty39/status/2050532582987866432/photo/1",
+              "media_key": "3_2050532346764689408",
+              "start": 60,
+              "url": "https://t.co/IeZIfhQjcE"
+            },
+            {
+              "display_url": "pic.x.com/IeZIfhQjcE",
+              "end": 83,
+              "expanded_url": "https://x.com/mitty39/status/2050532582987866432/photo/1",
+              "media_key": "3_2050532346806583296",
+              "start": 60,
+              "url": "https://t.co/IeZIfhQjcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089793845991186634",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2050532346764689408"
+          },
+          {
+            "media_key": "3_2050532346806583296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050532582987866432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitty39: 玻璃幕上的miku娃娃\n🎭：@qqwwer417389 和我\n#miku #kigurumi https://t.co/IeZIfhQjcE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050532346764689408",
+            "3_2050532346806583296"
+          ]
+        },
+        "author_id": "1568580456819621888",
+        "conversation_id": "2050532582987866432",
+        "created_at": "2026-05-02T11:07:19.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050532582987866432"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "miku"
+            },
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1896932200635146240",
+              "start": 14,
+              "username": "qqwwer417389"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IeZIfhQjcE",
+              "end": 70,
+              "expanded_url": "https://x.com/mitty39/status/2050532582987866432/photo/1",
+              "media_key": "3_2050532346764689408",
+              "start": 47,
+              "url": "https://t.co/IeZIfhQjcE"
+            },
+            {
+              "display_url": "pic.x.com/IeZIfhQjcE",
+              "end": 70,
+              "expanded_url": "https://x.com/mitty39/status/2050532582987866432/photo/1",
+              "media_key": "3_2050532346806583296",
+              "start": 47,
+              "url": "https://t.co/IeZIfhQjcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050532582987866432",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2050532346764689408"
+          },
+          {
+            "media_key": "3_2050532346806583296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1650,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "玻璃幕上的miku娃娃\n🎭：@qqwwer417389 和我\n#miku #kigurumi https://t.co/IeZIfhQjcE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089793845991186634",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24012,
+          "following_count": 10593,
+          "like_count": 155130,
+          "listed_count": 53,
+          "media_count": 6231,
+          "tweet_count": 57047
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-10T12:42:02.000Z",
+        "description": "这里是冰糖mitty哦，是一只小猫猫～",
+        "id": "1568580456819621888",
+        "is_identity_verified": false,
+        "location": "广东，东莞",
+        "most_recent_tweet_id": "2089558612859642251",
+        "name": "冰糖猫～",
+        "pinned_tweet_id": "1894069038499741738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568580456819621888/1738137428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884511024675708928/JtitR8QT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 261,
+          "like_count": 182,
+          "listed_count": 5,
+          "media_count": 53,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "mitty39",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T14:34:34.000Z",
+        "description": "广东珠三角kiger一枚，角色是爱莉希雅，平时活跃在粤，欢迎来玩！",
+        "id": "1896932200635146240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2083699854086217847",
+        "name": "下沙仔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896932200635146240/1741756478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899690178597289985/LoIDmkNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 176,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "qqwwer417389",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

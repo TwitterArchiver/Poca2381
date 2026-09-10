@@ -1,0 +1,699 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924115880805380096",
+        "3_1924115882126561280",
+        "3_1924115882126520320",
+        "3_1924115881937752064"
+      ],
+      "media_source_tweet_id": [
+        "1924119810507710889",
+        "1924119810507710889",
+        "1924119810507710889",
+        "1924119810507710889"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2095961801888551276",
+    "created_at": "2026-09-04T19:46:49.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T20:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095961801888551276"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "kigrurmi"
+        },
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "Miku"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1495963564967968770",
+          "start": 3,
+          "username": "qa2huaks1ap30"
+        },
+        {
+          "end": 44,
+          "id": "1836106101122830340",
+          "start": 33,
+          "username": "QaQ1131423"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KQ8VnD1UBT",
+          "end": 112,
+          "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+          "media_key": "3_1924115880805380096",
+          "start": 89,
+          "url": "https://t.co/KQ8VnD1UBT"
+        },
+        {
+          "display_url": "pic.x.com/KQ8VnD1UBT",
+          "end": 112,
+          "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+          "media_key": "3_1924115882126561280",
+          "start": 89,
+          "url": "https://t.co/KQ8VnD1UBT"
+        },
+        {
+          "display_url": "pic.x.com/KQ8VnD1UBT",
+          "end": 112,
+          "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+          "media_key": "3_1924115882126520320",
+          "start": 89,
+          "url": "https://t.co/KQ8VnD1UBT"
+        },
+        {
+          "display_url": "pic.x.com/KQ8VnD1UBT",
+          "end": 112,
+          "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+          "media_key": "3_1924115881937752064",
+          "start": 89,
+          "url": "https://t.co/KQ8VnD1UBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095961801888551276",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_1924115880805380096"
+      },
+      {
+        "media_key": "3_1924115882126561280"
+      },
+      {
+        "media_key": "3_1924115882126520320"
+      },
+      {
+        "media_key": "3_1924115881937752064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924119810507710889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qa2huaks1ap30: 第一次試著出了kig，填充物@QaQ1131423 被30度高溫熱化了\n攝影：me\n#kigrurmi #着ぐるみ #初音ミク #Miku https://t.co/KQ8VnD1UBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1924115880805380096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPVMv4XsAADWau.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1924115882126561280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPVM0zXUAAj6w0.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1924115882126520320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPVM0zWsAAYS7A.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1924115881937752064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPVM0GWUAACQqv.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924115880805380096",
+            "3_1924115882126561280",
+            "3_1924115882126520320",
+            "3_1924115881937752064"
+          ],
+          "media_source_tweet_id": [
+            "1924119810507710889",
+            "1924119810507710889",
+            "1924119810507710889",
+            "1924119810507710889"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2095961801888551276",
+        "created_at": "2026-09-04T19:46:49.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095961801888551276"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "kigrurmi"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "Miku"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1495963564967968770",
+              "start": 3,
+              "username": "qa2huaks1ap30"
+            },
+            {
+              "end": 44,
+              "id": "1836106101122830340",
+              "start": 33,
+              "username": "QaQ1131423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 112,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115880805380096",
+              "start": 89,
+              "url": "https://t.co/KQ8VnD1UBT"
+            },
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 112,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115882126561280",
+              "start": 89,
+              "url": "https://t.co/KQ8VnD1UBT"
+            },
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 112,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115882126520320",
+              "start": 89,
+              "url": "https://t.co/KQ8VnD1UBT"
+            },
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 112,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115881937752064",
+              "start": 89,
+              "url": "https://t.co/KQ8VnD1UBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095961801888551276",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1924115880805380096"
+          },
+          {
+            "media_key": "3_1924115882126561280"
+          },
+          {
+            "media_key": "3_1924115882126520320"
+          },
+          {
+            "media_key": "3_1924115881937752064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924119810507710889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qa2huaks1ap30: 第一次試著出了kig，填充物@QaQ1131423 被30度高溫熱化了\n攝影：me\n#kigrurmi #着ぐるみ #初音ミク #Miku https://t.co/KQ8VnD1UBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924115880805380096",
+            "3_1924115882126561280",
+            "3_1924115882126520320",
+            "3_1924115881937752064"
+          ]
+        },
+        "author_id": "1495963564967968770",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1924119810507710889",
+        "created_at": "2025-05-18T15:08:05.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2025-05-18T16:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924119810507710889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "kigrurmi"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "Miku"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1836106101122830340",
+              "start": 14,
+              "username": "QaQ1131423"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 93,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115880805380096",
+              "start": 70,
+              "url": "https://t.co/KQ8VnD1UBT"
+            },
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 93,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115882126561280",
+              "start": 70,
+              "url": "https://t.co/KQ8VnD1UBT"
+            },
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 93,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115882126520320",
+              "start": 70,
+              "url": "https://t.co/KQ8VnD1UBT"
+            },
+            {
+              "display_url": "pic.x.com/KQ8VnD1UBT",
+              "end": 93,
+              "expanded_url": "https://x.com/qa2huaks1ap30/status/1924119810507710889/photo/1",
+              "media_key": "3_1924115881937752064",
+              "start": 70,
+              "url": "https://t.co/KQ8VnD1UBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924119810507710889",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1924115880805380096"
+          },
+          {
+            "media_key": "3_1924115882126561280"
+          },
+          {
+            "media_key": "3_1924115882126520320"
+          },
+          {
+            "media_key": "3_1924115881937752064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3117,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "第一次試著出了kig，填充物@QaQ1131423 被30度高溫熱化了\n攝影：me\n#kigrurmi #着ぐるみ #初音ミク #Miku https://t.co/KQ8VnD1UBT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095961801888551276",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24937,
+          "following_count": 11000,
+          "like_count": 156307,
+          "listed_count": 53,
+          "media_count": 6619,
+          "tweet_count": 59041
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-22T03:28:16.000Z",
+        "description": "",
+        "id": "1495963564967968770",
+        "is_identity_verified": false,
+        "location": "哈莫尼星",
+        "most_recent_tweet_id": "2056815583371677991",
+        "name": "覺皇利馬梅斯一世",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552247684504834048/5YrBMQBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 3295,
+          "like_count": 16089,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "qa2huaks1ap30",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T18:13:44.000Z",
+        "description": "19歲，是學生，只是喜歡好看的衣服而已！（叉腰）\n偶爾會發些日常，請多多關照！",
+        "id": "1836106101122830340",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1932809223668445565",
+        "name": "柰",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836107711249100800/Py4ohhF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "QaQ1131423",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

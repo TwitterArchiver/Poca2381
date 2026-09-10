@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2095235340797988864"
+      ],
+      "media_source_tweet_id": [
+        "2095235398033445154"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095328250260279698",
+    "created_at": "2026-09-03T01:49:18.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T02:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095328250260279698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1853651558904557568",
+          "start": 3,
+          "username": "d2022819867"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JIVThKdk1B",
+          "end": 42,
+          "expanded_url": "https://x.com/d2022819867/status/2095235398033445154/video/1",
+          "media_key": "7_2095235340797988864",
+          "start": 19,
+          "url": "https://t.co/JIVThKdk1B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095328250260279698",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "7_2095235340797988864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095235398033445154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d2022819867: 🥵 https://t.co/JIVThKdk1B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9235,
+        "height": 1280,
+        "media_key": "7_2095235340797988864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2095235340797988864/pu/img/W1Y4QI7YXaEA8zVf.jpg",
+        "public_metrics": {
+          "view_count": 187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2095235340797988864/pu/vid/avc1/320x568/HhePZWsbYboP4z2d.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2095235340797988864/pu/vid/avc1/480x852/xcsywJTSo1YsJXjY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2095235340797988864/pu/vid/avc1/720x1280/WVb-K_Dt6xzUNOeZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2095235340797988864/pu/pl/rQnaF9_lujCi1VZg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2095235340797988864"
+          ],
+          "media_source_tweet_id": [
+            "2095235398033445154"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095328250260279698",
+        "created_at": "2026-09-03T01:49:18.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095328250260279698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1853651558904557568",
+              "start": 3,
+              "username": "d2022819867"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIVThKdk1B",
+              "end": 42,
+              "expanded_url": "https://x.com/d2022819867/status/2095235398033445154/video/1",
+              "media_key": "7_2095235340797988864",
+              "start": 19,
+              "url": "https://t.co/JIVThKdk1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095328250260279698",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "7_2095235340797988864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095235398033445154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d2022819867: 🥵 https://t.co/JIVThKdk1B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2095235340797988864"
+          ]
+        },
+        "author_id": "1853651558904557568",
+        "conversation_id": "2095235398033445154",
+        "created_at": "2026-09-02T19:40:21.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095235398033445154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIVThKdk1B",
+              "end": 25,
+              "expanded_url": "https://x.com/d2022819867/status/2095235398033445154/video/1",
+              "media_key": "7_2095235340797988864",
+              "start": 2,
+              "url": "https://t.co/JIVThKdk1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095235398033445154",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "7_2095235340797988864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 555,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🥵 https://t.co/JIVThKdk1B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095328250260279698",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24863,
+          "following_count": 10955,
+          "like_count": 156163,
+          "listed_count": 53,
+          "media_count": 6567,
+          "tweet_count": 58785
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T04:12:32.000Z",
+        "description": "星绘重度依赖☆\n七咕噜米",
+        "id": "1853651558904557568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095235398033445154",
+        "name": "墨茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853651558904557568/1740415348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894065231451885569/2uH-mtd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 618,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "d2022819867",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

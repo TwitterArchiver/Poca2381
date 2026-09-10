@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090733375070081024"
+      ],
+      "media_source_tweet_id": [
+        "2090733388378566935"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2090858148315976072",
+    "created_at": "2026-08-21T17:46:43.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090858148315976072"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 71,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "聖園ミカ"
+        },
+        {
+          "end": 93,
+          "start": 87,
+          "tag": "バニーの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1186053759912173568",
+          "start": 3,
+          "username": "littlec_Vov"
+        },
+        {
+          "end": 68,
+          "id": "1787129979165376512",
+          "start": 57,
+          "username": "KUTE_image"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5b3jumgIgf",
+          "end": 117,
+          "expanded_url": "https://x.com/littlec_Vov/status/2090733388378566935/photo/1",
+          "media_key": "3_2090733375070081024",
+          "start": 94,
+          "url": "https://t.co/5b3jumgIgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090858148315976072",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090733375070081024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090733388378566935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @littlec_Vov: “sensei，听说今天是特殊的日子，穿了从来没穿过的衣服呢…喜欢吗？”\n\n📷：@KUTE_image \n\n#kigurumi #聖園ミカ #バニーの日 https://t.co/5b3jumgIgf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090733375070081024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPG7W0bEAAB5yJ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090733375070081024"
+          ],
+          "media_source_tweet_id": [
+            "2090733388378566935"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2090858148315976072",
+        "created_at": "2026-08-21T17:46:43.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090858148315976072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 71,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "聖園ミカ"
+            },
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "バニーの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1186053759912173568",
+              "start": 3,
+              "username": "littlec_Vov"
+            },
+            {
+              "end": 68,
+              "id": "1787129979165376512",
+              "start": 57,
+              "username": "KUTE_image"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5b3jumgIgf",
+              "end": 117,
+              "expanded_url": "https://x.com/littlec_Vov/status/2090733388378566935/photo/1",
+              "media_key": "3_2090733375070081024",
+              "start": 94,
+              "url": "https://t.co/5b3jumgIgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090858148315976072",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090733375070081024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090733388378566935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @littlec_Vov: “sensei，听说今天是特殊的日子，穿了从来没穿过的衣服呢…喜欢吗？”\n\n📷：@KUTE_image \n\n#kigurumi #聖園ミカ #バニーの日 https://t.co/5b3jumgIgf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090733375070081024"
+          ]
+        },
+        "author_id": "1186053759912173568",
+        "conversation_id": "2090733388378566935",
+        "created_at": "2026-08-21T09:30:58.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090733388378566935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 54,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "聖園ミカ"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "バニーの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1787129979165376512",
+              "start": 40,
+              "username": "KUTE_image"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5b3jumgIgf",
+              "end": 100,
+              "expanded_url": "https://x.com/littlec_Vov/status/2090733388378566935/photo/1",
+              "media_key": "3_2090733375070081024",
+              "start": 77,
+              "url": "https://t.co/5b3jumgIgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090733388378566935",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090733375070081024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1795,
+          "like_count": 185,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "“sensei，听说今天是特殊的日子，穿了从来没穿过的衣服呢…喜欢吗？”\n\n📷：@KUTE_image \n\n#kigurumi #聖園ミカ #バニーの日 https://t.co/5b3jumgIgf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090858148315976072",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24113,
+          "following_count": 10645,
+          "like_count": 155351,
+          "listed_count": 53,
+          "media_count": 6283,
+          "tweet_count": 57384
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-20T22:57:24.000Z",
+        "description": "萌新kiger｜希望用kigurumi改变枯燥的日常｜欢迎互关扩列～｜目前角色：碧蓝档案的圣园未花、空井咲",
+        "id": "1186053759912173568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090769858539704663",
+        "name": "littlec",
+        "pinned_tweet_id": "1942979032955658293",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942907704139243520/ZMIPqx8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 133,
+          "like_count": 1189,
+          "listed_count": 8,
+          "media_count": 26,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "littlec_Vov",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-05T14:40:04.000Z",
+        "description": "＋V 137后面随便",
+        "id": "1787129979165376512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089659704385659342",
+        "name": "KUTE",
+        "pinned_tweet_id": "2045497645775597577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787129979165376512/1776323019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044673042740301824/x4PDsb5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 84,
+          "like_count": 633,
+          "listed_count": 16,
+          "media_count": 4,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "KUTE_image",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

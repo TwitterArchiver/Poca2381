@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2089260408100266118",
+    "created_at": "2026-08-17T20:17:28.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T21:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089446535419634027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1288842786389671936",
+          "start": 0,
+          "username": "RinkaiR02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089446535419634027",
+    "in_reply_to_user_id": "1288842786389671936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089260408100266118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinkaiR02 👀👀👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2089260400286269441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6LQ8JagAE_NRf.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2089260408100266118",
+        "created_at": "2026-08-17T20:17:28.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089446535419634027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1288842786389671936",
+              "start": 0,
+              "username": "RinkaiR02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089446535419634027",
+        "in_reply_to_user_id": "1288842786389671936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089260408100266118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinkaiR02 👀👀👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089260400286269441"
+          ]
+        },
+        "author_id": "1288842786389671936",
+        "conversation_id": "2089260408100266118",
+        "created_at": "2026-08-17T07:57:52.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089260408100266118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQkMNNh0hS",
+              "end": 27,
+              "expanded_url": "https://x.com/RinkaiR02/status/2089260408100266118/photo/1",
+              "media_key": "3_2089260400286269441",
+              "start": 4,
+              "url": "https://t.co/xQkMNNh0hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089260408100266118",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089260400286269441"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 740,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（预告 https://t.co/xQkMNNh0hS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089446535419634027",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23987,
+          "following_count": 10544,
+          "like_count": 155038,
+          "listed_count": 53,
+          "media_count": 6210,
+          "tweet_count": 56850
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-30T14:24:06.000Z",
+        "description": "这里東雲！北京新人kiger 目前角色水月/烛煌/镜音连/庄方宜 偶尔玩涩涩 偶尔玩摄摄 欢迎扩列捏～寄拍送测欢迎私信/SONY a7RIV + 24-105G + 50 1.4GM/💗@Yuelin_V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "Yuelin_V"
+              }
+            ]
+          }
+        },
+        "id": "1288842786389671936",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089260408100266118",
+        "name": "東雲🪼",
+        "pinned_tweet_id": "1999365287662223875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1288842786389671936/1765299932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000064248039571456/aNZTcXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7548,
+          "following_count": 4572,
+          "like_count": 299,
+          "listed_count": 46,
+          "media_count": 208,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "RinkaiR02",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

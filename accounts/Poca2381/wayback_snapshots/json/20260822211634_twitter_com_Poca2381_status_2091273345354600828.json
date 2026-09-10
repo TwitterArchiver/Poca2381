@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088814887552331776"
+      ],
+      "media_source_tweet_id": [
+        "2088815091559064063"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2091273345354600828",
+    "created_at": "2026-08-22T21:16:34.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T22:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091273345354600828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1098155487697293313",
+          "start": 3,
+          "username": "langer_seal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LeyWNqU1tB",
+          "end": 80,
+          "expanded_url": "https://x.com/langer_seal/status/2088815091559064063/video/1",
+          "media_key": "13_2088814887552331776",
+          "start": 57,
+          "url": "https://t.co/LeyWNqU1tB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091273345354600828",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088814887552331776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088815091559064063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @langer_seal: 被这具皮物的意识反向夺舍了...控制不了自己的身体了\n要去了齁哦哦哦哦哦！！！ https://t.co/LeyWNqU1tB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 132593,
+        "height": 1280,
+        "media_key": "13_2088814887552331776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088814887552331776/img/EGwsdGFuibZQChhF.jpg",
+        "public_metrics": {
+          "view_count": 4494
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088814887552331776/vid/avc1/320x568/9QlFlQmvxtQ5bfwg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088814887552331776/vid/avc1/480x852/w3b2CCBujWJHGo_S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088814887552331776/vid/avc1/720x1280/ioR3BNPDC2_ugNwk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088814887552331776/pl/EGe5DhRKLfAHcebs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088814887552331776"
+          ],
+          "media_source_tweet_id": [
+            "2088815091559064063"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2091273345354600828",
+        "created_at": "2026-08-22T21:16:34.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091273345354600828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1098155487697293313",
+              "start": 3,
+              "username": "langer_seal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeyWNqU1tB",
+              "end": 80,
+              "expanded_url": "https://x.com/langer_seal/status/2088815091559064063/video/1",
+              "media_key": "13_2088814887552331776",
+              "start": 57,
+              "url": "https://t.co/LeyWNqU1tB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091273345354600828",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088814887552331776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088815091559064063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @langer_seal: 被这具皮物的意识反向夺舍了...控制不了自己的身体了\n要去了齁哦哦哦哦哦！！！ https://t.co/LeyWNqU1tB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088814887552331776"
+          ]
+        },
+        "author_id": "1098155487697293313",
+        "conversation_id": "2088815091559064063",
+        "created_at": "2026-08-16T02:28:20.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088815091559064063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeyWNqU1tB",
+              "end": 63,
+              "expanded_url": "https://x.com/langer_seal/status/2088815091559064063/video/1",
+              "media_key": "13_2088814887552331776",
+              "start": 40,
+              "url": "https://t.co/LeyWNqU1tB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088815091559064063",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088814887552331776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 11892,
+          "like_count": 750,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "被这具皮物的意识反向夺舍了...控制不了自己的身体了\n要去了齁哦哦哦哦哦！！！ https://t.co/LeyWNqU1tB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091273345354600828",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24143,
+          "following_count": 10678,
+          "like_count": 155420,
+          "listed_count": 53,
+          "media_count": 6296,
+          "tweet_count": 57483
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-20T09:40:45.000Z",
+        "description": "玩尼龍，少女前線，水彈/廚vtuber/大神ミオ單推/萌新kiger/目前頭殼角色有：大神澪/HK416/RO635/MCX/春田\n里号在建 \n @langernozomi\nfur号：\n @langer_fur\npatreon：https://t.co/sRRWy9vsQE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "langernozomi"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "langer_fur"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/langer46074",
+                "end": 137,
+                "expanded_url": "https://www.patreon.com/langer46074",
+                "start": 114,
+                "url": "https://t.co/sRRWy9vsQE"
+              }
+            ]
+          }
+        },
+        "id": "1098155487697293313",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091199612946427982",
+        "name": "狼兒",
+        "pinned_tweet_id": "2035382701549912558",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098155487697293313/1723119712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663258930988892166/i59srOBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9436,
+          "following_count": 1179,
+          "like_count": 2802,
+          "listed_count": 63,
+          "media_count": 810,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "langer_seal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

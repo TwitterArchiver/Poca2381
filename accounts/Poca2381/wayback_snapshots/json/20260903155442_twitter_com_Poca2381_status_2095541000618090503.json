@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095358310568558690",
+    "created_at": "2026-09-03T15:54:42.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095541000618090503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095541000618090503",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095358310568558690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2095358303740268544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQ1RouakAAKjaP.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095358310568558690",
+        "created_at": "2026-09-03T15:54:42.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095541000618090503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095541000618090503",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095358310568558690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095358303740268544"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2095358310568558690",
+        "created_at": "2026-09-03T03:48:45.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095358310568558690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaHEftNW9P",
+              "end": 40,
+              "expanded_url": "https://x.com/CldGeo/status/2095358310568558690/photo/1",
+              "media_key": "3_2095358303740268544",
+              "start": 17,
+              "url": "https://t.co/JaHEftNW9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095358310568558690",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095358303740268544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24222,
+          "like_count": 300,
+          "quote_count": 1,
+          "reply_count": 120,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有人来问我怎么上推特…唉…😮‍💨 https://t.co/JaHEftNW9P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095541014182404361",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24888,
+          "following_count": 10973,
+          "like_count": 156225,
+          "listed_count": 53,
+          "media_count": 6590,
+          "tweet_count": 58887
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "is_identity_verified": true,
+        "location": "「絶え間ない光」が降り注ぐ",
+        "most_recent_tweet_id": "2095515407771898214",
+        "name": "九鸟",
+        "pinned_tweet_id": "2091435684854980941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286241253621817344/1772419883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4956,
+          "following_count": 373,
+          "like_count": 5607,
+          "listed_count": 8,
+          "media_count": 578,
+          "tweet_count": 2278
+        },
+        "url": "",
+        "username": "CldGeo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

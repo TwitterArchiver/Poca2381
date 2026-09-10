@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095275544233594880"
+      ],
+      "media_source_tweet_id": [
+        "2095275548482388011"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095542051815444923",
+    "created_at": "2026-09-03T15:58:53.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095542051815444923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1138014277330038785",
+          "start": 3,
+          "username": "python_academia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cymGjA7fWS",
+          "end": 64,
+          "expanded_url": "https://x.com/python_academia/status/2095275548482388011/photo/1",
+          "media_key": "3_2095275544233594880",
+          "start": 41,
+          "url": "https://t.co/cymGjA7fWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095542051815444923",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095275544233594880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4803
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095275548482388011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @python_academia: 0とnullとundefinedの違い https://t.co/cymGjA7fWS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 327,
+        "media_key": "3_2095275544233594880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPqAZibUAAQNTa.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095275544233594880"
+          ],
+          "media_source_tweet_id": [
+            "2095275548482388011"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095542051815444923",
+        "created_at": "2026-09-03T15:58:53.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095542051815444923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1138014277330038785",
+              "start": 3,
+              "username": "python_academia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cymGjA7fWS",
+              "end": 64,
+              "expanded_url": "https://x.com/python_academia/status/2095275548482388011/photo/1",
+              "media_key": "3_2095275544233594880",
+              "start": 41,
+              "url": "https://t.co/cymGjA7fWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095542051815444923",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095275544233594880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4803
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095275548482388011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @python_academia: 0とnullとundefinedの違い https://t.co/cymGjA7fWS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095275544233594880"
+          ]
+        },
+        "author_id": "1138014277330038785",
+        "conversation_id": "2095275548482388011",
+        "created_at": "2026-09-02T22:19:53.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T23:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095275548482388011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cymGjA7fWS",
+              "end": 43,
+              "expanded_url": "https://x.com/python_academia/status/2095275548482388011/photo/1",
+              "media_key": "3_2095275544233594880",
+              "start": 20,
+              "url": "https://t.co/cymGjA7fWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095275548482388011",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095275544233594880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3121,
+          "impression_count": 1071348,
+          "like_count": 24044,
+          "quote_count": 263,
+          "reply_count": 97,
+          "retweet_count": 4803
+        },
+        "reply_settings": "everyone",
+        "text": "0とnullとundefinedの違い https://t.co/cymGjA7fWS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095542067816800682",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24888,
+          "following_count": 10975,
+          "like_count": 156244,
+          "listed_count": 53,
+          "media_count": 6590,
+          "tweet_count": 58905
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-10T09:25:21.000Z",
+        "description": "「図解で分かる」を意識して書籍を執筆しています｜【図解】Python 基礎文法の教科書・Python基礎 100本ノック など｜書籍は質問ができます｜工学社 月刊I/O Pythonの最新動向・NumPy2.0執筆｜Qiita 月間Contributor ｜連絡先 python3.academia@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenn.dev/python_academi…",
+                "end": 23,
+                "expanded_url": "https://zenn.dev/python_academia?tab=books",
+                "start": 0,
+                "url": "https://t.co/XOBxqEyLO8"
+              }
+            ]
+          }
+        },
+        "id": "1138014277330038785",
+        "is_identity_verified": false,
+        "location": "書籍一覧",
+        "most_recent_tweet_id": "2095487081556689131",
+        "name": "Pythonアカデミア",
+        "pinned_tweet_id": "2083689408084291672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138014277330038785/1758323239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620741138083901440/YK623Kvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14470,
+          "following_count": 567,
+          "like_count": 373691,
+          "listed_count": 86,
+          "media_count": 1540,
+          "tweet_count": 14211
+        },
+        "url": "https://t.co/XOBxqEyLO8",
+        "username": "python_academia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

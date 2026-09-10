@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095327677272248320",
+        "3_2095327677280579584",
+        "3_2095327677297434624",
+        "3_2095327677293215744"
+      ],
+      "media_source_tweet_id": [
+        "2095327700257022444",
+        "2095327700257022444",
+        "2095327700257022444",
+        "2095327700257022444"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095328225052569757",
+    "created_at": "2026-09-03T01:49:12.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T02:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095328225052569757"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "ACGHK"
+        },
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028397856814764032",
+          "start": 3,
+          "username": "Poca5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiP1SGrhYq",
+          "end": 65,
+          "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+          "media_key": "3_2095327677272248320",
+          "start": 42,
+          "url": "https://t.co/hiP1SGrhYq"
+        },
+        {
+          "display_url": "pic.x.com/hiP1SGrhYq",
+          "end": 65,
+          "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+          "media_key": "3_2095327677280579584",
+          "start": 42,
+          "url": "https://t.co/hiP1SGrhYq"
+        },
+        {
+          "display_url": "pic.x.com/hiP1SGrhYq",
+          "end": 65,
+          "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+          "media_key": "3_2095327677297434624",
+          "start": 42,
+          "url": "https://t.co/hiP1SGrhYq"
+        },
+        {
+          "display_url": "pic.x.com/hiP1SGrhYq",
+          "end": 65,
+          "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+          "media_key": "3_2095327677293215744",
+          "start": 42,
+          "url": "https://t.co/hiP1SGrhYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095328225052569757",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095327677272248320"
+      },
+      {
+        "media_key": "3_2095327677280579584"
+      },
+      {
+        "media_key": "3_2095327677297434624"
+      },
+      {
+        "media_key": "3_2095327677293215744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095327700257022444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca5150: ACGHKd3集邮照\n#ACGHK #kigurumi https://t.co/hiP1SGrhYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095327677272248320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQZa8PbUAAys6F.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2095327677280579584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQZa8RacAAaVKG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2095327677297434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQZa8VboAAKraN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2095327677293215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQZa8UbQAA6fkG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095327677272248320",
+            "3_2095327677280579584",
+            "3_2095327677297434624",
+            "3_2095327677293215744"
+          ],
+          "media_source_tweet_id": [
+            "2095327700257022444",
+            "2095327700257022444",
+            "2095327700257022444",
+            "2095327700257022444"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095328225052569757",
+        "created_at": "2026-09-03T01:49:12.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095328225052569757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "ACGHK"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028397856814764032",
+              "start": 3,
+              "username": "Poca5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 65,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677272248320",
+              "start": 42,
+              "url": "https://t.co/hiP1SGrhYq"
+            },
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 65,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677280579584",
+              "start": 42,
+              "url": "https://t.co/hiP1SGrhYq"
+            },
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 65,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677297434624",
+              "start": 42,
+              "url": "https://t.co/hiP1SGrhYq"
+            },
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 65,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677293215744",
+              "start": 42,
+              "url": "https://t.co/hiP1SGrhYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095328225052569757",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095327677272248320"
+          },
+          {
+            "media_key": "3_2095327677280579584"
+          },
+          {
+            "media_key": "3_2095327677297434624"
+          },
+          {
+            "media_key": "3_2095327677293215744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095327700257022444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca5150: ACGHKd3集邮照\n#ACGHK #kigurumi https://t.co/hiP1SGrhYq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095327677272248320",
+            "3_2095327677280579584",
+            "3_2095327677297434624",
+            "3_2095327677293215744"
+          ]
+        },
+        "author_id": "2028397856814764032",
+        "conversation_id": "2095327700257022444",
+        "created_at": "2026-09-03T01:47:07.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095327700257022444"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "ACGHK"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 51,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677272248320",
+              "start": 28,
+              "url": "https://t.co/hiP1SGrhYq"
+            },
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 51,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677280579584",
+              "start": 28,
+              "url": "https://t.co/hiP1SGrhYq"
+            },
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 51,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677297434624",
+              "start": 28,
+              "url": "https://t.co/hiP1SGrhYq"
+            },
+            {
+              "display_url": "pic.x.com/hiP1SGrhYq",
+              "end": 51,
+              "expanded_url": "https://x.com/Poca5150/status/2095327700257022444/photo/1",
+              "media_key": "3_2095327677293215744",
+              "start": 28,
+              "url": "https://t.co/hiP1SGrhYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095327700257022444",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095327677272248320"
+          },
+          {
+            "media_key": "3_2095327677280579584"
+          },
+          {
+            "media_key": "3_2095327677297434624"
+          },
+          {
+            "media_key": "3_2095327677293215744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ACGHKd3集邮照\n#ACGHK #kigurumi https://t.co/hiP1SGrhYq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095328225052569757",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24863,
+          "following_count": 10954,
+          "like_count": 156162,
+          "listed_count": 53,
+          "media_count": 6567,
+          "tweet_count": 58784
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是  @Poca2381 的逃生仓\n娃娃专用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Poca2381"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "is_identity_verified": false,
+        "location": "香港上水",
+        "most_recent_tweet_id": "2095328096698441793",
+        "name": "早露夸夸兔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028397856814764032/1772520202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1309,
+          "like_count": 1409,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "Poca5150",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

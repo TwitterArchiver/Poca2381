@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090804427984949248"
+      ],
+      "media_source_tweet_id": [
+        "2090804477385417180"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091046411383308290",
+    "created_at": "2026-08-22T06:14:48.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091046411383308290"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "DW14"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596388058353774592",
+          "start": 3,
+          "username": "huaihuaikkk"
+        },
+        {
+          "end": 36,
+          "id": "1465236821701382152",
+          "start": 23,
+          "username": "doll_weekend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XazkIAClf",
+          "end": 67,
+          "expanded_url": "https://x.com/huaihuaikkk/status/2090804477385417180/video/1",
+          "media_key": "13_2090804427984949248",
+          "start": 44,
+          "url": "https://t.co/3XazkIAClf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091046411383308290",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090804427984949248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090804477385417180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaihuaikkk: 是呆呆坏！\n@doll_weekend  #DW14 https://t.co/3XazkIAClf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13500,
+        "height": 1280,
+        "media_key": "13_2090804427984949248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090804427984949248/img/5c42j4xxlgAL_sCZ.jpg",
+        "public_metrics": {
+          "view_count": 2002
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090804427984949248/vid/avc1/320x568/1ZhYPVn5BE4DGUlV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090804427984949248/vid/avc1/480x852/P4CVDdQmyofOxN-o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090804427984949248/vid/avc1/720x1280/0S6hEsAQdnb04WId.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090804427984949248/pl/tFVDbbOHXPflOa_S.m3u8?v=433"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090804427984949248"
+          ],
+          "media_source_tweet_id": [
+            "2090804477385417180"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091046411383308290",
+        "created_at": "2026-08-22T06:14:48.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091046411383308290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "DW14"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596388058353774592",
+              "start": 3,
+              "username": "huaihuaikkk"
+            },
+            {
+              "end": 36,
+              "id": "1465236821701382152",
+              "start": 23,
+              "username": "doll_weekend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XazkIAClf",
+              "end": 67,
+              "expanded_url": "https://x.com/huaihuaikkk/status/2090804477385417180/video/1",
+              "media_key": "13_2090804427984949248",
+              "start": 44,
+              "url": "https://t.co/3XazkIAClf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091046411383308290",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090804427984949248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090804477385417180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaihuaikkk: 是呆呆坏！\n@doll_weekend  #DW14 https://t.co/3XazkIAClf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090804427984949248"
+          ]
+        },
+        "author_id": "1596388058353774592",
+        "conversation_id": "2090804477385417180",
+        "created_at": "2026-08-21T14:13:27.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090804477385417180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "DW14"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1465236821701382152",
+              "start": 6,
+              "username": "doll_weekend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XazkIAClf",
+              "end": 50,
+              "expanded_url": "https://x.com/huaihuaikkk/status/2090804477385417180/video/1",
+              "media_key": "13_2090804427984949248",
+              "start": 27,
+              "url": "https://t.co/3XazkIAClf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090804477385417180",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090804427984949248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 5658,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "是呆呆坏！\n@doll_weekend  #DW14 https://t.co/3XazkIAClf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091046411383308290",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24126,
+          "following_count": 10662,
+          "like_count": 155376,
+          "listed_count": 53,
+          "media_count": 6285,
+          "tweet_count": 57414
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T06:19:19.000Z",
+        "description": "Hello！我是填充物坏坏！常驻广州，欢迎扩列！cp @laki_water 原账号坏坏⭐@lianliankkk 被盗了现在不受控制不要被骗了！！不定时炒冷饭复刻旧号内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "laki_water"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianliankkk"
+              }
+            ]
+          }
+        },
+        "id": "1596388058353774592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090983315910373754",
+        "name": "坏坏🌙",
+        "pinned_tweet_id": "2009508451878363343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596388058353774592/1690320309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968350907864956928/ZInLg0wi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8638,
+          "following_count": 1170,
+          "like_count": 10766,
+          "listed_count": 45,
+          "media_count": 162,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "huaihuaikkk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-29T08:31:32.000Z",
+        "description": "https://t.co/BSevFGZ6y6, the world's largest Kigurumi doll convention~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dollweekend.com",
+                "end": 23,
+                "expanded_url": "http://www.dollweekend.com",
+                "start": 0,
+                "url": "https://t.co/BSevFGZ6y6"
+              }
+            ]
+          }
+        },
+        "id": "1465236821701382152",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2090509235629203899",
+        "name": "Doll Weekend",
+        "pinned_tweet_id": "2085629560968847748",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465236821701382152/1703752631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697247121915977728/VJNXsd8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14116,
+          "following_count": 378,
+          "like_count": 3289,
+          "listed_count": 81,
+          "media_count": 221,
+          "tweet_count": 3624
+        },
+        "url": "",
+        "username": "doll_weekend",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095357341894070272"
+      ],
+      "media_source_tweet_id": [
+        "2095357387591086225"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095499963245752414",
+    "created_at": "2026-09-03T13:11:38.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T14:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095499963245752414"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "latex"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1907388063829073920",
+          "start": 3,
+          "username": "chengzi__juzi"
+        },
+        {
+          "end": 45,
+          "id": "1497479101724397569",
+          "start": 33,
+          "username": "zaijiawan11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aKYIxRQVm5",
+          "end": 77,
+          "expanded_url": "https://x.com/chengzi__juzi/status/2095357387591086225/video/1",
+          "media_key": "13_2095357341894070272",
+          "start": 54,
+          "url": "https://t.co/aKYIxRQVm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095499963245752414",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095357341894070272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095357387591086225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chengzi__juzi: 住手！那不是烟灰缸啊！\n📷：@zaijiawan11 \n#latex https://t.co/aKYIxRQVm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5396,
+        "height": 1920,
+        "media_key": "13_2095357341894070272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095357341894070272/img/tegLnLf2gR2kNdiY.jpg",
+        "public_metrics": {
+          "view_count": 42755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095357341894070272/vid/avc1/480x852/li1eEaBv42g0YoxG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095357341894070272/pl/tp1qX2Rt0cZ2aWFp.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095357341894070272/vid/avc1/1080x1920/UXLSzZjdCS5EpSvn.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095357341894070272/vid/avc1/320x568/-OXbqEC1eZBx81Lk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095357341894070272/vid/avc1/720x1280/JoWr3aprlDzEj5Mi.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095357341894070272"
+          ],
+          "media_source_tweet_id": [
+            "2095357387591086225"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095499963245752414",
+        "created_at": "2026-09-03T13:11:38.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095499963245752414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1907388063829073920",
+              "start": 3,
+              "username": "chengzi__juzi"
+            },
+            {
+              "end": 45,
+              "id": "1497479101724397569",
+              "start": 33,
+              "username": "zaijiawan11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKYIxRQVm5",
+              "end": 77,
+              "expanded_url": "https://x.com/chengzi__juzi/status/2095357387591086225/video/1",
+              "media_key": "13_2095357341894070272",
+              "start": 54,
+              "url": "https://t.co/aKYIxRQVm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095499963245752414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095357341894070272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095357387591086225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chengzi__juzi: 住手！那不是烟灰缸啊！\n📷：@zaijiawan11 \n#latex https://t.co/aKYIxRQVm5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095357341894070272"
+          ]
+        },
+        "author_id": "1907388063829073920",
+        "conversation_id": "2095357387591086225",
+        "created_at": "2026-09-03T03:45:05.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095357387591086225"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1497479101724397569",
+              "start": 14,
+              "username": "zaijiawan11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKYIxRQVm5",
+              "end": 58,
+              "expanded_url": "https://x.com/chengzi__juzi/status/2095357387591086225/video/1",
+              "media_key": "13_2095357341894070272",
+              "start": 35,
+              "url": "https://t.co/aKYIxRQVm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095357387591086225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095357341894070272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 571,
+          "impression_count": 69498,
+          "like_count": 1564,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "住手！那不是烟灰缸啊！\n📷：@zaijiawan11 \n#latex https://t.co/aKYIxRQVm5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Honolulu, Hawaii, United States",
+              "geo": {
+                "coordinates": [
+                  -157.85833,
+                  21.30694
+                ],
+                "type": "Point"
+              },
+              "locality": "Honolulu",
+              "region": "Hawaii",
+              "sub_region": "Honolulu County"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095499963245752414",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24883,
+          "following_count": 10970,
+          "like_count": 156205,
+          "listed_count": 53,
+          "media_count": 6581,
+          "tweet_count": 58845
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T11:02:14.000Z",
+        "description": "萌新kiger（大概？）,留学ing，角色是自己的oc，大概是清水（x），社交苦手，推的私信可能回复不及时，欢迎来扩列。",
+        "id": "1907388063829073920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095357387591086225",
+        "name": "是橙子不是橘子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907388063829073920/1779272822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988533215934758912/T3C7H-sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 1087,
+          "like_count": 469,
+          "listed_count": 29,
+          "media_count": 48,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "chengzi__juzi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-26T07:50:25.000Z",
+        "description": "没发就是清水😋\n正在出开拓者和萤石",
+        "id": "1497479101724397569",
+        "is_identity_verified": false,
+        "location": "Yan",
+        "most_recent_tweet_id": "2095438913003499677",
+        "name": "在家玩QwQ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497479101724397569/1764733485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874862852730966017/ShXk0RF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 2000,
+          "like_count": 16972,
+          "listed_count": 15,
+          "media_count": 169,
+          "tweet_count": 1601
+        },
+        "url": "",
+        "username": "zaijiawan11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

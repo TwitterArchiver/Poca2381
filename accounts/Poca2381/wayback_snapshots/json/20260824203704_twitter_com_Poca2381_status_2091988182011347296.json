@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2091738392904229249",
+    "created_at": "2026-08-24T20:37:04.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T21:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091988182011347296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1001428600439037952",
+          "start": 0,
+          "username": "Shokokig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091988182011347296",
+    "in_reply_to_user_id": "1001428600439037952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091987530371793164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shokokig 诶嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2091738392904229249",
+        "created_at": "2026-08-24T20:37:04.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091988182011347296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1001428600439037952",
+              "start": 0,
+              "username": "Shokokig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091988182011347296",
+        "in_reply_to_user_id": "1001428600439037952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091987530371793164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shokokig 诶嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1001428600439037952",
+        "conversation_id": "2091738392904229249",
+        "created_at": "2026-08-24T20:34:29.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091987530371793164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091987530371793164",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091904277153484893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 发现证据！🫡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091988182011347296",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24257,
+          "following_count": 10742,
+          "like_count": 155644,
+          "listed_count": 53,
+          "media_count": 6343,
+          "tweet_count": 57807
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-29T11:42:38.000Z",
+        "description": "@shokokig_ura 🤍: @kyores_kig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "shokokig_ura"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "kyores_kig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shokokig",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/shokokig",
+                "start": 0,
+                "url": "https://t.co/VGwlA0cdcG"
+              }
+            ]
+          }
+        },
+        "id": "1001428600439037952",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091987530371793164",
+        "name": "Shoko @DW14",
+        "pinned_tweet_id": "2062818237474292131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001428600439037952/1783412757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062822016680607744/AHnYy-a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 1179,
+          "like_count": 8378,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/VGwlA0cdcG",
+        "username": "Shokokig",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

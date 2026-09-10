@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096585572089516032",
+        "3_2096585602720493568"
+      ],
+      "media_source_tweet_id": [
+        "2096585942899556505",
+        "2096585942899556505"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2096638808121131346",
+    "created_at": "2026-09-06T16:37:00.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096638808121131346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "神楽めあ新衣装"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1607751146",
+          "start": 3,
+          "username": "jimmy_madomagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OPnhgo4AJu",
+          "end": 81,
+          "expanded_url": "https://x.com/jimmy_madomagi/status/2096585942899556505/photo/1",
+          "media_key": "3_2096585572089516032",
+          "start": 58,
+          "url": "https://t.co/OPnhgo4AJu"
+        },
+        {
+          "display_url": "pic.x.com/OPnhgo4AJu",
+          "end": 81,
+          "expanded_url": "https://x.com/jimmy_madomagi/status/2096585942899556505/photo/1",
+          "media_key": "3_2096585602720493568",
+          "start": 58,
+          "url": "https://t.co/OPnhgo4AJu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096638808121131346",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096585572089516032"
+      },
+      {
+        "media_key": "3_2096585602720493568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096585942899556505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jimmy_madomagi: 神楽めあちゃんの新衣装デザイン・制作を担当いたしました🎮 #神楽めあ新衣装 https://t.co/OPnhgo4AJu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1965,
+        "media_key": "3_2096585572089516032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiReDma0AAeApI.jpg",
+        "width": 1389
+      },
+      {
+        "height": 1965,
+        "media_key": "3_2096585602720493568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiRf1tacAA1vy7.jpg",
+        "width": 1389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096585572089516032",
+            "3_2096585602720493568"
+          ],
+          "media_source_tweet_id": [
+            "2096585942899556505",
+            "2096585942899556505"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2096638808121131346",
+        "created_at": "2026-09-06T16:37:00.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096638808121131346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "神楽めあ新衣装"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1607751146",
+              "start": 3,
+              "username": "jimmy_madomagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPnhgo4AJu",
+              "end": 81,
+              "expanded_url": "https://x.com/jimmy_madomagi/status/2096585942899556505/photo/1",
+              "media_key": "3_2096585572089516032",
+              "start": 58,
+              "url": "https://t.co/OPnhgo4AJu"
+            },
+            {
+              "display_url": "pic.x.com/OPnhgo4AJu",
+              "end": 81,
+              "expanded_url": "https://x.com/jimmy_madomagi/status/2096585942899556505/photo/1",
+              "media_key": "3_2096585602720493568",
+              "start": 58,
+              "url": "https://t.co/OPnhgo4AJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096638808121131346",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096585572089516032"
+          },
+          {
+            "media_key": "3_2096585602720493568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096585942899556505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jimmy_madomagi: 神楽めあちゃんの新衣装デザイン・制作を担当いたしました🎮 #神楽めあ新衣装 https://t.co/OPnhgo4AJu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096585572089516032",
+            "3_2096585602720493568"
+          ]
+        },
+        "author_id": "1607751146",
+        "conversation_id": "2096585942899556505",
+        "created_at": "2026-09-06T13:06:56.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096585942899556505"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "神楽めあ新衣装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPnhgo4AJu",
+              "end": 61,
+              "expanded_url": "https://x.com/jimmy_madomagi/status/2096585942899556505/photo/1",
+              "media_key": "3_2096585572089516032",
+              "start": 38,
+              "url": "https://t.co/OPnhgo4AJu"
+            },
+            {
+              "display_url": "pic.x.com/OPnhgo4AJu",
+              "end": 61,
+              "expanded_url": "https://x.com/jimmy_madomagi/status/2096585942899556505/photo/1",
+              "media_key": "3_2096585602720493568",
+              "start": 38,
+              "url": "https://t.co/OPnhgo4AJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096585942899556505",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096585572089516032"
+          },
+          {
+            "media_key": "3_2096585602720493568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 148222,
+          "like_count": 2104,
+          "quote_count": 33,
+          "reply_count": 7,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "神楽めあちゃんの新衣装デザイン・制作を担当いたしました🎮 #神楽めあ新衣装 https://t.co/OPnhgo4AJu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2096638808121131346",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24971,
+          "following_count": 11020,
+          "like_count": 156368,
+          "listed_count": 53,
+          "media_count": 6672,
+          "tweet_count": 59184
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-20T08:08:11.000Z",
+        "description": "イラストレーターです✦🐰🍭（@mimi_tosaki）🌙💗看谷にぃあ🍥新モデル（@KaguraMea_VoV）✦『転生貴族、鑑定スキルで成り上がる』キャラ原案/TVアニメ3期2026年秋放送決定！✦ご依頼の際はpixivプロフィールをご一読ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "mimi_tosaki"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "KaguraMea_VoV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/brs0811",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/brs0811",
+                "start": 0,
+                "url": "https://t.co/LplkwlDWSL"
+              }
+            ]
+          }
+        },
+        "id": "1607751146",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096599464979169400",
+        "name": "jimmy",
+        "pinned_tweet_id": "2024445708770955574",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1607751146/1720872994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/907179706260217857/eRWUc7X9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203799,
+          "following_count": 2190,
+          "like_count": 33588,
+          "listed_count": 2076,
+          "media_count": 771,
+          "tweet_count": 27213
+        },
+        "url": "https://t.co/LplkwlDWSL",
+        "username": "jimmy_madomagi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

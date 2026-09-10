@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090681483069730816",
+        "3_2090681492360089600"
+      ],
+      "media_source_tweet_id": [
+        "2090681500748702194",
+        "2090681500748702194"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2092222095325639016",
+    "created_at": "2026-08-25T12:06:33.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092222095325639016"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 52,
+          "tag": "dollweekend"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "DW14"
+        },
+        {
+          "end": 80,
+          "start": 71,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1880508629226516482",
+          "start": 3,
+          "username": "OPortal_kiger"
+        },
+        {
+          "end": 51,
+          "id": "1978357064608145408",
+          "start": 40,
+          "username": "RubberRisa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L2BeRcrCjn",
+          "end": 104,
+          "expanded_url": "https://x.com/OPortal_kiger/status/2090681500748702194/photo/1",
+          "media_key": "3_2090681483069730816",
+          "start": 81,
+          "url": "https://t.co/L2BeRcrCjn"
+        },
+        {
+          "display_url": "pic.x.com/L2BeRcrCjn",
+          "end": 104,
+          "expanded_url": "https://x.com/OPortal_kiger/status/2090681500748702194/photo/1",
+          "media_key": "3_2090681492360089600",
+          "start": 81,
+          "url": "https://t.co/L2BeRcrCjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092222095325639016",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090681483069730816"
+      },
+      {
+        "media_key": "3_2090681492360089600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090681500748702194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OPortal_kiger: 凯尔希 ケルシー Kal'tsit\n👔: @RubberRisa\n#dollweekend #DW14 #kigurumi https://t.co/L2BeRcrCjn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090681483069730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOXu2DbsAALOd3.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090681492360089600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOXvYqbUAA-zjM.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090681483069730816",
+            "3_2090681492360089600"
+          ],
+          "media_source_tweet_id": [
+            "2090681500748702194",
+            "2090681500748702194"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2092222095325639016",
+        "created_at": "2026-08-25T12:06:33.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092222095325639016"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "dollweekend"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "DW14"
+            },
+            {
+              "end": 80,
+              "start": 71,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1880508629226516482",
+              "start": 3,
+              "username": "OPortal_kiger"
+            },
+            {
+              "end": 51,
+              "id": "1978357064608145408",
+              "start": 40,
+              "username": "RubberRisa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2BeRcrCjn",
+              "end": 104,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2090681500748702194/photo/1",
+              "media_key": "3_2090681483069730816",
+              "start": 81,
+              "url": "https://t.co/L2BeRcrCjn"
+            },
+            {
+              "display_url": "pic.x.com/L2BeRcrCjn",
+              "end": 104,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2090681500748702194/photo/1",
+              "media_key": "3_2090681492360089600",
+              "start": 81,
+              "url": "https://t.co/L2BeRcrCjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092222095325639016",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090681483069730816"
+          },
+          {
+            "media_key": "3_2090681492360089600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090681500748702194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OPortal_kiger: 凯尔希 ケルシー Kal'tsit\n👔: @RubberRisa\n#dollweekend #DW14 #kigurumi https://t.co/L2BeRcrCjn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090681483069730816",
+            "3_2090681492360089600"
+          ]
+        },
+        "author_id": "1880508629226516482",
+        "conversation_id": "2090681500748702194",
+        "created_at": "2026-08-21T06:04:47.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090681500748702194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "dollweekend"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "DW14"
+            },
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1978357064608145408",
+              "start": 21,
+              "username": "RubberRisa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2BeRcrCjn",
+              "end": 85,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2090681500748702194/photo/1",
+              "media_key": "3_2090681483069730816",
+              "start": 62,
+              "url": "https://t.co/L2BeRcrCjn"
+            },
+            {
+              "display_url": "pic.x.com/L2BeRcrCjn",
+              "end": 85,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2090681500748702194/photo/1",
+              "media_key": "3_2090681492360089600",
+              "start": 62,
+              "url": "https://t.co/L2BeRcrCjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090681500748702194",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090681483069730816"
+          },
+          {
+            "media_key": "3_2090681492360089600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2096,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "凯尔希 ケルシー Kal'tsit\n👔: @RubberRisa\n#dollweekend #DW14 #kigurumi https://t.co/L2BeRcrCjn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2092222105316360515",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24281,
+          "following_count": 10746,
+          "like_count": 155677,
+          "listed_count": 53,
+          "media_count": 6354,
+          "tweet_count": 57866
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-18T06:52:57.000Z",
+        "description": "萌新（",
+        "id": "1880508629226516482",
+        "is_identity_verified": false,
+        "location": "SZX",
+        "most_recent_tweet_id": "2092205267014578236",
+        "name": "OPortal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880508629226516482/1762452819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090499413596930048/tw1aBcMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 389,
+          "like_count": 9790,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "OPortal_kiger",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T07:07:55.000Z",
+        "description": "Mold your inner Risa. 关于理莎的胶中世界    \n淘宝商店：RubberRisa   微信：RubberRisa   \nQQ：3244854762",
+        "id": "1978357064608145408",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2092185208682607050",
+        "name": "RubberRisa",
+        "pinned_tweet_id": "2087118029532606518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978357064608145408/1760692507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978357150280994816/RRnWQdFT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8721,
+          "following_count": 19,
+          "like_count": 100,
+          "listed_count": 27,
+          "media_count": 155,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "RubberRisa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

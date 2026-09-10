@@ -1,0 +1,597 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1492214719792381956",
+          "name": "Uruha Rushia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1492214719792381956",
+          "name": "Uruha Rushia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492214719792381956",
+          "name": "Uruha Rushia"
+        }
+      }
+    ],
+    "conversation_id": "2093262999087927743",
+    "created_at": "2026-08-28T09:02:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T10:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093262999087927743"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "潤羽るしあ"
+        },
+        {
+          "end": 102,
+          "start": 95,
+          "tag": "ふぁんでっど"
+        },
+        {
+          "end": 108,
+          "start": 103,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 118,
+          "start": 109,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1637732516026269696",
+          "start": 3,
+          "username": "HoshikawaInori"
+        },
+        {
+          "end": 87,
+          "id": "746550191197544448",
+          "start": 77,
+          "username": "80sPMLife"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/H08IRsi",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/H08IRsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093262999087927743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092937674005041170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoshikawaInori: 記憶隨著晚風模糊消散\n蝴蝶的翅膀不再展開\n但若然指針逆向轉動\n你定會比夜色更為閃耀吧\n——————————\n📷： @80sPMLife\n#潤羽るしあ #ふぁんでっど #着ぐるみ #kigurumi https://t.co/H08IRsi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19017,
+        "height": 2560,
+        "media_key": "13_2092645220227911680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092645220227911680/img/9PrRUXs70PRCEBWX.jpg",
+        "public_metrics": {
+          "view_count": 795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092645220227911680/vid/avc1/720x1280/mmZUTkQ7prpKs02c.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092645220227911680/vid/avc1/320x568/noF_GLwQXkfJDc4A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092645220227911680/vid/avc1/480x852/GZpZYJM68bvHKq-n.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092645220227911680/vid/avc1/1440x2560/WU0sB3v4erehwiC-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092645220227911680/pl/kiKUMNJNrpvGo9z4.m3u8?v=26f"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          }
+        ],
+        "conversation_id": "2093262999087927743",
+        "created_at": "2026-08-28T09:02:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093262999087927743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "潤羽るしあ"
+            },
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "ふぁんでっど"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 118,
+              "start": 109,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1637732516026269696",
+              "start": 3,
+              "username": "HoshikawaInori"
+            },
+            {
+              "end": 87,
+              "id": "746550191197544448",
+              "start": 77,
+              "username": "80sPMLife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/H08IRsi",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/H08IRsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093262999087927743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092937674005041170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoshikawaInori: 記憶隨著晚風模糊消散\n蝴蝶的翅膀不再展開\n但若然指針逆向轉動\n你定會比夜色更為閃耀吧\n——————————\n📷： @80sPMLife\n#潤羽るしあ #ふぁんでっど #着ぐるみ #kigurumi https://t.co/H08IRsi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092645220227911680"
+          ]
+        },
+        "author_id": "1637732516026269696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492214719792381956",
+              "name": "Uruha Rushia"
+            }
+          }
+        ],
+        "conversation_id": "2092937674005041170",
+        "created_at": "2026-08-27T11:30:01.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092937674005041170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "潤羽るしあ"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "ふぁんでっど"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 98,
+              "start": 89,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 67,
+              "id": "746550191197544448",
+              "start": 57,
+              "username": "80sPMLife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H08IRsiimD",
+              "end": 122,
+              "expanded_url": "https://x.com/HoshikawaInori/status/2092937674005041170/video/1",
+              "media_key": "13_2092645220227911680",
+              "start": 99,
+              "url": "https://t.co/H08IRsiimD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092937674005041170",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092645220227911680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2958,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "記憶隨著晚風模糊消散\n蝴蝶的翅膀不再展開\n但若然指針逆向轉動\n你定會比夜色更為閃耀吧\n——————————\n📷： @80sPMLife\n#潤羽るしあ #ふぁんでっど #着ぐるみ #kigurumi https://t.co/H08IRsiimD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093263008038572232",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24413,
+          "following_count": 10825,
+          "like_count": 155835,
+          "listed_count": 53,
+          "media_count": 6430,
+          "tweet_count": 58171
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-20T08:27:23.000Z",
+        "description": "定位香港的萌新清水kig SFW ONLY!\n歡迎拍打聊天\n中文/English👌 日本語下手です\n想做的事很多 能用的時間卻很少\n💚🎶出自 @heyaoheyao\n💜🕊出自 @NewfacedolL\n🦋💀出自 @IrisKigurumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "heyaoheyao"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "NewfacedolL"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "IrisKigurumi"
+              }
+            ]
+          }
+        },
+        "id": "1637732516026269696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093221133302837625",
+        "name": "星川祈",
+        "pinned_tweet_id": "1998060088658157672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637732516026269696/1765208315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806858338677952512/TT9bnFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 370,
+          "like_count": 8818,
+          "listed_count": 25,
+          "media_count": 390,
+          "tweet_count": 6812
+        },
+        "url": "",
+        "username": "HoshikawaInori",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-25T03:46:50.000Z",
+        "description": "身心俱疲，矛盾人生",
+        "id": "746550191197544448",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2092866320627106081",
+        "name": "80後現代生活",
+        "pinned_tweet_id": "2091748045914546468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/746550191197544448/1784867511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080487303131361280/4I647TNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 911,
+          "like_count": 16360,
+          "listed_count": 8,
+          "media_count": 47,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "80sPMLife",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

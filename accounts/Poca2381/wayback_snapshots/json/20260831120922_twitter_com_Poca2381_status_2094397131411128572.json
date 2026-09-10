@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2094266426882191407",
+    "created_at": "2026-08-31T12:09:22.000Z",
+    "display_text_range": [
+      25,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094397131411128572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261559237139763201",
+          "start": 0,
+          "username": "EmagicKig"
+        },
+        {
+          "end": 24,
+          "id": "1465236821701382152",
+          "start": 11,
+          "username": "doll_weekend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094397131411128572",
+    "in_reply_to_user_id": "1261559237139763201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094266426882191407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmagicKig @doll_weekend 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2094172063791763456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_-ZYja0AApp9w.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2094266426882191407",
+        "created_at": "2026-08-31T12:09:22.000Z",
+        "display_text_range": [
+          25,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094397131411128572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261559237139763201",
+              "start": 0,
+              "username": "EmagicKig"
+            },
+            {
+              "end": 24,
+              "id": "1465236821701382152",
+              "start": 11,
+              "username": "doll_weekend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094397131411128572",
+        "in_reply_to_user_id": "1261559237139763201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094266426882191407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmagicKig @doll_weekend 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094172063791763456"
+          ]
+        },
+        "author_id": "1261559237139763201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2094266426882191407",
+        "created_at": "2026-08-31T03:30:00.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094266426882191407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "DW14"
+            },
+            {
+              "end": 108,
+              "start": 99,
+              "tag": "kigurimi"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "蕾缪安"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1465236821701382152",
+              "start": 79,
+              "username": "doll_weekend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttxL9BkmlX",
+              "end": 149,
+              "expanded_url": "https://x.com/EmagicKig/status/2094266426882191407/photo/1",
+              "media_key": "3_2094172063791763456",
+              "start": 126,
+              "url": "https://t.co/ttxL9BkmlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094266426882191407",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094172063791763456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1585,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "【DW14纪念】\n拖了很久，终于还是发了DW14的推文，虽然这次留下了些许遗憾，不过也认识了很多新朋友。之后几天会多多更新老师们的返图的，不能再偷懒了QAQ\n@doll_weekend\n#DW14 #kigurimi #着ぐるみ #明日方舟 #蕾缪安 https://t.co/ttxL9BkmlX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2094397131411128572",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24625,
+          "following_count": 10908,
+          "like_count": 156033,
+          "listed_count": 53,
+          "media_count": 6501,
+          "tweet_count": 58512
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-16T07:29:20.000Z",
+        "description": "变娃低手，CN同名，叫小E也可以\n欢迎扩列，Q:483917895\n\n绝区零-伊芙琳  席德\n明日方舟-蕾缪安 普瑞赛斯\n原神-伊涅芙\n星穹铁道-雪衣\n碧蓝航线-加斯科涅",
+        "id": "1261559237139763201",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2094316222506779083",
+        "name": "Emagic丶",
+        "pinned_tweet_id": "2009083997847212432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1261559237139763201/1781634802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066954261318283264/RIfoddI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 1589,
+          "like_count": 16095,
+          "listed_count": 11,
+          "media_count": 61,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "EmagicKig",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-29T08:31:32.000Z",
+        "description": "https://t.co/BSevFGZ6y6, the world's largest Kigurumi doll convention~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dollweekend.com",
+                "end": 23,
+                "expanded_url": "http://www.dollweekend.com",
+                "start": 0,
+                "url": "https://t.co/BSevFGZ6y6"
+              }
+            ]
+          }
+        },
+        "id": "1465236821701382152",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2094336918330949703",
+        "name": "Doll Weekend",
+        "pinned_tweet_id": "2091150230330994821",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465236821701382152/1703752631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697247121915977728/VJNXsd8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14386,
+          "following_count": 380,
+          "like_count": 3426,
+          "listed_count": 83,
+          "media_count": 222,
+          "tweet_count": 3763
+        },
+        "url": "",
+        "username": "doll_weekend",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

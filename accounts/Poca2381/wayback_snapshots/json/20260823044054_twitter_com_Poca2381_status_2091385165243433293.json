@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2091223446751699123",
+    "created_at": "2026-08-23T04:40:54.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T05:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091385165243433293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1570732031071424516",
+          "start": 0,
+          "username": "tng47068099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091385165243433293",
+    "in_reply_to_user_id": "1570732031071424516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091233297338917316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tng47068099 还可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2091223446751699123",
+        "created_at": "2026-08-23T04:40:54.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091385165243433293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1570732031071424516",
+              "start": 0,
+              "username": "tng47068099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091385165243433293",
+        "in_reply_to_user_id": "1570732031071424516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091233297338917316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tng47068099 还可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570732031071424516",
+        "conversation_id": "2091223446751699123",
+        "created_at": "2026-08-22T18:37:25.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091233297338917316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091233297338917316",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091223446751699123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 这个好吃！他家青菜好好吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091385165243433293",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24154,
+          "following_count": 10688,
+          "like_count": 155490,
+          "listed_count": 53,
+          "media_count": 6298,
+          "tweet_count": 57571
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-16T11:11:22.000Z",
+        "description": "生吃小孩",
+        "id": "1570732031071424516",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091243963806343430",
+        "name": "Qlz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570732031071424516/1663332351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570755689295015937/cpgiBJ7i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 264,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "tng47068099",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

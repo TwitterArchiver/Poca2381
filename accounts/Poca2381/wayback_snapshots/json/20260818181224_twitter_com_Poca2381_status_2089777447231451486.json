@@ -1,0 +1,853 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2089777447231451486",
+    "created_at": "2026-08-18T18:12:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089777447231451486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028397856814764032",
+          "start": 3,
+          "username": "Poca5150"
+        },
+        {
+          "end": 28,
+          "id": "3792469754",
+          "start": 18,
+          "username": "honwing27"
+        },
+        {
+          "end": 46,
+          "id": "2878135880",
+          "start": 36,
+          "username": "youmu_i19"
+        },
+        {
+          "end": 57,
+          "id": "1510352680392491008",
+          "start": 47,
+          "username": "belilily_"
+        },
+        {
+          "end": 70,
+          "id": "1828499072820580352",
+          "start": 58,
+          "username": "wood1249571"
+        },
+        {
+          "end": 83,
+          "id": "730166535357136896",
+          "start": 71,
+          "username": "takusan1121"
+        },
+        {
+          "end": 98,
+          "id": "955056958360309761",
+          "start": 84,
+          "username": "sakaneko_meow"
+        },
+        {
+          "end": 108,
+          "id": "1280001743162609664",
+          "start": 99,
+          "username": "Poca2381"
+        },
+        {
+          "end": 122,
+          "id": "4778172925",
+          "start": 109,
+          "username": "Barry_Kigger"
+        },
+        {
+          "end": 137,
+          "id": "1561041907756986368",
+          "start": 123,
+          "username": "diadolldreams"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089777447231451486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089776211971190900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca5150: 815 @honwing27 的生日聚集邮\n@youmu_i19 @belilily_ @wood1249571 @takusan1121 @sakaneko_meow @Poca2381 @Barry_Kigger @diadolldreams @…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2089776205000286208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBgYucbIAAitT1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2089776205004427264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBgYudaUAA4OrU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2089776205000310784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBgYucbgAAjyC1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2089776205000237056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBgYucaYAAkmfs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2089777447231451486",
+        "created_at": "2026-08-18T18:12:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089777447231451486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028397856814764032",
+              "start": 3,
+              "username": "Poca5150"
+            },
+            {
+              "end": 28,
+              "id": "3792469754",
+              "start": 18,
+              "username": "honwing27"
+            },
+            {
+              "end": 46,
+              "id": "2878135880",
+              "start": 36,
+              "username": "youmu_i19"
+            },
+            {
+              "end": 57,
+              "id": "1510352680392491008",
+              "start": 47,
+              "username": "belilily_"
+            },
+            {
+              "end": 70,
+              "id": "1828499072820580352",
+              "start": 58,
+              "username": "wood1249571"
+            },
+            {
+              "end": 83,
+              "id": "730166535357136896",
+              "start": 71,
+              "username": "takusan1121"
+            },
+            {
+              "end": 98,
+              "id": "955056958360309761",
+              "start": 84,
+              "username": "sakaneko_meow"
+            },
+            {
+              "end": 108,
+              "id": "1280001743162609664",
+              "start": 99,
+              "username": "Poca2381"
+            },
+            {
+              "end": 122,
+              "id": "4778172925",
+              "start": 109,
+              "username": "Barry_Kigger"
+            },
+            {
+              "end": 137,
+              "id": "1561041907756986368",
+              "start": 123,
+              "username": "diadolldreams"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089777447231451486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089776211971190900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca5150: 815 @honwing27 的生日聚集邮\n@youmu_i19 @belilily_ @wood1249571 @takusan1121 @sakaneko_meow @Poca2381 @Barry_Kigger @diadolldreams @…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089776205000286208",
+            "3_2089776205004427264",
+            "3_2089776205000310784",
+            "3_2089776205000237056"
+          ]
+        },
+        "author_id": "2028397856814764032",
+        "conversation_id": "2089776211971190900",
+        "created_at": "2026-08-18T18:07:29.000Z",
+        "display_text_range": [
+          0,
+          220
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089776211971190900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3792469754",
+              "start": 4,
+              "username": "honwing27"
+            },
+            {
+              "end": 32,
+              "id": "2878135880",
+              "start": 22,
+              "username": "youmu_i19"
+            },
+            {
+              "end": 43,
+              "id": "1510352680392491008",
+              "start": 33,
+              "username": "belilily_"
+            },
+            {
+              "end": 56,
+              "id": "1828499072820580352",
+              "start": 44,
+              "username": "wood1249571"
+            },
+            {
+              "end": 69,
+              "id": "730166535357136896",
+              "start": 57,
+              "username": "takusan1121"
+            },
+            {
+              "end": 84,
+              "id": "955056958360309761",
+              "start": 70,
+              "username": "sakaneko_meow"
+            },
+            {
+              "end": 94,
+              "id": "1280001743162609664",
+              "start": 85,
+              "username": "Poca2381"
+            },
+            {
+              "end": 108,
+              "id": "4778172925",
+              "start": 95,
+              "username": "Barry_Kigger"
+            },
+            {
+              "end": 123,
+              "id": "1561041907756986368",
+              "start": 109,
+              "username": "diadolldreams"
+            },
+            {
+              "end": 136,
+              "id": "841982789297758209",
+              "start": 124,
+              "username": "Akaame_Rain"
+            },
+            {
+              "end": 151,
+              "id": "1909790648464793600",
+              "start": 137,
+              "username": "Aoyama_Tokute"
+            },
+            {
+              "end": 161,
+              "id": "838390984207585281",
+              "start": 152,
+              "username": "kitioio0"
+            },
+            {
+              "end": 171,
+              "id": "1721566077065531396",
+              "start": 162,
+              "username": "Kig_Kuro"
+            },
+            {
+              "end": 185,
+              "id": "1733963032160854016",
+              "start": 172,
+              "username": "DARKSTUDIOHK"
+            },
+            {
+              "end": 201,
+              "id": "1737432939812868096",
+              "start": 186,
+              "username": "akiyamamio_kig"
+            },
+            {
+              "end": 212,
+              "id": "1760597190299553792",
+              "start": 202,
+              "username": "keihi0313"
+            },
+            {
+              "end": 220,
+              "id": "1488040579468767232",
+              "start": 213,
+              "username": "ebkgrm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urSHDoq2na",
+              "end": 244,
+              "expanded_url": "https://x.com/Poca5150/status/2089776211971190900/photo/1",
+              "media_key": "3_2089776205000286208",
+              "start": 221,
+              "url": "https://t.co/urSHDoq2na"
+            },
+            {
+              "display_url": "pic.x.com/urSHDoq2na",
+              "end": 244,
+              "expanded_url": "https://x.com/Poca5150/status/2089776211971190900/photo/1",
+              "media_key": "3_2089776205004427264",
+              "start": 221,
+              "url": "https://t.co/urSHDoq2na"
+            },
+            {
+              "display_url": "pic.x.com/urSHDoq2na",
+              "end": 244,
+              "expanded_url": "https://x.com/Poca5150/status/2089776211971190900/photo/1",
+              "media_key": "3_2089776205000310784",
+              "start": 221,
+              "url": "https://t.co/urSHDoq2na"
+            },
+            {
+              "display_url": "pic.x.com/urSHDoq2na",
+              "end": 244,
+              "expanded_url": "https://x.com/Poca5150/status/2089776211971190900/photo/1",
+              "media_key": "3_2089776205000237056",
+              "start": 221,
+              "url": "https://t.co/urSHDoq2na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089776211971190900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089776205000286208"
+          },
+          {
+            "media_key": "3_2089776205004427264"
+          },
+          {
+            "media_key": "3_2089776205000310784"
+          },
+          {
+            "media_key": "3_2089776205000237056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "815 @honwing27 的生日聚集邮\n@youmu_i19 @belilily_ @wood1249571 @takusan1121 @sakaneko_meow @Poca2381 @Barry_Kigger @diadolldreams @Akaame_Rain @Aoyama_Tokute @kitioio0 @Kig_Kuro @DARKSTUDIOHK @akiyamamio_kig @keihi0313 @ebkgrm https://t.co/urSHDoq2na"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089777456089887048",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24016,
+          "following_count": 10577,
+          "like_count": 155079,
+          "listed_count": 53,
+          "media_count": 6229,
+          "tweet_count": 57002
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是  @Poca2381 的逃生仓\n娃娃专用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Poca2381"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "is_identity_verified": false,
+        "location": "香港上水",
+        "most_recent_tweet_id": "2089776379655295091",
+        "name": "早露夸夸兔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028397856814764032/1772520202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1215,
+          "like_count": 1266,
+          "listed_count": 6,
+          "media_count": 161,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "Poca5150",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-05T13:20:18.000Z",
+        "description": "來自香港🇭🇰 。vrc玩家，kig萌新。角色：Sameko Saba🐟、白上フブキ🦊🌽、 結城さくな🎀🐾、(ブルアカ)Arona🩵、(ブルアカ)Plana🤍、？。偶爾會發點日常",
+        "id": "3792469754",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089772708297150785",
+        "name": "honwing",
+        "pinned_tweet_id": "2009136747616330032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3792469754/1700481138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451649336421482496/1a2gL892_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 4996,
+          "like_count": 3954,
+          "listed_count": 14,
+          "media_count": 280,
+          "tweet_count": 21533
+        },
+        "url": "",
+        "username": "honwing27",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-26T10:41:57.000Z",
+        "description": "香港kigurumi\n撮影,VRC\nホロライブ、ラブライブ、ひなビタ、プリキュア 推し\nhttps://t.co/FzfxfQzA0Z\nhttps://t.co/q9aQB6V5By\n\nproducer垢: @youmu_i19p\n製作垢: @19workshop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "youmu_i19p"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "19workshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/youmu_i19_kig/",
+                "end": 67,
+                "expanded_url": "http://instagram.com/youmu_i19_kig/",
+                "start": 44,
+                "url": "https://t.co/FzfxfQzA0Z"
+              },
+              {
+                "display_url": "youtube.com/@youmu_i19kig",
+                "end": 91,
+                "expanded_url": "https://www.youtube.com/@youmu_i19kig",
+                "start": 68,
+                "url": "https://t.co/q9aQB6V5By"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youmu-i19.xyz",
+                "end": 23,
+                "expanded_url": "http://youmu-i19.xyz",
+                "start": 0,
+                "url": "https://t.co/QXoqduNQ01"
+              }
+            ]
+          }
+        },
+        "id": "2878135880",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089577925435850780",
+        "name": "妖夢_伊19",
+        "pinned_tweet_id": "1927802455003115610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2878135880/1744549517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893471731379249152/x9sVSFnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 955,
+          "like_count": 16970,
+          "listed_count": 20,
+          "media_count": 1152,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/QXoqduNQ01",
+        "username": "youmu_i19",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-02T20:25:21.000Z",
+        "description": "VRC:belilily \nsub:@GoldoOcTolu\nsub:@0000010003000a\nHKG/VRC/Kiger\n主改milltina ichigo，副改mayo airi \nchocolat shinano\nKig角是自改chocolat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "GoldoOcTolu"
+              },
+              {
+                "end": 50,
+                "start": 35,
+                "username": "0000010003000a"
+              }
+            ]
+          }
+        },
+        "id": "1510352680392491008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089448135261364241",
+        "name": "belilily",
+        "pinned_tweet_id": "2076704373045108760",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510352680392491008/1774206374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866014926135070720/yNNOwukP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 652,
+          "like_count": 5595,
+          "listed_count": 4,
+          "media_count": 717,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "belilily_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-27T18:25:32.000Z",
+        "description": "Vrc及日常 @DXv25XzhCv9flcw\nkig角色：白子（正在重做）、霜星\n新手kiger~\n表达方式比较抽象\n憧憬成为fps糕糕手～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "DXv25XzhCv9flcw"
+              }
+            ]
+          }
+        },
+        "id": "1828499072820580352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089565865742348782",
+        "name": "木木",
+        "pinned_tweet_id": "2070543971030630702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828499072820580352/1779358777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052228166316654592/itUwkqYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 100,
+          "like_count": 180,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "wood1249571",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-10T22:44:02.000Z",
+        "description": "kigurumi愛好者+初心者，新人攝，音遊人\n主打mai/chuni/pjsk\n因為工作關係更新會比較慢",
+        "id": "730166535357136896",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089592737658261711",
+        "name": "タクさん",
+        "pinned_tweet_id": "2016368780226777154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/730166535357136896/1769902960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011223195098177536/hAjOF_L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 285,
+          "like_count": 2724,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "takusan1121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-21T12:38:17.000Z",
+        "description": "着ぐるみコスプレが大好きだ\nDIY 手作り上級者の専門家\n\n2025 ACG 出道的KIGER\n🇭🇰🇯🇵コスプレ 赤い目ネコ\n寝起きから体が人間姿になってる猫人\nせっかくだから、 服を綺麗に、着替えて、遊んでにしよう\n醒來就變成人型的貓人。\n難得一來，穿著可愛的衣服，周圍去玩吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sakaneko-kig",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@sakaneko-kig",
+                "start": 0,
+                "url": "https://t.co/kamDqnLtxr"
+              }
+            ]
+          }
+        },
+        "id": "955056958360309761",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089124065638576406",
+        "name": "沙花喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/955056958360309761/1767084270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043737151880458240/WVBkMzJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 645,
+          "like_count": 1024,
+          "listed_count": 13,
+          "media_count": 87,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/kamDqnLtxr",
+        "username": "sakaneko_meow",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-18T11:26:00.000Z",
+        "description": "🇨🇳🇭🇰的鹹魚級Kiger兼無情轉推機器人。\n角色：《魔女兵器》小燐（已退役）、《崩壞：星穹鐵道》流螢、Hololive Gamers大神澪、（新頭殼製作中）\n語言： 廣◎,普○,EN○,日△\n無言フォロー失礼します。歡迎同好們過來集郵擴列，但只回跟kiger。\n不要鍵政！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/barrykigger",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/barrykigger",
+                "start": 0,
+                "url": "https://t.co/YxHTMEHdTG"
+              }
+            ]
+          }
+        },
+        "id": "4778172925",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089651416428335234",
+        "name": "Barry Kigger",
+        "pinned_tweet_id": "2086019388633952698",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002300097791733762/mjlR4jPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 6688,
+          "like_count": 45305,
+          "listed_count": 23,
+          "media_count": 405,
+          "tweet_count": 46757
+        },
+        "url": "https://t.co/YxHTMEHdTG",
+        "username": "Barry_Kigger",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T17:26:29.000Z",
+        "description": "Kitsune\n\nDoll/Kig Masker\n\nHong Kong",
+        "id": "1561041907756986368",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "1997579416415928560",
+        "name": "kigu_kitsune",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037994035894423552/B-p6RgMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 5567,
+          "like_count": 109,
+          "listed_count": 6,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "diadolldreams",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

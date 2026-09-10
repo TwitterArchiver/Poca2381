@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095405881429221748",
+    "created_at": "2026-09-04T16:18:02.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095909262254064088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024708440564912131",
+          "start": 0,
+          "username": "xian229224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095909262254064088",
+    "in_reply_to_user_id": "2024708440564912131",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095405881429221748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian229224 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095405881429221748",
+        "created_at": "2026-09-04T16:18:02.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095909262254064088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024708440564912131",
+              "start": 0,
+              "username": "xian229224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095909262254064088",
+        "in_reply_to_user_id": "2024708440564912131",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095405881429221748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian229224 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024708440564912131",
+        "conversation_id": "2095405881429221748",
+        "created_at": "2026-09-03T06:57:47.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095405881429221748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095405881429221748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3217,
+          "impression_count": 1396243,
+          "like_count": 46024,
+          "quote_count": 2534,
+          "reply_count": 684,
+          "retweet_count": 10127
+        },
+        "reply_settings": "everyone",
+        "text": "千万别自杀，你们想象一下：你自杀过后警察来看你手机，然后看着你发的一大堆傻逼推特，然后指着你推特那一堆糖逼文案 ，疑惑的看了一眼你的尸体，你想象一下，想象一下"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095909262254064088",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24928,
+          "following_count": 10995,
+          "like_count": 156285,
+          "listed_count": 53,
+          "media_count": 6611,
+          "tweet_count": 59008
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T04:51:40.000Z",
+        "description": "网蛆而已\n@Chuchu_229",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Chuchu_229"
+              }
+            ]
+          }
+        },
+        "id": "2024708440564912131",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095878963960905865",
+        "name": "藓",
+        "pinned_tweet_id": "2094025376515428734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024708440564912131/1775994100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 63,
+          "like_count": 12898,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 992
+        },
+        "url": "",
+        "username": "xian229224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

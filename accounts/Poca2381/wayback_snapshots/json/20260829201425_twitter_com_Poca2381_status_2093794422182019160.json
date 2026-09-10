@@ -1,0 +1,695 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093693000442691584"
+      ],
+      "media_source_tweet_id": [
+        "2093693033607000253"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2093794422182019160",
+    "created_at": "2026-08-29T20:14:25.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T21:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093794422182019160"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "ホシノ"
+        },
+        {
+          "end": 74,
+          "start": 68,
+          "tag": "ホシにゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981711278084358144",
+          "start": 3,
+          "username": "Mir_kiG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KXqko3bcwG",
+          "end": 98,
+          "expanded_url": "https://x.com/Mir_kiG/status/2093693033607000253/video/1",
+          "media_key": "13_2093693000442691584",
+          "start": 75,
+          "url": "https://t.co/KXqko3bcwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093794422182019160",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2093693000442691584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093693033607000253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mir_kiG: すりすりぺろぺろ、ホシにゃん\n슥슥 핥짝핥짝 호시냥\n\n#kigurumi #着ぐるみ #ブルアカ #ホシノ #ホシにゃん https://t.co/KXqko3bcwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9877,
+        "height": 1080,
+        "media_key": "13_2093693000442691584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093693000442691584/img/SQxo4vZ78vAff6oy.jpg",
+        "public_metrics": {
+          "view_count": 404
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093693000442691584/vid/avc1/320x400/CDW_HS8gnB7SxmeC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093693000442691584/vid/avc1/480x600/tZ8qe3hgVf7BZHfz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093693000442691584/vid/avc1/720x902/uPtyUC7-Lm7HYz1_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093693000442691584/pl/DT60iPp1WLt232vc.m3u8?tag=14"
+          }
+        ],
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093693000442691584"
+          ],
+          "media_source_tweet_id": [
+            "2093693033607000253"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2093794422182019160",
+        "created_at": "2026-08-29T20:14:25.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T21:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093794422182019160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "ホシノ"
+            },
+            {
+              "end": 74,
+              "start": 68,
+              "tag": "ホシにゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981711278084358144",
+              "start": 3,
+              "username": "Mir_kiG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KXqko3bcwG",
+              "end": 98,
+              "expanded_url": "https://x.com/Mir_kiG/status/2093693033607000253/video/1",
+              "media_key": "13_2093693000442691584",
+              "start": 75,
+              "url": "https://t.co/KXqko3bcwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093794422182019160",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093693000442691584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093693033607000253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mir_kiG: すりすりぺろぺろ、ホシにゃん\n슥슥 핥짝핥짝 호시냥\n\n#kigurumi #着ぐるみ #ブルアカ #ホシノ #ホシにゃん https://t.co/KXqko3bcwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093693000442691584"
+          ]
+        },
+        "author_id": "1981711278084358144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2093693033607000253",
+        "created_at": "2026-08-29T13:31:32.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093693033607000253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "ホシノ"
+            },
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "ホシにゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KXqko3bcwG",
+              "end": 85,
+              "expanded_url": "https://x.com/Mir_kiG/status/2093693033607000253/video/1",
+              "media_key": "13_2093693000442691584",
+              "start": 62,
+              "url": "https://t.co/KXqko3bcwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093693033607000253",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093693000442691584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1475,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "すりすりぺろぺろ、ホシにゃん\n슥슥 핥짝핥짝 호시냥\n\n#kigurumi #着ぐるみ #ブルアカ #ホシノ #ホシにゃん https://t.co/KXqko3bcwG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093794436073631777",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24570,
+          "following_count": 10872,
+          "like_count": 155934,
+          "listed_count": 53,
+          "media_count": 6473,
+          "tweet_count": 58350
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-24T13:16:18.000Z",
+        "description": "낮잠 중 방해금지\n昼寝中　起こさないで\n\n09年生 kigurumi cosplayer\n\nkigurumi: 小鳥遊 ホシノ🐳",
+        "id": "1981711278084358144",
+        "is_identity_verified": false,
+        "location": "경기도",
+        "most_recent_tweet_id": "2093699020254478391",
+        "name": "미르𝙼𝚒𝚁_",
+        "pinned_tweet_id": "2048264196572504503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981711278084358144/1781714445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058921600251224064/4et97DBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 385,
+          "like_count": 25404,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "Mir_kiG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

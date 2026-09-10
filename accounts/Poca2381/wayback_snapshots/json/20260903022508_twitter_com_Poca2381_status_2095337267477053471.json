@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095337267477053471",
+    "created_at": "2026-09-03T02:25:08.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T03:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095337267477053471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2037900912560160768",
+          "start": 3,
+          "username": "NolanChenDFFF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095337267477053471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095148786033267153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NolanChenDFFF1: 我觉得水课就该像6657直播间一样\n老师自己在上面哼哧哼哧\n学生在下面+1各种Niko的烂梗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095337267477053471",
+        "created_at": "2026-09-03T02:25:08.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095337267477053471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2037900912560160768",
+              "start": 3,
+              "username": "NolanChenDFFF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095337267477053471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095148786033267153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NolanChenDFFF1: 我觉得水课就该像6657直播间一样\n老师自己在上面哼哧哼哧\n学生在下面+1各种Niko的烂梗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037900912560160768",
+        "conversation_id": "2095148786033267153",
+        "created_at": "2026-09-02T13:56:11.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095148786033267153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095148786033267153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8047,
+          "like_count": 193,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得水课就该像6657直播间一样\n老师自己在上面哼哧哼哧\n学生在下面+1各种Niko的烂梗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095337267477053471",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24865,
+          "following_count": 10965,
+          "like_count": 156189,
+          "listed_count": 53,
+          "media_count": 6569,
+          "tweet_count": 58812
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T14:33:52.000Z",
+        "description": "CN/EN/DE | professional comment section terrorist\nCS2 • memes • internet nonsense🚪6657\n乐子人中文区乱窜 / learning German recently\n爱看👉🐉🦅🐆🐝🐭🌼🐴🐻 出生 点:@CJY_DFFF1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "CJY_DFFF1"
+              }
+            ]
+          }
+        },
+        "id": "2037900912560160768",
+        "is_identity_verified": false,
+        "location": "可是宗宗🥺啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "most_recent_tweet_id": "2095336209736417454",
+        "name": "Astralis的dev1ce本人🇩🇰",
+        "pinned_tweet_id": "2095015266602377575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037900912560160768/1788060542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037900989722755072/Ln3tVRyy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 153,
+          "like_count": 4324,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "NolanChenDFFF1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

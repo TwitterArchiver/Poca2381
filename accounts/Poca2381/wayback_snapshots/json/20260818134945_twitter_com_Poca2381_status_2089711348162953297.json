@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2089711348162953297",
+    "created_at": "2026-08-18T13:49:45.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089711348162953297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917261838485708802",
+          "start": 3,
+          "username": "qiujiudev"
+        }
+      ],
+      "urls": [
+        {
+          "description": "X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。. Contribute to qiujiu-dev/XAvatarWall development by creating an account on GitHub.",
+          "display_url": "github.com/qiujiu-dev/XAv…",
+          "end": 76,
+          "expanded_url": "https://github.com/qiujiu-dev/XAvatarWall",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "GitHub - qiujiu-dev/XAvatarWall: X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。",
+          "unwound_url": "https://github.com/qiujiu-dev/XAvatarWall",
+          "url": "https://t.co/ceK0lJidOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089711348162953297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088935610253967735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiujiudev: 重磅消息，庆祝推特粉丝图下载合成相关工具已开源至GitHub！快去使用吧喵\nhttps://t.co/ceK0lJidOu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2089711348162953297",
+        "created_at": "2026-08-18T13:49:45.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089711348162953297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917261838485708802",
+              "start": 3,
+              "username": "qiujiudev"
+            }
+          ],
+          "urls": [
+            {
+              "description": "X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。. Contribute to qiujiu-dev/XAvatarWall development by creating an account on GitHub.",
+              "display_url": "github.com/qiujiu-dev/XAv…",
+              "end": 76,
+              "expanded_url": "https://github.com/qiujiu-dev/XAvatarWall",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "GitHub - qiujiu-dev/XAvatarWall: X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。",
+              "unwound_url": "https://github.com/qiujiu-dev/XAvatarWall",
+              "url": "https://t.co/ceK0lJidOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089711348162953297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088935610253967735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiujiudev: 重磅消息，庆祝推特粉丝图下载合成相关工具已开源至GitHub！快去使用吧喵\nhttps://t.co/ceK0lJidOu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917261838485708802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2088935610253967735",
+        "created_at": "2026-08-16T10:27:14.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088935610253967735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。. Contribute to qiujiu-dev/XAvatarWall development by creating an account on GitHub.",
+              "display_url": "github.com/qiujiu-dev/XAv…",
+              "end": 61,
+              "expanded_url": "https://github.com/qiujiu-dev/XAvatarWall",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "GitHub - qiujiu-dev/XAvatarWall: X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。",
+              "unwound_url": "https://github.com/qiujiu-dev/XAvatarWall",
+              "url": "https://t.co/ceK0lJidOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088935610253967735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1672,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "重磅消息，庆祝推特粉丝图下载合成相关工具已开源至GitHub！快去使用吧喵\nhttps://t.co/ceK0lJidOu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089711348162953297",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23996,
+          "following_count": 10561,
+          "like_count": 155091,
+          "listed_count": 53,
+          "media_count": 6224,
+          "tweet_count": 56953
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089696282524950631",
+        "name": "秋玖",
+        "pinned_tweet_id": "2089403510664343750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917261838485708802/1784106973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086924198023401472/BvTDiyir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 579,
+          "like_count": 3488,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 972
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

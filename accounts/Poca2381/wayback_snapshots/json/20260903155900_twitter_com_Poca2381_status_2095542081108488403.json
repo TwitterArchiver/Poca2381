@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095542081108488403",
+    "created_at": "2026-09-03T15:59:00.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095542081108488403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939907135229632512",
+          "start": 3,
+          "username": "DOI_TRPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095542081108488403",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25642
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095097903744454906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DOI_TRPG: 트친을 코로 찔르시겠습니까?\n\n네      네             네                 네   네                네           네      네      네네      네…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5922,
+        "height": 576,
+        "media_key": "7_2095097887420248064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2095097887420248064/pu/img/VTz3StsmMrsLzaY3.jpg",
+        "public_metrics": {
+          "view_count": 556313
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2095097887420248064/pu/vid/avc1/320x320/QNr6spHKMo8NSva6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2095097887420248064/pu/vid/avc1/576x576/5ig89DbK-S42G3b3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2095097887420248064/pu/pl/3fw8XRnugYNbd3BP.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095542081108488403",
+        "created_at": "2026-09-03T15:59:00.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095542081108488403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939907135229632512",
+              "start": 3,
+              "username": "DOI_TRPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095542081108488403",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25642
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095097903744454906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DOI_TRPG: 트친을 코로 찔르시겠습니까?\n\n네      네             네                 네   네                네           네      네      네네      네…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2095097887420248064"
+          ]
+        },
+        "author_id": "1939907135229632512",
+        "conversation_id": "2095097903744454906",
+        "created_at": "2026-09-02T10:33:59.000Z",
+        "display_text_range": [
+          0,
+          218
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095097903744454906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NL8ocn7cBh",
+              "end": 242,
+              "expanded_url": "https://x.com/DOI_TRPG/status/2095097903744454906/video/1",
+              "media_key": "7_2095097887420248064",
+              "start": 219,
+              "url": "https://t.co/NL8ocn7cBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095097903744454906",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "7_2095097887420248064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8350,
+          "impression_count": 1761727,
+          "like_count": 75248,
+          "quote_count": 914,
+          "reply_count": 14,
+          "retweet_count": 25631
+        },
+        "reply_settings": "everyone",
+        "text": "트친을 코로 찔르시겠습니까?\n\n네      네             네                 네   네                네           네      네      네네      네             네      네        네                   네 네   네              네    네        네        네 네    네    네 https://t.co/NL8ocn7cBh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095542096166084904",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24888,
+          "following_count": 10975,
+          "like_count": 156246,
+          "listed_count": 53,
+          "media_count": 6590,
+          "tweet_count": 58907
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-01T04:41:26.000Z",
+        "description": "🐱와인/도이의 TRPG 계정\n\n🎲Roll20. CoC 위주/미러블락\n\n💾개발팀 D.D (담곰&도이)\n\nhttps://t.co/AeA150qQBT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/spreadsheets/d…",
+                "end": 80,
+                "expanded_url": "https://docs.google.com/spreadsheets/d/1ZjohadZmJDlt20Yaeepip1p_G6658y245kb519vQRbQ/edit?usp=sharing",
+                "start": 57,
+                "url": "https://t.co/AeA150qQBT"
+              }
+            ]
+          }
+        },
+        "id": "1939907135229632512",
+        "is_identity_verified": false,
+        "location": "엘소드 친추 - 롭티익스큐터 / 도이네이터 ",
+        "most_recent_tweet_id": "2095518036623245492",
+        "name": "안도이 (💾개발팀 D.D)",
+        "pinned_tweet_id": "1983567936091717809",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939907135229632512/1756864573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047811160087666688/mCPQsurJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 436,
+          "like_count": 16559,
+          "listed_count": 3,
+          "media_count": 1673,
+          "tweet_count": 17773
+        },
+        "url": "",
+        "username": "DOI_TRPG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,715 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2091275456763052238",
+    "created_at": "2026-08-22T21:24:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T22:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091275456763052238"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 110,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "库沫库姆"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "拉普兰德"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279251017255645184",
+          "start": 3,
+          "username": "lemon_fish14"
+        },
+        {
+          "end": 108,
+          "id": "1889873349679210496",
+          "start": 99,
+          "username": "KUMOCOOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091275456763052238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090764985089888551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lemon_fish14: 1wfo福利，承蒙厚爱\n\n已经被可爱的蛋糕狗捅的脑子一片空白了♡\n拔出来的时候双腿止不住的颤抖……甚至连站起来的力气都快没有了…在头壳里疯狂翻白眼♡\n➡️玩具来自@KUMOCOOM \n#kigurumi #库沫库姆 #明日方舟 #拉普兰德 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 209850,
+        "height": 720,
+        "media_key": "13_2090764623452778496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090764623452778496/img/qBi6L9GnXSoUMGW_.jpg",
+        "public_metrics": {
+          "view_count": 59225
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090764623452778496/vid/avc1/480x270/SGOT1hD7KMf_zrL4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090764623452778496/vid/avc1/640x360/wYqmKGwtiT5hmKLN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090764623452778496/vid/avc1/1280x720/gbfeVT3m9GCs7kYT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090764623452778496/pl/RelLoLc8UFES7wwM.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2091275456763052238",
+        "created_at": "2026-08-22T21:24:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091275456763052238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "库沫库姆"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "拉普兰德"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279251017255645184",
+              "start": 3,
+              "username": "lemon_fish14"
+            },
+            {
+              "end": 108,
+              "id": "1889873349679210496",
+              "start": 99,
+              "username": "KUMOCOOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091275456763052238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090764985089888551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lemon_fish14: 1wfo福利，承蒙厚爱\n\n已经被可爱的蛋糕狗捅的脑子一片空白了♡\n拔出来的时候双腿止不住的颤抖……甚至连站起来的力气都快没有了…在头壳里疯狂翻白眼♡\n➡️玩具来自@KUMOCOOM \n#kigurumi #库沫库姆 #明日方舟 #拉普兰德 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090764623452778496"
+          ]
+        },
+        "author_id": "1279251017255645184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2090764985089888551",
+        "created_at": "2026-08-21T11:36:31.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090764985089888551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 92,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "库沫库姆"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "拉普兰德"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "ooc"
+            },
+            {
+              "end": 140,
+              "start": 131,
+              "tag": "lappland"
+            },
+            {
+              "end": 152,
+              "start": 142,
+              "tag": "Arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1889873349679210496",
+              "start": 81,
+              "username": "KUMOCOOM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGTLs4c5CZ",
+              "end": 176,
+              "expanded_url": "https://x.com/lemon_fish14/status/2090764985089888551/video/1",
+              "media_key": "13_2090764623452778496",
+              "start": 153,
+              "url": "https://t.co/zGTLs4c5CZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090764985089888551",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090764623452778496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1474,
+          "impression_count": 69798,
+          "like_count": 3012,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "1wfo福利，承蒙厚爱\n\n已经被可爱的蛋糕狗捅的脑子一片空白了♡\n拔出来的时候双腿止不住的颤抖……甚至连站起来的力气都快没有了…在头壳里疯狂翻白眼♡\n➡️玩具来自@KUMOCOOM \n#kigurumi #库沫库姆 #明日方舟 #拉普兰德 #着ぐるみ #ooc #lappland  #Arknights https://t.co/zGTLs4c5CZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091275456763052238",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24143,
+          "following_count": 10683,
+          "like_count": 155460,
+          "listed_count": 53,
+          "media_count": 6297,
+          "tweet_count": 57533
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-04T03:10:00.000Z",
+        "description": "ฅ谢谢你的喜欢♡ฅ   ⚠️ R18内容/OOC内容注意\nkiger/coser双修，叫我鱼干就好\n拉普妈，同担扩列请私♡\n\n请分清墙内墙外的区别，默认墙内墙外不是同一人\n请不要在墙内评论区刷推上的任何内容包括推号，推止于推",
+        "id": "1279251017255645184",
+        "is_identity_verified": false,
+        "location": "太平洋中部海域柠檬鲨栖息地",
+        "most_recent_tweet_id": "2091242837904146677",
+        "name": "柠鱼",
+        "pinned_tweet_id": "2051139659359772852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1279251017255645184/1784391352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044473278560083968/S0DfINWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11929,
+          "following_count": 121,
+          "like_count": 1334,
+          "listed_count": 41,
+          "media_count": 52,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "lemon_fish14",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-13T03:05:11.000Z",
+        "description": "🔞来自中国的原创成人玩具品牌\n100%铂金硅胶/纯手工制作/全球配送/专注可爱风格💖\n\n‌🔞 ORIGINAL CHINESE ADULT TOY BRAND‌\n100% Platinum-Grade Silicone/ Worldwide Shipping",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kumocoom.com",
+                "end": 23,
+                "expanded_url": "https://kumocoom.com/",
+                "start": 0,
+                "url": "https://t.co/usMC9lhMC1"
+              }
+            ]
+          }
+        },
+        "id": "1889873349679210496",
+        "is_identity_verified": false,
+        "location": "🍑：KUMOCOOM库沫库姆",
+        "most_recent_tweet_id": "2091124564491133401",
+        "name": "KUMO COOM 库沫库姆",
+        "pinned_tweet_id": "2087448020560527663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889873349679210496/1739416167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889879821909639168/4hbtAQlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20504,
+          "following_count": 60,
+          "like_count": 182,
+          "listed_count": 45,
+          "media_count": 318,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/usMC9lhMC1",
+        "username": "KUMOCOOM",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

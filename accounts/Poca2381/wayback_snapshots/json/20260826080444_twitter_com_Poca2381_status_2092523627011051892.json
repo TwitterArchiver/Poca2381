@@ -1,0 +1,742 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089737755568021504"
+      ],
+      "media_source_tweet_id": [
+        "2089737765844103217"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2092523627011051892",
+    "created_at": "2026-08-26T08:04:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092523627011051892"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 74,
+          "tag": "Endfield‌"
+        },
+        {
+          "end": 92,
+          "start": 85,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 102,
+          "start": 93,
+          "tag": "エンドフィールド"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "ンィー"
+        },
+        {
+          "end": 116,
+          "start": 108,
+          "tag": "チェンセンユー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1728473416624451585",
+          "start": 3,
+          "username": "bzjdry"
+        },
+        {
+          "end": 70,
+          "id": "1497074759557054468",
+          "start": 54,
+          "username": "Robinso36184895"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/weE999VvVz",
+          "end": 140,
+          "expanded_url": "https://x.com/bzjdry/status/2089737765844103217/photo/1",
+          "media_key": "3_2089737755568021504",
+          "start": 117,
+          "url": "https://t.co/weE999VvVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092523627011051892",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089737755568021504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089737765844103217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bzjdry: 今天是陈千语生日，\n让我们祝她生日快乐🎂，\n并且被指到的都会变的跟她一样聪明（\n📷：@Robinso36184895 🫡\n\n#Endfield‌ #アークナイツ #エンドフィールド #ンィー #チェンセンユー https://t.co/weE999VvVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089737755568021504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA9arJaoAAZ48h.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089737755568021504"
+          ],
+          "media_source_tweet_id": [
+            "2089737765844103217"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2092523627011051892",
+        "created_at": "2026-08-26T08:04:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092523627011051892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 74,
+              "tag": "Endfield‌"
+            },
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 102,
+              "start": 93,
+              "tag": "エンドフィールド"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "ンィー"
+            },
+            {
+              "end": 116,
+              "start": 108,
+              "tag": "チェンセンユー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1728473416624451585",
+              "start": 3,
+              "username": "bzjdry"
+            },
+            {
+              "end": 70,
+              "id": "1497074759557054468",
+              "start": 54,
+              "username": "Robinso36184895"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/weE999VvVz",
+              "end": 140,
+              "expanded_url": "https://x.com/bzjdry/status/2089737765844103217/photo/1",
+              "media_key": "3_2089737755568021504",
+              "start": 117,
+              "url": "https://t.co/weE999VvVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092523627011051892",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089737755568021504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089737765844103217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bzjdry: 今天是陈千语生日，\n让我们祝她生日快乐🎂，\n并且被指到的都会变的跟她一样聪明（\n📷：@Robinso36184895 🫡\n\n#Endfield‌ #アークナイツ #エンドフィールド #ンィー #チェンセンユー https://t.co/weE999VvVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089737755568021504"
+          ]
+        },
+        "author_id": "1728473416624451585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2089737765844103217",
+        "created_at": "2026-08-18T15:34:43.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089737765844103217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 62,
+              "tag": "Endfield‌"
+            },
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "エンドフィールド"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "ンィー"
+            },
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "チェンセンユー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1497074759557054468",
+              "start": 42,
+              "username": "Robinso36184895"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/weE999VvVz",
+              "end": 128,
+              "expanded_url": "https://x.com/bzjdry/status/2089737765844103217/photo/1",
+              "media_key": "3_2089737755568021504",
+              "start": 105,
+              "url": "https://t.co/weE999VvVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089737765844103217",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089737755568021504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2421,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "今天是陈千语生日，\n让我们祝她生日快乐🎂，\n并且被指到的都会变的跟她一样聪明（\n📷：@Robinso36184895 🫡\n\n#Endfield‌ #アークナイツ #エンドフィールド #ンィー #チェンセンユー https://t.co/weE999VvVz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2092523627011051892",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24320,
+          "following_count": 10778,
+          "like_count": 155724,
+          "listed_count": 53,
+          "media_count": 6372,
+          "tweet_count": 57957
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-25T17:59:23.000Z",
+        "description": "萌新kiger。现有流萤大头(已逝)；鼠u陈千语\n👥@MisakaMisakaxfu @Sorakura_c3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "MisakaMisakaxfu"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "Sorakura_c3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.anontokyo.cc",
+                "end": 23,
+                "expanded_url": "https://my.anontokyo.cc",
+                "start": 0,
+                "url": "https://t.co/lA2oz8y2Wo"
+              }
+            ]
+          }
+        },
+        "id": "1728473416624451585",
+        "is_identity_verified": false,
+        "location": "豫A",
+        "most_recent_tweet_id": "2089737765844103217",
+        "name": "不正经の人Y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728473416624451585/1786636667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954467977312739328/ZCJrAe1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 159,
+          "like_count": 1240,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/lA2oz8y2Wo",
+        "username": "bzjdry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-25T05:03:40.000Z",
+        "description": "这里是奇树TreeStrange，kiger/马拉松跑者/摄影，现有角色是ST AR-15（原型和三改）/M4A1 mod3/双叶理央/利姆露/亚梓莎。全马PB247，相机是A7M4+2470F4 ZA OSS。中文和英语皆可Both Chinese and English are OK.",
+        "id": "1497074759557054468",
+        "is_identity_verified": false,
+        "location": "CN",
+        "most_recent_tweet_id": "2071146572566741255",
+        "name": "TreeStrange",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497074759557054468/1755515332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739960776750768129/Z7zKuQ5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 250,
+          "like_count": 232,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Robinso36184895",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

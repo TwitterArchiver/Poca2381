@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094877021394677760",
+        "3_2094877030852767744"
+      ],
+      "media_source_tweet_id": [
+        "2094877038209585265",
+        "2094877038209585265"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095225875986006412",
+    "created_at": "2026-09-02T19:02:30.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095225875986006412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1767107094313160704",
+          "start": 3,
+          "username": "Okada_te_resa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o6pTVK6to2",
+          "end": 50,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2094877038209585265/photo/1",
+          "media_key": "3_2094877021394677760",
+          "start": 27,
+          "url": "https://t.co/o6pTVK6to2"
+        },
+        {
+          "display_url": "pic.x.com/o6pTVK6to2",
+          "end": 50,
+          "expanded_url": "https://x.com/Okada_te_resa/status/2094877038209585265/photo/1",
+          "media_key": "3_2094877030852767744",
+          "start": 27,
+          "url": "https://t.co/o6pTVK6to2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095225875986006412",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094877021394677760"
+      },
+      {
+        "media_key": "3_2094877030852767744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094877038209585265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Okada_te_resa: 沙东人死老冯了 https://t.co/o6pTVK6to2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2094877021394677760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJ_jURbsAAGn5j.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2094877030852767744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJ_j3gasAAlzGR.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094877021394677760",
+            "3_2094877030852767744"
+          ],
+          "media_source_tweet_id": [
+            "2094877038209585265",
+            "2094877038209585265"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095225875986006412",
+        "created_at": "2026-09-02T19:02:30.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095225875986006412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1767107094313160704",
+              "start": 3,
+              "username": "Okada_te_resa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6pTVK6to2",
+              "end": 50,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2094877038209585265/photo/1",
+              "media_key": "3_2094877021394677760",
+              "start": 27,
+              "url": "https://t.co/o6pTVK6to2"
+            },
+            {
+              "display_url": "pic.x.com/o6pTVK6to2",
+              "end": 50,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2094877038209585265/photo/1",
+              "media_key": "3_2094877030852767744",
+              "start": 27,
+              "url": "https://t.co/o6pTVK6to2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095225875986006412",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094877021394677760"
+          },
+          {
+            "media_key": "3_2094877030852767744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094877038209585265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Okada_te_resa: 沙东人死老冯了 https://t.co/o6pTVK6to2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094877021394677760",
+            "3_2094877030852767744"
+          ]
+        },
+        "author_id": "1767107094313160704",
+        "conversation_id": "2094877038209585265",
+        "created_at": "2026-09-01T19:56:21.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094877038209585265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6pTVK6to2",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2094877038209585265/photo/1",
+              "media_key": "3_2094877021394677760",
+              "start": 8,
+              "url": "https://t.co/o6pTVK6to2"
+            },
+            {
+              "display_url": "pic.x.com/o6pTVK6to2",
+              "end": 31,
+              "expanded_url": "https://x.com/Okada_te_resa/status/2094877038209585265/photo/1",
+              "media_key": "3_2094877030852767744",
+              "start": 8,
+              "url": "https://t.co/o6pTVK6to2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094877038209585265",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094877021394677760"
+          },
+          {
+            "media_key": "3_2094877030852767744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 285348,
+          "like_count": 566,
+          "quote_count": 5,
+          "reply_count": 157,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "沙东人死老冯了 https://t.co/o6pTVK6to2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095225875986006412",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24842,
+          "following_count": 10947,
+          "like_count": 156167,
+          "listed_count": 53,
+          "media_count": 6566,
+          "tweet_count": 58762
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:35:49.000Z",
+        "description": "指派性别♂ 黑皮 IP南京  身長190cm/阳痿/前列腺炎/腰间盘突出/肩周炎/尿分叉/骨质疏松/神经衰弱/大胃袋/ADHD/BPD/重抑重焦/认知行为疗法研习中/enby  #地雷系さんと繋がりたい#想要成为机修仙人\n匿名消息 https://t.co/R1qDFsehXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ddm64385",
+                "end": 139,
+                "expanded_url": "https://ngl.link/ddm64385",
+                "start": 116,
+                "url": "https://t.co/R1qDFsehXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/okada_theresa",
+                "end": 23,
+                "expanded_url": "http://t.me/okada_theresa",
+                "start": 0,
+                "url": "https://t.co/dIkbEIFa2p"
+              }
+            ]
+          }
+        },
+        "id": "1767107094313160704",
+        "is_identity_verified": false,
+        "location": "白下區",
+        "most_recent_tweet_id": "2095132789444329860",
+        "name": "谭担面🏍",
+        "pinned_tweet_id": "2067280627888734678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767107094313160704/1745907859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014463692931571712/6hAyCVxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1041,
+          "like_count": 47893,
+          "listed_count": 7,
+          "media_count": 784,
+          "tweet_count": 3600
+        },
+        "url": "https://t.co/dIkbEIFa2p",
+        "username": "Okada_te_resa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

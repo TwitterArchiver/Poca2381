@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091764890503639040",
+        "3_2091764981960417280",
+        "3_2091764997068390400"
+      ],
+      "media_source_tweet_id": [
+        "2091765009709752622",
+        "2091765009709752622",
+        "2091765009709752622"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2091862374630494304",
+    "created_at": "2026-08-24T12:17:09.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091862374630494304"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 48,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 70,
+          "start": 58,
+          "tag": "dollweekend"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1880508629226516482",
+          "start": 3,
+          "username": "OPortal_kiger"
+        },
+        {
+          "end": 46,
+          "id": "699898569801633792",
+          "start": 38,
+          "username": "RankcyW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i8R1lC4ivR",
+          "end": 94,
+          "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+          "media_key": "3_2091764890503639040",
+          "start": 71,
+          "url": "https://t.co/i8R1lC4ivR"
+        },
+        {
+          "display_url": "pic.x.com/i8R1lC4ivR",
+          "end": 94,
+          "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+          "media_key": "3_2091764981960417280",
+          "start": 71,
+          "url": "https://t.co/i8R1lC4ivR"
+        },
+        {
+          "display_url": "pic.x.com/i8R1lC4ivR",
+          "end": 94,
+          "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+          "media_key": "3_2091764997068390400",
+          "start": 71,
+          "url": "https://t.co/i8R1lC4ivR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091862374630494304",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091764890503639040"
+      },
+      {
+        "media_key": "3_2091764981960417280"
+      },
+      {
+        "media_key": "3_2091764997068390400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091765009709752622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OPortal_kiger: 庄管代，既然下班了，可以来喝一杯吗🍷\n@RankcyW \n#kigurumi #dollweekend https://t.co/i8R1lC4ivR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091764890503639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdxFdQacAA-1mQ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091764981960417280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdxKx9aIAA0L8a.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091764997068390400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdxLqPbgAAl6D4.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091764890503639040",
+            "3_2091764981960417280",
+            "3_2091764997068390400"
+          ],
+          "media_source_tweet_id": [
+            "2091765009709752622",
+            "2091765009709752622",
+            "2091765009709752622"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2091862374630494304",
+        "created_at": "2026-08-24T12:17:09.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091862374630494304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 70,
+              "start": 58,
+              "tag": "dollweekend"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1880508629226516482",
+              "start": 3,
+              "username": "OPortal_kiger"
+            },
+            {
+              "end": 46,
+              "id": "699898569801633792",
+              "start": 38,
+              "username": "RankcyW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8R1lC4ivR",
+              "end": 94,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+              "media_key": "3_2091764890503639040",
+              "start": 71,
+              "url": "https://t.co/i8R1lC4ivR"
+            },
+            {
+              "display_url": "pic.x.com/i8R1lC4ivR",
+              "end": 94,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+              "media_key": "3_2091764981960417280",
+              "start": 71,
+              "url": "https://t.co/i8R1lC4ivR"
+            },
+            {
+              "display_url": "pic.x.com/i8R1lC4ivR",
+              "end": 94,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+              "media_key": "3_2091764997068390400",
+              "start": 71,
+              "url": "https://t.co/i8R1lC4ivR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091862374630494304",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091764890503639040"
+          },
+          {
+            "media_key": "3_2091764981960417280"
+          },
+          {
+            "media_key": "3_2091764997068390400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091765009709752622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OPortal_kiger: 庄管代，既然下班了，可以来喝一杯吗🍷\n@RankcyW \n#kigurumi #dollweekend https://t.co/i8R1lC4ivR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091764890503639040",
+            "3_2091764981960417280",
+            "3_2091764997068390400"
+          ]
+        },
+        "author_id": "1880508629226516482",
+        "conversation_id": "2091765009709752622",
+        "created_at": "2026-08-24T05:50:16.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091765009709752622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 51,
+              "start": 39,
+              "tag": "dollweekend"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "699898569801633792",
+              "start": 19,
+              "username": "RankcyW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8R1lC4ivR",
+              "end": 75,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+              "media_key": "3_2091764890503639040",
+              "start": 52,
+              "url": "https://t.co/i8R1lC4ivR"
+            },
+            {
+              "display_url": "pic.x.com/i8R1lC4ivR",
+              "end": 75,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+              "media_key": "3_2091764981960417280",
+              "start": 52,
+              "url": "https://t.co/i8R1lC4ivR"
+            },
+            {
+              "display_url": "pic.x.com/i8R1lC4ivR",
+              "end": 75,
+              "expanded_url": "https://x.com/OPortal_kiger/status/2091765009709752622/photo/1",
+              "media_key": "3_2091764997068390400",
+              "start": 52,
+              "url": "https://t.co/i8R1lC4ivR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091765009709752622",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091764890503639040"
+          },
+          {
+            "media_key": "3_2091764981960417280"
+          },
+          {
+            "media_key": "3_2091764997068390400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 1699,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "庄管代，既然下班了，可以来喝一杯吗🍷\n@RankcyW \n#kigurumi #dollweekend https://t.co/i8R1lC4ivR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091862374630494304",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24227,
+          "following_count": 10718,
+          "like_count": 155574,
+          "listed_count": 53,
+          "media_count": 6325,
+          "tweet_count": 57720
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-18T06:52:57.000Z",
+        "description": "萌新（",
+        "id": "1880508629226516482",
+        "is_identity_verified": false,
+        "location": "SZX",
+        "most_recent_tweet_id": "2091855528263897409",
+        "name": "OPortal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880508629226516482/1762452819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090499413596930048/tw1aBcMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 387,
+          "like_count": 9657,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "OPortal_kiger",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-02-17T10:09:57.000Z",
+        "description": "最喜欢的食物 @_Xiaohuli_                                        \n                           \n喜欢胶 叫我阿兰～ 这里会营业和展示自己拍的片\n(本人相关的内容在这 @Latex_Afterlife)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "_Xiaohuli_"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "Latex_Afterlife"
+              }
+            ]
+          }
+        },
+        "id": "699898569801633792",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2091813816258662529",
+        "name": "clancy_w 阿兰⭐️",
+        "pinned_tweet_id": "1945011283176112410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/699898569801633792/1741500823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653749768513007616/t0c8fmwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 1102,
+          "like_count": 3289,
+          "listed_count": 44,
+          "media_count": 155,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "RankcyW",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

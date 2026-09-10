@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2092836699399458847",
+    "created_at": "2026-08-27T17:23:00.000Z",
+    "display_text_range": [
+      36,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093026509183434829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1072534840312913920",
+          "start": 0,
+          "username": "mizuame_t2"
+        },
+        {
+          "end": 22,
+          "id": "1902735424839413760",
+          "start": 12,
+          "username": "litgraley"
+        },
+        {
+          "end": 35,
+          "id": "1932434375955857409",
+          "start": 23,
+          "username": "ena1_mizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093026509183434829",
+    "in_reply_to_user_id": "1072534840312913920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092850169293205844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame_t2 @litgraley @ena1_mizuki 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ena1_mizuki].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ena1_mizuki",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "ena1_mizuki"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2092836699399458847",
+        "created_at": "2026-08-27T17:23:00.000Z",
+        "display_text_range": [
+          36,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093026509183434829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1072534840312913920",
+              "start": 0,
+              "username": "mizuame_t2"
+            },
+            {
+              "end": 22,
+              "id": "1902735424839413760",
+              "start": 12,
+              "username": "litgraley"
+            },
+            {
+              "end": 35,
+              "id": "1932434375955857409",
+              "start": 23,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093026509183434829",
+        "in_reply_to_user_id": "1072534840312913920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092850169293205844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame_t2 @litgraley @ena1_mizuki 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072534840312913920",
+        "conversation_id": "2092836699399458847",
+        "created_at": "2026-08-27T05:42:18.000Z",
+        "display_text_range": [
+          24,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092850169293205844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            },
+            {
+              "end": 23,
+              "id": "1932434375955857409",
+              "start": 11,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092850169293205844",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092836699399458847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley @ena1_mizuki 暂时用这个号好了，马斯克不干人事😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093026509183434829",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24394,
+          "following_count": 10815,
+          "like_count": 155785,
+          "listed_count": 53,
+          "media_count": 6409,
+          "tweet_count": 58090
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T16:53:27.000Z",
+        "description": "大龄天残？党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、爱抓小孩症.jpg，同类欢迎互fo🥺\n马斯克你再封我号试试呢😡",
+        "id": "1072534840312913920",
+        "is_identity_verified": false,
+        "location": "β Cygni",
+        "most_recent_tweet_id": "2092850169293205844",
+        "name": "水母雨🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072534840312913920/1787807333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092834520789860352/hr9YENoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 58,
+          "like_count": 609,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "mizuame_t2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "is_identity_verified": false,
+        "location": "你被窝里~",
+        "most_recent_tweet_id": "2092959877404770721",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902735424839413760/1750091769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 992,
+          "like_count": 44404,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 6834
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

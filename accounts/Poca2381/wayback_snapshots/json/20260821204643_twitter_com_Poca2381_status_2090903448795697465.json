@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2085004347315019776"
+      ],
+      "media_source_tweet_id": [
+        "2085004829764772020"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2090903448795697465",
+    "created_at": "2026-08-21T20:46:43.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090903448795697465"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 26,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "裸娃"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1086522712858583040",
+          "start": 3,
+          "username": "Motimotito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dZM3Uv7rv4",
+          "end": 63,
+          "expanded_url": "https://x.com/Motimotito/status/2085004829764772020/video/1",
+          "media_key": "7_2085004347315019776",
+          "start": 40,
+          "url": "https://t.co/dZM3Uv7rv4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090903448795697465",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_2085004347315019776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085004829764772020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Motimotito: 今日OOTD（？）\n#kigurumi #裸娃 https://t.co/dZM3Uv7rv4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72553,
+        "height": 1280,
+        "media_key": "7_2085004347315019776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2085004347315019776/pu/img/HuOIN2q4gWl9ui_3.jpg",
+        "public_metrics": {
+          "view_count": 5916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085004347315019776/pu/vid/avc1/320x568/PvUoP1bu3-ZmTqBy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085004347315019776/pu/vid/avc1/480x852/r6HzgkW0M5kGgbGI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085004347315019776/pu/vid/avc1/720x1280/kXrMFNf19Oa_KXnk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2085004347315019776/pu/pl/bzAl6FhiwEIXAUx-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2085004347315019776"
+          ],
+          "media_source_tweet_id": [
+            "2085004829764772020"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2090903448795697465",
+        "created_at": "2026-08-21T20:46:43.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090903448795697465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "裸娃"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1086522712858583040",
+              "start": 3,
+              "username": "Motimotito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZM3Uv7rv4",
+              "end": 63,
+              "expanded_url": "https://x.com/Motimotito/status/2085004829764772020/video/1",
+              "media_key": "7_2085004347315019776",
+              "start": 40,
+              "url": "https://t.co/dZM3Uv7rv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090903448795697465",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2085004347315019776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085004829764772020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Motimotito: 今日OOTD（？）\n#kigurumi #裸娃 https://t.co/dZM3Uv7rv4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2085004347315019776"
+          ]
+        },
+        "author_id": "1086522712858583040",
+        "conversation_id": "2085004829764772020",
+        "created_at": "2026-08-05T14:07:43.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085004829764772020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "裸娃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZM3Uv7rv4",
+              "end": 47,
+              "expanded_url": "https://x.com/Motimotito/status/2085004829764772020/video/1",
+              "media_key": "7_2085004347315019776",
+              "start": 24,
+              "url": "https://t.co/dZM3Uv7rv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085004829764772020",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2085004347315019776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 13109,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "今日OOTD（？）\n#kigurumi #裸娃 https://t.co/dZM3Uv7rv4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090903462108385708",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24121,
+          "following_count": 10649,
+          "like_count": 155365,
+          "listed_count": 53,
+          "media_count": 6283,
+          "tweet_count": 57400
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-19T07:16:16.000Z",
+        "description": "你好，这里糯叽叽，（下划线后面的内容因为声音糯，唔……你们为什么会对着我的声音发电啊喂！）来自🇨🇳福建，角色是圣女贞德，还有啥……以后想到了再补充",
+        "id": "1086522712858583040",
+        "is_identity_verified": false,
+        "location": "Fujian",
+        "most_recent_tweet_id": "2090900345241436543",
+        "name": "糯叽叽_指声音",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086522712858583040/1693306417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881743436275167232/F8IMKJHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 3014,
+          "like_count": 15282,
+          "listed_count": 23,
+          "media_count": 275,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "Motimotito",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

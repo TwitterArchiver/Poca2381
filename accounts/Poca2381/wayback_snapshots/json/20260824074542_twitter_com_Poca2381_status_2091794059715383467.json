@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091486825869422592",
+        "3_2091486825852653569"
+      ],
+      "media_source_tweet_id": [
+        "2091516808364777606",
+        "2091516808364777606"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2091794059715383467",
+    "created_at": "2026-08-24T07:45:42.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T08:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091794059715383467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1456628912247947267",
+          "start": 3,
+          "username": "oblivion_bird"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EaBPTIcrtz",
+          "end": 75,
+          "expanded_url": "https://x.com/oblivion_bird/status/2091516808364777606/photo/1",
+          "media_key": "3_2091486825869422592",
+          "start": 52,
+          "url": "https://t.co/EaBPTIcrtz"
+        },
+        {
+          "display_url": "pic.x.com/EaBPTIcrtz",
+          "end": 75,
+          "expanded_url": "https://x.com/oblivion_bird/status/2091516808364777606/photo/1",
+          "media_key": "3_2091486825852653569",
+          "start": 52,
+          "url": "https://t.co/EaBPTIcrtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091794059715383467",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2091486825869422592"
+      },
+      {
+        "media_key": "3_2091486825852653569"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091516808364777606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oblivion_bird: 선배... 제 굿즈...\n나름 잘 나온거같아요...☺️☺️ https://t.co/EaBPTIcrtz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2091486825869422592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ0L9xbMAAb9Fm.jpg",
+        "width": 933
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2091486825852653569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ0L9tbUAEF2Ls.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091486825869422592",
+            "3_2091486825852653569"
+          ],
+          "media_source_tweet_id": [
+            "2091516808364777606",
+            "2091516808364777606"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2091794059715383467",
+        "created_at": "2026-08-24T07:45:42.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091794059715383467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1456628912247947267",
+              "start": 3,
+              "username": "oblivion_bird"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaBPTIcrtz",
+              "end": 75,
+              "expanded_url": "https://x.com/oblivion_bird/status/2091516808364777606/photo/1",
+              "media_key": "3_2091486825869422592",
+              "start": 52,
+              "url": "https://t.co/EaBPTIcrtz"
+            },
+            {
+              "display_url": "pic.x.com/EaBPTIcrtz",
+              "end": 75,
+              "expanded_url": "https://x.com/oblivion_bird/status/2091516808364777606/photo/1",
+              "media_key": "3_2091486825852653569",
+              "start": 52,
+              "url": "https://t.co/EaBPTIcrtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091794059715383467",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2091486825869422592"
+          },
+          {
+            "media_key": "3_2091486825852653569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091516808364777606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oblivion_bird: 선배... 제 굿즈...\n나름 잘 나온거같아요...☺️☺️ https://t.co/EaBPTIcrtz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091486825869422592",
+            "3_2091486825852653569"
+          ]
+        },
+        "author_id": "1456628912247947267",
+        "conversation_id": "2091516808364777606",
+        "created_at": "2026-08-23T13:24:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091516808364777606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaBPTIcrtz",
+              "end": 56,
+              "expanded_url": "https://x.com/oblivion_bird/status/2091516808364777606/photo/1",
+              "media_key": "3_2091486825869422592",
+              "start": 33,
+              "url": "https://t.co/EaBPTIcrtz"
+            },
+            {
+              "display_url": "pic.x.com/EaBPTIcrtz",
+              "end": 56,
+              "expanded_url": "https://x.com/oblivion_bird/status/2091516808364777606/photo/1",
+              "media_key": "3_2091486825852653569",
+              "start": 33,
+              "url": "https://t.co/EaBPTIcrtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091516808364777606",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2091486825869422592"
+          },
+          {
+            "media_key": "3_2091486825852653569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3672,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "선배... 제 굿즈...\n나름 잘 나온거같아요...☺️☺️ https://t.co/EaBPTIcrtz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091794070419177703",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24219,
+          "following_count": 10709,
+          "like_count": 155551,
+          "listed_count": 53,
+          "media_count": 6322,
+          "tweet_count": 57687
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-05T14:26:16.000Z",
+        "description": "Be ever wonderful",
+        "id": "1456628912247947267",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091661989848420404",
+        "name": "말라디",
+        "pinned_tweet_id": "2090383242650419429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1456628912247947267/1783678696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051625895874748416/WgYA-47J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3958,
+          "following_count": 528,
+          "like_count": 31348,
+          "listed_count": 34,
+          "media_count": 359,
+          "tweet_count": 2455
+        },
+        "url": "",
+        "username": "oblivion_bird",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

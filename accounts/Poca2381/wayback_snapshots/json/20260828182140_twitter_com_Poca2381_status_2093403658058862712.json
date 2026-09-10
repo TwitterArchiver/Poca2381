@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091753548971446274"
+      ],
+      "media_source_tweet_id": [
+        "2091753558882590745"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2093403658058862712",
+    "created_at": "2026-08-28T18:21:40.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T19:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093403658058862712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2376955854",
+          "start": 3,
+          "username": "ChibaSubaru_Kig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yro4zCqorD",
+          "end": 55,
+          "expanded_url": "https://x.com/ChibaSubaru_Kig/status/2091753558882590745/photo/1",
+          "media_key": "3_2091753548971446274",
+          "start": 32,
+          "url": "https://t.co/yro4zCqorD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093403658058862712",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091753548971446274"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091753558882590745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ChibaSubaru_Kig: 真有趣！该回家了…… https://t.co/yro4zCqorD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091753548971446274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdmxSwbEAIED8M.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091753548971446274"
+          ],
+          "media_source_tweet_id": [
+            "2091753558882590745"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2093403658058862712",
+        "created_at": "2026-08-28T18:21:40.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093403658058862712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2376955854",
+              "start": 3,
+              "username": "ChibaSubaru_Kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yro4zCqorD",
+              "end": 55,
+              "expanded_url": "https://x.com/ChibaSubaru_Kig/status/2091753558882590745/photo/1",
+              "media_key": "3_2091753548971446274",
+              "start": 32,
+              "url": "https://t.co/yro4zCqorD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093403658058862712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091753548971446274"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091753558882590745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ChibaSubaru_Kig: 真有趣！该回家了…… https://t.co/yro4zCqorD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091753548971446274"
+          ]
+        },
+        "author_id": "2376955854",
+        "conversation_id": "2091753558882590745",
+        "created_at": "2026-08-24T05:04:45.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091753558882590745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yro4zCqorD",
+              "end": 34,
+              "expanded_url": "https://x.com/ChibaSubaru_Kig/status/2091753558882590745/photo/1",
+              "media_key": "3_2091753548971446274",
+              "start": 11,
+              "url": "https://t.co/yro4zCqorD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091753558882590745",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091753548971446274"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 4659,
+          "like_count": 355,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "following",
+        "text": "真有趣！该回家了…… https://t.co/yro4zCqorD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093403664732090491",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24460,
+          "following_count": 10828,
+          "like_count": 155843,
+          "listed_count": 53,
+          "media_count": 6444,
+          "tweet_count": 58203
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-03-07T11:14:20.000Z",
+        "description": "【本账号为此平台唯一账号，如有此平台相似账号均为假冒】\n原社OC员工，也会另接国内的头壳维修、改造或部分制作委托\n目前所出角色：伊莉雅、明石、迪奥娜(报废待重置)、香菱、爱丽速子、小贝法、早柚、双涡轮、卡齐娜、岛风\n本账号不出售，内容未经允许，禁止转载！！\n随缘互相关注\nKigurumi┊Latex┊Furry",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chibas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/chibasubaru.bsky.social",
+                "start": 0,
+                "url": "https://t.co/hO3Bt9LkBz"
+              }
+            ]
+          }
+        },
+        "id": "2376955854",
+        "is_identity_verified": false,
+        "location": "Shenzhen",
+        "most_recent_tweet_id": "2093353136630976540",
+        "name": "千葉昴_Kig🐾",
+        "pinned_tweet_id": "1792495480598847858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2376955854/1737134331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782109215081041920/ltMW1Wje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18636,
+          "following_count": 2487,
+          "like_count": 72533,
+          "listed_count": 126,
+          "media_count": 747,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/hO3Bt9LkBz",
+        "username": "ChibaSubaru_Kig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

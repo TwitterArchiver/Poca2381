@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089729268351967232"
+      ],
+      "media_source_tweet_id": [
+        "2089729292943184174"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2090112997607997931",
+    "created_at": "2026-08-19T16:25:45.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090112997607997931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1460603099488284680",
+          "start": 3,
+          "username": "LQqCYT4uLfFFstL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/62mTwFc4Cn",
+          "end": 70,
+          "expanded_url": "https://x.com/LQqCYT4uLfFFstL/status/2089729292943184174/video/1",
+          "media_key": "13_2089729268351967232",
+          "start": 47,
+          "url": "https://t.co/62mTwFc4Cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090112997607997931",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2089729268351967232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089729292943184174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LQqCYT4uLfFFstL: dw穿这一身过去玩(｡ì _ í｡)!!!!俺来也 https://t.co/62mTwFc4Cn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8404,
+        "height": 1280,
+        "media_key": "13_2089729268351967232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089729268351967232/img/4qB13uCJXvZpuWIi.jpg",
+        "public_metrics": {
+          "view_count": 3257
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089729268351967232/vid/avc1/320x568/X-tAATbKEt31XJ6w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089729268351967232/vid/avc1/480x852/VpafYe3H96Ykvvpn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089729268351967232/vid/avc1/720x1280/Vgxxq7gUUwIqwsU3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089729268351967232/pl/x9RHNBAdAZMAUVuv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089729268351967232"
+          ],
+          "media_source_tweet_id": [
+            "2089729292943184174"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2090112997607997931",
+        "created_at": "2026-08-19T16:25:45.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090112997607997931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1460603099488284680",
+              "start": 3,
+              "username": "LQqCYT4uLfFFstL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/62mTwFc4Cn",
+              "end": 70,
+              "expanded_url": "https://x.com/LQqCYT4uLfFFstL/status/2089729292943184174/video/1",
+              "media_key": "13_2089729268351967232",
+              "start": 47,
+              "url": "https://t.co/62mTwFc4Cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090112997607997931",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089729268351967232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089729292943184174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LQqCYT4uLfFFstL: dw穿这一身过去玩(｡ì _ í｡)!!!!俺来也 https://t.co/62mTwFc4Cn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089729268351967232"
+          ]
+        },
+        "author_id": "1460603099488284680",
+        "conversation_id": "2089729292943184174",
+        "created_at": "2026-08-18T15:01:03.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089729292943184174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62mTwFc4Cn",
+              "end": 49,
+              "expanded_url": "https://x.com/LQqCYT4uLfFFstL/status/2089729292943184174/video/1",
+              "media_key": "13_2089729268351967232",
+              "start": 26,
+              "url": "https://t.co/62mTwFc4Cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089729292943184174",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089729268351967232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 8504,
+          "like_count": 276,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "dw穿这一身过去玩(｡ì _ í｡)!!!!俺来也 https://t.co/62mTwFc4Cn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090112997607997931",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24041,
+          "following_count": 10609,
+          "like_count": 155151,
+          "listed_count": 53,
+          "media_count": 6250,
+          "tweet_count": 57111
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-16T13:38:27.000Z",
+        "description": "窝叫沅沅｜💼👩‍💻@Pineguugagai1｜佛系记录生活希望能认识更优秀的同好｜👭@Meusmeow5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "Pineguugagai1"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Meusmeow5"
+              }
+            ]
+          }
+        },
+        "id": "1460603099488284680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089892169784123433",
+        "name": "yuan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1460603099488284680/1770489107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076357244422082560/6Uyk2Vpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 309,
+          "like_count": 1917,
+          "listed_count": 6,
+          "media_count": 42,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "LQqCYT4uLfFFstL",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

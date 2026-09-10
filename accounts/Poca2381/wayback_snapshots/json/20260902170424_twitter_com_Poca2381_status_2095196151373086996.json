@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094476702013677568"
+      ],
+      "media_source_tweet_id": [
+        "2094477000652316756"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2095196151373086996",
+    "created_at": "2026-09-02T17:04:24.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095196151373086996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "993886755878191104",
+          "start": 3,
+          "username": "tokiseki_kurumi"
+        },
+        {
+          "end": 39,
+          "id": "1358452927728283648",
+          "start": 25,
+          "username": "Kasumiiii_000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DWJdTY54A",
+          "end": 63,
+          "expanded_url": "https://x.com/tokiseki_kurumi/status/2094477000652316756/video/1",
+          "media_key": "13_2094476702013677568",
+          "start": 40,
+          "url": "https://t.co/8DWJdTY54A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095196151373086996",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2094476702013677568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094477000652316756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokiseki_kurumi: 涩涩！\n@Kasumiiii_000 https://t.co/8DWJdTY54A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32820,
+        "height": 3840,
+        "media_key": "13_2094476702013677568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094476702013677568/img/LzM8QnY2Twi0Imaj.jpg",
+        "public_metrics": {
+          "view_count": 7025
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094476702013677568/vid/avc1/480x852/BU3ePUudz-TyPfVW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094476702013677568/vid/avc1/1080x1920/zQuzt-N_yjgjjDFs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094476702013677568/pl/4gTeUPKiTbNH-5Fg.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094476702013677568/vid/avc1/320x568/c219u5KKRIdTPhQ3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094476702013677568/vid/avc1/720x1280/-Is3K8QAp38q_4wc.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094476702013677568/vid/avc1/2160x3840/BeoNcXk3umJMs02u.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094476702013677568"
+          ],
+          "media_source_tweet_id": [
+            "2094477000652316756"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2095196151373086996",
+        "created_at": "2026-09-02T17:04:24.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095196151373086996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "993886755878191104",
+              "start": 3,
+              "username": "tokiseki_kurumi"
+            },
+            {
+              "end": 39,
+              "id": "1358452927728283648",
+              "start": 25,
+              "username": "Kasumiiii_000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DWJdTY54A",
+              "end": 63,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2094477000652316756/video/1",
+              "media_key": "13_2094476702013677568",
+              "start": 40,
+              "url": "https://t.co/8DWJdTY54A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095196151373086996",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094476702013677568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094477000652316756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokiseki_kurumi: 涩涩！\n@Kasumiiii_000 https://t.co/8DWJdTY54A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094476702013677568"
+          ]
+        },
+        "author_id": "993886755878191104",
+        "conversation_id": "2094477000652316756",
+        "created_at": "2026-08-31T17:26:45.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094477000652316756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1358452927728283648",
+              "start": 4,
+              "username": "Kasumiiii_000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DWJdTY54A",
+              "end": 42,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2094477000652316756/video/1",
+              "media_key": "13_2094476702013677568",
+              "start": 19,
+              "url": "https://t.co/8DWJdTY54A"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "206e932cc0e89fa2"
+        },
+        "id": "2094477000652316756",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094476702013677568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 13354,
+          "like_count": 858,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "涩涩！\n@Kasumiiii_000 https://t.co/8DWJdTY54A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095196151373086996",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24831,
+          "following_count": 10941,
+          "like_count": 156153,
+          "listed_count": 53,
+          "media_count": 6560,
+          "tweet_count": 58735
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g1990033159623422010/i28K3XoY5L",
+                "start": 0,
+                "url": "https://t.co/Jtngzd0IB3"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "is_identity_verified": false,
+        "location": "USC, Los Angeles",
+        "most_recent_tweet_id": "2095098137535033364",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/993886755878191104/1704530910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28503,
+          "following_count": 14920,
+          "like_count": 3226,
+          "listed_count": 80,
+          "media_count": 3203,
+          "tweet_count": 10367
+        },
+        "url": "https://t.co/Jtngzd0IB3",
+        "username": "tokiseki_kurumi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-07T16:30:01.000Z",
+        "description": "湾区/bay area/伪娘/双性恋/媚黑/屌照私聊欢迎/dic pic welcome/找金主",
+        "id": "1358452927728283648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095097732553973781",
+        "name": "伪娘小霞Kasumi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704355510819139584/iq1wOq2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 342,
+          "like_count": 359,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "Kasumiiii_000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

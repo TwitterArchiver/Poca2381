@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2092820469787574766",
+    "created_at": "2026-08-27T20:53:01.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093079358844158345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093079358844158345",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092820469787574766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@__Crazy_Kid__ 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2092820463835881472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsxH6WbIAAT7PC.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2092820469787574766",
+        "created_at": "2026-08-27T20:53:01.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093079358844158345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093079358844158345",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092820469787574766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@__Crazy_Kid__ 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092820463835881472"
+          ]
+        },
+        "author_id": "1144143792",
+        "conversation_id": "2092820469787574766",
+        "created_at": "2026-08-27T03:44:17.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092820469787574766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzcKRLfrR5",
+              "end": 40,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2092820469787574766/photo/1",
+              "media_key": "3_2092820463835881472",
+              "start": 17,
+              "url": "https://t.co/jzcKRLfrR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092820469787574766",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092820463835881472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1717,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "日语终于入门了，虽然只是个臭N5 https://t.co/jzcKRLfrR5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093079358844158345",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24400,
+          "following_count": 10817,
+          "like_count": 155816,
+          "listed_count": 53,
+          "media_count": 6420,
+          "tweet_count": 58133
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / Vibe Coding / Rhythm Game Fever /バンドリ! / 全网首台maimai主题痛四轮车主 / 🇨🇳 中文 🇭🇰🇲🇴粵語 🇯🇵日本語N5レベル初心\nBuilding https://t.co/7U2e6cCH9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maimai-net.cn",
+                "end": 139,
+                "expanded_url": "https://maimai-net.cn/",
+                "start": 116,
+                "url": "https://t.co/7U2e6cCH9L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eap0XQ"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "is_identity_verified": true,
+        "location": "中国",
+        "most_recent_tweet_id": "2092986665489031517",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144143792/1767320896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5333,
+          "following_count": 1462,
+          "like_count": 19586,
+          "listed_count": 32,
+          "media_count": 11109,
+          "tweet_count": 51205
+        },
+        "url": "https://t.co/bAk8eap0XQ",
+        "username": "__Crazy_Kid__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

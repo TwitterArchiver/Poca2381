@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090630468236619776"
+      ],
+      "media_source_tweet_id": [
+        "2090630676081164450"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090681112486187244",
+    "created_at": "2026-08-21T06:03:14.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090681112486187244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733963032160854016",
+          "start": 3,
+          "username": "DARKSTUDIOHK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tYQ8YJE5gA",
+          "end": 50,
+          "expanded_url": "https://x.com/DARKSTUDIOHK/status/2090630676081164450/video/1",
+          "media_key": "13_2090630468236619776",
+          "start": 27,
+          "url": "https://t.co/tYQ8YJE5gA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090681112486187244",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090630468236619776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090630676081164450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DARKSTUDIOHK: VIP卡太好玩啦 https://t.co/tYQ8YJE5gA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25803,
+        "height": 1280,
+        "media_key": "13_2090630468236619776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090630468236619776/img/CDrc-2iHxImzF370.jpg",
+        "public_metrics": {
+          "view_count": 152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090630468236619776/vid/avc1/320x568/_HMbdwkU2bfRaZfV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090630468236619776/vid/avc1/480x852/GFjkqyZf8xVkYX38.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090630468236619776/vid/avc1/720x1280/PaJSrbNdrrPqjg7C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090630468236619776/pl/Lj7ieTanUVS7Tksv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090630468236619776"
+          ],
+          "media_source_tweet_id": [
+            "2090630676081164450"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090681112486187244",
+        "created_at": "2026-08-21T06:03:14.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090681112486187244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733963032160854016",
+              "start": 3,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYQ8YJE5gA",
+              "end": 50,
+              "expanded_url": "https://x.com/DARKSTUDIOHK/status/2090630676081164450/video/1",
+              "media_key": "13_2090630468236619776",
+              "start": 27,
+              "url": "https://t.co/tYQ8YJE5gA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090681112486187244",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090630468236619776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090630676081164450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DARKSTUDIOHK: VIP卡太好玩啦 https://t.co/tYQ8YJE5gA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090630468236619776"
+          ]
+        },
+        "author_id": "1733963032160854016",
+        "conversation_id": "2090630676081164450",
+        "created_at": "2026-08-21T02:42:49.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090630676081164450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYQ8YJE5gA",
+              "end": 32,
+              "expanded_url": "https://x.com/DARKSTUDIOHK/status/2090630676081164450/video/1",
+              "media_key": "13_2090630468236619776",
+              "start": 9,
+              "url": "https://t.co/tYQ8YJE5gA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090630676081164450",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090630468236619776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "VIP卡太好玩啦 https://t.co/tYQ8YJE5gA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090681112486187244",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24101,
+          "following_count": 10635,
+          "like_count": 155343,
+          "listed_count": 53,
+          "media_count": 6277,
+          "tweet_count": 57363
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T21:33:14.000Z",
+        "description": "来自中国的 kigurumi 玩家，下一個展會是DW14",
+        "id": "1733963032160854016",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2090630676081164450",
+        "name": "K.S.",
+        "pinned_tweet_id": "2088182380326772812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733963032160854016/1786724450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088299774210617349/E1hMPoln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 336,
+          "like_count": 1618,
+          "listed_count": 18,
+          "media_count": 176,
+          "tweet_count": 1442
+        },
+        "url": "",
+        "username": "DARKSTUDIOHK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

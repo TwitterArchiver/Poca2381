@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091061337401298944"
+      ],
+      "media_source_tweet_id": [
+        "2091061389918183880"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091274100316786899",
+    "created_at": "2026-08-22T21:19:34.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T22:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091274100316786899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1377216684394602499",
+          "start": 3,
+          "username": "yuzuki_no_kaori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/owXXtmTtYI",
+          "end": 61,
+          "expanded_url": "https://x.com/yuzuki_no_kaori/status/2091061389918183880/video/1",
+          "media_key": "13_2091061337401298944",
+          "start": 38,
+          "url": "https://t.co/owXXtmTtYI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091274100316786899",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091061337401298944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091061389918183880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzuki_no_kaori: サンゴってほんとに気が強いね…！ https://t.co/owXXtmTtYI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16415,
+        "height": 1920,
+        "media_key": "13_2091061337401298944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091061337401298944/img/0K7YmjYMPV7RHMYg.jpg",
+        "public_metrics": {
+          "view_count": 987
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091061337401298944/vid/avc1/320x568/nSKsVzRNZBwxxnV0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091061337401298944/vid/avc1/1080x1920/LfIDjcqfJbSRrwPk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091061337401298944/vid/avc1/480x852/jp8Fre5N2DttGugg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091061337401298944/pl/ZQzQbEQo65hUw-Vy.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091061337401298944/vid/avc1/720x1280/Gjp6XoO2PijuLIou.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091061337401298944"
+          ],
+          "media_source_tweet_id": [
+            "2091061389918183880"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091274100316786899",
+        "created_at": "2026-08-22T21:19:34.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091274100316786899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1377216684394602499",
+              "start": 3,
+              "username": "yuzuki_no_kaori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/owXXtmTtYI",
+              "end": 61,
+              "expanded_url": "https://x.com/yuzuki_no_kaori/status/2091061389918183880/video/1",
+              "media_key": "13_2091061337401298944",
+              "start": 38,
+              "url": "https://t.co/owXXtmTtYI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091274100316786899",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091061337401298944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091061389918183880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzuki_no_kaori: サンゴってほんとに気が強いね…！ https://t.co/owXXtmTtYI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091061337401298944"
+          ]
+        },
+        "author_id": "1377216684394602499",
+        "conversation_id": "2091061389918183880",
+        "created_at": "2026-08-22T07:14:20.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091061389918183880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/owXXtmTtYI",
+              "end": 40,
+              "expanded_url": "https://x.com/yuzuki_no_kaori/status/2091061389918183880/video/1",
+              "media_key": "13_2091061337401298944",
+              "start": 17,
+              "url": "https://t.co/owXXtmTtYI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091061389918183880",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091061337401298944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3197,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "サンゴってほんとに気が強いね…！ https://t.co/owXXtmTtYI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091274100316786899",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24143,
+          "following_count": 10681,
+          "like_count": 155442,
+          "listed_count": 53,
+          "media_count": 6296,
+          "tweet_count": 57510
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-31T11:10:30.000Z",
+        "description": "kigurumi｜latex🍫@yuzuno_xxoo 🍓@nonoki_xxoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "yuzuno_xxoo"
+              },
+              {
+                "end": 41,
+                "start": 29,
+                "username": "nonoki_xxoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yuzukigurumi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yuzukigurumi",
+                "start": 0,
+                "url": "https://t.co/xJa2W6cegC"
+              }
+            ]
+          }
+        },
+        "id": "1377216684394602499",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2091246921575006540",
+        "name": "柚希Yuzuki",
+        "pinned_tweet_id": "2017552715774386670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377216684394602499/1617719743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379441567421714435/dGr_GlxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51206,
+          "following_count": 731,
+          "like_count": 8665,
+          "listed_count": 149,
+          "media_count": 598,
+          "tweet_count": 4699
+        },
+        "url": "https://t.co/xJa2W6cegC",
+        "username": "yuzuki_no_kaori",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079854453625331712"
+      ],
+      "media_source_tweet_id": [
+        "2079855610921959686"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2094400027867369980",
+    "created_at": "2026-08-31T12:20:53.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094400027867369980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1955827622723948544",
+          "start": 3,
+          "username": "shuga_kigurumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dj67tyCBzN",
+          "end": 57,
+          "expanded_url": "https://x.com/shuga_kigurumi/status/2079855610921959686/video/1",
+          "media_key": "13_2079854453625331712",
+          "start": 34,
+          "url": "https://t.co/Dj67tyCBzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094400027867369980",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2079854453625331712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079855610921959686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuga_kigurumi: Come here! ~♡ https://t.co/Dj67tyCBzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6433,
+        "height": 1920,
+        "media_key": "13_2079854453625331712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079854453625331712/img/3H8rtuklG2tztFcB.jpg",
+        "public_metrics": {
+          "view_count": 4225
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079854453625331712/vid/avc1/480x852/hy0ss2LjIidcL_hI.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079854453625331712/vid/avc1/320x568/LjRgFjuuLvfxbrA_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079854453625331712/pl/BX3vTA4z2QRtCeIZ.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079854453625331712/vid/avc1/1080x1920/6O-BXb2N0yJK9CAu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079854453625331712/vid/avc1/720x1280/RQSjG9ZJshFcdL_o.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079854453625331712"
+          ],
+          "media_source_tweet_id": [
+            "2079855610921959686"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2094400027867369980",
+        "created_at": "2026-08-31T12:20:53.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094400027867369980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1955827622723948544",
+              "start": 3,
+              "username": "shuga_kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dj67tyCBzN",
+              "end": 57,
+              "expanded_url": "https://x.com/shuga_kigurumi/status/2079855610921959686/video/1",
+              "media_key": "13_2079854453625331712",
+              "start": 34,
+              "url": "https://t.co/Dj67tyCBzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094400027867369980",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2079854453625331712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079855610921959686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuga_kigurumi: Come here! ~♡ https://t.co/Dj67tyCBzN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079854453625331712"
+          ]
+        },
+        "author_id": "1955827622723948544",
+        "conversation_id": "2079855610921959686",
+        "created_at": "2026-07-22T09:06:34.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079855610921959686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dj67tyCBzN",
+              "end": 37,
+              "expanded_url": "https://x.com/shuga_kigurumi/status/2079855610921959686/video/1",
+              "media_key": "13_2079854453625331712",
+              "start": 14,
+              "url": "https://t.co/Dj67tyCBzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079855610921959686",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2079854453625331712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 131416,
+          "like_count": 1110,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "Come here! ~♡ https://t.co/Dj67tyCBzN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2094400040815186038",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24625,
+          "following_count": 10908,
+          "like_count": 156037,
+          "listed_count": 53,
+          "media_count": 6501,
+          "tweet_count": 58516
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T03:03:50.000Z",
+        "description": "スタジオ・ロングマカのかわいい店員、シュガちゃんだよ！ みんな、よろしくね！\n슈가쨩이에요! 잘 부탁 드려요!\n@Studio_RonMaca Staff / 🇰🇷 ok 🇯🇵 ok 🇺🇲 little bit & translator 🇨🇳 translator",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "Studio_RonMaca"
+              }
+            ]
+          }
+        },
+        "id": "1955827622723948544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094388686708420699",
+        "name": "Shuga!",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955827622723948544/1772348450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027729147922157573/LKge8iQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 471,
+          "like_count": 2616,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "shuga_kigurumi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

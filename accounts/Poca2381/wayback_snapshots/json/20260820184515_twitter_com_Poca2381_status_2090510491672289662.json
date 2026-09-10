@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2090510491672289662",
+    "created_at": "2026-08-20T18:45:15.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090510491672289662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775851282710122496",
+          "start": 3,
+          "username": "Vincy1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090510491672289662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090319556283920549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vincy1230: 突然意识到一个笑点，我的父母同时信奉“穷养儿子早当家”、“要让孩子学点金融知识”和“考公务员拿铁饭碗”三个观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2090510491672289662",
+        "created_at": "2026-08-20T18:45:15.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090510491672289662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775851282710122496",
+              "start": 3,
+              "username": "Vincy1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090510491672289662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090319556283920549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vincy1230: 突然意识到一个笑点，我的父母同时信奉“穷养儿子早当家”、“要让孩子学点金融知识”和“考公务员拿铁饭碗”三个观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775851282710122496",
+        "conversation_id": "2090319556283920549",
+        "created_at": "2026-08-20T06:06:33.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090319556283920549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090319556283920549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6782,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到一个笑点，我的父母同时信奉“穷养儿子早当家”、“要让孩子学点金融知识”和“考公务员拿铁饭碗”三个观点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090510491672289662",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24082,
+          "following_count": 10638,
+          "like_count": 155332,
+          "listed_count": 53,
+          "media_count": 6275,
+          "tweet_count": 57347
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BeforeDawnBreak"
+              }
+            ]
+          }
+        },
+        "id": "1775851282710122496",
+        "is_identity_verified": true,
+        "location": "Macau / Shanghai, P.R.China",
+        "most_recent_tweet_id": "2090383022030037254",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "2037130563954569328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775851282710122496/1740850327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988826120104603648/qlvWl5oH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 211,
+          "like_count": 1110,
+          "listed_count": 6,
+          "media_count": 497,
+          "tweet_count": 3978
+        },
+        "url": "",
+        "username": "Vincy1230",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

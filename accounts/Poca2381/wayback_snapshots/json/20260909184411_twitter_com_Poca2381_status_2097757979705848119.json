@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097364338957066240"
+      ],
+      "media_source_tweet_id": [
+        "2097560380901921182"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2097757979705848119",
+    "created_at": "2026-09-09T18:44:11.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097757979705848119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0nWQilUAL8",
+          "end": 52,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2097560380901921182/photo/1",
+          "media_key": "3_2097364338957066240",
+          "start": 29,
+          "url": "https://t.co/0nWQilUAL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097757979705848119",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097364338957066240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097560380901921182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 我的贫困程度： https://t.co/0nWQilUAL8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_2097364338957066240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtVwQQboAA9BLm.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097364338957066240"
+          ],
+          "media_source_tweet_id": [
+            "2097560380901921182"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2097757979705848119",
+        "created_at": "2026-09-09T18:44:11.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097757979705848119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nWQilUAL8",
+              "end": 52,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2097560380901921182/photo/1",
+              "media_key": "3_2097364338957066240",
+              "start": 29,
+              "url": "https://t.co/0nWQilUAL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097757979705848119",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097364338957066240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097560380901921182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 我的贫困程度： https://t.co/0nWQilUAL8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097364338957066240"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2097560380901921182",
+        "created_at": "2026-09-09T05:39:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097560380901921182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nWQilUAL8",
+              "end": 31,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2097560380901921182/photo/1",
+              "media_key": "3_2097364338957066240",
+              "start": 8,
+              "url": "https://t.co/0nWQilUAL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097560380901921182",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097364338957066240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 139805,
+          "like_count": 1137,
+          "quote_count": 6,
+          "reply_count": 235,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我的贫困程度： https://t.co/0nWQilUAL8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2097757979705848119",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25032,
+          "following_count": 11091,
+          "like_count": 156717,
+          "listed_count": 53,
+          "media_count": 6763,
+          "tweet_count": 59670
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2097753298623471714",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 1916,
+          "like_count": 3415,
+          "listed_count": 2,
+          "media_count": 1553,
+          "tweet_count": 9097
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

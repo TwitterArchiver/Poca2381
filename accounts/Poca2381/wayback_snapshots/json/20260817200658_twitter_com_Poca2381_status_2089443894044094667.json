@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2089272141690835289",
+    "created_at": "2026-08-17T20:06:58.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T21:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089443894044094667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1123092821249077249",
+          "start": 0,
+          "username": "lachsargument"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089443894044094667",
+    "in_reply_to_user_id": "1123092821249077249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089272141690835289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lachsargument 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2089272141690835289].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2089272141690835289",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2089272141690835289"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2089272141690835289",
+        "created_at": "2026-08-17T20:06:58.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089443894044094667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1123092821249077249",
+              "start": 0,
+              "username": "lachsargument"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089443894044094667",
+        "in_reply_to_user_id": "1123092821249077249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089272141690835289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lachsargument 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089443894044094667",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23987,
+          "following_count": 10540,
+          "like_count": 155007,
+          "listed_count": 53,
+          "media_count": 6210,
+          "tweet_count": 56819
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-30T05:12:49.000Z",
+        "description": "烘烤着的鱼梦见海洋",
+        "id": "1123092821249077249",
+        "is_identity_verified": false,
+        "location": "浙北公社联合",
+        "most_recent_tweet_id": "2051566309385895981",
+        "name": "khangai",
+        "pinned_tweet_id": "2063649090194522252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123092821249077249/1689259227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005682161526226944/y2CyLPzy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 5107,
+          "like_count": 86885,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1371
+        },
+        "url": "",
+        "username": "lachsargument",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

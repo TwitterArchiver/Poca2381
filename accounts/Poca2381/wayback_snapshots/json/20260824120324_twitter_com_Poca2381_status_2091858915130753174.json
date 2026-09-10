@@ -1,0 +1,586 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091796253810229248"
+      ],
+      "media_source_tweet_id": [
+        "2091796281870188707"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2091858915130753174",
+    "created_at": "2026-08-24T12:03:24.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091858915130753174"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "rezero"
+        },
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "リゼロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243000977533235200",
+          "start": 3,
+          "username": "achenyea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5iQoH4NMeZ",
+          "end": 66,
+          "expanded_url": "https://x.com/achenyea/status/2091796281870188707/photo/1",
+          "media_key": "3_2091796253810229248",
+          "start": 43,
+          "url": "https://t.co/5iQoH4NMeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091858915130753174",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2091796253810229248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091796281870188707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @achenyea: #rezero #kigurumi #着ぐるみ #リゼロ https://t.co/5iQoH4NMeZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2091796253810229248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeNnCraAAAko5-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091796253810229248"
+          ],
+          "media_source_tweet_id": [
+            "2091796281870188707"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2091858915130753174",
+        "created_at": "2026-08-24T12:03:24.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091858915130753174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "rezero"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "リゼロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243000977533235200",
+              "start": 3,
+              "username": "achenyea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5iQoH4NMeZ",
+              "end": 66,
+              "expanded_url": "https://x.com/achenyea/status/2091796281870188707/photo/1",
+              "media_key": "3_2091796253810229248",
+              "start": 43,
+              "url": "https://t.co/5iQoH4NMeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091858915130753174",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091796253810229248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091796281870188707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @achenyea: #rezero #kigurumi #着ぐるみ #リゼロ https://t.co/5iQoH4NMeZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091796253810229248"
+          ]
+        },
+        "author_id": "1243000977533235200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2091796281870188707",
+        "created_at": "2026-08-24T07:54:31.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091796281870188707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "rezero"
+            },
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "リゼロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5iQoH4NMeZ",
+              "end": 52,
+              "expanded_url": "https://x.com/achenyea/status/2091796281870188707/photo/1",
+              "media_key": "3_2091796253810229248",
+              "start": 29,
+              "url": "https://t.co/5iQoH4NMeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091796281870188707",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091796253810229248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1969,
+          "like_count": 152,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#rezero #kigurumi #着ぐるみ #リゼロ https://t.co/5iQoH4NMeZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091858923859116394",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24225,
+          "following_count": 10715,
+          "like_count": 155566,
+          "listed_count": 53,
+          "media_count": 6325,
+          "tweet_count": 57709
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-26T02:25:17.000Z",
+        "description": "妹k 中文ok/English ok/日本語 only 翻訳 需要回关可以私信喵",
+        "id": "1243000977533235200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091796281870188707",
+        "name": "椰雨声烦",
+        "pinned_tweet_id": "1918839641551085868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243000977533235200/1754476751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954238978061991936/oMkqDeC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 346,
+          "like_count": 1842,
+          "listed_count": 20,
+          "media_count": 68,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "achenyea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

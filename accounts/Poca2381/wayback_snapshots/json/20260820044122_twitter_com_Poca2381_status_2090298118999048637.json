@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089961375384879105"
+      ],
+      "media_source_tweet_id": [
+        "2089961383849033985"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2090298118999048637",
+    "created_at": "2026-08-20T04:41:22.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090298118999048637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1931114312296538112",
+          "start": 3,
+          "username": "Ayumi_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VbaeVfWoAa",
+          "end": 48,
+          "expanded_url": "https://x.com/Ayumi_8964/status/2089961383849033985/photo/1",
+          "media_key": "3_2089961375384879105",
+          "start": 25,
+          "url": "https://t.co/VbaeVfWoAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090298118999048637",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089961375384879105"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089961383849033985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayumi_8964: 我心依旧是中国心 https://t.co/VbaeVfWoAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089961375384879105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEIzD4aQAEI5VJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089961375384879105"
+          ],
+          "media_source_tweet_id": [
+            "2089961383849033985"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2090298118999048637",
+        "created_at": "2026-08-20T04:41:22.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090298118999048637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931114312296538112",
+              "start": 3,
+              "username": "Ayumi_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbaeVfWoAa",
+              "end": 48,
+              "expanded_url": "https://x.com/Ayumi_8964/status/2089961383849033985/photo/1",
+              "media_key": "3_2089961375384879105",
+              "start": 25,
+              "url": "https://t.co/VbaeVfWoAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090298118999048637",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089961375384879105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089961383849033985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayumi_8964: 我心依旧是中国心 https://t.co/VbaeVfWoAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089961375384879105"
+          ]
+        },
+        "author_id": "1931114312296538112",
+        "conversation_id": "2089961383849033985",
+        "created_at": "2026-08-19T06:23:18.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089961383849033985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbaeVfWoAa",
+              "end": 32,
+              "expanded_url": "https://x.com/Ayumi_8964/status/2089961383849033985/photo/1",
+              "media_key": "3_2089961375384879105",
+              "start": 9,
+              "url": "https://t.co/VbaeVfWoAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089961383849033985",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089961375384879105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1450,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我心依旧是中国心 https://t.co/VbaeVfWoAa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2090298118999048637",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24062,
+          "following_count": 10618,
+          "like_count": 155215,
+          "listed_count": 53,
+          "media_count": 6255,
+          "tweet_count": 57197
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "AYUMI OF THE GODS\n@OneMultiplied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "OneMultiplied"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "is_identity_verified": false,
+        "location": "参宿四",
+        "most_recent_tweet_id": "2090259058519597065",
+        "name": "愛島零代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1931114312296538112/1749719184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984666097728307205/dDatg5XI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 399,
+          "like_count": 3512,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "Ayumi_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

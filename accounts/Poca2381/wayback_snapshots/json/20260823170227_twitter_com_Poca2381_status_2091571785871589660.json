@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091464757350166528",
+        "3_2091464773296889856",
+        "3_2091464785242329088",
+        "3_2091464797086945280"
+      ],
+      "media_source_tweet_id": [
+        "2091464820532854904",
+        "2091464820532854904",
+        "2091464820532854904",
+        "2091464820532854904"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091571785871589660",
+    "created_at": "2026-08-23T17:02:27.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091571785871589660"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "dollweekend"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "DW14"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2687832823",
+          "start": 3,
+          "username": "chidorikaname72"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nomu3AcOI5",
+          "end": 76,
+          "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+          "media_key": "3_2091464757350166528",
+          "start": 53,
+          "url": "https://t.co/Nomu3AcOI5"
+        },
+        {
+          "display_url": "pic.x.com/Nomu3AcOI5",
+          "end": 76,
+          "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+          "media_key": "3_2091464773296889856",
+          "start": 53,
+          "url": "https://t.co/Nomu3AcOI5"
+        },
+        {
+          "display_url": "pic.x.com/Nomu3AcOI5",
+          "end": 76,
+          "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+          "media_key": "3_2091464785242329088",
+          "start": 53,
+          "url": "https://t.co/Nomu3AcOI5"
+        },
+        {
+          "display_url": "pic.x.com/Nomu3AcOI5",
+          "end": 76,
+          "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+          "media_key": "3_2091464797086945280",
+          "start": 53,
+          "url": "https://t.co/Nomu3AcOI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091571785871589660",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091464757350166528"
+      },
+      {
+        "media_key": "3_2091464773296889856"
+      },
+      {
+        "media_key": "3_2091464785242329088"
+      },
+      {
+        "media_key": "3_2091464797086945280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091464820532854904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chidorikaname72: 活動沒有結束，它正要開始\n#dollweekend #DW14 https://t.co/Nomu3AcOI5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2091464757350166528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZgHaIa8AAlL52.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1755,
+        "media_key": "3_2091464773296889856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZgIViaoAA0gEX.jpg",
+        "width": 1314
+      },
+      {
+        "height": 2672,
+        "media_key": "3_2091464785242329088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZgJCCbkAA0bne.jpg",
+        "width": 2671
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091464797086945280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZgJuKaEAAc5bT.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091464757350166528",
+            "3_2091464773296889856",
+            "3_2091464785242329088",
+            "3_2091464797086945280"
+          ],
+          "media_source_tweet_id": [
+            "2091464820532854904",
+            "2091464820532854904",
+            "2091464820532854904",
+            "2091464820532854904"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091571785871589660",
+        "created_at": "2026-08-23T17:02:27.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091571785871589660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "dollweekend"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "DW14"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2687832823",
+              "start": 3,
+              "username": "chidorikaname72"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 76,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464757350166528",
+              "start": 53,
+              "url": "https://t.co/Nomu3AcOI5"
+            },
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 76,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464773296889856",
+              "start": 53,
+              "url": "https://t.co/Nomu3AcOI5"
+            },
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 76,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464785242329088",
+              "start": 53,
+              "url": "https://t.co/Nomu3AcOI5"
+            },
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 76,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464797086945280",
+              "start": 53,
+              "url": "https://t.co/Nomu3AcOI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091571785871589660",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091464757350166528"
+          },
+          {
+            "media_key": "3_2091464773296889856"
+          },
+          {
+            "media_key": "3_2091464785242329088"
+          },
+          {
+            "media_key": "3_2091464797086945280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091464820532854904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chidorikaname72: 活動沒有結束，它正要開始\n#dollweekend #DW14 https://t.co/Nomu3AcOI5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091464757350166528",
+            "3_2091464773296889856",
+            "3_2091464785242329088",
+            "3_2091464797086945280"
+          ]
+        },
+        "author_id": "2687832823",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091464820532854904",
+        "created_at": "2026-08-23T09:57:25.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091464820532854904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "dollweekend"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "DW14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 55,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464757350166528",
+              "start": 32,
+              "url": "https://t.co/Nomu3AcOI5"
+            },
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 55,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464773296889856",
+              "start": 32,
+              "url": "https://t.co/Nomu3AcOI5"
+            },
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 55,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464785242329088",
+              "start": 32,
+              "url": "https://t.co/Nomu3AcOI5"
+            },
+            {
+              "display_url": "pic.x.com/Nomu3AcOI5",
+              "end": 55,
+              "expanded_url": "https://x.com/chidorikaname72/status/2091464820532854904/photo/1",
+              "media_key": "3_2091464797086945280",
+              "start": 32,
+              "url": "https://t.co/Nomu3AcOI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091464820532854904",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091464757350166528"
+          },
+          {
+            "media_key": "3_2091464773296889856"
+          },
+          {
+            "media_key": "3_2091464785242329088"
+          },
+          {
+            "media_key": "3_2091464797086945280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1788,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "活動沒有結束，它正要開始\n#dollweekend #DW14 https://t.co/Nomu3AcOI5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091571785871589660",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24195,
+          "following_count": 10691,
+          "like_count": 155537,
+          "listed_count": 53,
+          "media_count": 6311,
+          "tweet_count": 57658
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-28T15:52:49.000Z",
+        "description": "愛與同好聚餐、豪飲、轉推😋🍻\n(QQ:2127255398)✨欢迎扩列\n(dy:钱加奈/ xhs:钱钱爱秀腿)\n(VRC:00000_錢加奈)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/chidorikaname7…",
+                "end": 23,
+                "expanded_url": "https://x.com/chidorikaname72?t=FmEVXgkh8XgarrD2kdiT-w&s=09",
+                "start": 0,
+                "url": "https://t.co/n4nafoMIPn"
+              }
+            ]
+          }
+        },
+        "id": "2687832823",
+        "is_identity_verified": false,
+        "location": "酒鄉途",
+        "most_recent_tweet_id": "2091525653111914999",
+        "name": "錢加奈/かなめ/Kaname (次回: DW14)",
+        "pinned_tweet_id": "1638101781061451778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2687832823/1765856631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975358691206668288/-r83Xq4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9677,
+          "following_count": 3044,
+          "like_count": 28645,
+          "listed_count": 89,
+          "media_count": 474,
+          "tweet_count": 10871
+        },
+        "url": "https://t.co/n4nafoMIPn",
+        "username": "chidorikaname72",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

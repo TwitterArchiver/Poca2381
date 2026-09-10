@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2093027224194814343",
+    "created_at": "2026-08-27T17:25:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093027224194814343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527981053293756416",
+          "start": 3,
+          "username": "James_SWind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093027224194814343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087464836175368290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @James_SWind: 2026.7.25\n武汉CGF \n明日方舟 煌 \nkigurumi 场照\n——————————————————\n我相信，在那个存在的将来，感染者将不用为了自己最基本的权利而流干最后一滴血。\n博士，什么时候出发？\n空气灼烧着肺部，温度刚刚好！\n—…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2087464825752530944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgqMvwaMAAryk-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2087464825756807168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgqMvxbcAA6Pcc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2093027224194814343",
+        "created_at": "2026-08-27T17:25:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093027224194814343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527981053293756416",
+              "start": 3,
+              "username": "James_SWind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093027224194814343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087464836175368290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @James_SWind: 2026.7.25\n武汉CGF \n明日方舟 煌 \nkigurumi 场照\n——————————————————\n我相信，在那个存在的将来，感染者将不用为了自己最基本的权利而流干最后一滴血。\n博士，什么时候出发？\n空气灼烧着肺部，温度刚刚好！\n—…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087464825752530944",
+            "3_2087464825756807168"
+          ]
+        },
+        "author_id": "1527981053293756416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2087464836175368290",
+        "created_at": "2026-08-12T09:02:54.000Z",
+        "display_text_range": [
+          0,
+          198
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087464836175368290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 162,
+              "id": "1640708462224240642",
+              "start": 147,
+              "username": "zhuangzhuang91"
+            },
+            {
+              "end": 177,
+              "id": "1413005842526326784",
+              "start": 166,
+              "username": "heyaoheyao"
+            },
+            {
+              "end": 198,
+              "id": "1804438376495587328",
+              "start": 187,
+              "username": "DWhale0715"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3HIW15Fo8",
+              "end": 222,
+              "expanded_url": "https://x.com/James_SWind/status/2087464836175368290/photo/1",
+              "media_key": "3_2087464825752530944",
+              "start": 199,
+              "url": "https://t.co/O3HIW15Fo8"
+            },
+            {
+              "display_url": "pic.x.com/O3HIW15Fo8",
+              "end": 222,
+              "expanded_url": "https://x.com/James_SWind/status/2087464836175368290/photo/1",
+              "media_key": "3_2087464825756807168",
+              "start": 199,
+              "url": "https://t.co/O3HIW15Fo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087464836175368290",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087464825752530944"
+          },
+          {
+            "media_key": "3_2087464825756807168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2179,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "2026.7.25\n武汉CGF \n明日方舟 煌 \nkigurumi 场照\n——————————————————\n我相信，在那个存在的将来，感染者将不用为了自己最基本的权利而流干最后一滴血。\n博士，什么时候出发？\n空气灼烧着肺部，温度刚刚好！\n——————————————————\n🐱：本人\n📸：@zhuangzhuang91 \n🎭：@heyaoheyao \n🧳💪🏾👨🏾‍🦲：@DWhale0715 https://t.co/O3HIW15Fo8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2093027238572867976",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24394,
+          "following_count": 10816,
+          "like_count": 155800,
+          "listed_count": 53,
+          "media_count": 6409,
+          "tweet_count": 58108
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-21T11:54:28.000Z",
+        "description": "萌新kiger，最爱煌猫猫/零²姐姐的一只咸鱼  \n鹰孝子（误）一枚（舟/zmd/来自星尘/泡姆泡姆都喜欢）\n欢迎同好扩列互fo❤️❤️\n⚠️推文可能存在轻度🔞内容（可能是轻度，但是轻度不太可能",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+1AfV2Je2D2VkZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+1AfV2Je2D2VkZjA9",
+                "start": 0,
+                "url": "https://t.co/NsIufWVy0c"
+              }
+            ]
+          }
+        },
+        "id": "1527981053293756416",
+        "is_identity_verified": false,
+        "location": "泰拉 新罗德岛基地",
+        "most_recent_tweet_id": "2092977790547316819",
+        "name": "James疒风",
+        "pinned_tweet_id": "2002035611071553762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527981053293756416/1786712978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088657742445920256/2ZDMtgT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 3058,
+          "like_count": 30982,
+          "listed_count": 23,
+          "media_count": 103,
+          "tweet_count": 3572
+        },
+        "url": "https://t.co/NsIufWVy0c",
+        "username": "James_SWind",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

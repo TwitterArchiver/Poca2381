@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093570131381334016",
+        "3_2093570140747313152",
+        "3_2093570151010762752",
+        "3_2093570160166928385"
+      ],
+      "media_source_tweet_id": [
+        "2093570812725060056",
+        "2093570812725060056",
+        "2093570812725060056",
+        "2093570812725060056"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2097692390752743687",
+    "created_at": "2026-09-09T14:23:33.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097692390752743687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681661969995104260",
+          "start": 3,
+          "username": "SeaRabbit1024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcUuVdDccu",
+          "end": 50,
+          "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+          "media_key": "3_2093570131381334016",
+          "start": 27,
+          "url": "https://t.co/QcUuVdDccu"
+        },
+        {
+          "display_url": "pic.x.com/QcUuVdDccu",
+          "end": 50,
+          "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+          "media_key": "3_2093570140747313152",
+          "start": 27,
+          "url": "https://t.co/QcUuVdDccu"
+        },
+        {
+          "display_url": "pic.x.com/QcUuVdDccu",
+          "end": 50,
+          "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+          "media_key": "3_2093570151010762752",
+          "start": 27,
+          "url": "https://t.co/QcUuVdDccu"
+        },
+        {
+          "display_url": "pic.x.com/QcUuVdDccu",
+          "end": 50,
+          "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+          "media_key": "3_2093570160166928385",
+          "start": 27,
+          "url": "https://t.co/QcUuVdDccu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097692390752743687",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093570131381334016"
+      },
+      {
+        "media_key": "3_2093570140747313152"
+      },
+      {
+        "media_key": "3_2093570151010762752"
+      },
+      {
+        "media_key": "3_2093570160166928385"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093570812725060056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeaRabbit1024: 魔法少女智乃！ https://t.co/QcUuVdDccu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093570131381334016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3a8TlaMAAaGHv.jpg",
+        "width": 2730
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2093570140747313152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3a82ebsAA56qg.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2093570151010762752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3a9ctbgAAh1A8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093570160166928385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3a9-0bgAEST5F.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093570131381334016",
+            "3_2093570140747313152",
+            "3_2093570151010762752",
+            "3_2093570160166928385"
+          ],
+          "media_source_tweet_id": [
+            "2093570812725060056",
+            "2093570812725060056",
+            "2093570812725060056",
+            "2093570812725060056"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2097692390752743687",
+        "created_at": "2026-09-09T14:23:33.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097692390752743687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681661969995104260",
+              "start": 3,
+              "username": "SeaRabbit1024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 50,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570131381334016",
+              "start": 27,
+              "url": "https://t.co/QcUuVdDccu"
+            },
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 50,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570140747313152",
+              "start": 27,
+              "url": "https://t.co/QcUuVdDccu"
+            },
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 50,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570151010762752",
+              "start": 27,
+              "url": "https://t.co/QcUuVdDccu"
+            },
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 50,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570160166928385",
+              "start": 27,
+              "url": "https://t.co/QcUuVdDccu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097692390752743687",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093570131381334016"
+          },
+          {
+            "media_key": "3_2093570140747313152"
+          },
+          {
+            "media_key": "3_2093570151010762752"
+          },
+          {
+            "media_key": "3_2093570160166928385"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093570812725060056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeaRabbit1024: 魔法少女智乃！ https://t.co/QcUuVdDccu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093570131381334016",
+            "3_2093570140747313152",
+            "3_2093570151010762752",
+            "3_2093570160166928385"
+          ]
+        },
+        "author_id": "1681661969995104260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2093570812725060056",
+        "created_at": "2026-08-29T05:25:53.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093570812725060056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 31,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570131381334016",
+              "start": 8,
+              "url": "https://t.co/QcUuVdDccu"
+            },
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 31,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570140747313152",
+              "start": 8,
+              "url": "https://t.co/QcUuVdDccu"
+            },
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 31,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570151010762752",
+              "start": 8,
+              "url": "https://t.co/QcUuVdDccu"
+            },
+            {
+              "display_url": "pic.x.com/QcUuVdDccu",
+              "end": 31,
+              "expanded_url": "https://x.com/SeaRabbit1024/status/2093570812725060056/photo/1",
+              "media_key": "3_2093570160166928385",
+              "start": 8,
+              "url": "https://t.co/QcUuVdDccu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093570812725060056",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093570131381334016"
+          },
+          {
+            "media_key": "3_2093570140747313152"
+          },
+          {
+            "media_key": "3_2093570151010762752"
+          },
+          {
+            "media_key": "3_2093570160166928385"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 4985,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女智乃！ https://t.co/QcUuVdDccu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2097692390752743687",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25031,
+          "following_count": 11075,
+          "like_count": 156624,
+          "listed_count": 53,
+          "media_count": 6742,
+          "tweet_count": 59545
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T13:47:23.000Z",
+        "description": "新人kiger一枚，请多指教。\n中文/日本語/English\nよろしくお願いいたします (●'◡'●)",
+        "id": "1681661969995104260",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097684681215078411",
+        "name": "海兔SeaRabbit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681661969995104260/1775406751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957521553366872070/RsQ_LvYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 375,
+          "like_count": 434,
+          "listed_count": 16,
+          "media_count": 186,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "SeaRabbit1024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

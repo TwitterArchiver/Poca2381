@@ -1,0 +1,640 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079260064821702656",
+        "3_2079260088578326528",
+        "3_2079260110279573504",
+        "3_2079260133880999938"
+      ],
+      "media_source_tweet_id": [
+        "2079260157742379200",
+        "2079260157742379200",
+        "2079260157742379200",
+        "2079260157742379200"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2089793781797437635",
+    "created_at": "2026-08-18T19:17:18.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089793781797437635"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 65,
+          "start": 56,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 77,
+          "start": 66,
+          "tag": "racingmiku"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1720958268837965824",
+          "start": 3,
+          "username": "YuBTF_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBzDfO65kR",
+          "end": 101,
+          "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+          "media_key": "3_2079260064821702656",
+          "start": 78,
+          "url": "https://t.co/BBzDfO65kR"
+        },
+        {
+          "display_url": "pic.x.com/BBzDfO65kR",
+          "end": 101,
+          "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+          "media_key": "3_2079260088578326528",
+          "start": 78,
+          "url": "https://t.co/BBzDfO65kR"
+        },
+        {
+          "display_url": "pic.x.com/BBzDfO65kR",
+          "end": 101,
+          "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+          "media_key": "3_2079260110279573504",
+          "start": 78,
+          "url": "https://t.co/BBzDfO65kR"
+        },
+        {
+          "display_url": "pic.x.com/BBzDfO65kR",
+          "end": 101,
+          "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+          "media_key": "3_2079260133880999938",
+          "start": 78,
+          "url": "https://t.co/BBzDfO65kR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089793781797437635",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2079260064821702656"
+      },
+      {
+        "media_key": "3_2079260088578326528"
+      },
+      {
+        "media_key": "3_2079260110279573504"
+      },
+      {
+        "media_key": "3_2079260133880999938"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079260157742379200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuBTF_official: 要来参加这一届的赛车比赛吗，奖励是来自miku送的一枝花哦\n#初音ミク #kigurumi #racingmiku https://t.co/BBzDfO65kR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2079260064821702656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsEAzdacAA4_iB.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2079260088578326528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsECL9bwAAyOFc.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079260110279573504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsEDczagAAkxOP.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079260133880999938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsEE0ubsAIGzn1.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079260064821702656",
+            "3_2079260088578326528",
+            "3_2079260110279573504",
+            "3_2079260133880999938"
+          ],
+          "media_source_tweet_id": [
+            "2079260157742379200",
+            "2079260157742379200",
+            "2079260157742379200",
+            "2079260157742379200"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2089793781797437635",
+        "created_at": "2026-08-18T19:17:18.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089793781797437635"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 77,
+              "start": 66,
+              "tag": "racingmiku"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720958268837965824",
+              "start": 3,
+              "username": "YuBTF_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 101,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260064821702656",
+              "start": 78,
+              "url": "https://t.co/BBzDfO65kR"
+            },
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 101,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260088578326528",
+              "start": 78,
+              "url": "https://t.co/BBzDfO65kR"
+            },
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 101,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260110279573504",
+              "start": 78,
+              "url": "https://t.co/BBzDfO65kR"
+            },
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 101,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260133880999938",
+              "start": 78,
+              "url": "https://t.co/BBzDfO65kR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089793781797437635",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2079260064821702656"
+          },
+          {
+            "media_key": "3_2079260088578326528"
+          },
+          {
+            "media_key": "3_2079260110279573504"
+          },
+          {
+            "media_key": "3_2079260133880999938"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079260157742379200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuBTF_official: 要来参加这一届的赛车比赛吗，奖励是来自miku送的一枝花哦\n#初音ミク #kigurumi #racingmiku https://t.co/BBzDfO65kR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079260064821702656",
+            "3_2079260088578326528",
+            "3_2079260110279573504",
+            "3_2079260133880999938"
+          ]
+        },
+        "author_id": "1720958268837965824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2079260157742379200",
+        "created_at": "2026-07-20T17:40:27.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079260157742379200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 57,
+              "start": 46,
+              "tag": "racingmiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 81,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260064821702656",
+              "start": 58,
+              "url": "https://t.co/BBzDfO65kR"
+            },
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 81,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260088578326528",
+              "start": 58,
+              "url": "https://t.co/BBzDfO65kR"
+            },
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 81,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260110279573504",
+              "start": 58,
+              "url": "https://t.co/BBzDfO65kR"
+            },
+            {
+              "display_url": "pic.x.com/BBzDfO65kR",
+              "end": 81,
+              "expanded_url": "https://x.com/YuBTF_official/status/2079260157742379200/photo/1",
+              "media_key": "3_2079260133880999938",
+              "start": 58,
+              "url": "https://t.co/BBzDfO65kR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079260157742379200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2079260064821702656"
+          },
+          {
+            "media_key": "3_2079260088578326528"
+          },
+          {
+            "media_key": "3_2079260110279573504"
+          },
+          {
+            "media_key": "3_2079260133880999938"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2540,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "要来参加这一届的赛车比赛吗，奖励是来自miku送的一枝花哦\n#初音ミク #kigurumi #racingmiku https://t.co/BBzDfO65kR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2089793781797437635",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24012,
+          "following_count": 10593,
+          "like_count": 155127,
+          "listed_count": 53,
+          "media_count": 6231,
+          "tweet_count": 57044
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-05T00:17:34.000Z",
+        "description": "cn玉蝶喵，kigurumi初心者，早期是冉米米米的替身使者，现在已经拥有了自己的miku头壳！好像没什么要说的，反正我喜欢你🌹",
+        "id": "1720958268837965824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088682408782754118",
+        "name": "玉蝶@Official",
+        "pinned_tweet_id": "2016527248917221793",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021872585068433408/AH_R8MZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 208,
+          "like_count": 1407,
+          "listed_count": 5,
+          "media_count": 76,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "YuBTF_official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

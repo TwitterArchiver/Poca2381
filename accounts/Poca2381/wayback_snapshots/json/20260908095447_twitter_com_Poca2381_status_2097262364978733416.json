@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2096986249689207144",
+    "created_at": "2026-09-08T09:54:47.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097262364978733416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin0908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097262364978733416",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096986249689207144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin0908 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2096985774386528256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn9c5VbQAAD4EC.jpg",
+        "width": 1944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2096986249689207144",
+        "created_at": "2026-09-08T09:54:47.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097262364978733416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin0908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097262364978733416",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096986249689207144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin0908 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096985774386528256"
+          ]
+        },
+        "author_id": "3032768018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          }
+        ],
+        "conversation_id": "2096986249689207144",
+        "created_at": "2026-09-07T15:37:36.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:35:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096985778639548835",
+          "2096986249689207144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ObjduEYnG",
+              "end": 49,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2096986249689207144/photo/1",
+              "media_key": "3_2096985774386528256",
+              "start": 26,
+              "url": "https://t.co/3ObjduEYnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096986249689207144",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096985774386528256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2070,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体验我们ANA全新运奴船\n带上千早爱音去生日旅行哈 https://t.co/3ObjduEYnG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2097262364978733416",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25006,
+          "following_count": 11052,
+          "like_count": 156501,
+          "listed_count": 53,
+          "media_count": 6719,
+          "tweet_count": 59402
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1 同好扩列\n😘：@DurantRaym93677 ｜妈妈：@CnDiode\n里：@cccy0037 （🚪48.8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "username": "CnDiode"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "cccy0037"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 0,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "is_identity_verified": false,
+        "location": "埼玉県 所沢市",
+        "most_recent_tweet_id": "2097245794718138675",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2095811927184425260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3032768018/1784720508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071420961686208513/BNhEveFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 1822,
+          "like_count": 10078,
+          "listed_count": 10,
+          "media_count": 1269,
+          "tweet_count": 5062
+        },
+        "url": "https://t.co/Es5shIbjtN",
+        "username": "Chiyorin0908",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

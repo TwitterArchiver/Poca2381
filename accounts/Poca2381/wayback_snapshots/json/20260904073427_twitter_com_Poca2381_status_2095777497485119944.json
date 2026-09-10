@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095374300413083648"
+      ],
+      "media_source_tweet_id": [
+        "2095374319958589654"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095777497485119944",
+    "created_at": "2026-09-04T07:34:27.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T08:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095777497485119944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1658506453165162498",
+          "start": 3,
+          "username": "sakura_iroha1"
+        },
+        {
+          "end": 41,
+          "id": "1266235313883504640",
+          "start": 32,
+          "username": "Se1raNNN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CvKesauNce",
+          "end": 65,
+          "expanded_url": "https://x.com/sakura_iroha1/status/2095374319958589654/video/1",
+          "media_key": "13_2095374300413083648",
+          "start": 42,
+          "url": "https://t.co/CvKesauNce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095777497485119944",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095374300413083648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095374319958589654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura_iroha1: 诺亚...喜欢艾玛小姐🥰\n@Se1raNNN https://t.co/CvKesauNce"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7175,
+        "height": 1280,
+        "media_key": "13_2095374300413083648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095374300413083648/img/Sehksot0fqT11Ilc.jpg",
+        "public_metrics": {
+          "view_count": 3037
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095374300413083648/vid/avc1/320x568/7rNoIM3rgew8037s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095374300413083648/vid/avc1/480x852/Pk0qpzcHHoLw5dT3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095374300413083648/vid/avc1/720x1280/BZ4_ncKVEJ_LZaIo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095374300413083648/pl/U1OjPmjmKaVOCcZt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095374300413083648"
+          ],
+          "media_source_tweet_id": [
+            "2095374319958589654"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095777497485119944",
+        "created_at": "2026-09-04T07:34:27.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095777497485119944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1658506453165162498",
+              "start": 3,
+              "username": "sakura_iroha1"
+            },
+            {
+              "end": 41,
+              "id": "1266235313883504640",
+              "start": 32,
+              "username": "Se1raNNN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvKesauNce",
+              "end": 65,
+              "expanded_url": "https://x.com/sakura_iroha1/status/2095374319958589654/video/1",
+              "media_key": "13_2095374300413083648",
+              "start": 42,
+              "url": "https://t.co/CvKesauNce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095777497485119944",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095374300413083648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095374319958589654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakura_iroha1: 诺亚...喜欢艾玛小姐🥰\n@Se1raNNN https://t.co/CvKesauNce"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095374300413083648"
+          ]
+        },
+        "author_id": "1658506453165162498",
+        "conversation_id": "2095374319958589654",
+        "created_at": "2026-09-03T04:52:22.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095374319958589654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1266235313883504640",
+              "start": 13,
+              "username": "Se1raNNN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvKesauNce",
+              "end": 46,
+              "expanded_url": "https://x.com/sakura_iroha1/status/2095374319958589654/video/1",
+              "media_key": "13_2095374300413083648",
+              "start": 23,
+              "url": "https://t.co/CvKesauNce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095374319958589654",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095374300413083648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 7863,
+          "like_count": 420,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "诺亚...喜欢艾玛小姐🥰\n@Se1raNNN https://t.co/CvKesauNce"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095777497485119944",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24903,
+          "following_count": 10987,
+          "like_count": 156258,
+          "listed_count": 53,
+          "media_count": 6602,
+          "tweet_count": 58943
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-16T16:15:47.000Z",
+        "description": "叫咱彩羽就行涅，目前東京上学， 角色有宫子/城崎诺亚\n偶尔会本体cos 欢迎扩列聊天哦",
+        "id": "1658506453165162498",
+        "is_identity_verified": false,
+        "location": "東京都/杉並区",
+        "most_recent_tweet_id": "2095740882075136443",
+        "name": "樱庭彩羽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1658506453165162498/1686330220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983158532703956996/eo97jdpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 57,
+          "like_count": 229,
+          "listed_count": 8,
+          "media_count": 54,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "sakura_iroha1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-29T05:10:53.000Z",
+        "description": "萌新kiger，很好说话欢迎小窗来戳。中文/ English/自拍领域苦手/我家小猪@0_xiao_chi_0/欢迎扩列！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "0_xiao_chi_0"
+              }
+            ]
+          }
+        },
+        "id": "1266235313883504640",
+        "is_identity_verified": false,
+        "location": "床",
+        "most_recent_tweet_id": "2095714432542503291",
+        "name": "旺旺旺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1266235313883504640/1750528733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055671883861749760/zslERoaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 223,
+          "like_count": 9755,
+          "listed_count": 22,
+          "media_count": 45,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "Se1raNNN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

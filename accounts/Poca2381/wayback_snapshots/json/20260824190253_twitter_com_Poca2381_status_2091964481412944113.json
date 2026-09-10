@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091788739844689920"
+      ],
+      "media_source_tweet_id": [
+        "2091788775202640331"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091964481412944113",
+    "created_at": "2026-08-24T19:02:53.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091964481412944113"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 68,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 95,
+          "start": 84,
+          "tag": "hoyofestsg"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040062681462321153",
+          "start": 3,
+          "username": "nekozuu_kig"
+        },
+        {
+          "end": 52,
+          "id": "1807371837707632640",
+          "start": 42,
+          "username": "meepss___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N2MDOAeDa2",
+          "end": 119,
+          "expanded_url": "https://x.com/nekozuu_kig/status/2091788775202640331/video/1",
+          "media_key": "13_2091788739844689920",
+          "start": 96,
+          "url": "https://t.co/N2MDOAeDa2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091964481412944113",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091788739844689920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091788775202640331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekozuu_kig: Tummy boop moment (°~°)\n\n@meepss___ \n\n[RE-UPLOAD]\n\n#kigurumi #着ぐるみ #hoyofestsg https://t.co/N2MDOAeDa2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19263,
+        "height": 1280,
+        "media_key": "13_2091788739844689920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091788739844689920/img/dsmONxWgmvSr8TgM.jpg",
+        "public_metrics": {
+          "view_count": 1146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091788739844689920/vid/avc1/320x568/EmJslwEFFsHuCLeR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091788739844689920/vid/avc1/480x852/G6LrXEOVzEpzNUyf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091788739844689920/vid/avc1/720x1280/RVphw8S5xeuszoan.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091788739844689920/pl/LtAq33CC_xu9hPr-.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091788739844689920"
+          ],
+          "media_source_tweet_id": [
+            "2091788775202640331"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091964481412944113",
+        "created_at": "2026-08-24T19:02:53.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091964481412944113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 68,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 95,
+              "start": 84,
+              "tag": "hoyofestsg"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040062681462321153",
+              "start": 3,
+              "username": "nekozuu_kig"
+            },
+            {
+              "end": 52,
+              "id": "1807371837707632640",
+              "start": 42,
+              "username": "meepss___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2MDOAeDa2",
+              "end": 119,
+              "expanded_url": "https://x.com/nekozuu_kig/status/2091788775202640331/video/1",
+              "media_key": "13_2091788739844689920",
+              "start": 96,
+              "url": "https://t.co/N2MDOAeDa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091964481412944113",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091788739844689920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091788775202640331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekozuu_kig: Tummy boop moment (°~°)\n\n@meepss___ \n\n[RE-UPLOAD]\n\n#kigurumi #着ぐるみ #hoyofestsg https://t.co/N2MDOAeDa2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091788739844689920"
+          ]
+        },
+        "author_id": "2040062681462321153",
+        "conversation_id": "2091788775202640331",
+        "created_at": "2026-08-24T07:24:42.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091788775202640331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 78,
+              "start": 67,
+              "tag": "hoyofestsg"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1807371837707632640",
+              "start": 25,
+              "username": "meepss___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2MDOAeDa2",
+              "end": 102,
+              "expanded_url": "https://x.com/nekozuu_kig/status/2091788775202640331/video/1",
+              "media_key": "13_2091788739844689920",
+              "start": 79,
+              "url": "https://t.co/N2MDOAeDa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091788775202640331",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091788739844689920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 3143,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Tummy boop moment (°~°)\n\n@meepss___ \n\n[RE-UPLOAD]\n\n#kigurumi #着ぐるみ #hoyofestsg https://t.co/N2MDOAeDa2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091964481412944113",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24254,
+          "following_count": 10739,
+          "like_count": 155640,
+          "listed_count": 53,
+          "media_count": 6341,
+          "tweet_count": 57799
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-03T13:44:10.000Z",
+        "description": "turning life-sized dolls into nekos is my hobby :3\n着ぐるみの初心者です！🔰 よろしく!\nEN/CN ok! 日本語勉強中~",
+        "id": "2040062681462321153",
+        "is_identity_verified": false,
+        "location": "シンガポール",
+        "most_recent_tweet_id": "2091889150647738631",
+        "name": "nekozuu ネコズウ",
+        "pinned_tweet_id": "2077668681027666191",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040062681462321153/1776426330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089607521812258817/HFECRv6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 647,
+          "like_count": 598,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "nekozuu_kig",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-30T11:13:30.000Z",
+        "description": "Singing you my pleasure~, all while being a mother and bringing you the heat \n\nVivy🎤, Kafka🕷, Mavuika🔥, Fugue🦊, ???🪄, ????? 🐎\n\n中文还好吧，看你的标准多高哈\n\nEnglish/中文",
+        "id": "1807371837707632640",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091878268664418678",
+        "name": "Amane",
+        "pinned_tweet_id": "1807839586774929803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807371837707632640/1719836067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890838078241308672/9tUTLVA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 434,
+          "like_count": 5667,
+          "listed_count": 9,
+          "media_count": 63,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "meepss___",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

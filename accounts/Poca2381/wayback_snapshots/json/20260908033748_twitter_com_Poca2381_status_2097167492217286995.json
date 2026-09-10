@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097151473528528896",
+        "3_2097151473499172864"
+      ],
+      "media_source_tweet_id": [
+        "2097151570353979802",
+        "2097151570353979802"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2097167492217286995",
+    "created_at": "2026-09-08T03:37:48.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097167492217286995"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 45,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 62,
+          "start": 55,
+          "tag": "VRChat"
+        },
+        {
+          "end": 73,
+          "start": 63,
+          "tag": "kaguya_3d"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759202811538178048",
+          "start": 3,
+          "username": "yukishirataco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rnQCoTCYb",
+          "end": 97,
+          "expanded_url": "https://x.com/yukishirataco/status/2097151570353979802/photo/1",
+          "media_key": "3_2097151473528528896",
+          "start": 74,
+          "url": "https://t.co/9rnQCoTCYb"
+        },
+        {
+          "display_url": "pic.x.com/9rnQCoTCYb",
+          "end": 97,
+          "expanded_url": "https://x.com/yukishirataco/status/2097151570353979802/photo/1",
+          "media_key": "3_2097151473499172864",
+          "start": 74,
+          "url": "https://t.co/9rnQCoTCYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097167492217286995",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097151473528528896"
+      },
+      {
+        "media_key": "3_2097151473499172864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097151570353979802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukishirataco: 被小红书某妹K在评论怒喷不像，于是猫娘变狐娘……\n\n#kigurumi #VRChat #kaguya_3d https://t.co/9rnQCoTCYb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097151473528528896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqUJ2va4AADiRp.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097151473499172864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqUJ2oa8AAy_dj.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097151473528528896",
+            "3_2097151473499172864"
+          ],
+          "media_source_tweet_id": [
+            "2097151570353979802",
+            "2097151570353979802"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2097167492217286995",
+        "created_at": "2026-09-08T03:37:48.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097167492217286995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "VRChat"
+            },
+            {
+              "end": 73,
+              "start": 63,
+              "tag": "kaguya_3d"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759202811538178048",
+              "start": 3,
+              "username": "yukishirataco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rnQCoTCYb",
+              "end": 97,
+              "expanded_url": "https://x.com/yukishirataco/status/2097151570353979802/photo/1",
+              "media_key": "3_2097151473528528896",
+              "start": 74,
+              "url": "https://t.co/9rnQCoTCYb"
+            },
+            {
+              "display_url": "pic.x.com/9rnQCoTCYb",
+              "end": 97,
+              "expanded_url": "https://x.com/yukishirataco/status/2097151570353979802/photo/1",
+              "media_key": "3_2097151473499172864",
+              "start": 74,
+              "url": "https://t.co/9rnQCoTCYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097167492217286995",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097151473528528896"
+          },
+          {
+            "media_key": "3_2097151473499172864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097151570353979802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukishirataco: 被小红书某妹K在评论怒喷不像，于是猫娘变狐娘……\n\n#kigurumi #VRChat #kaguya_3d https://t.co/9rnQCoTCYb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097151473528528896",
+            "3_2097151473499172864"
+          ]
+        },
+        "author_id": "1759202811538178048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2097151570353979802",
+        "created_at": "2026-09-08T02:34:32.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097151570353979802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "VRChat"
+            },
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "kaguya_3d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rnQCoTCYb",
+              "end": 78,
+              "expanded_url": "https://x.com/yukishirataco/status/2097151570353979802/photo/1",
+              "media_key": "3_2097151473528528896",
+              "start": 55,
+              "url": "https://t.co/9rnQCoTCYb"
+            },
+            {
+              "display_url": "pic.x.com/9rnQCoTCYb",
+              "end": 78,
+              "expanded_url": "https://x.com/yukishirataco/status/2097151570353979802/photo/1",
+              "media_key": "3_2097151473499172864",
+              "start": 55,
+              "url": "https://t.co/9rnQCoTCYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097151570353979802",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097151473528528896"
+          },
+          {
+            "media_key": "3_2097151473499172864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "被小红书某妹K在评论怒喷不像，于是猫娘变狐娘……\n\n#kigurumi #VRChat #kaguya_3d https://t.co/9rnQCoTCYb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2097167492217286995",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24997,
+          "following_count": 11036,
+          "like_count": 156445,
+          "listed_count": 53,
+          "media_count": 6710,
+          "tweet_count": 59331
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-18T13:06:59.000Z",
+        "description": "上海在住 | 新人Kiger&摄影 | 不搞CP\n爱好裤袜萝莉，欢迎互关扩列，互关勿单取，单取必拉黑\n🎭：雪野子/Kaguya（NFD）、鹫见芹奈（NFD）、凯伊（NFD）、合欢垣吹雪（虾饺）、苏苏洛（鼠）、娜娜莉（计划中）、安魂曲（计划中）\n📸：EOS RP、R10、SONY a6100、DJI Action 4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukishirataco",
+                "end": 23,
+                "expanded_url": "http://t.me/yukishirataco",
+                "start": 0,
+                "url": "https://t.co/DdYNAc82Zu"
+              }
+            ]
+          }
+        },
+        "id": "1759202811538178048",
+        "is_identity_verified": false,
+        "location": "基沃托斯",
+        "most_recent_tweet_id": "2097151570353979802",
+        "name": "雪野子@着ぐるみ",
+        "pinned_tweet_id": "2074446751130595716",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759202811538178048/1786291218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074538130749984768/KhxQOJrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 1494,
+          "like_count": 35341,
+          "listed_count": 20,
+          "media_count": 551,
+          "tweet_count": 3460
+        },
+        "url": "https://t.co/DdYNAc82Zu",
+        "username": "yukishirataco",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,779 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2092110726290948485",
+    "created_at": "2026-08-25T04:44:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T05:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092110726290948485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1762746959499059200",
+          "start": 3,
+          "username": "Luna_Kig"
+        },
+        {
+          "end": 30,
+          "id": "1797601888873172992",
+          "start": 21,
+          "username": "yuna_kig"
+        },
+        {
+          "end": 41,
+          "id": "2031555106982998019",
+          "start": 31,
+          "username": "syamn_kig"
+        },
+        {
+          "end": 50,
+          "id": "898709390441684997",
+          "start": 42,
+          "username": "RiohEQG"
+        },
+        {
+          "end": 67,
+          "id": "4333082954",
+          "start": 51,
+          "username": "TheRoarinSpitty"
+        },
+        {
+          "end": 86,
+          "id": "2031555106982998019",
+          "start": 76,
+          "username": "syamn_kig"
+        },
+        {
+          "end": 95,
+          "id": "1574871687727906816",
+          "start": 87,
+          "username": "kiguFTW"
+        },
+        {
+          "end": 105,
+          "id": "1762746959499059200",
+          "start": 96,
+          "username": "Luna_Kig"
+        },
+        {
+          "end": 117,
+          "id": "1176574533408567297",
+          "start": 106,
+          "username": "PrinzH_kig"
+        },
+        {
+          "end": 134,
+          "id": "3060916644",
+          "start": 118,
+          "username": "chin10okap_Inky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092110726290948485",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091888479693340784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luna_Kig: 🎭⬅️➡️: @yuna_kig @syamn_kig @RiohEQG @TheRoarinSpitty \n📷⬅️➡️: @syamn_kig @kiguFTW @luna_kig @PrinzH_kig @chin10okap_Inky @mit…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2091888465109782528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfhecibEAAVcb-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2091888473045401600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfhe6GbAAAQ75l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2092110726290948485",
+        "created_at": "2026-08-25T04:44:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092110726290948485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1762746959499059200",
+              "start": 3,
+              "username": "Luna_Kig"
+            },
+            {
+              "end": 30,
+              "id": "1797601888873172992",
+              "start": 21,
+              "username": "yuna_kig"
+            },
+            {
+              "end": 41,
+              "id": "2031555106982998019",
+              "start": 31,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 50,
+              "id": "898709390441684997",
+              "start": 42,
+              "username": "RiohEQG"
+            },
+            {
+              "end": 67,
+              "id": "4333082954",
+              "start": 51,
+              "username": "TheRoarinSpitty"
+            },
+            {
+              "end": 86,
+              "id": "2031555106982998019",
+              "start": 76,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 95,
+              "id": "1574871687727906816",
+              "start": 87,
+              "username": "kiguFTW"
+            },
+            {
+              "end": 105,
+              "id": "1762746959499059200",
+              "start": 96,
+              "username": "Luna_Kig"
+            },
+            {
+              "end": 117,
+              "id": "1176574533408567297",
+              "start": 106,
+              "username": "PrinzH_kig"
+            },
+            {
+              "end": 134,
+              "id": "3060916644",
+              "start": 118,
+              "username": "chin10okap_Inky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092110726290948485",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091888479693340784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luna_Kig: 🎭⬅️➡️: @yuna_kig @syamn_kig @RiohEQG @TheRoarinSpitty \n📷⬅️➡️: @syamn_kig @kiguFTW @luna_kig @PrinzH_kig @chin10okap_Inky @mit…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091888465109782528",
+            "3_2091888473045401600"
+          ]
+        },
+        "author_id": "1762746959499059200",
+        "conversation_id": "2091888479693340784",
+        "created_at": "2026-08-24T14:00:53.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091888479693340784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797601888873172992",
+              "start": 7,
+              "username": "yuna_kig"
+            },
+            {
+              "end": 27,
+              "id": "2031555106982998019",
+              "start": 17,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 36,
+              "id": "898709390441684997",
+              "start": 28,
+              "username": "RiohEQG"
+            },
+            {
+              "end": 53,
+              "id": "4333082954",
+              "start": 37,
+              "username": "TheRoarinSpitty"
+            },
+            {
+              "end": 72,
+              "id": "2031555106982998019",
+              "start": 62,
+              "username": "syamn_kig"
+            },
+            {
+              "end": 81,
+              "id": "1574871687727906816",
+              "start": 73,
+              "username": "kiguFTW"
+            },
+            {
+              "end": 91,
+              "id": "1762746959499059200",
+              "start": 82,
+              "username": "Luna_Kig"
+            },
+            {
+              "end": 103,
+              "id": "1176574533408567297",
+              "start": 92,
+              "username": "PrinzH_kig"
+            },
+            {
+              "end": 120,
+              "id": "3060916644",
+              "start": 104,
+              "username": "chin10okap_Inky"
+            },
+            {
+              "end": 131,
+              "id": "1649021039526187010",
+              "start": 121,
+              "username": "mitsu_kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvrSDbwKvF",
+              "end": 155,
+              "expanded_url": "https://x.com/Luna_Kig/status/2091888479693340784/photo/1",
+              "media_key": "3_2091888465109782528",
+              "start": 132,
+              "url": "https://t.co/HvrSDbwKvF"
+            },
+            {
+              "display_url": "pic.x.com/HvrSDbwKvF",
+              "end": 155,
+              "expanded_url": "https://x.com/Luna_Kig/status/2091888479693340784/photo/1",
+              "media_key": "3_2091888473045401600",
+              "start": 132,
+              "url": "https://t.co/HvrSDbwKvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091888479693340784",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2091888465109782528"
+          },
+          {
+            "media_key": "3_2091888473045401600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7072,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🎭⬅️➡️: @yuna_kig @syamn_kig @RiohEQG @TheRoarinSpitty \n📷⬅️➡️: @syamn_kig @kiguFTW @luna_kig @PrinzH_kig @chin10okap_Inky @mitsu_kig https://t.co/HvrSDbwKvF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2092110726290948485",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24273,
+          "following_count": 10741,
+          "like_count": 155652,
+          "listed_count": 53,
+          "media_count": 6344,
+          "tweet_count": 57823
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-28T07:50:15.000Z",
+        "description": "🔞 • Literally just a cat or something, idk • Kig | Cosplay | Latex | sometimes art | 我还在学中文 ✨ 老婆: @softnessmonster 🔑: @Gesshoku_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "softnessmonster"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Gesshoku_QwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/luna_kig",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/luna_kig",
+                "start": 0,
+                "url": "https://t.co/7X1xCxkAb8"
+              }
+            ]
+          }
+        },
+        "id": "1762746959499059200",
+        "is_identity_verified": false,
+        "location": "Maryland, USA",
+        "most_recent_tweet_id": "2092073033565720866",
+        "name": "Luna 🌙 🔜 DW14",
+        "pinned_tweet_id": "2049820837490966954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762746959499059200/1781641995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881610206708203520/J4NOdJuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 441,
+          "like_count": 9760,
+          "listed_count": 13,
+          "media_count": 134,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/7X1xCxkAb8",
+        "username": "Luna_Kig",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-03T12:14:47.000Z",
+        "description": "full-time student, part-time kigurumi\n全职学生，兼职着ぐるみ\n23年/🎓🇸🇬 ENG/中文",
+        "id": "1797601888873172992",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091892030012297395",
+        "name": "yuna",
+        "pinned_tweet_id": "1823731102365966440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797601888873172992/1765596180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996419410832326656/Lvuj6rVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 665,
+          "like_count": 1429,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "yuna_kig",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-11T02:20:37.000Z",
+        "description": "しゃむ です / A kiger & photographer / 🧸 Hatsune Miku / 📷 A1M2, X2D2 / 📍 Tokyo / 🗣️ English & 日本語 / Only SFW here\n\n🏠 @syamncat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "syamncat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/syamn_kig",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/syamn_kig",
+                "start": 0,
+                "url": "https://t.co/11vg1lDQWU"
+              }
+            ]
+          }
+        },
+        "id": "2031555106982998019",
+        "is_identity_verified": false,
+        "location": "Tokyo / Sapporo / SF-LA",
+        "most_recent_tweet_id": "2092083066877759940",
+        "name": "syamn_kig✈️DW14",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031555106982998019/1779343267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045413639377838080/s6J-nOvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 663,
+          "like_count": 1844,
+          "listed_count": 7,
+          "media_count": 165,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/11vg1lDQWU",
+        "username": "syamn_kig",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-19T00:53:10.000Z",
+        "description": "いろんな衣装を着るのがすきなJapanese kigurumi😋💕@RiohInv (鍵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 33,
+                "username": "RiohInv"
+              }
+            ]
+          }
+        },
+        "id": "898709390441684997",
+        "is_identity_verified": false,
+        "location": "❤家系ラーメン🍜❤",
+        "most_recent_tweet_id": "2092104457152835643",
+        "name": "🦄りおうちゃん🦄",
+        "pinned_tweet_id": "1946566696505856273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/898709390441684997/1761385761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828357137980153856/xlXIYgur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15135,
+          "following_count": 416,
+          "like_count": 19793,
+          "listed_count": 89,
+          "media_count": 2921,
+          "tweet_count": 16304
+        },
+        "url": "",
+        "username": "RiohEQG",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-11-23T10:44:33.000Z",
+        "description": "Flying high in my Spitfire Mk 24 'TheRoarinSpitty' (She/Her) ✈\nKigurumi Arc Commences~\nSFW #Spittyillst | NSFW #HorniRori",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 91,
+                "tag": "Spittyillst"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "tag": "HorniRori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/theroarinspitty",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/theroarinspitty",
+                "start": 0,
+                "url": "https://t.co/m5Ve2rxsLL"
+              }
+            ]
+          }
+        },
+        "id": "4333082954",
+        "is_identity_verified": false,
+        "location": "Cozy Warm Hangar - Down Under",
+        "most_recent_tweet_id": "2091897470066549028",
+        "name": "Rori Spitter ✈️ ENVTuber/Kigu",
+        "pinned_tweet_id": "1982205533701509272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4333082954/1767395153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679469489967214592/vVp4EqUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2879,
+          "following_count": 1658,
+          "like_count": 147165,
+          "listed_count": 23,
+          "media_count": 1944,
+          "tweet_count": 5038
+        },
+        "url": "https://t.co/m5Ve2rxsLL",
+        "username": "TheRoarinSpitty",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-27T21:20:58.000Z",
+        "description": "Self made kigu. Love to make my own masks and  latex clothes | https://t.co/QqzRBWa2zT\nqq: 3454453227",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paths.to/kig",
+                "end": 86,
+                "expanded_url": "https://paths.to/kig",
+                "start": 63,
+                "url": "https://t.co/QqzRBWa2zT"
+              }
+            ]
+          }
+        },
+        "id": "1574871687727906816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092107869521154312",
+        "name": "AnniKigu 🔜back home",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574871687727906816/1766774740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022067932272992258/wUMmFr3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5125,
+          "following_count": 1357,
+          "like_count": 43752,
+          "listed_count": 30,
+          "media_count": 337,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "kiguFTW",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-24T19:10:29.000Z",
+        "description": "Shiny Kigu | Prinz Heinrich & Regensburg from Azur Lane | very shy IRL | https://t.co/V1pHBojjaF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/prinzh_kig",
+                "end": 96,
+                "expanded_url": "https://linktr.ee/prinzh_kig",
+                "start": 73,
+                "url": "https://t.co/V1pHBojjaF"
+              }
+            ]
+          }
+        },
+        "id": "1176574533408567297",
+        "is_identity_verified": true,
+        "location": "Germany, Frankfurt",
+        "most_recent_tweet_id": "2091896237297659935",
+        "name": "Prinz ⚓️",
+        "pinned_tweet_id": "1856604506403873262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176574533408567297/1719389481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894103039767609344/-H2y4SUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11971,
+          "following_count": 827,
+          "like_count": 22921,
+          "listed_count": 74,
+          "media_count": 329,
+          "tweet_count": 3663
+        },
+        "url": "",
+        "username": "PrinzH_kig",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-03-04T07:08:00.000Z",
+        "description": "総合垢です。あらゆる話題とご連絡用。\nサラリーマン社畜\nカメラ写真こっち→@chin10okp_photo\n出張多し。\n強めの思想を持っています\n時々鍵。日本語以外は機械翻訳。\n18歳未満は見ちゃダメ。見つけた場合は対処をします\nRealLife:@chin10okap_NKTK\nQQ:3602721269",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "chin10okp_photo"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "chin10okap_NKTK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1G5MNQCV7B5RG?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/Pu3dUztgWw"
+              }
+            ]
+          }
+        },
+        "id": "3060916644",
+        "is_identity_verified": true,
+        "location": "武蔵国荏原郡",
+        "most_recent_tweet_id": "2092104365276590090",
+        "name": "oka-p(DW14)",
+        "pinned_tweet_id": "2091712006483231008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3060916644/1780814787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077277686356221952/Xn8QJoZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 2446,
+          "like_count": 132740,
+          "listed_count": 33,
+          "media_count": 11309,
+          "tweet_count": 117354
+        },
+        "url": "https://t.co/Pu3dUztgWw",
+        "username": "chin10okap_Inky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

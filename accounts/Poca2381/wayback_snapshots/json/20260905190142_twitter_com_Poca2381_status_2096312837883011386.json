@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095488088957214720"
+      ],
+      "media_source_tweet_id": [
+        "2095488100982268200"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2096312837883011386",
+    "created_at": "2026-09-05T19:01:42.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096312837883011386"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "dollweekend"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "DW14"
+        },
+        {
+          "end": 62,
+          "start": 53,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1887461927804375040",
+          "start": 3,
+          "username": "mouseoffline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lEmIUmG9mw",
+          "end": 86,
+          "expanded_url": "https://x.com/mouseoffline/status/2095488100982268200/photo/1",
+          "media_key": "3_2095488088957214720",
+          "start": 63,
+          "url": "https://t.co/lEmIUmG9mw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096312837883011386",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095488088957214720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095488100982268200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mouseoffline: 你，就是你，下次给我来参加DW\n＃dollweekend ＃DW14 #kigurumi https://t.co/lEmIUmG9mw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095488088957214720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSrUIVbYAAl8kJ.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095488088957214720"
+          ],
+          "media_source_tweet_id": [
+            "2095488100982268200"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2096312837883011386",
+        "created_at": "2026-09-05T19:01:42.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096312837883011386"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "dollweekend"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "DW14"
+            },
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1887461927804375040",
+              "start": 3,
+              "username": "mouseoffline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEmIUmG9mw",
+              "end": 86,
+              "expanded_url": "https://x.com/mouseoffline/status/2095488100982268200/photo/1",
+              "media_key": "3_2095488088957214720",
+              "start": 63,
+              "url": "https://t.co/lEmIUmG9mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096312837883011386",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095488088957214720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095488100982268200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mouseoffline: 你，就是你，下次给我来参加DW\n＃dollweekend ＃DW14 #kigurumi https://t.co/lEmIUmG9mw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095488088957214720"
+          ]
+        },
+        "author_id": "1887461927804375040",
+        "conversation_id": "2095488100982268200",
+        "created_at": "2026-09-03T12:24:30.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095488100982268200"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "dollweekend"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "DW14"
+            },
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "kigurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEmIUmG9mw",
+              "end": 68,
+              "expanded_url": "https://x.com/mouseoffline/status/2095488100982268200/photo/1",
+              "media_key": "3_2095488088957214720",
+              "start": 45,
+              "url": "https://t.co/lEmIUmG9mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095488100982268200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095488088957214720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1109,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你，就是你，下次给我来参加DW\n＃dollweekend ＃DW14 #kigurumi https://t.co/lEmIUmG9mw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2096312847794053339",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24950,
+          "following_count": 11013,
+          "like_count": 156347,
+          "listed_count": 53,
+          "media_count": 6660,
+          "tweet_count": 59142
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T11:22:55.000Z",
+        "description": "一名刚入坑的萌新娃，欢迎找我扩列呦",
+        "id": "1887461927804375040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096067268870631440",
+        "name": "鼠鼠信号微弱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048419797353078784/8PYaWI8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 638,
+          "like_count": 154,
+          "listed_count": 9,
+          "media_count": 18,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "mouseoffline",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

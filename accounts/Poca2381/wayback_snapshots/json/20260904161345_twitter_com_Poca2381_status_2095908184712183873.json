@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dance",
+          "id": "847870201580232704",
+          "name": "Dance"
+        }
+      }
+    ],
+    "conversation_id": "2095908184712183873",
+    "created_at": "2026-09-04T16:13:45.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095908184712183873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472111867036594179",
+          "start": 3,
+          "username": "SeimoDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095908184712183873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087803742053654892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeimoDev: 通过炸鸡验票后出战\n陆家嘴爆了\n伦敦闪烁时请勿上下车\n开门请dancing下车请注意安全\n不得在列车车厢内吟诗\n禁止 洗澡 卖艺 斗兽 sanfracico"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2095908184712183873",
+        "created_at": "2026-09-04T16:13:45.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095908184712183873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472111867036594179",
+              "start": 3,
+              "username": "SeimoDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095908184712183873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087803742053654892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeimoDev: 通过炸鸡验票后出战\n陆家嘴爆了\n伦敦闪烁时请勿上下车\n开门请dancing下车请注意安全\n不得在列车车厢内吟诗\n禁止 洗澡 卖艺 斗兽 sanfracico"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472111867036594179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2087803742053654892",
+        "created_at": "2026-08-13T07:29:36.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087803742053654892"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "01a20da949498784"
+        },
+        "id": "2087803742053654892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "通过炸鸡验票后出战\n陆家嘴爆了\n伦敦闪烁时请勿上下车\n开门请dancing下车请注意安全\n不得在列车车厢内吟诗\n禁止 洗澡 卖艺 斗兽 sanfracico"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095908184712183873",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24928,
+          "following_count": 10994,
+          "like_count": 156272,
+          "listed_count": 53,
+          "media_count": 6611,
+          "tweet_count": 58987
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨Cooking @workworkorg丨SparkLab丨EnvX丨 Android Dev丨简中丨繁中丨English丨21歲丨大三丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 128,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 105,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "is_identity_verified": true,
+        "location": "Earth",
+        "most_recent_tweet_id": "2095882204077580523",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1472111867036594179/1774787358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020150811016466433/xhLLotxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 715,
+          "like_count": 8770,
+          "listed_count": 5,
+          "media_count": 1290,
+          "tweet_count": 5448
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

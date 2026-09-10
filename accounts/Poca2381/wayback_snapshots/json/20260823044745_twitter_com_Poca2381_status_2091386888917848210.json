@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2091085329004711987",
+    "created_at": "2026-08-23T04:47:45.000Z",
+    "display_text_range": [
+      22,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T05:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091386888917848210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1369299554303172608",
+          "start": 0,
+          "username": "Ray65245070"
+        },
+        {
+          "end": 21,
+          "id": "1361349434596941830",
+          "start": 13,
+          "username": "RimoOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091386888917848210",
+    "in_reply_to_user_id": "1369299554303172608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091085329004711987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ray65245070 @RimoOvO 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091085031964024832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUGwe1aIAA49Hm.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2091085091791568896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUGz9taAAACiOF.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2091085329004711987",
+        "created_at": "2026-08-23T04:47:45.000Z",
+        "display_text_range": [
+          22,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091386888917848210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1369299554303172608",
+              "start": 0,
+              "username": "Ray65245070"
+            },
+            {
+              "end": 21,
+              "id": "1361349434596941830",
+              "start": 13,
+              "username": "RimoOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091386888917848210",
+        "in_reply_to_user_id": "1369299554303172608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091085329004711987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ray65245070 @RimoOvO 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091085031964024832",
+            "3_2091085091791568896"
+          ]
+        },
+        "author_id": "1369299554303172608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091085329004711987",
+        "created_at": "2026-08-22T08:49:27.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091085329004711987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5v7RUaVkeX",
+              "end": 60,
+              "expanded_url": "https://x.com/Ray65245070/status/2091085329004711987/photo/1",
+              "media_key": "3_2091085031964024832",
+              "start": 37,
+              "url": "https://t.co/5v7RUaVkeX"
+            },
+            {
+              "display_url": "pic.x.com/5v7RUaVkeX",
+              "end": 60,
+              "expanded_url": "https://x.com/Ray65245070/status/2091085329004711987/photo/1",
+              "media_key": "3_2091085091791568896",
+              "start": 37,
+              "url": "https://t.co/5v7RUaVkeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091085329004711987",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091085031964024832"
+          },
+          {
+            "media_key": "3_2091085091791568896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7920,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感覺拖了好多年，終於和大名人xnh見面🥰海貓確實可愛\n川內的念想完成了（ https://t.co/5v7RUaVkeX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2091386888917848210",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24155,
+          "following_count": 10690,
+          "like_count": 155519,
+          "listed_count": 53,
+          "media_count": 6298,
+          "tweet_count": 57601
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-09T14:51:24.000Z",
+        "description": "Alla fine della partita, il re e il pedone tornano nella stessa scatola",
+        "id": "1369299554303172608",
+        "is_identity_verified": false,
+        "location": "Europe",
+        "most_recent_tweet_id": "2091372252172533893",
+        "name": "stjörnuþoka",
+        "pinned_tweet_id": "1429859263543844893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369299554303172608/1637477333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904144891803729920/yBllhhFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 1233,
+          "like_count": 11523,
+          "listed_count": 0,
+          "media_count": 551,
+          "tweet_count": 3498
+        },
+        "url": "",
+        "username": "Ray65245070",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-15T16:19:39.000Z",
+        "description": "你好呀，我是海猫！🍖🍖🦴 | ISFJ-A | 喜欢一切可爱的事物 | 日常推 ，偶尔有奇怪的内容出没 | 是无药可救正太少年xnh控 | 家有莫比 @XiaoMouz | 装海猫的桶 https://t.co/CVZl5K4iSX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "XiaoMouz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/rimo_bucket",
+                "end": 116,
+                "expanded_url": "http://t.me/rimo_bucket",
+                "start": 93,
+                "url": "https://t.co/CVZl5K4iSX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.mou.best/@rimo",
+                "end": 23,
+                "expanded_url": "http://m.mou.best/@rimo",
+                "start": 0,
+                "url": "https://t.co/A99bdWkYei"
+              }
+            ]
+          }
+        },
+        "id": "1361349434596941830",
+        "is_identity_verified": false,
+        "location": "海猫茶屋",
+        "most_recent_tweet_id": "2091386163403890689",
+        "name": "海哈基猫 · Rimo 🐋",
+        "pinned_tweet_id": "2065468309047546203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361349434596941830/1653049950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580192676120436741/kgZTZcyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7291,
+          "following_count": 2881,
+          "like_count": 197530,
+          "listed_count": 16,
+          "media_count": 6040,
+          "tweet_count": 64832
+        },
+        "url": "https://t.co/A99bdWkYei",
+        "username": "RimoOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

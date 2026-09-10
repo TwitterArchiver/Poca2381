@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095095708131172352"
+      ],
+      "media_source_tweet_id": [
+        "2095095755660996929"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095095824544084168",
+    "created_at": "2026-09-02T10:25:44.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095095824544084168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028397856814764032",
+          "start": 3,
+          "username": "Poca5150"
+        },
+        {
+          "end": 30,
+          "id": "3792469754",
+          "start": 20,
+          "username": "honwing27"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DndAq61fXt",
+          "end": 54,
+          "expanded_url": "https://x.com/Poca5150/status/2095095755660996929/video/1",
+          "media_key": "13_2095095708131172352",
+          "start": 31,
+          "url": "https://t.co/DndAq61fXt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095095824544084168",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2095095708131172352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095095755660996929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca5150: 臭臭的\n🌸：@honwing27 https://t.co/DndAq61fXt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27781,
+        "height": 1280,
+        "media_key": "13_2095095708131172352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095095708131172352/img/a10wmROMBny-Ts9P.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095095708131172352/vid/avc1/320x568/XsaENCsoVAKTWbOd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095095708131172352/vid/avc1/480x852/EwjI3a1g4jskLmg2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095095708131172352/vid/avc1/720x1280/9wW4madNbrxPNki3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095095708131172352/pl/OAoS4v3U0YQ9HfbC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095095708131172352"
+          ],
+          "media_source_tweet_id": [
+            "2095095755660996929"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095095824544084168",
+        "created_at": "2026-09-02T10:25:44.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095095824544084168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028397856814764032",
+              "start": 3,
+              "username": "Poca5150"
+            },
+            {
+              "end": 30,
+              "id": "3792469754",
+              "start": 20,
+              "username": "honwing27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DndAq61fXt",
+              "end": 54,
+              "expanded_url": "https://x.com/Poca5150/status/2095095755660996929/video/1",
+              "media_key": "13_2095095708131172352",
+              "start": 31,
+              "url": "https://t.co/DndAq61fXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095095824544084168",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095095708131172352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095095755660996929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca5150: 臭臭的\n🌸：@honwing27 https://t.co/DndAq61fXt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095095708131172352"
+          ]
+        },
+        "author_id": "2028397856814764032",
+        "conversation_id": "2095095755660996929",
+        "created_at": "2026-09-02T10:25:27.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095095755660996929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3792469754",
+              "start": 6,
+              "username": "honwing27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DndAq61fXt",
+              "end": 40,
+              "expanded_url": "https://x.com/Poca5150/status/2095095755660996929/video/1",
+              "media_key": "13_2095095708131172352",
+              "start": 17,
+              "url": "https://t.co/DndAq61fXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095095755660996929",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095095708131172352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "臭臭的\n🌸：@honwing27 https://t.co/DndAq61fXt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2095095824544084168",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24786,
+          "following_count": 10923,
+          "like_count": 156111,
+          "listed_count": 53,
+          "media_count": 6547,
+          "tweet_count": 58669
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是  @Poca2381 的逃生仓\n娃娃专用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Poca2381"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "is_identity_verified": false,
+        "location": "香港上水",
+        "most_recent_tweet_id": "2095095755660996929",
+        "name": "早露夸夸兔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028397856814764032/1772520202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1306,
+          "like_count": 1386,
+          "listed_count": 6,
+          "media_count": 172,
+          "tweet_count": 1775
+        },
+        "url": "",
+        "username": "Poca5150",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-05T13:20:18.000Z",
+        "description": "來自香港🇭🇰 。vrc玩家，kig萌新。角色：Sameko Saba🐟、白上フブキ🦊🌽、 結城さくな🎀🐾、(ブルアカ)Arona🩵、(ブルアカ)Plana🤍、？。偶爾會發點日常",
+        "id": "3792469754",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094998500769718430",
+        "name": "honwing",
+        "pinned_tweet_id": "2009136747616330032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3792469754/1700481138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451649336421482496/1a2gL892_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 5012,
+          "like_count": 3972,
+          "listed_count": 15,
+          "media_count": 285,
+          "tweet_count": 21760
+        },
+        "url": "",
+        "username": "honwing27",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

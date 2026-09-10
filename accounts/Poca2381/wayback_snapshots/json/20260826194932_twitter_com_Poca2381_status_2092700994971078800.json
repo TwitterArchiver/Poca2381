@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091792482837143553"
+      ],
+      "media_source_tweet_id": [
+        "2091792594204266766"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2092700994971078800",
+    "created_at": "2026-08-26T19:49:32.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092700994971078800"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 66,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "DW14"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1326174018823614464",
+          "start": 3,
+          "username": "momo_FreshP0325"
+        },
+        {
+          "end": 47,
+          "id": "1091378626245738496",
+          "start": 37,
+          "username": "HibikiDuO"
+        },
+        {
+          "end": 64,
+          "id": "1891391859093913600",
+          "start": 51,
+          "username": "hibiki336605"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bMyvP3KlIn",
+          "end": 105,
+          "expanded_url": "https://x.com/momo_FreshP0325/status/2091792594204266766/video/1",
+          "media_key": "13_2091792482837143553",
+          "start": 82,
+          "url": "https://t.co/bMyvP3KlIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092700994971078800",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091792482837143553"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091792594204266766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momo_FreshP0325: 在DW后门偷吃零食的二人\n\n🫷 @HibikiDuO \n📷 @hibiki336605 \n#kigurumi #DW14 https://t.co/bMyvP3KlIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35882,
+        "height": 1920,
+        "media_key": "13_2091792482837143553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091792482837143553/img/2QKYSU8AdWh5zEtf.jpg",
+        "public_metrics": {
+          "view_count": 52823
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091792482837143553/pl/PREYCNtiKNy1xHxC.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091792482837143553/vid/avc1/1080x1920/h5YNImnfVw8SoUkG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091792482837143553/vid/avc1/480x852/5HWRZvqtcAYiQgIR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091792482837143553/vid/avc1/720x1280/XlRTtBgYTkKZfwKK.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091792482837143553/vid/avc1/320x568/p5TECqvNVMtmTSmJ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091792482837143553"
+          ],
+          "media_source_tweet_id": [
+            "2091792594204266766"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2092700994971078800",
+        "created_at": "2026-08-26T19:49:32.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092700994971078800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "DW14"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1326174018823614464",
+              "start": 3,
+              "username": "momo_FreshP0325"
+            },
+            {
+              "end": 47,
+              "id": "1091378626245738496",
+              "start": 37,
+              "username": "HibikiDuO"
+            },
+            {
+              "end": 64,
+              "id": "1891391859093913600",
+              "start": 51,
+              "username": "hibiki336605"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMyvP3KlIn",
+              "end": 105,
+              "expanded_url": "https://x.com/momo_FreshP0325/status/2091792594204266766/video/1",
+              "media_key": "13_2091792482837143553",
+              "start": 82,
+              "url": "https://t.co/bMyvP3KlIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092700994971078800",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091792482837143553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091792594204266766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momo_FreshP0325: 在DW后门偷吃零食的二人\n\n🫷 @HibikiDuO \n📷 @hibiki336605 \n#kigurumi #DW14 https://t.co/bMyvP3KlIn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091792482837143553"
+          ]
+        },
+        "author_id": "1326174018823614464",
+        "conversation_id": "2091792594204266766",
+        "created_at": "2026-08-24T07:39:52.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091792594204266766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "DW14"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1091378626245738496",
+              "start": 16,
+              "username": "HibikiDuO"
+            },
+            {
+              "end": 43,
+              "id": "1891391859093913600",
+              "start": 30,
+              "username": "hibiki336605"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMyvP3KlIn",
+              "end": 84,
+              "expanded_url": "https://x.com/momo_FreshP0325/status/2091792594204266766/video/1",
+              "media_key": "13_2091792482837143553",
+              "start": 61,
+              "url": "https://t.co/bMyvP3KlIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091792594204266766",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091792482837143553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 979,
+          "impression_count": 60341,
+          "like_count": 2360,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "在DW后门偷吃零食的二人\n\n🫷 @HibikiDuO \n📷 @hibiki336605 \n#kigurumi #DW14 https://t.co/bMyvP3KlIn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2092700994971078800",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24355,
+          "following_count": 10789,
+          "like_count": 155739,
+          "listed_count": 53,
+          "media_count": 6387,
+          "tweet_count": 58001
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-10T14:45:15.000Z",
+        "description": "kigurumi新人！现在的角色是千代田桃、虚拟主播沙月、正义实现委员会杂鱼酱、十字神明的艾茵、酒寄彩叶！",
+        "id": "1326174018823614464",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092311364286943422",
+        "name": "芳文社副社长",
+        "pinned_tweet_id": "2074859647123529814",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1326174018823614464/1766162665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078546813938720768/pvJ-nrsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13090,
+          "following_count": 560,
+          "like_count": 2180,
+          "listed_count": 46,
+          "media_count": 90,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "momo_FreshP0325",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-01T16:51:56.000Z",
+        "description": "我的动力源于我的自卑",
+        "id": "1091378626245738496",
+        "is_identity_verified": false,
+        "location": "桂A",
+        "most_recent_tweet_id": "2092600843677958408",
+        "name": "🐖Hibiki",
+        "pinned_tweet_id": "2011265263380177249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091378626245738496/1698307222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954458635863822336/5Henh_mA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 1169,
+          "like_count": 30634,
+          "listed_count": 28,
+          "media_count": 236,
+          "tweet_count": 4598
+        },
+        "url": "",
+        "username": "HibikiDuO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T07:39:00.000Z",
+        "description": "小透明~",
+        "id": "1891391859093913600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091744417011188069",
+        "name": "罐中星空",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892906361706442752/u9n9P9rS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 161,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "hibiki336605",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
