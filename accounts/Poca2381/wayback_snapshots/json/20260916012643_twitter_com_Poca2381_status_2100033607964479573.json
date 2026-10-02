@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2099785305415123068",
+    "created_at": "2026-09-16T01:26:43.000Z",
+    "display_text_range": [
+      19,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100033607964479573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 18,
+          "id": "1818257539886460928",
+          "start": 10,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100033607964479573",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099785305415123068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu @qqqqqf_ 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099785292932915200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPvmUnbIAACvpk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2099785292932947968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPvmUnboAA_W5J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2099785305415123068",
+        "created_at": "2026-09-16T01:26:43.000Z",
+        "display_text_range": [
+          19,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100033607964479573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 18,
+              "id": "1818257539886460928",
+              "start": 10,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100033607964479573",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099785305415123068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu @qqqqqf_ 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099785292932915200",
+            "3_2099785292932947968"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2099785305415123068",
+        "created_at": "2026-09-15T09:00:03.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099785305415123068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818257539886460928",
+              "start": 7,
+              "username": "qqqqqf_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/06Z5220ewK",
+              "end": 62,
+              "expanded_url": "https://x.com/AcboxLiu/status/2099785305415123068/photo/1",
+              "media_key": "3_2099785292932915200",
+              "start": 39,
+              "url": "https://t.co/06Z5220ewK"
+            },
+            {
+              "display_url": "pic.x.com/06Z5220ewK",
+              "end": 62,
+              "expanded_url": "https://x.com/AcboxLiu/status/2099785305415123068/photo/1",
+              "media_key": "3_2099785292932947968",
+              "start": 39,
+              "url": "https://t.co/06Z5220ewK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099785305415123068",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099785292932915200"
+          },
+          {
+            "media_key": "3_2099785292932947968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15749,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚三点我和 @qqqqqf_ 两个人还在办公室赶ddl（\n靠魔爪续命ing https://t.co/06Z5220ewK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2100033619683348562",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25475,
+          "following_count": 11264,
+          "like_count": 157158,
+          "listed_count": 55,
+          "media_count": 6947,
+          "tweet_count": 60634
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "https://t.co/hUTrNH9tjK\nCo-founder of https://t.co/gLiVpv7NbV https://t.co/PSLnUgtUxO\n家里有大猫和两只小猫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/hUTrNH9tjK"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 61,
+                "expanded_url": "http://memoh.ai",
+                "start": 38,
+                "url": "https://t.co/gLiVpv7NbV"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 85,
+                "expanded_url": "http://felinic.ai",
+                "start": 62,
+                "url": "https://t.co/PSLnUgtUxO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpSBMs"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "is_identity_verified": false,
+        "location": "上海/深圳",
+        "most_recent_tweet_id": "2099885099491926053",
+        "name": "📦Acbox",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1764649898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12907,
+          "following_count": 1537,
+          "like_count": 3663,
+          "listed_count": 66,
+          "media_count": 361,
+          "tweet_count": 5051
+        },
+        "url": "https://t.co/UNw6tpSBMs",
+        "username": "AcboxLiu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer | Work in @memoh_ai\nBuilding  https://t.co/Q5DJkrjOuI / https://t.co/g2ifXiGxCP\nPersonal Page:https://t.co/YPfuXnEcRK  \nMy Group :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "memoh_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 73,
+                "expanded_url": "http://Arkloop.io",
+                "start": 50,
+                "url": "https://t.co/Q5DJkrjOuI"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 99,
+                "expanded_url": "https://memoh.ai",
+                "start": 76,
+                "url": "https://t.co/g2ifXiGxCP"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 137,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 114,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 173,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 150,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "is_identity_verified": false,
+        "location": "China/Shanghai",
+        "most_recent_tweet_id": "2099937817761829200",
+        "name": "清凤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818257539886460928/1770919978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 1091,
+          "like_count": 23664,
+          "listed_count": 10,
+          "media_count": 430,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

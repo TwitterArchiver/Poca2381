@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2098079984544014622",
+    "created_at": "2026-09-11T17:01:59.000Z",
+    "display_text_range": [
+      21,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098457035612524817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "874593071350005760",
+          "start": 0,
+          "username": "MariKigu"
+        },
+        {
+          "end": 20,
+          "id": "1608241204054949889",
+          "start": 10,
+          "username": "KyoukaKig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098457035612524817",
+    "in_reply_to_user_id": "874593071350005760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098079984544014622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MariKigu @KyoukaKig 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2098079975618617344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3gnykboAABKmZ.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2098079984544014622",
+        "created_at": "2026-09-11T17:01:59.000Z",
+        "display_text_range": [
+          21,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098457035612524817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "874593071350005760",
+              "start": 0,
+              "username": "MariKigu"
+            },
+            {
+              "end": 20,
+              "id": "1608241204054949889",
+              "start": 10,
+              "username": "KyoukaKig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098457035612524817",
+        "in_reply_to_user_id": "874593071350005760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098079984544014622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MariKigu @KyoukaKig 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098079975618617344"
+          ]
+        },
+        "author_id": "874593071350005760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2098079984544014622",
+        "created_at": "2026-09-10T16:03:43.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098079984544014622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "latex"
+            },
+            {
+              "end": 69,
+              "start": 60,
+              "tag": "AzurLane"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1608241204054949889",
+              "start": 30,
+              "username": "KyoukaKig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAQjgvtmAB",
+              "end": 93,
+              "expanded_url": "https://x.com/MariKigu/status/2098079984544014622/photo/1",
+              "media_key": "3_2098079975618617344",
+              "start": 70,
+              "url": "https://t.co/iAQjgvtmAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098079984544014622",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098079975618617344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 4111,
+          "like_count": 417,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "Bunny girls assemble!!!\n\nwith @KyoukaKig \n\n#kigurumi\n#latex\n#AzurLane https://t.co/iAQjgvtmAB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098457035612524817",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25126,
+          "following_count": 11148,
+          "like_count": 156714,
+          "listed_count": 53,
+          "media_count": 6810,
+          "tweet_count": 59918
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-13T11:43:32.000Z",
+        "description": "Kigurumi cosplayer (since Aug 1, 2022) from Vietnam.\nLang: En, Vi.\nH: 172cm, W: 62kg, 104-65-103.\nI make #sfw and #nsfw contents.\n\nQQ: 3619880566",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "sfw"
+              },
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "nsfw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marikigu.com",
+                "end": 23,
+                "expanded_url": "https://marikigu.com/",
+                "start": 0,
+                "url": "https://t.co/cpXiaPembp"
+              }
+            ]
+          }
+        },
+        "id": "874593071350005760",
+        "is_identity_verified": false,
+        "location": "Hanoi, Vietnam",
+        "most_recent_tweet_id": "2098441869768475064",
+        "name": "Mari Kig 🇻🇳",
+        "pinned_tweet_id": "1966522759917314297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874593071350005760/1752254342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943725054337884160/5wioOhne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37526,
+          "following_count": 2068,
+          "like_count": 23609,
+          "listed_count": 182,
+          "media_count": 1389,
+          "tweet_count": 3056
+        },
+        "url": "https://t.co/cpXiaPembp",
+        "username": "MariKigu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-28T23:19:23.000Z",
+        "description": "🇩🇪 expect SFW, NSFW 🖤✨\nQQ Group - 523234615\nKigu-Figure-Collector\nKig: Kyouka, Beta, Albedo, Friedrich, Darkness, Red, Neko\nEng & Ger open for collabs 🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kyoukakig",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kyoukakig",
+                "start": 0,
+                "url": "https://t.co/zK8aS0mGmO"
+              }
+            ]
+          }
+        },
+        "id": "1608241204054949889",
+        "is_identity_verified": false,
+        "location": "Frankfurt - Germany",
+        "most_recent_tweet_id": "2098449716417630239",
+        "name": "KyoukaKig",
+        "pinned_tweet_id": "2009317033075450314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608241204054949889/1776443890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956084434563694596/dzhim74C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8096,
+          "following_count": 4460,
+          "like_count": 63037,
+          "listed_count": 40,
+          "media_count": 465,
+          "tweet_count": 7459
+        },
+        "url": "https://t.co/zK8aS0mGmO",
+        "username": "KyoukaKig",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

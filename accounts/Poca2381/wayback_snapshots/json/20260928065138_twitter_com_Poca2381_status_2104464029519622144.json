@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104453121993019393",
+        "3_2104453133007282176"
+      ],
+      "media_source_tweet_id": [
+        "2104453142205386867",
+        "2104453142205386867"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2104464029519622144",
+    "created_at": "2026-09-28T06:51:38.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104464029519622144"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1274680341161054210",
+          "start": 3,
+          "username": "nightngtkawai"
+        },
+        {
+          "end": 40,
+          "id": "1482283118434582528",
+          "start": 29,
+          "username": "yuqingjue3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QIsGqHSWOV",
+          "end": 74,
+          "expanded_url": "https://x.com/nightngtkawai/status/2104453142205386867/photo/1",
+          "media_key": "3_2104453121993019393",
+          "start": 51,
+          "url": "https://t.co/QIsGqHSWOV"
+        },
+        {
+          "display_url": "pic.x.com/QIsGqHSWOV",
+          "end": 74,
+          "expanded_url": "https://x.com/nightngtkawai/status/2104453142205386867/photo/1",
+          "media_key": "3_2104453133007282176",
+          "start": 51,
+          "url": "https://t.co/QIsGqHSWOV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104464029519622144",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104453121993019393"
+      },
+      {
+        "media_key": "3_2104453133007282176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104453142205386867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nightngtkawai: 小猫不可以喝酒\n📷：@yuqingjue3\n#kigurumi https://t.co/QIsGqHSWOV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2104453121993019393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSE9u7bEAEd5GO.jpg",
+        "width": 4095
+      },
+      {
+        "height": 3520,
+        "media_key": "3_2104453133007282176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSE-X9bYAAMnk_.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104453121993019393",
+            "3_2104453133007282176"
+          ],
+          "media_source_tweet_id": [
+            "2104453142205386867",
+            "2104453142205386867"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2104464029519622144",
+        "created_at": "2026-09-28T06:51:38.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104464029519622144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1274680341161054210",
+              "start": 3,
+              "username": "nightngtkawai"
+            },
+            {
+              "end": 40,
+              "id": "1482283118434582528",
+              "start": 29,
+              "username": "yuqingjue3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIsGqHSWOV",
+              "end": 74,
+              "expanded_url": "https://x.com/nightngtkawai/status/2104453142205386867/photo/1",
+              "media_key": "3_2104453121993019393",
+              "start": 51,
+              "url": "https://t.co/QIsGqHSWOV"
+            },
+            {
+              "display_url": "pic.x.com/QIsGqHSWOV",
+              "end": 74,
+              "expanded_url": "https://x.com/nightngtkawai/status/2104453142205386867/photo/1",
+              "media_key": "3_2104453133007282176",
+              "start": 51,
+              "url": "https://t.co/QIsGqHSWOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104464029519622144",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104453121993019393"
+          },
+          {
+            "media_key": "3_2104453133007282176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104453142205386867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nightngtkawai: 小猫不可以喝酒\n📷：@yuqingjue3\n#kigurumi https://t.co/QIsGqHSWOV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104453121993019393",
+            "3_2104453133007282176"
+          ]
+        },
+        "author_id": "1274680341161054210",
+        "conversation_id": "2104453142205386867",
+        "created_at": "2026-09-28T06:08:22.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104453142205386867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1482283118434582528",
+              "start": 10,
+              "username": "yuqingjue3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIsGqHSWOV",
+              "end": 55,
+              "expanded_url": "https://x.com/nightngtkawai/status/2104453142205386867/photo/1",
+              "media_key": "3_2104453121993019393",
+              "start": 32,
+              "url": "https://t.co/QIsGqHSWOV"
+            },
+            {
+              "display_url": "pic.x.com/QIsGqHSWOV",
+              "end": 55,
+              "expanded_url": "https://x.com/nightngtkawai/status/2104453142205386867/photo/1",
+              "media_key": "3_2104453133007282176",
+              "start": 32,
+              "url": "https://t.co/QIsGqHSWOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104453142205386867",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104453121993019393"
+          },
+          {
+            "media_key": "3_2104453133007282176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小猫不可以喝酒\n📷：@yuqingjue3\n#kigurumi https://t.co/QIsGqHSWOV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2104464029519622144",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25857,
+          "following_count": 11472,
+          "like_count": 157481,
+          "listed_count": 53,
+          "media_count": 7193,
+          "tweet_count": 61785
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-21T12:27:37.000Z",
+        "description": "我发誓要更努力，更有勇气|杭州CS读研中 欢迎可爱娃扩列 \nkig萌新:亚丝娜，C.C.，凯尔希，隐德来希，mon3tr制作中 |偶尔玩胶",
+        "id": "1274680341161054210",
+        "is_identity_verified": false,
+        "location": "嘤嘤岛",
+        "most_recent_tweet_id": "2104453142205386867",
+        "name": "奶昔昔昔昔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274680341161054210/1698835043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168834239520768/Qn-nMW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 473,
+          "like_count": 2474,
+          "listed_count": 24,
+          "media_count": 65,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "nightngtkawai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-15T09:26:57.000Z",
+        "description": "萌新kiger，角色是泥岩和忍冬，特蕾西娅，花园（制作ing），奥菲斯（制作ing）。目前常驻上海上学，希望能认识贴贴更多娃。扩列qq1972478252（还是个萌新摄影）",
+        "id": "1482283118434582528",
+        "is_identity_verified": false,
+        "location": "大连/上海",
+        "most_recent_tweet_id": "2103300228527104045",
+        "name": "清绝.raw",
+        "pinned_tweet_id": "1801179082073460854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482283118434582528/1687882215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893184215715295232/rL11lwAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 1237,
+          "like_count": 858,
+          "listed_count": 10,
+          "media_count": 74,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "yuqingjue3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

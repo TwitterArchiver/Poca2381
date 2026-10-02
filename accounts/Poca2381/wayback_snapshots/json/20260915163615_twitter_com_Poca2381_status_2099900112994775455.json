@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099828480913670144"
+      ],
+      "media_source_tweet_id": [
+        "2099828542083318003"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2099900112994775455",
+    "created_at": "2026-09-15T16:36:15.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099900112994775455"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 19,
+          "tag": "kigurumiㅤㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863133531926614016",
+          "start": 3,
+          "username": "yuyucd2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NLrUQAjvSz",
+          "end": 54,
+          "expanded_url": "https://x.com/yuyucd2nd/status/2099828542083318003/video/1",
+          "media_key": "13_2099828480913670144",
+          "start": 31,
+          "url": "https://t.co/NLrUQAjvSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099900112994775455",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2099828480913670144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099828542083318003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyucd2nd: 搖搖搖\n#kigurumiㅤㅤ https://t.co/NLrUQAjvSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6210,
+        "height": 1920,
+        "media_key": "13_2099828480913670144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099828480913670144/img/BvR9hcEm_TbeR8zN.jpg",
+        "public_metrics": {
+          "view_count": 414
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099828480913670144/vid/avc1/320x568/KB1O3ANcYB6uHMm6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099828480913670144/vid/avc1/480x852/_-o3BMAM9qlQlvaq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099828480913670144/vid/avc1/720x1280/1Mc3tJjTadhLIZu2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099828480913670144/pl/lBsQ-4NVoEO2Z3ho.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099828480913670144"
+          ],
+          "media_source_tweet_id": [
+            "2099828542083318003"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2099900112994775455",
+        "created_at": "2026-09-15T16:36:15.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099900112994775455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "kigurumiㅤㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863133531926614016",
+              "start": 3,
+              "username": "yuyucd2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLrUQAjvSz",
+              "end": 54,
+              "expanded_url": "https://x.com/yuyucd2nd/status/2099828542083318003/video/1",
+              "media_key": "13_2099828480913670144",
+              "start": 31,
+              "url": "https://t.co/NLrUQAjvSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099900112994775455",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099828480913670144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099828542083318003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyucd2nd: 搖搖搖\n#kigurumiㅤㅤ https://t.co/NLrUQAjvSz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099828480913670144"
+          ]
+        },
+        "author_id": "1863133531926614016",
+        "conversation_id": "2099828542083318003",
+        "created_at": "2026-09-15T11:51:52.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099828542083318003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 4,
+              "tag": "kigurumiㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLrUQAjvSz",
+              "end": 39,
+              "expanded_url": "https://x.com/yuyucd2nd/status/2099828542083318003/video/1",
+              "media_key": "13_2099828480913670144",
+              "start": 16,
+              "url": "https://t.co/NLrUQAjvSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099828542083318003",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099828480913670144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1497,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "搖搖搖\n#kigurumiㅤㅤ https://t.co/NLrUQAjvSz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2099900125531550058",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25465,
+          "following_count": 11228,
+          "like_count": 157043,
+          "listed_count": 53,
+          "media_count": 6932,
+          "tweet_count": 60486
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T08:10:54.000Z",
+        "description": "新人kiger 腳色:美遊\n半自製頭殼，什麼都還在學，希望未來能完全自製\n想多認識可愛的娃，愛貼貼拍照\n生活帳 : @yukichan2226 (含一點BDSM)\n(不是清水)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "yukichan2226"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myfans.asia/@yukichan2225",
+                "end": 23,
+                "expanded_url": "https://myfans.asia/@yukichan2225",
+                "start": 0,
+                "url": "https://t.co/FSuKjnqayv"
+              }
+            ]
+          }
+        },
+        "id": "1863133531926614016",
+        "is_identity_verified": false,
+        "location": "Taipei-Taiwan",
+        "most_recent_tweet_id": "2099882436121506178",
+        "name": "雪雪❄️",
+        "pinned_tweet_id": "2054612699380883841",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096297804214018048/ztHOYm9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 527,
+          "like_count": 2153,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/FSuKjnqayv",
+        "username": "yuyucd2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

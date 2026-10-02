@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083800120307646464"
+      ],
+      "media_source_tweet_id": [
+        "2083800253288087961"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098046910296990176",
+    "created_at": "2026-09-10T13:52:17.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098046910296990176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1503359101278965761",
+          "start": 3,
+          "username": "Sacima007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N28nGBL4DI",
+          "end": 40,
+          "expanded_url": "https://x.com/Sacima007/status/2083800253288087961/video/1",
+          "media_key": "13_2083800120307646464",
+          "start": 17,
+          "url": "https://t.co/N28nGBL4DI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098046910296990176",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2083800120307646464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083800253288087961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sacima007: 水 https://t.co/N28nGBL4DI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39198,
+        "height": 3840,
+        "media_key": "13_2083800120307646464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083800120307646464/img/yuC6sqfX8cRGDWVx.jpg",
+        "public_metrics": {
+          "view_count": 3419
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083800120307646464/vid/avc1/320x568/GFfFGkr9rOz6heUW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083800120307646464/vid/avc1/480x852/H_9YVNhzDYDmpu9i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083800120307646464/vid/avc1/720x1280/Z81i8Y0Dv62EiOcd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083800120307646464/pl/muVe-ZgjQe0iRBy3.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083800120307646464"
+          ],
+          "media_source_tweet_id": [
+            "2083800253288087961"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098046910296990176",
+        "created_at": "2026-09-10T13:52:17.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098046910296990176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1503359101278965761",
+              "start": 3,
+              "username": "Sacima007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N28nGBL4DI",
+              "end": 40,
+              "expanded_url": "https://x.com/Sacima007/status/2083800253288087961/video/1",
+              "media_key": "13_2083800120307646464",
+              "start": 17,
+              "url": "https://t.co/N28nGBL4DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098046910296990176",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2083800120307646464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083800253288087961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sacima007: 水 https://t.co/N28nGBL4DI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083800120307646464"
+          ]
+        },
+        "author_id": "1503359101278965761",
+        "conversation_id": "2083800253288087961",
+        "created_at": "2026-08-02T06:21:10.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083800253288087961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N28nGBL4DI",
+              "end": 25,
+              "expanded_url": "https://x.com/Sacima007/status/2083800253288087961/video/1",
+              "media_key": "13_2083800120307646464",
+              "start": 2,
+              "url": "https://t.co/N28nGBL4DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083800253288087961",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2083800120307646464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 12948,
+          "like_count": 481,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "水 https://t.co/N28nGBL4DI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "EG",
+              "full_name": "Port Said, Būr Sa‘īd, Egypt",
+              "geo": {
+                "coordinates": [
+                  32.28412,
+                  31.25654
+                ],
+                "type": "Point"
+              },
+              "locality": "Port Said",
+              "region": "Būr Sa‘īd"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098046910296990176",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25054,
+          "following_count": 11098,
+          "like_count": 156735,
+          "listed_count": 53,
+          "media_count": 6779,
+          "tweet_count": 59728
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-14T13:15:24.000Z",
+        "description": "不扩列",
+        "id": "1503359101278965761",
+        "is_identity_verified": false,
+        "location": "KOKOLO",
+        "most_recent_tweet_id": "2083800253288087961",
+        "name": "橘几吖🍊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1503359101278965761/1782361129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069998849087897600/X_-OJ4j__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9485,
+          "following_count": 2168,
+          "like_count": 16809,
+          "listed_count": 40,
+          "media_count": 121,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "Sacima007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

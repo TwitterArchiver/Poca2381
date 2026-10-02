@@ -1,0 +1,679 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099174673162596352"
+      ],
+      "media_source_tweet_id": [
+        "2099174924560802266"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      }
+    ],
+    "conversation_id": "2099396370071474221",
+    "created_at": "2026-09-14T07:14:34.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T08:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099396370071474221"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 34,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 50,
+          "start": 44,
+          "tag": "latex"
+        },
+        {
+          "end": 60,
+          "start": 51,
+          "tag": "Nakhimov"
+        },
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "AzurLane"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "874593071350005760",
+          "start": 3,
+          "username": "MariKigu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Super Pads – Ultra-Realistic Thigh & Hip Enhancer Super Pads are a next-generation lower-body shaping solution designed to recreate the natural thigh and hip proportions of a cis-female body.Unlike traditional silicone hip pads that only add volume at the sides, Super Pads use a full 3D wraparound structure to enhance thighs and hips as one continuous form, resulting in a far more realistic silhouette and posture. ✨ Key Features Full 3D Thigh & Hip CoverageWraps around the upper thighs and hips seamlessly, creating smooth, organic curves instead of artificial side bulges. Ultra-Realistic Body ProportionsDesigned to mimic real female lower-body anatomy, improving not only appearance but also overall body posture and stance. More Natural Than Traditional Hip PadsCompared to conventional silicone hip pads, Super Pads distribute volume more evenly, eliminating sharp transitions and unnatural edges. Invisible Under ClothingCan be securely held",
+          "display_url": "inthemask.com/products/the-s…",
+          "end": 104,
+          "expanded_url": "https://inthemask.com/products/the-super-pads-by-luxentra-1?sca_ref=11914359.SvYxpRa3xwVSDFp",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2098081171641106432/6ukFWEDh?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2098081171641106432/6ukFWEDh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 81,
+          "status": 200,
+          "title": "\"Super Pads\" for Hip Padding and Girdle Enhancement by Luxentra | Kigurumi & Drag",
+          "unwound_url": "https://inthemask.com/products/the-super-pads-by-luxentra-1?sca_ref=11914359.SvYxpRa3xwVSDFp",
+          "url": "https://t.co/1cfTvDIboW"
+        },
+        {
+          "display_url": "pic.x.com/op8eelyqZc",
+          "end": 128,
+          "expanded_url": "https://x.com/MariKigu/status/2099174924560802266/video/1",
+          "media_key": "13_2099174673162596352",
+          "start": 105,
+          "url": "https://t.co/op8eelyqZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099396370071474221",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2099174673162596352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099174924560802266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MariKigu: Squishy Squishy...\n\n#kigurumi\n#latex\n#Nakhimov\n#AzurLane\n\nProduct: https://t.co/1cfTvDIboW https://t.co/op8eelyqZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12202,
+        "height": 1920,
+        "media_key": "13_2099174673162596352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099174673162596352/img/XUMIjyUq_z3T1sZw.jpg",
+        "public_metrics": {
+          "view_count": 1720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099174673162596352/pl/CxgqF4lw0UrB5i-N.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099174673162596352/vid/avc1/1080x1920/3OMb0dkdV03zCACu.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099174673162596352/vid/avc1/320x568/G3KTCeBSzrojpTjE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099174673162596352/vid/avc1/720x1280/zULZBQ9j7eby5fxK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099174673162596352/vid/avc1/480x852/HYE3klWC-u5_xV8B.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099174673162596352"
+          ],
+          "media_source_tweet_id": [
+            "2099174924560802266"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2099396370071474221",
+        "created_at": "2026-09-14T07:14:34.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099396370071474221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "latex"
+            },
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "Nakhimov"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "AzurLane"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "874593071350005760",
+              "start": 3,
+              "username": "MariKigu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Super Pads – Ultra-Realistic Thigh & Hip Enhancer Super Pads are a next-generation lower-body shaping solution designed to recreate the natural thigh and hip proportions of a cis-female body.Unlike traditional silicone hip pads that only add volume at the sides, Super Pads use a full 3D wraparound structure to enhance thighs and hips as one continuous form, resulting in a far more realistic silhouette and posture. ✨ Key Features Full 3D Thigh & Hip CoverageWraps around the upper thighs and hips seamlessly, creating smooth, organic curves instead of artificial side bulges. Ultra-Realistic Body ProportionsDesigned to mimic real female lower-body anatomy, improving not only appearance but also overall body posture and stance. More Natural Than Traditional Hip PadsCompared to conventional silicone hip pads, Super Pads distribute volume more evenly, eliminating sharp transitions and unnatural edges. Invisible Under ClothingCan be securely held",
+              "display_url": "inthemask.com/products/the-s…",
+              "end": 104,
+              "expanded_url": "https://inthemask.com/products/the-super-pads-by-luxentra-1?sca_ref=11914359.SvYxpRa3xwVSDFp",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2098081171641106432/6ukFWEDh?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2098081171641106432/6ukFWEDh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "\"Super Pads\" for Hip Padding and Girdle Enhancement by Luxentra | Kigurumi & Drag",
+              "unwound_url": "https://inthemask.com/products/the-super-pads-by-luxentra-1?sca_ref=11914359.SvYxpRa3xwVSDFp",
+              "url": "https://t.co/1cfTvDIboW"
+            },
+            {
+              "display_url": "pic.x.com/op8eelyqZc",
+              "end": 128,
+              "expanded_url": "https://x.com/MariKigu/status/2099174924560802266/video/1",
+              "media_key": "13_2099174673162596352",
+              "start": 105,
+              "url": "https://t.co/op8eelyqZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099396370071474221",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099174673162596352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099174924560802266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MariKigu: Squishy Squishy...\n\n#kigurumi\n#latex\n#Nakhimov\n#AzurLane\n\nProduct: https://t.co/1cfTvDIboW https://t.co/op8eelyqZc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099174673162596352"
+          ]
+        },
+        "author_id": "874593071350005760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2099174924560802266",
+        "created_at": "2026-09-13T16:34:37.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099174924560802266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "latex"
+            },
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "Nakhimov"
+            },
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "AzurLane"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Super Pads – Ultra-Realistic Thigh & Hip Enhancer Super Pads are a next-generation lower-body shaping solution designed to recreate the natural thigh and hip proportions of a cis-female body.Unlike traditional silicone hip pads that only add volume at the sides, Super Pads use a full 3D wraparound structure to enhance thighs and hips as one continuous form, resulting in a far more realistic silhouette and posture. ✨ Key Features Full 3D Thigh & Hip CoverageWraps around the upper thighs and hips seamlessly, creating smooth, organic curves instead of artificial side bulges. Ultra-Realistic Body ProportionsDesigned to mimic real female lower-body anatomy, improving not only appearance but also overall body posture and stance. More Natural Than Traditional Hip PadsCompared to conventional silicone hip pads, Super Pads distribute volume more evenly, eliminating sharp transitions and unnatural edges. Invisible Under ClothingCan be securely held",
+              "display_url": "inthemask.com/products/the-s…",
+              "end": 90,
+              "expanded_url": "https://inthemask.com/products/the-super-pads-by-luxentra-1?sca_ref=11914359.SvYxpRa3xwVSDFp",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2098081171641106432/6ukFWEDh?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2098081171641106432/6ukFWEDh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "\"Super Pads\" for Hip Padding and Girdle Enhancement by Luxentra | Kigurumi & Drag",
+              "unwound_url": "https://inthemask.com/products/the-super-pads-by-luxentra-1?sca_ref=11914359.SvYxpRa3xwVSDFp",
+              "url": "https://t.co/1cfTvDIboW"
+            },
+            {
+              "display_url": "pic.x.com/op8eelyqZc",
+              "end": 114,
+              "expanded_url": "https://x.com/MariKigu/status/2099174924560802266/video/1",
+              "media_key": "13_2099174673162596352",
+              "start": 91,
+              "url": "https://t.co/op8eelyqZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099174924560802266",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099174673162596352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 5513,
+          "like_count": 554,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Squishy Squishy...\n\n#kigurumi\n#latex\n#Nakhimov\n#AzurLane\n\nProduct: https://t.co/1cfTvDIboW https://t.co/op8eelyqZc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2099396382448836771",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25288,
+          "following_count": 11198,
+          "like_count": 156889,
+          "listed_count": 53,
+          "media_count": 6888,
+          "tweet_count": 60226
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-13T11:43:32.000Z",
+        "description": "Kigurumi cosplayer (since Aug 1, 2022) from Vietnam.\nLang: En, Vi.\nH: 172cm, W: 62kg, 104-65-103.\nI make #sfw and #nsfw contents.\n\nQQ: 3619880566",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "sfw"
+              },
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "nsfw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marikigu.com",
+                "end": 23,
+                "expanded_url": "https://marikigu.com/",
+                "start": 0,
+                "url": "https://t.co/cpXiaPembp"
+              }
+            ]
+          }
+        },
+        "id": "874593071350005760",
+        "is_identity_verified": false,
+        "location": "Hanoi, Vietnam",
+        "most_recent_tweet_id": "2099174924560802266",
+        "name": "Mari Kig 🇻🇳",
+        "pinned_tweet_id": "1966522759917314297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874593071350005760/1752254342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943725054337884160/5wioOhne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37634,
+          "following_count": 2072,
+          "like_count": 23637,
+          "listed_count": 182,
+          "media_count": 1391,
+          "tweet_count": 3063
+        },
+        "url": "https://t.co/cpXiaPembp",
+        "username": "MariKigu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

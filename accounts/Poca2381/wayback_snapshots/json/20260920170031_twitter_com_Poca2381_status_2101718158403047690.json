@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2101718158403047690",
+    "created_at": "2026-09-20T17:00:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101718158403047690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413448007362650115",
+          "start": 3,
+          "username": "Yayoi_no_yume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/B26XqlWLc",
+          "end": 139,
+          "start": 117,
+          "url": "https://t.co/B26XqlWLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101718158403047690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100597593214734708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yayoi_no_yume: 统一说明，没有固定的提示词，且这四张图我有描改一些部分。\n\n(字数限制，参考提示词在ALT)\n\n一个比巴卜跑跑糖就能画一张图，没有GPT会员的直接使用Aihubmix的服务就行，生图速度很快！\n\nhttps://t.co/B26XqlWLc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "拿着参考图和GPT-image-2.5说“你参考着这个bot头图，去为图二中的角色绘制类似风格的头图，注意图中没有脖子及以下部分，瞳色与图二中角色瞳色的主色调保持一致，面部轻微抬起，整体仰视右上方。”之类的话应该就能生成类似的图像。",
+        "height": 2160,
+        "media_key": "3_2100597584142458880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbSX5La4AA9EFQ.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2101718158403047690",
+        "created_at": "2026-09-20T17:00:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101718158403047690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413448007362650115",
+              "start": 3,
+              "username": "Yayoi_no_yume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/B26XqlWLc",
+              "end": 139,
+              "start": 117,
+              "url": "https://t.co/B26XqlWLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101718158403047690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100597593214734708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yayoi_no_yume: 统一说明，没有固定的提示词，且这四张图我有描改一些部分。\n\n(字数限制，参考提示词在ALT)\n\n一个比巴卜跑跑糖就能画一张图，没有GPT会员的直接使用Aihubmix的服务就行，生图速度很快！\n\nhttps://t.co/B26XqlWLc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100597584142458880"
+          ]
+        },
+        "author_id": "1413448007362650115",
+        "conversation_id": "2100597593214734708",
+        "created_at": "2026-09-17T14:47:48.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100597593214734708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Access leading AI models through one unified, OpenAI-compatible API. Connect to ChatGPT, Claude, Gemini, DeepSeek, Doubao, Qwen and more through a single endpoint.",
+              "display_url": "aihubmix.com",
+              "end": 121,
+              "expanded_url": "https://aihubmix.com/",
+              "start": 98,
+              "status": 200,
+              "title": "AIHubMix - One API for Any Model",
+              "unwound_url": "https://aihubmix.com/",
+              "url": "https://t.co/B26XqlWLcK"
+            },
+            {
+              "display_url": "pic.x.com/XwSAhXkkht",
+              "end": 145,
+              "expanded_url": "https://x.com/Yayoi_no_yume/status/2100597593214734708/photo/1",
+              "media_key": "3_2100597584142458880",
+              "start": 122,
+              "url": "https://t.co/XwSAhXkkht"
+            },
+            {
+              "display_url": "x.com/Yayoi_no_yume/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Yayoi_no_yume/status/2100543667815752058",
+              "start": 146,
+              "url": "https://t.co/j4TUFcNKRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100597593214734708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "拿着参考图和GPT-image-2.5说“你参考着这个bot头图，去为图二中的角色绘制类似风格的头图，注意图中没有脖子及以下部分，瞳色与图二中角色瞳色的主色调保持一致，面部轻微抬起，整体仰视右上方。”之类的话应该就能生成类似的图像。",
+            "media_key": "3_2100597584142458880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 907,
+          "impression_count": 206089,
+          "like_count": 1162,
+          "quote_count": 86,
+          "reply_count": 96,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100543667815752058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "统一说明，没有固定的提示词，且这四张图我有描改一些部分。\n\n(字数限制，参考提示词在ALT)\n\n一个比巴卜跑跑糖就能画一张图，没有GPT会员的直接使用Aihubmix的服务就行，生图速度很快！\n\nhttps://t.co/B26XqlWLcK https://t.co/XwSAhXkkht https://t.co/j4TUFcNKRc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101718169002164489",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25657,
+          "following_count": 11371,
+          "like_count": 157443,
+          "listed_count": 55,
+          "media_count": 7050,
+          "tweet_count": 61178
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-09T10:40:52.000Z",
+        "description": "KISARAGIノ桜🌸/普通人/写真家📸/◂Ⓘ▸电吉他手🎸/🖌️绘画/文字📖/🥇Learn in public/LLM应用🔍/和开发者做朋友☀️/“🤖e/acc🚀”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yayoi.love",
+                "end": 23,
+                "expanded_url": "http://blog.yayoi.love",
+                "start": 0,
+                "url": "https://t.co/5m3BySZ4lO"
+              }
+            ]
+          }
+        },
+        "id": "1413448007362650115",
+        "is_identity_verified": false,
+        "location": "朝焼の涙、青空の色、夕日の風、夜の月と星",
+        "most_recent_tweet_id": "2101710803850404208",
+        "name": "◂Ⓘ▸YAYOI の 夢",
+        "pinned_tweet_id": "1918326235861794892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413448007362650115/1696754274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995478435255447552/upWdfDFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897,
+          "following_count": 4115,
+          "like_count": 19346,
+          "listed_count": 36,
+          "media_count": 4675,
+          "tweet_count": 25862
+        },
+        "url": "https://t.co/5m3BySZ4lO",
+        "username": "Yayoi_no_yume",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2102848352677408850",
+    "created_at": "2026-09-24T12:21:55.000Z",
+    "display_text_range": [
+      26,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T13:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103097597443575910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898590878387875840",
+          "start": 0,
+          "username": "Eureka2223232"
+        },
+        {
+          "end": 25,
+          "id": "1823743287762804736",
+          "start": 15,
+          "username": "dyingyuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103097597443575910",
+    "in_reply_to_user_id": "1898590878387875840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103087134324482560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eureka2223232 @dyingyuzu 好久不见"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103087134324482560].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103087134324482560",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103087134324482560"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2102848352677408850",
+        "created_at": "2026-09-24T12:21:55.000Z",
+        "display_text_range": [
+          26,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103097597443575910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898590878387875840",
+              "start": 0,
+              "username": "Eureka2223232"
+            },
+            {
+              "end": 25,
+              "id": "1823743287762804736",
+              "start": 15,
+              "username": "dyingyuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103097597443575910",
+        "in_reply_to_user_id": "1898590878387875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103087134324482560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka2223232 @dyingyuzu 好久不见"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2103097597443575910",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25769,
+          "following_count": 11420,
+          "like_count": 157599,
+          "listed_count": 53,
+          "media_count": 7129,
+          "tweet_count": 61495
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T04:25:26.000Z",
+        "description": "HK 女｜病嬌｜我有一隻可愛的小妹妹貓咪@dyingyuzu ❤️｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "dyingyuzu"
+              }
+            ]
+          }
+        },
+        "id": "1898590878387875840",
+        "is_identity_verified": false,
+        "location": "柚子的身體裡",
+        "most_recent_tweet_id": "1992923680759050419",
+        "name": "优莱卡Eureka 阮玲玉 2th",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029622059924594688/M8LS4htO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 419,
+          "like_count": 9463,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "Eureka2223232",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T15:27:50.000Z",
+        "description": "柚子醬並不開心喵。/ 精̴̢̪̾͊̄神̵̘͍͛不̸̥̞̰̉̋́穩̶̼̲͒定̵̳̑中̴͉͋͜ /自殘od /🐱是一隻小貓/❤️@eureka2223232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "eureka2223232"
+              }
+            ]
+          }
+        },
+        "id": "1823743287762804736",
+        "is_identity_verified": false,
+        "location": "萊卡的心裏",
+        "most_recent_tweet_id": "2048025125795311839",
+        "name": "柚子醬 Yuzu Chan（二代目）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823743287762804736/1757865276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050941723065671680/zgbQ_vRo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 175,
+          "like_count": 5693,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "dyingyuzu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

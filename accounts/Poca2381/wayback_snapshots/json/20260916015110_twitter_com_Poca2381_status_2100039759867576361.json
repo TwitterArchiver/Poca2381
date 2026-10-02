@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2100039759867576361",
+    "created_at": "2026-09-16T01:51:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100039759867576361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427141496407420929",
+          "start": 3,
+          "username": "__soragoto__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100039759867576361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099744219627995375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__soragoto__: 2016 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：没有\n面试官：你已经完全懂 Java 了，明天来上班。 \n\n2026 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：你想要的话，我可以用 Un…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2100039759867576361",
+        "created_at": "2026-09-16T01:51:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100039759867576361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427141496407420929",
+              "start": 3,
+              "username": "__soragoto__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100039759867576361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099744219627995375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__soragoto__: 2016 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：没有\n面试官：你已经完全懂 Java 了，明天来上班。 \n\n2026 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：你想要的话，我可以用 Un…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427141496407420929",
+        "conversation_id": "2099744219627995375",
+        "created_at": "2026-09-15T06:16:47.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099744219627995375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099744219627995375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2016 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：没有\n面试官：你已经完全懂 Java 了，明天来上班。 \n\n2026 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：你想要的话，我可以用 Unsafe 给你手搓一个。\n面试官：我不是这个意思…\n候选人：哦，是想要智能指针吗，那得多给点时间\n面试官：说了不是这个意思\n候选人：哦哦哦懂你意思，unsafe 那堆操作在高版本 jdk 里都被标弃用了，嫌太脏了是吧，我用 JNI 写，或者你们版本高点？FFM也行的\n面试官：……\n\n这十年，到底发生了些什么啊"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 657668,
+          "like_count": 2151,
+          "quote_count": 28,
+          "reply_count": 93,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "2016 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：没有\n面试官：你已经完全懂 Java 了，明天来上班。 \n\n2026 年，应届生 Java 面试：\n面试官：Java 有指针吗？\n候选人：你想要的话，我可以用 Unsafe 给你手搓一个。\n面试官：我不是这个意思…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2100039759867576361",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25475,
+          "following_count": 11274,
+          "like_count": 157213,
+          "listed_count": 55,
+          "media_count": 6952,
+          "tweet_count": 60699
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T05:34:01.000Z",
+        "description": "彩笔程序员/日常装嫩/想要变得可爱/过期jk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soragoto.io",
+                "end": 23,
+                "expanded_url": "https://soragoto.io/",
+                "start": 0,
+                "url": "https://t.co/gaCiutX5TW"
+              }
+            ]
+          }
+        },
+        "id": "1427141496407420929",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2100038867663683667",
+        "name": "空言",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427141496407420929/1696514814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427144661861158914/qtfZPSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 215,
+          "like_count": 347,
+          "listed_count": 10,
+          "media_count": 255,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/gaCiutX5TW",
+        "username": "__soragoto__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

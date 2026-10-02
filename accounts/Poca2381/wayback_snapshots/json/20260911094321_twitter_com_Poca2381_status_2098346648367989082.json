@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098182423519580160"
+      ],
+      "media_source_tweet_id": [
+        "2098182438828802062"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2098346648367989082",
+    "created_at": "2026-09-11T09:43:21.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098346648367989082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783052913667129344",
+          "start": 3,
+          "username": "banban_kig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sgab4qedaA",
+          "end": 61,
+          "expanded_url": "https://x.com/banban_kig/status/2098182438828802062/photo/1",
+          "media_key": "3_2098182423519580160",
+          "start": 38,
+          "url": "https://t.co/Sgab4qedaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098346648367989082",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098182423519580160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098182438828802062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @banban_kig: 3ヶ月前のお写真を上げてお茶を濁しますね… https://t.co/Sgab4qedaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098182423519580160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR49zCvaUAAlxcX.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098182423519580160"
+          ],
+          "media_source_tweet_id": [
+            "2098182438828802062"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2098346648367989082",
+        "created_at": "2026-09-11T09:43:21.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098346648367989082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783052913667129344",
+              "start": 3,
+              "username": "banban_kig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sgab4qedaA",
+              "end": 61,
+              "expanded_url": "https://x.com/banban_kig/status/2098182438828802062/photo/1",
+              "media_key": "3_2098182423519580160",
+              "start": 38,
+              "url": "https://t.co/Sgab4qedaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098346648367989082",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098182423519580160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098182438828802062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @banban_kig: 3ヶ月前のお写真を上げてお茶を濁しますね… https://t.co/Sgab4qedaA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098182423519580160"
+          ]
+        },
+        "author_id": "1783052913667129344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2098182438828802062",
+        "created_at": "2026-09-10T22:50:50.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T23:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098182438828802062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sgab4qedaA",
+              "end": 45,
+              "expanded_url": "https://x.com/banban_kig/status/2098182438828802062/photo/1",
+              "media_key": "3_2098182423519580160",
+              "start": 22,
+              "url": "https://t.co/Sgab4qedaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098182438828802062",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098182423519580160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1003,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "3ヶ月前のお写真を上げてお茶を濁しますね… https://t.co/Sgab4qedaA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098346657218007272",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25109,
+          "following_count": 11130,
+          "like_count": 156781,
+          "listed_count": 53,
+          "media_count": 6800,
+          "tweet_count": 59829
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-24T08:38:55.000Z",
+        "description": "インドア系アウトドア人間/メインは着ぐるみとイリュージョンマジック/\nツイキャス→https://t.co/kBwAVMTWrL /マシュマロ→https://t.co/pvt8Fxho21 /\n写真とイラスト→@banba_0413088",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "banba_0413088"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitcasting.tv/banban_kig",
+                "end": 64,
+                "expanded_url": "https://twitcasting.tv/banban_kig",
+                "start": 41,
+                "url": "https://t.co/kBwAVMTWrL"
+              },
+              {
+                "display_url": "x.gd/TReO0Q",
+                "end": 95,
+                "expanded_url": "https://x.gd/TReO0Q",
+                "start": 72,
+                "url": "https://t.co/pvt8Fxho21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/banba",
+                "end": 23,
+                "expanded_url": "https://lit.link/banba",
+                "start": 0,
+                "url": "https://t.co/DWiYwdZRxd"
+              }
+            ]
+          }
+        },
+        "id": "1783052913667129344",
+        "is_identity_verified": false,
+        "location": "仙台市",
+        "most_recent_tweet_id": "2098317056542413140",
+        "name": "ばんば（天然）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783052913667129344/1744535551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090745243012640768/mskmL-PX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 2048,
+          "like_count": 34028,
+          "listed_count": 9,
+          "media_count": 2374,
+          "tweet_count": 13881
+        },
+        "url": "https://t.co/DWiYwdZRxd",
+        "username": "banban_kig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

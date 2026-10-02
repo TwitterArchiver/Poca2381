@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2098000980189360340",
+    "created_at": "2026-09-11T07:30:20.000Z",
+    "display_text_range": [
+      32,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T08:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098313174638604407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1151241563420397568",
+          "start": 0,
+          "username": "yunbing123"
+        },
+        {
+          "end": 22,
+          "id": "1519759134245023744",
+          "start": 12,
+          "username": "momotyQAQ"
+        },
+        {
+          "end": 31,
+          "id": "990113190271860741",
+          "start": 23,
+          "username": "iTcEeA_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098313174638604407",
+    "in_reply_to_user_id": "1151241563420397568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098000980189360340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunbing123 @momotyQAQ @iTcEeA_ 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37871,
+        "height": 1280,
+        "media_key": "13_2098000702245376000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098000702245376000/img/lmi5B42wQY10EYJi.jpg",
+        "public_metrics": {
+          "view_count": 3353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098000702245376000/vid/avc1/320x568/jfLfWpJ46LTcn1X0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098000702245376000/vid/avc1/480x852/LYbOLB5EPES4CJdO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098000702245376000/vid/avc1/720x1280/S00ixOk2uQkHjxLo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098000702245376000/pl/dJ1w7S_njbeN1dB4.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2098000980189360340",
+        "created_at": "2026-09-11T07:30:20.000Z",
+        "display_text_range": [
+          32,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098313174638604407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1151241563420397568",
+              "start": 0,
+              "username": "yunbing123"
+            },
+            {
+              "end": 22,
+              "id": "1519759134245023744",
+              "start": 12,
+              "username": "momotyQAQ"
+            },
+            {
+              "end": 31,
+              "id": "990113190271860741",
+              "start": 23,
+              "username": "iTcEeA_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098313174638604407",
+        "in_reply_to_user_id": "1151241563420397568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098000980189360340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunbing123 @momotyQAQ @iTcEeA_ 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098000702245376000"
+          ]
+        },
+        "author_id": "1151241563420397568",
+        "conversation_id": "2098000980189360340",
+        "created_at": "2026-09-10T10:49:47.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098000980189360340"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1519759134245023744",
+              "start": 52,
+              "username": "momotyQAQ"
+            },
+            {
+              "end": 79,
+              "id": "990113190271860741",
+              "start": 71,
+              "username": "iTcEeA_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/otBQqthbfn",
+              "end": 121,
+              "expanded_url": "https://x.com/yunbing123/status/2098000980189360340/video/1",
+              "media_key": "13_2098000702245376000",
+              "start": 98,
+              "url": "https://t.co/otBQqthbfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098000980189360340",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098000702245376000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 7370,
+          "like_count": 518,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "被真空密封在乳胶柜中的娃娃，无论怎么挣扎也无法逃脱乳胶的束缚呢~只能永远成为乳胶摆件了~❤️\n摄影:  @momotyQAQ \n乳胶真空柜: @iTcEeA_ \n＃kigurumi #latex https://t.co/otBQqthbfn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098313181651501378",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25104,
+          "following_count": 11120,
+          "like_count": 156770,
+          "listed_count": 53,
+          "media_count": 6794,
+          "tweet_count": 59800
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-16T21:25:53.000Z",
+        "description": "喜欢kig，乳胶，拘束，捆绑，还有其他各种奇怪play的萌新kiger，涩涩摩多莫多！头壳角色是喜多川海梦的黑江雫形态，明日方舟的能天使、水月，和刀剑神域的亚丝娜，鸣潮的椿（目前只在X和qq群活动，只有一个号，其他地方看到的都不是我）",
+        "id": "1151241563420397568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098077388454424652",
+        "name": "云冰",
+        "pinned_tweet_id": "2098000980189360340",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083859685837623296/TMll3ZB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25025,
+          "following_count": 2662,
+          "like_count": 26171,
+          "listed_count": 118,
+          "media_count": 285,
+          "tweet_count": 7542
+        },
+        "url": "",
+        "username": "yunbing123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T19:23:17.000Z",
+        "description": "喵喵喵？…喵喵喵！现在是雪衣/终灾/卡提希娅/深圳➕广州的娃娃ing｜小号 @momotyOMO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "momotyOMO"
+              }
+            ]
+          }
+        },
+        "id": "1519759134245023744",
+        "is_identity_verified": false,
+        "location": "在天边",
+        "most_recent_tweet_id": "2098011935606473080",
+        "name": "墨鱼汤圆",
+        "pinned_tweet_id": "1814431992668401839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519759134245023744/1768593124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089111197144752128/6QbJoJ31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9667,
+          "following_count": 1627,
+          "like_count": 2722,
+          "listed_count": 53,
+          "media_count": 286,
+          "tweet_count": 914
+        },
+        "url": "",
+        "username": "momotyQAQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-28T06:19:14.000Z",
+        "description": "低质kiger  喜欢捕猎可爱的娃娃\n地牢完善中\n不定时更新-",
+        "id": "990113190271860741",
+        "is_identity_verified": false,
+        "location": "广西",
+        "most_recent_tweet_id": "2097725482011881785",
+        "name": "冰丶茶",
+        "pinned_tweet_id": "2008789654439662029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990113190271860741/1662040616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644622466583764993/r2L2AsQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7856,
+          "following_count": 1604,
+          "like_count": 3669,
+          "listed_count": 46,
+          "media_count": 30,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "iTcEeA_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

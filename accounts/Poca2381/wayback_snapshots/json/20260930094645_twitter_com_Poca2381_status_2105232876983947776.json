@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2104957277115711994",
+    "created_at": "2026-09-30T09:46:45.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105232876983947776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105232876983947776",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104957277115711994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2104957277115711994",
+        "created_at": "2026-09-30T09:46:45.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105232876983947776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105232876983947776",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104957277115711994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2104957277115711994",
+        "created_at": "2026-09-29T15:31:37.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:29:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104956681503555751",
+          "2104957277115711994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104957277115711994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2179,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星ない或将不断清理关注。\n如有互关会双取。特此声明。\n\n谢谢大家。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2105232876983947776",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25896,
+          "following_count": 11491,
+          "like_count": 157610,
+          "listed_count": 53,
+          "media_count": 7230,
+          "tweet_count": 62022
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "🏳️‍🌈extraSAD｜想留德中｜QQ空间｜數碼/科幻/政治/linguistics/Wikipedist ｜绝望商科牲｜🌐漢(吳/普)/English｜🚩🏴🌹｜旗帜鲜明支持酷儿✨\nⒶ @JunenKim｜里推 ()｜YAA @kyrinxo\nWelcome DM 自介@亮點",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "JunenKim"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "kyrinxo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/quasarne",
+                "end": 23,
+                "expanded_url": "http://t.me/quasarne",
+                "start": 0,
+                "url": "https://t.co/WxM49mywAo"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "is_identity_verified": false,
+        "location": "北京市西城区长安街174号",
+        "most_recent_tweet_id": "2105215091058815425",
+        "name": "неⒶστήρ 星ない",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247054463329656832/1761396959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101611099238158336/H-lUo0Nz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 1168,
+          "like_count": 91835,
+          "listed_count": 6,
+          "media_count": 1929,
+          "tweet_count": 23534
+        },
+        "url": "https://t.co/WxM49mywAo",
+        "username": "quasarne",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

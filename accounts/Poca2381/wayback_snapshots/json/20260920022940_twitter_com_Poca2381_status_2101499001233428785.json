@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101289836493918208",
+        "13_2101289836556779520"
+      ],
+      "media_source_tweet_id": [
+        "2101289953078788465",
+        "2101289953078788465"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2101499001233428785",
+    "created_at": "2026-09-20T02:29:40.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T03:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101499001233428785"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "绮趣"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "章趣"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "电动异形"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "156219202",
+          "start": 3,
+          "username": "ToshinoAyano"
+        },
+        {
+          "end": 54,
+          "id": "1986048922272550912",
+          "start": 40,
+          "username": "DeanWtst84156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z2Dk4SDVeE",
+          "end": 93,
+          "expanded_url": "https://x.com/ToshinoAyano/status/2101289953078788465/video/1",
+          "media_key": "3_2101289836493918208",
+          "start": 70,
+          "url": "https://t.co/Z2Dk4SDVeE"
+        },
+        {
+          "display_url": "pic.x.com/Z2Dk4SDVeE",
+          "end": 93,
+          "expanded_url": "https://x.com/ToshinoAyano/status/2101289953078788465/video/1",
+          "media_key": "13_2101289836556779520",
+          "start": 70,
+          "url": "https://t.co/Z2Dk4SDVeE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101499001233428785",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101289836493918208"
+      },
+      {
+        "media_key": "13_2101289836556779520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101289953078788465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ToshinoAyano: 绝世舞姬天下鲜，晒足一百八十天（bushi\n@DeanWtst84156 \n#绮趣 #章趣 #电动异形 https://t.co/Z2Dk4SDVeE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101289836493918208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlH-SJb0AA1zaa.jpg",
+        "width": 1462
+      },
+      {
+        "duration_ms": 12225,
+        "height": 1920,
+        "media_key": "13_2101289836556779520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101289836556779520/img/pY45iZcB7fStRSv7.jpg",
+        "public_metrics": {
+          "view_count": 273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101289836556779520/vid/avc1/1080x1920/bb9lK61Lpulwp9SX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101289836556779520/vid/avc1/320x568/0URxsT3ymMOoFo0-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101289836556779520/pl/CtVQ6IU5G3E0mAm6.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101289836556779520/vid/avc1/720x1280/ZGDTuI13TcIobHvc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101289836556779520/vid/avc1/480x852/uZh_TLaG6A-30V3o.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101289836493918208",
+            "13_2101289836556779520"
+          ],
+          "media_source_tweet_id": [
+            "2101289953078788465",
+            "2101289953078788465"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2101499001233428785",
+        "created_at": "2026-09-20T02:29:40.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101499001233428785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "绮趣"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "章趣"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "电动异形"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "156219202",
+              "start": 3,
+              "username": "ToshinoAyano"
+            },
+            {
+              "end": 54,
+              "id": "1986048922272550912",
+              "start": 40,
+              "username": "DeanWtst84156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2Dk4SDVeE",
+              "end": 93,
+              "expanded_url": "https://x.com/ToshinoAyano/status/2101289953078788465/video/1",
+              "media_key": "3_2101289836493918208",
+              "start": 70,
+              "url": "https://t.co/Z2Dk4SDVeE"
+            },
+            {
+              "display_url": "pic.x.com/Z2Dk4SDVeE",
+              "end": 93,
+              "expanded_url": "https://x.com/ToshinoAyano/status/2101289953078788465/video/1",
+              "media_key": "13_2101289836556779520",
+              "start": 70,
+              "url": "https://t.co/Z2Dk4SDVeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101499001233428785",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101289836493918208"
+          },
+          {
+            "media_key": "13_2101289836556779520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101289953078788465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ToshinoAyano: 绝世舞姬天下鲜，晒足一百八十天（bushi\n@DeanWtst84156 \n#绮趣 #章趣 #电动异形 https://t.co/Z2Dk4SDVeE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101289836493918208",
+            "13_2101289836556779520"
+          ]
+        },
+        "author_id": "156219202",
+        "conversation_id": "2101289953078788465",
+        "created_at": "2026-09-19T12:38:59.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101289953078788465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "绮趣"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "章趣"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "电动异形"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1986048922272550912",
+              "start": 22,
+              "username": "DeanWtst84156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2Dk4SDVeE",
+              "end": 75,
+              "expanded_url": "https://x.com/ToshinoAyano/status/2101289953078788465/video/1",
+              "media_key": "3_2101289836493918208",
+              "start": 52,
+              "url": "https://t.co/Z2Dk4SDVeE"
+            },
+            {
+              "display_url": "pic.x.com/Z2Dk4SDVeE",
+              "end": 75,
+              "expanded_url": "https://x.com/ToshinoAyano/status/2101289953078788465/video/1",
+              "media_key": "13_2101289836556779520",
+              "start": 52,
+              "url": "https://t.co/Z2Dk4SDVeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101289953078788465",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101289836493918208"
+          },
+          {
+            "media_key": "13_2101289836556779520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 796,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "绝世舞姬天下鲜，晒足一百八十天（bushi\n@DeanWtst84156 \n#绮趣 #章趣 #电动异形 https://t.co/Z2Dk4SDVeE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101499013145280760",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25636,
+          "following_count": 11358,
+          "like_count": 157400,
+          "listed_count": 55,
+          "media_count": 7032,
+          "tweet_count": 61089
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "糕大小姐！寄拍大欢迎！\n椰子味的Potong，抓住雪糕吃掉雪糕～\n欢迎加入雪糕频道，钟意您来😋\n不卖、不约，谢谢☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Potong_Coconut",
+                "end": 23,
+                "expanded_url": "http://t.me/Potong_Coconut",
+                "start": 0,
+                "url": "https://t.co/lfSkDpxziO"
+              }
+            ]
+          }
+        },
+        "id": "156219202",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2101496589361811472",
+        "name": "雪糕Potong🍦",
+        "pinned_tweet_id": "2100417492988694821",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156219202/1758810265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047558886518112257/RWFVWo6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5650,
+          "following_count": 1542,
+          "like_count": 25934,
+          "listed_count": 24,
+          "media_count": 147,
+          "tweet_count": 12633
+        },
+        "url": "https://t.co/lfSkDpxziO",
+        "username": "ToshinoAyano",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-05T12:32:31.000Z",
+        "description": "🍑购买入口👉：https://t.co/FmWb2W3vNb\n京👉店：东方情彧官方旗舰店 \n🍑店：【绮趣成人用品】\n拼👉店：东方情彧成人用品旗舰店 \n 购买或合作私",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "s.tb.cn/c.0DCruc",
+                "end": 30,
+                "expanded_url": "http://s.tb.cn/c.0DCruc",
+                "start": 7,
+                "url": "https://t.co/FmWb2W3vNb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.tb.cn/c.0DCruc",
+                "end": 23,
+                "expanded_url": "http://s.tb.cn/c.0DCruc",
+                "start": 0,
+                "url": "https://t.co/FmWb2W3vNb"
+              }
+            ]
+          }
+        },
+        "id": "1986048922272550912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101352210277994632",
+        "name": "绮趣（官方）",
+        "pinned_tweet_id": "2100163379516358968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986048922272550912/1782302129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062410197881278464/dTJIhr_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19763,
+          "following_count": 637,
+          "like_count": 26,
+          "listed_count": 44,
+          "media_count": 290,
+          "tweet_count": 1517
+        },
+        "url": "https://t.co/FmWb2W3vNb",
+        "username": "DeanWtst84156",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

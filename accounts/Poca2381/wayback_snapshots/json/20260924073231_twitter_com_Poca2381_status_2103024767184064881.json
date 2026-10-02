@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103024759139368960",
+        "3_2103024759143636992"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103024767184064881",
+    "created_at": "2026-09-24T07:32:31.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103024767184064881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "2013131931899305984",
+          "start": 5,
+          "username": "kagurazakaseiya"
+        },
+        {
+          "end": 37,
+          "id": "1664948430920359936",
+          "start": 22,
+          "username": "Snowcomics9452"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssVQiZ3NL2",
+          "end": 61,
+          "expanded_url": "https://x.com/Poca2381/status/2103024767184064881/photo/1",
+          "media_key": "3_2103024759139368960",
+          "start": 38,
+          "url": "https://t.co/ssVQiZ3NL2"
+        },
+        {
+          "display_url": "pic.x.com/ssVQiZ3NL2",
+          "end": 61,
+          "expanded_url": "https://x.com/Poca2381/status/2103024767184064881/photo/1",
+          "media_key": "3_2103024759143636992",
+          "start": 38,
+          "url": "https://t.co/ssVQiZ3NL2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103024767184064881",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103024759139368960"
+      },
+      {
+        "media_key": "3_2103024759143636992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一起吃饭\n@kagurazakaseiya @Snowcomics9452 https://t.co/ssVQiZ3NL2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2103024759139368960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9x4EpagAAMx9g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2103024759143636992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9x4EqboAA-WQz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103024759139368960",
+            "3_2103024759143636992"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103024767184064881",
+        "created_at": "2026-09-24T07:32:31.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103024767184064881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2013131931899305984",
+              "start": 5,
+              "username": "kagurazakaseiya"
+            },
+            {
+              "end": 37,
+              "id": "1664948430920359936",
+              "start": 22,
+              "username": "Snowcomics9452"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssVQiZ3NL2",
+              "end": 61,
+              "expanded_url": "https://x.com/Poca2381/status/2103024767184064881/photo/1",
+              "media_key": "3_2103024759139368960",
+              "start": 38,
+              "url": "https://t.co/ssVQiZ3NL2"
+            },
+            {
+              "display_url": "pic.x.com/ssVQiZ3NL2",
+              "end": 61,
+              "expanded_url": "https://x.com/Poca2381/status/2103024767184064881/photo/1",
+              "media_key": "3_2103024759143636992",
+              "start": 38,
+              "url": "https://t.co/ssVQiZ3NL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103024767184064881",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103024759139368960"
+          },
+          {
+            "media_key": "3_2103024759143636992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一起吃饭\n@kagurazakaseiya @Snowcomics9452 https://t.co/ssVQiZ3NL2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2103024767184064881",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25767,
+          "following_count": 11420,
+          "like_count": 157593,
+          "listed_count": 53,
+          "media_count": 7125,
+          "tweet_count": 61484
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T06:10:52.000Z",
+        "description": "HK 08 | INTP | HRT 2026.2.11\n不可愛 正在努力變成大姐姐",
+        "id": "2013131931899305984",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2102262963973341583",
+        "name": "星夜🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013131931899305984/1768805546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082865232561786880/EjeSaY5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 182,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "kagurazakaseiya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "is_identity_verified": false,
+        "location": "香港 | Hong Kong",
+        "most_recent_tweet_id": "2097856927552417974",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664948430920359936/1764523397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039378938917789696/DGi_6ZUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 3280,
+          "like_count": 37160,
+          "listed_count": 4,
+          "media_count": 1028,
+          "tweet_count": 8457
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

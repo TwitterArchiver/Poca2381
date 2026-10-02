@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2098767215202095293",
+    "created_at": "2026-09-13T04:21:43.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098990482407981310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098990482407981310",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098767215202095293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2098767205299269632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBRp0oaMAATi_s.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2098767215202095293",
+        "created_at": "2026-09-13T04:21:43.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098990482407981310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098990482407981310",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098767215202095293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098767205299269632"
+          ]
+        },
+        "author_id": "2070544483977232389",
+        "conversation_id": "2098767215202095293",
+        "created_at": "2026-09-12T13:34:31.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098767215202095293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOdx2mLGaG",
+              "end": 41,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2098767215202095293/photo/1",
+              "media_key": "3_2098767205299269632",
+              "start": 18,
+              "url": "https://t.co/nOdx2mLGaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098767215202095293",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098767205299269632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港火灾大学（貌似也挺谐音的？x） https://t.co/nOdx2mLGaG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098990482407981310",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25158,
+          "following_count": 11172,
+          "like_count": 156746,
+          "listed_count": 53,
+          "media_count": 6850,
+          "tweet_count": 60024
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2098935372147495163",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070544483977232389/1784525401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 402,
+          "like_count": 2515,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

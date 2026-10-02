@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099427248285835264"
+      ],
+      "media_source_tweet_id": [
+        "2099428631240212802"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099470808351719587",
+    "created_at": "2026-09-14T12:10:21.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T13:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099470808351719587"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 90,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "IC社"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944242736640798721",
+          "start": 3,
+          "username": "LearnedToad"
+        },
+        {
+          "end": 38,
+          "id": "1660707438696464384",
+          "start": 26,
+          "username": "teemilerQwQ"
+        },
+        {
+          "end": 53,
+          "id": "1717514686508548096",
+          "start": 42,
+          "username": "Dr05481651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qvtYr2bk7j",
+          "end": 128,
+          "expanded_url": "https://x.com/LearnedToad/status/2099428631240212802/video/1",
+          "media_key": "13_2099427248285835264",
+          "start": 105,
+          "url": "https://t.co/qvtYr2bk7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099470808351719587",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099427248285835264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099428631240212802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LearnedToad: 有人开挂！\n挂哥：@teemilerQwQ \n📷：@Dr05481651 \n\n这场比赛注定要被我拿下，东西很温和不麻，用了0遭罪~\n🧹🐴领取尤惠\n#kigurumi #IC社 https://t.co/qvtYr2bk7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 145050,
+        "height": 3840,
+        "media_key": "13_2099427248285835264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099427248285835264/img/TtqzPRFPdao59nY-.jpg",
+        "public_metrics": {
+          "view_count": 2416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099427248285835264/vid/avc1/480x852/t8KRWxE-GDzDFuoi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099427248285835264/pl/wfMlAyaXtVaJ-i1c.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099427248285835264/vid/avc1/320x568/qj6QgrA--bgoSSG7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099427248285835264/vid/avc1/720x1280/UsImb5zGV9LG_TvH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099427248285835264/vid/avc1/1080x1920/GwuHa7rqe-C17k6D.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099427248285835264/vid/avc1/2160x3840/65cYMsVi7MEaipRw.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099427248285835264"
+          ],
+          "media_source_tweet_id": [
+            "2099428631240212802"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099470808351719587",
+        "created_at": "2026-09-14T12:10:21.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099470808351719587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 90,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "IC社"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944242736640798721",
+              "start": 3,
+              "username": "LearnedToad"
+            },
+            {
+              "end": 38,
+              "id": "1660707438696464384",
+              "start": 26,
+              "username": "teemilerQwQ"
+            },
+            {
+              "end": 53,
+              "id": "1717514686508548096",
+              "start": 42,
+              "username": "Dr05481651"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvtYr2bk7j",
+              "end": 128,
+              "expanded_url": "https://x.com/LearnedToad/status/2099428631240212802/video/1",
+              "media_key": "13_2099427248285835264",
+              "start": 105,
+              "url": "https://t.co/qvtYr2bk7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099470808351719587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099427248285835264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099428631240212802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LearnedToad: 有人开挂！\n挂哥：@teemilerQwQ \n📷：@Dr05481651 \n\n这场比赛注定要被我拿下，东西很温和不麻，用了0遭罪~\n🧹🐴领取尤惠\n#kigurumi #IC社 https://t.co/qvtYr2bk7j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099427248285835264"
+          ]
+        },
+        "author_id": "1944242736640798721",
+        "conversation_id": "2099428631240212802",
+        "created_at": "2026-09-14T09:22:45.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099428631240212802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "IC社"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1660707438696464384",
+              "start": 9,
+              "username": "teemilerQwQ"
+            },
+            {
+              "end": 36,
+              "id": "1717514686508548096",
+              "start": 25,
+              "username": "Dr05481651"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvtYr2bk7j",
+              "end": 111,
+              "expanded_url": "https://x.com/LearnedToad/status/2099428631240212802/video/1",
+              "media_key": "13_2099427248285835264",
+              "start": 88,
+              "url": "https://t.co/qvtYr2bk7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099428631240212802",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099427248285835264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 4731,
+          "like_count": 198,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "有人开挂！\n挂哥：@teemilerQwQ \n📷：@Dr05481651 \n\n这场比赛注定要被我拿下，东西很温和不麻，用了0遭罪~\n🧹🐴领取尤惠\n#kigurumi #IC社 https://t.co/qvtYr2bk7j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2099470808351719587",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25346,
+          "following_count": 11210,
+          "like_count": 156950,
+          "listed_count": 53,
+          "media_count": 6902,
+          "tweet_count": 60309
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T03:49:36.000Z",
+        "description": "新泽西kiger，在做科技头壳，PhD student in Computer Science。所有内容（图片视频和项目）都是学习交流用途的免费分享！只在X发布内容，假如你在其他地方看到卖的那都是盗的和本人无关（特别是妖狐吧！）。All content is free on X. No OF, Fantia etc.",
+        "id": "1944242736640798721",
+        "is_identity_verified": true,
+        "location": "New Jersey, USA",
+        "most_recent_tweet_id": "2099429668667728184",
+        "name": "机械神教驻神圣泰拉机械神甫0059",
+        "pinned_tweet_id": "1963178499276992645",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944242736640798721/1772698965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944243041746714624/CmUlckos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35453,
+          "following_count": 653,
+          "like_count": 2740,
+          "listed_count": 123,
+          "media_count": 197,
+          "tweet_count": 2181
+        },
+        "url": "",
+        "username": "LearnedToad",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-22T18:01:34.000Z",
+        "description": "萌新kiger，主打一个清水～如果发了奇怪的东西的话，一定是侵蚀之律者干的，乆乆乆",
+        "id": "1660707438696464384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099130562489512113",
+        "name": "teemiler",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662420233179774977/5m4ZR9pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25313,
+          "following_count": 263,
+          "like_count": 4737,
+          "listed_count": 133,
+          "media_count": 539,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "teemilerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T12:13:13.000Z",
+        "description": "这里05，你也可以叫我ddr5。捆工/摄影/踩脚袜享受者，欢迎约约～",
+        "id": "1717514686508548096",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2099396328627532232",
+        "name": "Dr05",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717515620840050688/Yzdm-KEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 4716,
+          "like_count": 11428,
+          "listed_count": 22,
+          "media_count": 62,
+          "tweet_count": 1084
+        },
+        "url": "",
+        "username": "Dr05481651",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

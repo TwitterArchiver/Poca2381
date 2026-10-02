@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080163946833842176",
+        "3_2080163946900987904"
+      ],
+      "media_source_tweet_id": [
+        "2080164007164751965",
+        "2080164007164751965"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101246823029674054",
+    "created_at": "2026-09-19T09:47:36.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101246823029674054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561060984701063168",
+          "start": 3,
+          "username": "myforever996"
+        },
+        {
+          "end": 69,
+          "id": "1957586019836129280",
+          "start": 58,
+          "username": "baiqianyuu"
+        },
+        {
+          "end": 86,
+          "id": "1627582336299831296",
+          "start": 75,
+          "username": "congyu1005"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ycq0OEdicm",
+          "end": 110,
+          "expanded_url": "https://x.com/myforever996/status/2080164007164751965/video/1",
+          "media_key": "13_2080163946833842176",
+          "start": 87,
+          "url": "https://t.co/Ycq0OEdicm"
+        },
+        {
+          "display_url": "pic.x.com/Ycq0OEdicm",
+          "end": 110,
+          "expanded_url": "https://x.com/myforever996/status/2080164007164751965/video/1",
+          "media_key": "3_2080163946900987904",
+          "start": 87,
+          "url": "https://t.co/Ycq0OEdicm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101246823029674054",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2080163946833842176"
+      },
+      {
+        "media_key": "3_2080163946900987904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080164007164751965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myforever996: 榨取柚子汁的第一步，是把精心挑选的上好柚子挂起来，依靠重力让柚子汁汇集……\n🪢：@baiqianyuu\n美味小孩：@congyu1005 https://t.co/Ycq0OEdicm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32322,
+        "height": 720,
+        "media_key": "13_2080163946833842176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080163946833842176/img/tNfIiiHv7qAtfAXN.jpg",
+        "public_metrics": {
+          "view_count": 1309
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080163946833842176/vid/avc1/480x270/cMFrl0HkSpLPfl6q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080163946833842176/vid/avc1/640x360/qTaPlYvOPw_79WJa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080163946833842176/vid/avc1/1280x720/8kNoBw7oc_jNZwL7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080163946833842176/pl/b6bDEMOsdlkReLcv.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 900,
+        "media_key": "3_2080163946900987904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN46FqmboAATB_D.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080163946833842176",
+            "3_2080163946900987904"
+          ],
+          "media_source_tweet_id": [
+            "2080164007164751965",
+            "2080164007164751965"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101246823029674054",
+        "created_at": "2026-09-19T09:47:36.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101246823029674054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561060984701063168",
+              "start": 3,
+              "username": "myforever996"
+            },
+            {
+              "end": 69,
+              "id": "1957586019836129280",
+              "start": 58,
+              "username": "baiqianyuu"
+            },
+            {
+              "end": 86,
+              "id": "1627582336299831296",
+              "start": 75,
+              "username": "congyu1005"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ycq0OEdicm",
+              "end": 110,
+              "expanded_url": "https://x.com/myforever996/status/2080164007164751965/video/1",
+              "media_key": "13_2080163946833842176",
+              "start": 87,
+              "url": "https://t.co/Ycq0OEdicm"
+            },
+            {
+              "display_url": "pic.x.com/Ycq0OEdicm",
+              "end": 110,
+              "expanded_url": "https://x.com/myforever996/status/2080164007164751965/video/1",
+              "media_key": "3_2080163946900987904",
+              "start": 87,
+              "url": "https://t.co/Ycq0OEdicm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101246823029674054",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2080163946833842176"
+          },
+          {
+            "media_key": "3_2080163946900987904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080164007164751965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myforever996: 榨取柚子汁的第一步，是把精心挑选的上好柚子挂起来，依靠重力让柚子汁汇集……\n🪢：@baiqianyuu\n美味小孩：@congyu1005 https://t.co/Ycq0OEdicm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080163946833842176",
+            "3_2080163946900987904"
+          ]
+        },
+        "author_id": "1561060984701063168",
+        "conversation_id": "2080164007164751965",
+        "created_at": "2026-07-23T05:32:01.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080164007164751965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1957586019836129280",
+              "start": 40,
+              "username": "baiqianyuu"
+            },
+            {
+              "end": 68,
+              "id": "1627582336299831296",
+              "start": 57,
+              "username": "congyu1005"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ycq0OEdicm",
+              "end": 92,
+              "expanded_url": "https://x.com/myforever996/status/2080164007164751965/video/1",
+              "media_key": "13_2080163946833842176",
+              "start": 69,
+              "url": "https://t.co/Ycq0OEdicm"
+            },
+            {
+              "display_url": "pic.x.com/Ycq0OEdicm",
+              "end": 92,
+              "expanded_url": "https://x.com/myforever996/status/2080164007164751965/video/1",
+              "media_key": "3_2080163946900987904",
+              "start": 69,
+              "url": "https://t.co/Ycq0OEdicm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080164007164751965",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2080163946833842176"
+          },
+          {
+            "media_key": "3_2080163946900987904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2700,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "榨取柚子汁的第一步，是把精心挑选的上好柚子挂起来，依靠重力让柚子汁汇集……\n🪢：@baiqianyuu\n美味小孩：@congyu1005 https://t.co/Ycq0OEdicm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101246823029674054",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25632,
+          "following_count": 11341,
+          "like_count": 157311,
+          "listed_count": 55,
+          "media_count": 7027,
+          "tweet_count": 60984
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T18:42:07.000Z",
+        "description": "不会捆人的咸鱼sw一条。\n封心锁爱。\nmy forever:@congyu1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "congyu1005"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41811905",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41811905",
+                "start": 0,
+                "url": "https://t.co/48rvdgj3VB"
+              }
+            ]
+          }
+        },
+        "id": "1561060984701063168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101155283808698781",
+        "name": "Myforever",
+        "pinned_tweet_id": "2080164007164751965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561060984701063168/1702875027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039507130924027904/UDYGbGeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1094,
+          "like_count": 5796,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3921
+        },
+        "url": "https://t.co/48rvdgj3VB",
+        "username": "myforever996",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T23:31:01.000Z",
+        "description": "这里浅予！武汉白浅绳社主理人，是sw哦，坐标湖北武汉，喜欢cos和绳缚，约绳/订拍+3833811492，欢迎来咱的小窝丸～群号：1072991758",
+        "id": "1957586019836129280",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2098591584543748156",
+        "name": "白浅予",
+        "pinned_tweet_id": "2086103386429309271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957586019836129280/1779585571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973676944475713536/c5j-8LTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 119,
+          "like_count": 28,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "baiqianyuu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-20T08:14:31.000Z",
+        "description": "是一名柚子厨  Ciallo~",
+        "id": "1627582336299831296",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2096484484216696963",
+        "name": "星野爱丛雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1627582336299831296/1782355023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076670989023547392/WQYU04SR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 78,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "congyu1005",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,697 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100931353592356864",
+        "3_2100931369216167936",
+        "3_2100931383338364928"
+      ],
+      "media_source_tweet_id": [
+        "2100931398471491639",
+        "2100931398471491639",
+        "2100931398471491639"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2101372062527082732",
+    "created_at": "2026-09-19T18:05:15.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101372062527082732"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "VRChat"
+        },
+        {
+          "end": 56,
+          "start": 45,
+          "tag": "Milltina3D"
+        },
+        {
+          "end": 66,
+          "start": 57,
+          "tag": "Milltina"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "838390984207585281",
+          "start": 3,
+          "username": "kitioio0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DT2grJL58N",
+          "end": 90,
+          "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+          "media_key": "3_2100931353592356864",
+          "start": 67,
+          "url": "https://t.co/DT2grJL58N"
+        },
+        {
+          "display_url": "pic.x.com/DT2grJL58N",
+          "end": 90,
+          "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+          "media_key": "3_2100931369216167936",
+          "start": 67,
+          "url": "https://t.co/DT2grJL58N"
+        },
+        {
+          "display_url": "pic.x.com/DT2grJL58N",
+          "end": 90,
+          "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+          "media_key": "3_2100931383338364928",
+          "start": 67,
+          "url": "https://t.co/DT2grJL58N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101372062527082732",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100931353592356864"
+      },
+      {
+        "media_key": "3_2100931369216167936"
+      },
+      {
+        "media_key": "3_2100931383338364928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100931398471491639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitioio0: 內褲。。。有好好穿上的哦\n#kigurumi #VRChat #Milltina3D #Milltina https://t.co/DT2grJL58N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3648,
+        "media_key": "3_2100931353592356864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgB71RaYAAuUhr.jpg",
+        "width": 2736
+      },
+      {
+        "height": 3648,
+        "media_key": "3_2100931369216167936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgB8vea0AAjnbM.jpg",
+        "width": 2736
+      },
+      {
+        "height": 3648,
+        "media_key": "3_2100931383338364928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgB9kFacAAkDnd.jpg",
+        "width": 2736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100931353592356864",
+            "3_2100931369216167936",
+            "3_2100931383338364928"
+          ],
+          "media_source_tweet_id": [
+            "2100931398471491639",
+            "2100931398471491639",
+            "2100931398471491639"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2101372062527082732",
+        "created_at": "2026-09-19T18:05:15.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101372062527082732"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "VRChat"
+            },
+            {
+              "end": 56,
+              "start": 45,
+              "tag": "Milltina3D"
+            },
+            {
+              "end": 66,
+              "start": 57,
+              "tag": "Milltina"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "838390984207585281",
+              "start": 3,
+              "username": "kitioio0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT2grJL58N",
+              "end": 90,
+              "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+              "media_key": "3_2100931353592356864",
+              "start": 67,
+              "url": "https://t.co/DT2grJL58N"
+            },
+            {
+              "display_url": "pic.x.com/DT2grJL58N",
+              "end": 90,
+              "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+              "media_key": "3_2100931369216167936",
+              "start": 67,
+              "url": "https://t.co/DT2grJL58N"
+            },
+            {
+              "display_url": "pic.x.com/DT2grJL58N",
+              "end": 90,
+              "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+              "media_key": "3_2100931383338364928",
+              "start": 67,
+              "url": "https://t.co/DT2grJL58N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101372062527082732",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100931353592356864"
+          },
+          {
+            "media_key": "3_2100931369216167936"
+          },
+          {
+            "media_key": "3_2100931383338364928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100931398471491639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitioio0: 內褲。。。有好好穿上的哦\n#kigurumi #VRChat #Milltina3D #Milltina https://t.co/DT2grJL58N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100931353592356864",
+            "3_2100931369216167936",
+            "3_2100931383338364928"
+          ]
+        },
+        "author_id": "838390984207585281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2100931398471491639",
+        "created_at": "2026-09-18T12:54:13.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100931398471491639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "VRChat"
+            },
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "Milltina3D"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "Milltina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT2grJL58N",
+              "end": 76,
+              "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+              "media_key": "3_2100931353592356864",
+              "start": 53,
+              "url": "https://t.co/DT2grJL58N"
+            },
+            {
+              "display_url": "pic.x.com/DT2grJL58N",
+              "end": 76,
+              "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+              "media_key": "3_2100931369216167936",
+              "start": 53,
+              "url": "https://t.co/DT2grJL58N"
+            },
+            {
+              "display_url": "pic.x.com/DT2grJL58N",
+              "end": 76,
+              "expanded_url": "https://x.com/kitioio0/status/2100931398471491639/photo/1",
+              "media_key": "3_2100931383338364928",
+              "start": 53,
+              "url": "https://t.co/DT2grJL58N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100931398471491639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100931353592356864"
+          },
+          {
+            "media_key": "3_2100931369216167936"
+          },
+          {
+            "media_key": "3_2100931383338364928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3610,
+          "like_count": 191,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "內褲。。。有好好穿上的哦\n#kigurumi #VRChat #Milltina3D #Milltina https://t.co/DT2grJL58N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101372073084117105",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25635,
+          "following_count": 11349,
+          "like_count": 157358,
+          "listed_count": 55,
+          "media_count": 7031,
+          "tweet_count": 61035
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-05T14:09:22.000Z",
+        "description": "住在香港 ~請多多指教~ Hong Kong Kigurumi Player / mask maker / VRChat player\n\nNSFW: @kitioio01\nVRChat ID:kitioio0\n\n製作関連 Enquiries for commission: @Kaiser_Factory",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "kitioio01"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Kaiser_Factory"
+              }
+            ]
+          }
+        },
+        "id": "838390984207585281",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2101260506527088877",
+        "name": "Kit君",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838390984207585281/1740846936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952274391800102912/xLP05Xig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8767,
+          "following_count": 1672,
+          "like_count": 16231,
+          "listed_count": 68,
+          "media_count": 477,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "kitioio0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

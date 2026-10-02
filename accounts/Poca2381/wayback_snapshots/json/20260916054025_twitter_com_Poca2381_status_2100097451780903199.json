@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099791943727513600"
+      ],
+      "media_source_tweet_id": [
+        "2099791954741805169"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2100097451780903199",
+    "created_at": "2026-09-16T05:40:25.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100097451780903199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ekpOl8bek",
+          "end": 63,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2099791954741805169/photo/1",
+          "media_key": "3_2099791943727513600",
+          "start": 40,
+          "url": "https://t.co/5ekpOl8bek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100097451780903199",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099791943727513600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099791954741805169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 当Claude发现大肥鱼在“蒸馏”自己： https://t.co/5ekpOl8bek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2099791943727513600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSP1pcwbAAAHfdl.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099791943727513600"
+          ],
+          "media_source_tweet_id": [
+            "2099791954741805169"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2100097451780903199",
+        "created_at": "2026-09-16T05:40:25.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100097451780903199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ekpOl8bek",
+              "end": 63,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2099791954741805169/photo/1",
+              "media_key": "3_2099791943727513600",
+              "start": 40,
+              "url": "https://t.co/5ekpOl8bek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100097451780903199",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099791943727513600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099791954741805169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 当Claude发现大肥鱼在“蒸馏”自己： https://t.co/5ekpOl8bek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099791943727513600"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2099791954741805169",
+        "created_at": "2026-09-15T09:26:28.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099791954741805169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ekpOl8bek",
+              "end": 44,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2099791954741805169/photo/1",
+              "media_key": "3_2099791943727513600",
+              "start": 21,
+              "url": "https://t.co/5ekpOl8bek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099791954741805169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099791943727513600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 43958,
+          "like_count": 762,
+          "quote_count": 2,
+          "reply_count": 51,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "当Claude发现大肥鱼在“蒸馏”自己： https://t.co/5ekpOl8bek"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2100097451780903199",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25486,
+          "following_count": 11287,
+          "like_count": 157254,
+          "listed_count": 55,
+          "media_count": 6955,
+          "tweet_count": 60751
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amesaku.cc",
+                "end": 23,
+                "expanded_url": "http://amesaku.cc",
+                "start": 0,
+                "url": "https://t.co/H1Gt3MUVE5"
+              }
+            ]
+          }
+        },
+        "id": "1573704119516176384",
+        "is_identity_verified": false,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2100094680210055585",
+        "name": "草莓泡芙🍀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097264541671542784/gDDAaJwQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100205,
+          "following_count": 2944,
+          "like_count": 8228,
+          "listed_count": 206,
+          "media_count": 527,
+          "tweet_count": 5217
+        },
+        "url": "https://t.co/H1Gt3MUVE5",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

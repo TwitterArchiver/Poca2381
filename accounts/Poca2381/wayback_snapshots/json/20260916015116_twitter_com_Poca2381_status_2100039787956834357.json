@@ -1,0 +1,628 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099705554310717440",
+        "3_2099705637668347904"
+      ],
+      "media_source_tweet_id": [
+        "2099705718555430962",
+        "2099705718555430962"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "2100039787956834357",
+    "created_at": "2026-09-16T01:51:16.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100039787956834357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282893311573766145",
+          "start": 3,
+          "username": "9moX20076"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lV7hiNizQz",
+          "end": 63,
+          "expanded_url": "https://x.com/9moX20076/status/2099705718555430962/photo/1",
+          "media_key": "3_2099705554310717440",
+          "start": 40,
+          "url": "https://t.co/lV7hiNizQz"
+        },
+        {
+          "display_url": "pic.x.com/lV7hiNizQz",
+          "end": 63,
+          "expanded_url": "https://x.com/9moX20076/status/2099705718555430962/photo/1",
+          "media_key": "3_2099705637668347904",
+          "start": 40,
+          "url": "https://t.co/lV7hiNizQz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100039787956834357",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099705554310717440"
+      },
+      {
+        "media_key": "3_2099705637668347904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099705718555430962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9moX20076: 中国鉄道の謎\n\n5V1Aなのに10W出てるポート https://t.co/lV7hiNizQz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2099705554310717440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOnE7Ga4AAEZd9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099705637668347904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOnJxobYAAddfi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099705554310717440",
+            "3_2099705637668347904"
+          ],
+          "media_source_tweet_id": [
+            "2099705718555430962",
+            "2099705718555430962"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2100039787956834357",
+        "created_at": "2026-09-16T01:51:16.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100039787956834357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282893311573766145",
+              "start": 3,
+              "username": "9moX20076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lV7hiNizQz",
+              "end": 63,
+              "expanded_url": "https://x.com/9moX20076/status/2099705718555430962/photo/1",
+              "media_key": "3_2099705554310717440",
+              "start": 40,
+              "url": "https://t.co/lV7hiNizQz"
+            },
+            {
+              "display_url": "pic.x.com/lV7hiNizQz",
+              "end": 63,
+              "expanded_url": "https://x.com/9moX20076/status/2099705718555430962/photo/1",
+              "media_key": "3_2099705637668347904",
+              "start": 40,
+              "url": "https://t.co/lV7hiNizQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100039787956834357",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099705554310717440"
+          },
+          {
+            "media_key": "3_2099705637668347904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099705718555430962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9moX20076: 中国鉄道の謎\n\n5V1Aなのに10W出てるポート https://t.co/lV7hiNizQz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099705554310717440",
+            "3_2099705637668347904"
+          ]
+        },
+        "author_id": "1282893311573766145",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2099705718555430962",
+        "created_at": "2026-09-15T03:43:48.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099705718555430962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lV7hiNizQz",
+              "end": 48,
+              "expanded_url": "https://x.com/9moX20076/status/2099705718555430962/photo/1",
+              "media_key": "3_2099705554310717440",
+              "start": 25,
+              "url": "https://t.co/lV7hiNizQz"
+            },
+            {
+              "display_url": "pic.x.com/lV7hiNizQz",
+              "end": 48,
+              "expanded_url": "https://x.com/9moX20076/status/2099705718555430962/photo/1",
+              "media_key": "3_2099705637668347904",
+              "start": 25,
+              "url": "https://t.co/lV7hiNizQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099705718555430962",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099705554310717440"
+          },
+          {
+            "media_key": "3_2099705637668347904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 151551,
+          "like_count": 1394,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "中国鉄道の謎\n\n5V1Aなのに10W出てるポート https://t.co/lV7hiNizQz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2100039787956834357",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25475,
+          "following_count": 11274,
+          "like_count": 157214,
+          "listed_count": 55,
+          "media_count": 6952,
+          "tweet_count": 60700
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-14T04:23:07.000Z",
+        "description": "東京で爆誕した日中ハーフ/関西某無名大学在学中/🇯🇵JLPT N1/🇨🇳HSK 6級/Python/サブ→@X_CNJP\n趣味は旅行とガジェットだけど結構いろいろかじってる",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "X_CNJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinketu.com",
+                "end": 23,
+                "expanded_url": "http://kinketu.com",
+                "start": 0,
+                "url": "https://t.co/fDaBBVNXdz"
+              }
+            ]
+          }
+        },
+        "id": "1282893311573766145",
+        "is_identity_verified": false,
+        "location": "イワシ　むれで　いきる　さかな\n",
+        "most_recent_tweet_id": "2100032293431804245",
+        "name": "Kia",
+        "pinned_tweet_id": "1958453872277717471",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282893311573766145/1737174338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884466026773180416/T92tL03V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6966,
+          "following_count": 7109,
+          "like_count": 110678,
+          "listed_count": 33,
+          "media_count": 12861,
+          "tweet_count": 100205
+        },
+        "url": "https://t.co/fDaBBVNXdz",
+        "username": "9moX20076",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

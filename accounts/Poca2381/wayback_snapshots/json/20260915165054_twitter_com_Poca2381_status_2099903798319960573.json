@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097947101913305088",
+        "3_2097947101946900480"
+      ],
+      "media_source_tweet_id": [
+        "2097947112441098329",
+        "2097947112441098329"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099903798319960573",
+    "created_at": "2026-09-15T16:50:54.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099903798319960573"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 52,
+          "tag": "PaletteRing11"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "PR11"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "同人展"
+        },
+        {
+          "end": 87,
+          "start": 78,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343812869335347200",
+          "start": 3,
+          "username": "TinaAslan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dbO9DIfDro",
+          "end": 117,
+          "expanded_url": "https://x.com/TinaAslan/status/2097947112441098329/photo/1",
+          "media_key": "3_2097947101913305088",
+          "start": 94,
+          "url": "https://t.co/dbO9DIfDro"
+        },
+        {
+          "display_url": "pic.x.com/dbO9DIfDro",
+          "end": 117,
+          "expanded_url": "https://x.com/TinaAslan/status/2097947112441098329/photo/1",
+          "media_key": "3_2097947101946900480",
+          "start": 94,
+          "url": "https://t.co/dbO9DIfDro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099903798319960573",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097947101913305088"
+      },
+      {
+        "media_key": "3_2097947101946900480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097947112441098329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TinaAslan: 下星期六日有攤哦，但諗緊出唔出新海報或者明信片？\n但應該冇乜人會買吧🥲\n\n#PaletteRing11 #PR11 #同人展 #kigurumi #着ぐるみ https://t.co/dbO9DIfDro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2033,
+        "media_key": "3_2097947101913305088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1nxhcaUAAeZ5k.jpg",
+        "width": 1626
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2097947101946900480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1nxhka8AADKjU.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097947101913305088",
+            "3_2097947101946900480"
+          ],
+          "media_source_tweet_id": [
+            "2097947112441098329",
+            "2097947112441098329"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099903798319960573",
+        "created_at": "2026-09-15T16:50:54.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099903798319960573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 52,
+              "tag": "PaletteRing11"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "PR11"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "同人展"
+            },
+            {
+              "end": 87,
+              "start": 78,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343812869335347200",
+              "start": 3,
+              "username": "TinaAslan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbO9DIfDro",
+              "end": 117,
+              "expanded_url": "https://x.com/TinaAslan/status/2097947112441098329/photo/1",
+              "media_key": "3_2097947101913305088",
+              "start": 94,
+              "url": "https://t.co/dbO9DIfDro"
+            },
+            {
+              "display_url": "pic.x.com/dbO9DIfDro",
+              "end": 117,
+              "expanded_url": "https://x.com/TinaAslan/status/2097947112441098329/photo/1",
+              "media_key": "3_2097947101946900480",
+              "start": 94,
+              "url": "https://t.co/dbO9DIfDro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099903798319960573",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097947101913305088"
+          },
+          {
+            "media_key": "3_2097947101946900480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097947112441098329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TinaAslan: 下星期六日有攤哦，但諗緊出唔出新海報或者明信片？\n但應該冇乜人會買吧🥲\n\n#PaletteRing11 #PR11 #同人展 #kigurumi #着ぐるみ https://t.co/dbO9DIfDro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097947101913305088",
+            "3_2097947101946900480"
+          ]
+        },
+        "author_id": "1343812869335347200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097947112441098329",
+        "created_at": "2026-09-10T07:15:44.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097947112441098329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 37,
+              "tag": "PaletteRing11"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "PR11"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "同人展"
+            },
+            {
+              "end": 72,
+              "start": 63,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbO9DIfDro",
+              "end": 102,
+              "expanded_url": "https://x.com/TinaAslan/status/2097947112441098329/photo/1",
+              "media_key": "3_2097947101913305088",
+              "start": 79,
+              "url": "https://t.co/dbO9DIfDro"
+            },
+            {
+              "display_url": "pic.x.com/dbO9DIfDro",
+              "end": 102,
+              "expanded_url": "https://x.com/TinaAslan/status/2097947112441098329/photo/1",
+              "media_key": "3_2097947101946900480",
+              "start": 79,
+              "url": "https://t.co/dbO9DIfDro"
+            },
+            {
+              "display_url": "x.com/paletteringhk/…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/paletteringhk/status/2096977550161625098",
+              "start": 103,
+              "url": "https://t.co/4DDHzxT2HG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097947112441098329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097947101913305088"
+          },
+          {
+            "media_key": "3_2097947101946900480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3009,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096977550161625098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下星期六日有攤哦，但諗緊出唔出新海報或者明信片？\n但應該冇乜人會買吧🥲\n\n#PaletteRing11 #PR11 #同人展 #kigurumi #着ぐるみ https://t.co/dbO9DIfDro https://t.co/4DDHzxT2HG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2099903798319960573",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25466,
+          "following_count": 11240,
+          "like_count": 157077,
+          "listed_count": 53,
+          "media_count": 6933,
+          "tweet_count": 60521
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-29T06:56:18.000Z",
+        "description": "香港人 Hong Kong\"er\" | Kigurumi Player | 中文/English | 事故系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tinaaslan?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@tinaaslan?si=awcR4zEy69RYMbAT",
+                "start": 0,
+                "url": "https://t.co/SKkGenHkDd"
+              }
+            ]
+          }
+        },
+        "id": "1343812869335347200",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2099879399957188739",
+        "name": "Tina Aslan （水姐）",
+        "pinned_tweet_id": "2082408486097535486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343812869335347200/1764140339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421365725898231810/019D1wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9611,
+          "following_count": 2415,
+          "like_count": 90163,
+          "listed_count": 51,
+          "media_count": 1655,
+          "tweet_count": 32205
+        },
+        "url": "https://t.co/SKkGenHkDd",
+        "username": "TinaAslan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

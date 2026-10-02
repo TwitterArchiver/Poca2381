@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2098101429055697357",
+    "created_at": "2026-09-11T11:20:10.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098371015655276760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1718855302924439552",
+          "start": 0,
+          "username": "meomeo3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098371015655276760",
+    "in_reply_to_user_id": "1718855302924439552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098101429055697357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meomeo3i 🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21955,
+        "height": 1280,
+        "media_key": "13_2098101394800869376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098101394800869376/img/zdFAX-k3b5L-woC6.jpg",
+        "public_metrics": {
+          "view_count": 759
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098101394800869376/vid/avc1/320x568/hmO9ZVzIMzEKnnrS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098101394800869376/vid/avc1/480x852/3xbwyy76N7JMVSwl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098101394800869376/vid/avc1/720x1280/AdVVej_rf_2TVOHz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098101394800869376/pl/PFK3JJj3OHHjagG_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2098101429055697357",
+        "created_at": "2026-09-11T11:20:10.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098371015655276760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1718855302924439552",
+              "start": 0,
+              "username": "meomeo3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098371015655276760",
+        "in_reply_to_user_id": "1718855302924439552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098101429055697357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meomeo3i 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098101394800869376"
+          ]
+        },
+        "author_id": "1718855302924439552",
+        "conversation_id": "2098101429055697357",
+        "created_at": "2026-09-10T17:28:56.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098101429055697357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNOCSO3SMX",
+              "end": 169,
+              "expanded_url": "https://x.com/meomeo3i/status/2098101429055697357/video/1",
+              "media_key": "13_2098101394800869376",
+              "start": 146,
+              "url": "https://t.co/mNOCSO3SMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098101429055697357",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098101394800869376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 1955,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "「誰?!」\n伊格塞斯敏銳地察覺到有人正在監視他\n「哎呀 果然還是瞞不過尊貴的魔神大人啊」\n標準的小丑服飾和紅鼻子 頭髮灰白並意外地整潔亮麗\n「喔? 觀看了余的戰鬥 嚇得只能恭敬地求饒嗎 方才的魔物就是你的傑作吧!」\n男仕一臉難堪\n「鄙人只是受上司吩咐前來為大人送上一件禮物」\n說着遞出震動棒 https://t.co/mNOCSO3SMX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2098371015655276760",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25116,
+          "following_count": 11133,
+          "like_count": 156790,
+          "listed_count": 53,
+          "media_count": 6802,
+          "tweet_count": 59848
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-30T05:00:25.000Z",
+        "description": "人間體@meomeo4i 是神社巫女喵❤️~ \n上學以外會接接參拜客委託 暗地裡化身正義英雄保護城市 置https://t.co/gmyhsGaVXB\nPatreon: https://t.co/zBovkTr9Jb\n中文/Eng\n#男の娘 #败北 #着ぐるみ #kigurume #NSFW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "男の娘"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "败北"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "着ぐるみ"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "tag": "kigurume"
+              },
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "NSFW"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "meomeo4i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fansly.com/meomeo3i/",
+                "end": 75,
+                "expanded_url": "https://fansly.com/meomeo3i/",
+                "start": 52,
+                "url": "https://t.co/gmyhsGaVXB"
+              },
+              {
+                "display_url": "patreon.com/cw/meomeo3i",
+                "end": 108,
+                "expanded_url": "http://patreon.com/cw/meomeo3i",
+                "start": 85,
+                "url": "https://t.co/zBovkTr9Jb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/3YJuk9DM6A",
+                "end": 23,
+                "expanded_url": "https://discord.gg/3YJuk9DM6A",
+                "start": 0,
+                "url": "https://t.co/JtrcBeC3oQ"
+              }
+            ]
+          }
+        },
+        "id": "1718855302924439552",
+        "is_identity_verified": false,
+        "location": "貓町市 貓町神社",
+        "most_recent_tweet_id": "2098101429055697357",
+        "name": "光之戰姬 喵喵",
+        "pinned_tweet_id": "1967103263158968785",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718855302924439552/1743957802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968503602357653504/KCgJ6Qqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8335,
+          "following_count": 171,
+          "like_count": 2203,
+          "listed_count": 41,
+          "media_count": 457,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/JtrcBeC3oQ",
+        "username": "meomeo3i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

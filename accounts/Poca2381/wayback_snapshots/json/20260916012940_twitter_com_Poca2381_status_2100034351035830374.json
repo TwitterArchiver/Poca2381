@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099954796455477248",
+        "3_2099954796434460672"
+      ],
+      "media_source_tweet_id": [
+        "2099954803992637594",
+        "2099954803992637594"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2100034351035830374",
+    "created_at": "2026-09-16T01:29:40.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100034351035830374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733963032160854016",
+          "start": 3,
+          "username": "DARKSTUDIOHK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Q6aEeMyMx",
+          "end": 44,
+          "expanded_url": "https://x.com/DARKSTUDIOHK/status/2099954803992637594/photo/1",
+          "media_key": "3_2099954796455477248",
+          "start": 21,
+          "url": "https://t.co/7Q6aEeMyMx"
+        },
+        {
+          "display_url": "pic.x.com/7Q6aEeMyMx",
+          "end": 44,
+          "expanded_url": "https://x.com/DARKSTUDIOHK/status/2099954803992637594/photo/1",
+          "media_key": "3_2099954796434460672",
+          "start": 21,
+          "url": "https://t.co/7Q6aEeMyMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100034351035830374",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2099954796455477248"
+      },
+      {
+        "media_key": "3_2099954796434460672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099954803992637594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DARKSTUDIOHK: 👍🏼 https://t.co/7Q6aEeMyMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099954796455477248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSJwucbQAAEGPt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099954796434460672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSJwuXakAAYNnZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099954796455477248",
+            "3_2099954796434460672"
+          ],
+          "media_source_tweet_id": [
+            "2099954803992637594",
+            "2099954803992637594"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2100034351035830374",
+        "created_at": "2026-09-16T01:29:40.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100034351035830374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733963032160854016",
+              "start": 3,
+              "username": "DARKSTUDIOHK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Q6aEeMyMx",
+              "end": 44,
+              "expanded_url": "https://x.com/DARKSTUDIOHK/status/2099954803992637594/photo/1",
+              "media_key": "3_2099954796455477248",
+              "start": 21,
+              "url": "https://t.co/7Q6aEeMyMx"
+            },
+            {
+              "display_url": "pic.x.com/7Q6aEeMyMx",
+              "end": 44,
+              "expanded_url": "https://x.com/DARKSTUDIOHK/status/2099954803992637594/photo/1",
+              "media_key": "3_2099954796434460672",
+              "start": 21,
+              "url": "https://t.co/7Q6aEeMyMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100034351035830374",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099954796455477248"
+          },
+          {
+            "media_key": "3_2099954796434460672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099954803992637594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DARKSTUDIOHK: 👍🏼 https://t.co/7Q6aEeMyMx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099954796455477248",
+            "3_2099954796434460672"
+          ]
+        },
+        "author_id": "1733963032160854016",
+        "conversation_id": "2099954803992637594",
+        "created_at": "2026-09-15T20:13:35.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099954803992637594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Q6aEeMyMx",
+              "end": 26,
+              "expanded_url": "https://x.com/DARKSTUDIOHK/status/2099954803992637594/photo/1",
+              "media_key": "3_2099954796455477248",
+              "start": 3,
+              "url": "https://t.co/7Q6aEeMyMx"
+            },
+            {
+              "display_url": "pic.x.com/7Q6aEeMyMx",
+              "end": 26,
+              "expanded_url": "https://x.com/DARKSTUDIOHK/status/2099954803992637594/photo/1",
+              "media_key": "3_2099954796434460672",
+              "start": 3,
+              "url": "https://t.co/7Q6aEeMyMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099954803992637594",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099954796455477248"
+          },
+          {
+            "media_key": "3_2099954796434460672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 943,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "👍🏼 https://t.co/7Q6aEeMyMx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2100034366684660185",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25475,
+          "following_count": 11269,
+          "like_count": 157169,
+          "listed_count": 55,
+          "media_count": 6947,
+          "tweet_count": 60648
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T21:33:14.000Z",
+        "description": "DEAD",
+        "id": "1733963032160854016",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2099954803992637594",
+        "name": "K.S.",
+        "pinned_tweet_id": "2088182380326772812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733963032160854016/1786724450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094749170951491584/O3I44lH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 357,
+          "like_count": 1857,
+          "listed_count": 19,
+          "media_count": 202,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "DARKSTUDIOHK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

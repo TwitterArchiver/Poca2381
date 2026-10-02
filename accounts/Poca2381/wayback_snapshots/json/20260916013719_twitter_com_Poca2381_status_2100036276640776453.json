@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099982324255322112"
+      ],
+      "media_source_tweet_id": [
+        "2099983395996463483"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "2100036276640776453",
+    "created_at": "2026-09-16T01:37:19.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100036276640776453"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 64,
+          "start": 47,
+          "tag": "ZenlessZoneZero‌"
+        },
+        {
+          "end": 74,
+          "start": 65,
+          "tag": "BelleZZZ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720406434955849728",
+          "start": 3,
+          "username": "Karly_Lilia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xtDm3zUHZd",
+          "end": 98,
+          "expanded_url": "https://x.com/Karly_Lilia/status/2099983395996463483/photo/1",
+          "media_key": "3_2099982324255322112",
+          "start": 75,
+          "url": "https://t.co/xtDm3zUHZd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100036276640776453",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099982324255322112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099983395996463483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Karly_Lilia: 秋日暖阳，和铃妹宝宝www\n#kigurumi #着ぐるみ #ZenlessZoneZero‌ #BelleZZZ https://t.co/xtDm3zUHZd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099982324255322112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSizDfWcAAVUDA.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099982324255322112"
+          ],
+          "media_source_tweet_id": [
+            "2099983395996463483"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2100036276640776453",
+        "created_at": "2026-09-16T01:37:19.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100036276640776453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 64,
+              "start": 47,
+              "tag": "ZenlessZoneZero‌"
+            },
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "BelleZZZ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720406434955849728",
+              "start": 3,
+              "username": "Karly_Lilia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtDm3zUHZd",
+              "end": 98,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2099983395996463483/photo/1",
+              "media_key": "3_2099982324255322112",
+              "start": 75,
+              "url": "https://t.co/xtDm3zUHZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100036276640776453",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099982324255322112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099983395996463483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Karly_Lilia: 秋日暖阳，和铃妹宝宝www\n#kigurumi #着ぐるみ #ZenlessZoneZero‌ #BelleZZZ https://t.co/xtDm3zUHZd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099982324255322112"
+          ]
+        },
+        "author_id": "1720406434955849728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2099983395996463483",
+        "created_at": "2026-09-15T22:07:12.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099983395996463483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 47,
+              "start": 30,
+              "tag": "ZenlessZoneZero‌"
+            },
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "BelleZZZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtDm3zUHZd",
+              "end": 81,
+              "expanded_url": "https://x.com/Karly_Lilia/status/2099983395996463483/photo/1",
+              "media_key": "3_2099982324255322112",
+              "start": 58,
+              "url": "https://t.co/xtDm3zUHZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099983395996463483",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099982324255322112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 489,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "秋日暖阳，和铃妹宝宝www\n#kigurumi #着ぐるみ #ZenlessZoneZero‌ #BelleZZZ https://t.co/xtDm3zUHZd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2100036276640776453",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25475,
+          "following_count": 11269,
+          "like_count": 157173,
+          "listed_count": 55,
+          "media_count": 6949,
+          "tweet_count": 60654
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-03T11:44:01.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️✨\nA kiger, a cosplayer~\n\nFor my coding account: @Lilia_Chen_exe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "Lilia_Chen_exe"
+              }
+            ]
+          }
+        },
+        "id": "1720406434955849728",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2099983981760434555",
+        "name": "咔帕噗狸狸亚",
+        "pinned_tweet_id": "1907136205759668322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720406434955849728/1767606248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006020627237576705/NYgQbSM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5418,
+          "following_count": 985,
+          "like_count": 13782,
+          "listed_count": 33,
+          "media_count": 821,
+          "tweet_count": 2037
+        },
+        "url": "",
+        "username": "Karly_Lilia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

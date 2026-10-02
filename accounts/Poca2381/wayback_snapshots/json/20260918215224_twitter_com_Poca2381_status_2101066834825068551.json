@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100782455280283648"
+      ],
+      "media_source_tweet_id": [
+        "2100782502264885323"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "conversation_id": "2101066834825068551",
+    "created_at": "2026-09-18T21:52:24.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T22:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101066834825068551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343812869335347200",
+          "start": 3,
+          "username": "TinaAslan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ZOq3CvNoI",
+          "end": 50,
+          "expanded_url": "https://x.com/TinaAslan/status/2100782502264885323/video/1",
+          "media_key": "13_2100782455280283648",
+          "start": 27,
+          "url": "https://t.co/0ZOq3CvNoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101066834825068551",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2100782455280283648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100782502264885323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TinaAslan: 地震，一定係地震🫨🫨🫨 https://t.co/0ZOq3CvNoI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13458,
+        "height": 1280,
+        "media_key": "13_2100782455280283648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100782455280283648/img/vZD21GSQKMYXUmZS.jpg",
+        "public_metrics": {
+          "view_count": 2395
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100782455280283648/vid/avc1/320x568/DxNdY3HzEx3Esgir.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100782455280283648/vid/avc1/480x852/s6oNJjto6Mn-ofvj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100782455280283648/vid/avc1/720x1280/pBWE7iofX3N-_brB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100782455280283648/pl/Bw5XbkvhXrXS2X1H.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100782455280283648"
+          ],
+          "media_source_tweet_id": [
+            "2100782502264885323"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2101066834825068551",
+        "created_at": "2026-09-18T21:52:24.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101066834825068551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343812869335347200",
+              "start": 3,
+              "username": "TinaAslan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZOq3CvNoI",
+              "end": 50,
+              "expanded_url": "https://x.com/TinaAslan/status/2100782502264885323/video/1",
+              "media_key": "13_2100782455280283648",
+              "start": 27,
+              "url": "https://t.co/0ZOq3CvNoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101066834825068551",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100782455280283648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100782502264885323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TinaAslan: 地震，一定係地震🫨🫨🫨 https://t.co/0ZOq3CvNoI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100782455280283648"
+          ]
+        },
+        "author_id": "1343812869335347200",
+        "conversation_id": "2100782502264885323",
+        "created_at": "2026-09-18T03:02:33.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100782502264885323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZOq3CvNoI",
+              "end": 35,
+              "expanded_url": "https://x.com/TinaAslan/status/2100782502264885323/video/1",
+              "media_key": "13_2100782455280283648",
+              "start": 12,
+              "url": "https://t.co/0ZOq3CvNoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100782502264885323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100782455280283648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 4859,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "地震，一定係地震🫨🫨🫨 https://t.co/0ZOq3CvNoI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101066842299384077",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25624,
+          "following_count": 11333,
+          "like_count": 157294,
+          "listed_count": 55,
+          "media_count": 7018,
+          "tweet_count": 60942
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-29T06:56:18.000Z",
+        "description": "香港 Kigurumi \n香港人 Hong Kong\"er\" | Kigurumi Player | 中文/English | 事故系 \n#HKKiger",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "HKKiger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tinaaslan?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@tinaaslan?si=awcR4zEy69RYMbAT",
+                "start": 0,
+                "url": "https://t.co/SKkGenHkDd"
+              }
+            ]
+          }
+        },
+        "id": "1343812869335347200",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2100957179083948466",
+        "name": "Tina Aslan （水姐）",
+        "pinned_tweet_id": "2082408486097535486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343812869335347200/1764140339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421365725898231810/019D1wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9631,
+          "following_count": 2417,
+          "like_count": 90283,
+          "listed_count": 51,
+          "media_count": 1660,
+          "tweet_count": 32250
+        },
+        "url": "https://t.co/SKkGenHkDd",
+        "username": "TinaAslan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2102600443318915111",
+    "created_at": "2026-09-23T15:52:05.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102788098707071196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102788098707071196",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102600443318915111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 羡慕广州"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102600428332666880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3v8xNaUAAoApD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2102600443318915111",
+        "created_at": "2026-09-23T15:52:05.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102788098707071196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102788098707071196",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102600443318915111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 羡慕广州"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102600428332666880"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2102600443318915111",
+        "created_at": "2026-09-23T03:26:24.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102600443318915111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuS0YjYASz",
+              "end": 29,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2102600443318915111/photo/1",
+              "media_key": "3_2102600428332666880",
+              "start": 6,
+              "url": "https://t.co/DuS0YjYASz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102600443318915111",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102600428332666880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2445,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "咪在广州… https://t.co/DuS0YjYASz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2102788098707071196",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25771,
+          "following_count": 11410,
+          "like_count": 157539,
+          "listed_count": 53,
+          "media_count": 7113,
+          "tweet_count": 61398
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|想睡覺|\n好姐姐 @HappyHejsDay | 對象 @shixveriya 🥰 |我的妹妹 @shiyaoshiwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "shixveriya"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "shiyaoshiwo"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "is_identity_verified": false,
+        "location": "Palmdale, California, USA",
+        "most_recent_tweet_id": "2102633913533468904",
+        "name": "happiness🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980236829455511552/1772609453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2819,
+          "following_count": 1518,
+          "like_count": 6658,
+          "listed_count": 7,
+          "media_count": 481,
+          "tweet_count": 4997
+        },
+        "url": "",
+        "username": "PaulDrizzyvlni",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

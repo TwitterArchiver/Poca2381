@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1280001743162609664",
+    "conversation_id": "2066887224550101161",
+    "created_at": "2026-09-19T19:22:12.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T20:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101391424965276138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378330841474945029",
+          "start": 0,
+          "username": "WorldSovietU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101391424965276138",
+    "in_reply_to_user_id": "1378330841474945029",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066887224550101161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorldSovietU 🥲🥲🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066887224550101161].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066887224550101161",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2066887224550101161"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066887224550101161",
+        "created_at": "2026-09-19T19:22:12.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T20:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101391424965276138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378330841474945029",
+              "start": 0,
+              "username": "WorldSovietU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101391424965276138",
+        "in_reply_to_user_id": "1378330841474945029",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066887224550101161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorldSovietU 🥲🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101391424965276138",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25635,
+          "following_count": 11359,
+          "like_count": 157402,
+          "listed_count": 55,
+          "media_count": 7032,
+          "tweet_count": 61079
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T12:57:46.000Z",
+        "description": "fo请私信，抱歉/人比较憨\\团员\\大学生\\\\画画练习中/日常一点/偶尔会整活/摄影只会用📱的屑/负能量接收器/努力提高资式水平/师姐@JISENMEIKONG/师弟@yujiang233/师傅@JieSe_and_ghs /我们不光善于毁灭一个旧世界，更善于创造一个新世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "JISENMEIKONG"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "yujiang233"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "JieSe_and_ghs"
+              }
+            ]
+          }
+        },
+        "id": "1378330841474945029",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2091392563576205656",
+        "name": "28个半（无相卍）",
+        "pinned_tweet_id": "1466763436617256962",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378330841474945029/1623172487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658493457739165701/EM1edUHe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 608,
+          "like_count": 67273,
+          "listed_count": 14,
+          "media_count": 2676,
+          "tweet_count": 20060
+        },
+        "url": "",
+        "username": "WorldSovietU",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

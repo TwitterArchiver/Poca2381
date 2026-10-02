@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097968724284420096",
+        "3_2097968724288622592",
+        "3_2097968724343160832",
+        "3_2097968724280246273"
+      ]
+    },
+    "author_id": "1280001743162609664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097968672048652773",
+    "created_at": "2026-09-10T08:41:39.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097968735135186989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Uz48XXcXQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+          "media_key": "3_2097968724284420096",
+          "start": 0,
+          "url": "https://t.co/5Uz48XXcXQ"
+        },
+        {
+          "display_url": "pic.x.com/5Uz48XXcXQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+          "media_key": "3_2097968724288622592",
+          "start": 0,
+          "url": "https://t.co/5Uz48XXcXQ"
+        },
+        {
+          "display_url": "pic.x.com/5Uz48XXcXQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+          "media_key": "3_2097968724343160832",
+          "start": 0,
+          "url": "https://t.co/5Uz48XXcXQ"
+        },
+        {
+          "display_url": "pic.x.com/5Uz48XXcXQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+          "media_key": "3_2097968724280246273",
+          "start": 0,
+          "url": "https://t.co/5Uz48XXcXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097968735135186989",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2097968724284420096"
+      },
+      {
+        "media_key": "3_2097968724288622592"
+      },
+      {
+        "media_key": "3_2097968724343160832"
+      },
+      {
+        "media_key": "3_2097968724280246273"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097968717972009109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/5Uz48XXcXQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097968724284420096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17cHDaMAAAAZp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097968724288622592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17cHEaUAAncsC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097968724343160832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17cHRagAAouEV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097968724280246273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17cHCagAENUgg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097968706261504000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17bD6aUAAytAm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097968706265776128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17bD7bgAAz6RJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097968706194427904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17bDqa0AABX6o.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2097968706253123585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR17bD4acAEUsZ3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097968724284420096",
+            "3_2097968724288622592",
+            "3_2097968724343160832",
+            "3_2097968724280246273"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097968672048652773",
+        "created_at": "2026-09-10T08:41:39.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097968735135186989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Uz48XXcXQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+              "media_key": "3_2097968724284420096",
+              "start": 0,
+              "url": "https://t.co/5Uz48XXcXQ"
+            },
+            {
+              "display_url": "pic.x.com/5Uz48XXcXQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+              "media_key": "3_2097968724288622592",
+              "start": 0,
+              "url": "https://t.co/5Uz48XXcXQ"
+            },
+            {
+              "display_url": "pic.x.com/5Uz48XXcXQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+              "media_key": "3_2097968724343160832",
+              "start": 0,
+              "url": "https://t.co/5Uz48XXcXQ"
+            },
+            {
+              "display_url": "pic.x.com/5Uz48XXcXQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968735135186989/photo/1",
+              "media_key": "3_2097968724280246273",
+              "start": 0,
+              "url": "https://t.co/5Uz48XXcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097968735135186989",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097968724284420096"
+          },
+          {
+            "media_key": "3_2097968724288622592"
+          },
+          {
+            "media_key": "3_2097968724343160832"
+          },
+          {
+            "media_key": "3_2097968724280246273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097968717972009109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/5Uz48XXcXQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097968706261504000",
+            "3_2097968706265776128",
+            "3_2097968706194427904",
+            "3_2097968706253123585"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097968672048652773",
+        "created_at": "2026-09-10T08:41:35.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097968717972009109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPB2RjhgYJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968717972009109/photo/1",
+              "media_key": "3_2097968706261504000",
+              "start": 0,
+              "url": "https://t.co/wPB2RjhgYJ"
+            },
+            {
+              "display_url": "pic.x.com/wPB2RjhgYJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968717972009109/photo/1",
+              "media_key": "3_2097968706265776128",
+              "start": 0,
+              "url": "https://t.co/wPB2RjhgYJ"
+            },
+            {
+              "display_url": "pic.x.com/wPB2RjhgYJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968717972009109/photo/1",
+              "media_key": "3_2097968706194427904",
+              "start": 0,
+              "url": "https://t.co/wPB2RjhgYJ"
+            },
+            {
+              "display_url": "pic.x.com/wPB2RjhgYJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Poca2381/status/2097968717972009109/photo/1",
+              "media_key": "3_2097968706253123585",
+              "start": 0,
+              "url": "https://t.co/wPB2RjhgYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097968717972009109",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097968706261504000"
+          },
+          {
+            "media_key": "3_2097968706265776128"
+          },
+          {
+            "media_key": "3_2097968706194427904"
+          },
+          {
+            "media_key": "3_2097968706253123585"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097968700586623184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/wPB2RjhgYJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Xinpu, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  119.15944,
+                  34.59972
+                ],
+                "type": "Point"
+              },
+              "locality": "Xinpu",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2097968735135186989",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25049,
+          "following_count": 11094,
+          "like_count": 156723,
+          "listed_count": 53,
+          "media_count": 6773,
+          "tweet_count": 59700
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
